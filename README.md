@@ -37,21 +37,11 @@ git clone https://github.com/kullaniciadi/oabt_project.git
 cd oabt_project
 ```
 
-### 2. Backend ve Veritabanını Başlatın (Docker)
+### 2. Uygulamayı Başlatın (Backend Deploy Edildiyse)
 
-Backend servisi ve PostgreSQL veritabanını tek komutla ayağa kaldırmak için proje ana dizininde şu komutu çalıştırın:
+Eğer Backend sunucusu Render üzerinde zaten çalışıyorsa (canlıdaysa), yerel bilgisayarınızda ayrıca bir Backend çalıştırmanıza **gerek yoktur**.
 
-```bash
-docker-compose up --build
-```
-
-Bu işlem tamamlandığında:
-*   **Backend:** `http://localhost:8080` adresinde çalışıyor olacaktır.
-*   **Veritabanı:** Otomatik olarak oluşturulacak ve örnek verilerle (seed data) doldurulacaktır.
-
-### 3. Frontend Uygulamasını Başlatın
-
-Yeni bir terminal penceresi açın ve `frontend` klasörüne gidin:
+Doğrudan Frontend klasörüne gidip uygulamayı başlatabilirsiniz:
 
 ```bash
 cd frontend

@@ -1,560 +1,145 @@
+import 'react-native-gesture-handler';
 import { StatusBar } from 'expo-status-bar';
-import { useEffect, useState } from 'react';
-import { StyleSheet, Text, View, ActivityIndicator, TouchableOpacity, Dimensions, SafeAreaView, Platform } from 'react-native';
-import { Ionicons } from '@expo/vector-icons';
+import React, { useEffect, useState } from 'react';
+import { View, ActivityIndicator } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
-// import Slider from '@react-native-community/slider'; // Reverting slider usage
+import { NavigationContainer } from '@react-navigation/native';
+import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
+import { createStackNavigator } from '@react-navigation/stack';
+import { Ionicons } from '@expo/vector-icons';
+import { SafeAreaProvider } from 'react-native-safe-area-context';
 
-// Colors
+// Screens
+import DashboardScreen from './src/screens/DashboardScreen';
+import TestListScreen from './src/screens/TestListScreen';
+import TestScreen from './src/screens/TestScreen';
+import ProfileScreen from './src/screens/ProfileScreen';
+import OnboardingScreen from './src/screens/OnboardingScreen';
+
+// Navigators
+const Tab = createBottomTabNavigator();
+const Stack = createStackNavigator();
+
 const COLORS = {
-  primary: '#FF6B6B',    // Coral Red
-  secondary: '#4ECDC4',  // Teal
-  accent: '#FFE66D',     // Yellow
-  background: '#F7F9FC', // Light Blue-Grey
-  text: '#2C3E50',       // Dark Blue-Grey
-  white: '#FFFFFF',
-  success: '#2ECC71',
-  error: '#E74C3C',
-  disabled: '#BDC3C7',
-  timer: '#34495E',
+  primary: '#FF6B6B',
+  secondary: '#4ECDC4',
 };
 
-// Configuration
-const EXAM_DURATION_MINUTES = 1; // Change this value to set exam duration (e.g., 0.5 for 30 seconds)
-
-interface Question {
-  id: number;
-  text: string;
-  options: string[];
-  correct_answer: string;
-}
-
-export default function App() {
-  const [questions, setQuestions] = useState<Question[]>([]);
-  const [loading, setLoading] = useState(true);
-  const [currentIndex, setCurrentIndex] = useState(0);
-  const [selectedAnswers, setSelectedAnswers] = useState<{ [key: number]: string }>({});
-  const [score, setScore] = useState(0);
-  const [timeLeft, setTimeLeft] = useState<number | null>(null);
-  const [isTimeUp, setIsTimeUp] = useState(false);
-  const [isExamFinished, setIsExamFinished] = useState(false);
-  const [resetKey, setResetKey] = useState(0);
-
-  const shuffleArray = (array: any[]) => {
-    for (let i = array.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [array[i], array[j]] = [array[j], array[i]];
-    }
-    return array;
-  };
-
-  // Timer Logic
-  useEffect(() => {
-    let interval: NodeJS.Timeout;
-
-    const initTimer = async () => {
-      try {
-        const storedEndTime = await AsyncStorage.getItem('TIMER_END_TIME');
-        let endTime = 0;
-
-        if (storedEndTime) {
-          endTime = parseInt(storedEndTime, 10);
-        } else {
-          // Set timer based on configuration
-          endTime = Date.now() + EXAM_DURATION_MINUTES * 60 * 1000;
-          await AsyncStorage.setItem('TIMER_END_TIME', endTime.toString());
-        }
-
-        const updateTimer = () => {
-          const now = Date.now();
-          const remaining = Math.max(0, Math.floor((endTime - now) / 1000));
-          setTimeLeft(remaining);
-          if (remaining === 0) {
-            setIsTimeUp(true);
-            AsyncStorage.removeItem('TIMER_END_TIME');
-            if (interval) clearInterval(interval);
-          }
-        };
-
-        updateTimer(); // Initial call
-        interval = setInterval(updateTimer, 1000);
-      } catch (error) {
-        console.error('Timer initialization error:', error);
-      }
-    };
-
-    initTimer();
-
-    return () => {
-      if (interval) clearInterval(interval);
-    };
-  }, [resetKey]);
-
-  useEffect(() => {
-    // Fallback logic for API URL
-    const envUrl = process.env.EXPO_PUBLIC_API_URL;
-    const defaultUrl = Platform.OS === 'android' ? 'http://10.0.2.2:8080' : 'http://localhost:8080';
-    const baseUrl = envUrl || defaultUrl;
-    const apiUrl = `${baseUrl}/questions`;
-
-    console.log('Fetching from:', apiUrl);
-
-    fetch(apiUrl)
-      .then((response) => response.json())
-      .then((data) => {
-        setQuestions(shuffleArray(data));
-        setLoading(false);
-      })
-      .catch((error) => {
-        console.error('Error fetching questions:', error);
-        setLoading(false);
-      });
-  }, [resetKey]);
-
-  const handleAnswer = (option: string) => {
-    const currentQuestion = questions[currentIndex];
-    // Prevent changing answer if already selected
-    if (selectedAnswers[currentQuestion.id]) return;
-
-    const isCorrect = option === currentQuestion.correct_answer;
-    if (isCorrect) {
-      setScore(score + 2);
-    }
-
-    setSelectedAnswers({
-      ...selectedAnswers,
-      [currentQuestion.id]: option,
-    });
-  };
-
-  const handleNext = () => {
-    if (currentIndex < questions.length - 1) {
-      setCurrentIndex(currentIndex + 1);
-    }
-  };
-
-  const handlePrev = () => {
-    if (currentIndex > 0) {
-      setCurrentIndex(currentIndex - 1);
-    }
-  };
-
-  const getOptionStyle = (option: string) => {
-    const currentQuestion = questions[currentIndex];
-    const selected = selectedAnswers[currentQuestion.id];
-    const isCorrect = option === currentQuestion.correct_answer;
-
-    if (!selected) return styles.optionButton;
-
-    if (option === selected) {
-      return isCorrect
-        ? [styles.optionButton, styles.optionCorrect]
-        : [styles.optionButton, styles.optionWrong];
-    }
-
-    if (selected && isCorrect) {
-      return [styles.optionButton, styles.optionCorrect];
-    }
-
-    return [styles.optionButton, styles.optionDisabled];
-  };
-
-  const formatTime = (seconds: number) => {
-    const mins = Math.floor(seconds / 60);
-    const secs = seconds % 60;
-    return `${mins.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`;
-  };
-
-  const handleFinishExam = () => {
-    setIsExamFinished(true);
-    AsyncStorage.removeItem('TIMER_END_TIME');
-  };
-
-  const handleTryAgain = async () => {
-    setIsTimeUp(false);
-    setIsExamFinished(false);
-    setScore(0);
-    setCurrentIndex(0);
-    setSelectedAnswers({});
-    setQuestions(shuffleArray([...questions]));
-
-    const newEndTime = Date.now() + EXAM_DURATION_MINUTES * 60 * 1000;
-    await AsyncStorage.setItem('TIMER_END_TIME', newEndTime.toString());
-
-    // Force immediate update to prevent flash of 00:00
-    setTimeLeft(EXAM_DURATION_MINUTES * 60);
-
-    // Trigger re-initialization of timer and questions
-    setResetKey(prev => prev + 1);
-  };
-
-  if (loading) {
-    return (
-      <View style={styles.loadingContainer}>
-        <ActivityIndicator size="large" color={COLORS.primary} />
-        <Text style={styles.loadingText}>Sorular Yükleniyor...</Text>
-      </View>
-    );
-  }
-
-  if (isTimeUp || isExamFinished) {
-    const correctCount = Object.keys(selectedAnswers).filter((key) => {
-      const questionId = parseInt(key, 10);
-      const question = questions.find(q => q.id === questionId);
-      return question && selectedAnswers[questionId] === question.correct_answer;
-    }).length;
-
-    const wrongCount = Object.keys(selectedAnswers).length - correctCount;
-    const emptyCount = questions.length - (correctCount + wrongCount);
-
-    return (
-      <SafeAreaView style={[styles.container, styles.centerContent]}>
-        <Text style={styles.timeUpText}>
-          {isTimeUp ? "Süreniz Dolmuştur" : "Sınav Tamamlandı"}
-        </Text>
-        <Text style={styles.finalScoreText}>Puanınız: {score}</Text>
-
-        <View style={styles.statsContainer}>
-          <Text style={[styles.statText, { color: COLORS.success }]}>Doğru Sayısı: {correctCount}</Text>
-          <Text style={[styles.statText, { color: COLORS.error }]}>Yanlış Sayısı: {wrongCount}</Text>
-          <Text style={[styles.statText, { color: COLORS.text }]}>Boş Sayısı: {emptyCount}</Text>
-        </View>
-
-        <TouchableOpacity style={styles.retryButton} onPress={handleTryAgain}>
-          <Text style={styles.retryButtonText}>Tekrar Deneyiniz</Text>
-        </TouchableOpacity>
-      </SafeAreaView>
-    );
-  }
-
-  if (questions.length === 0) {
-    return (
-      <View style={styles.loadingContainer}>
-        <Text style={styles.errorText}>Soru bulunamadı veya sunucuya erişilemiyor.</Text>
-      </View>
-    );
-  }
-
-  const currentQuestion = questions[currentIndex];
-  const progress = ((currentIndex + 1) / questions.length) * 100;
-
+// Main Tab Navigator
+function MainTabs({ onLogout }: { onLogout: () => void }) {
   return (
-    <SafeAreaView style={styles.container}>
-      <StatusBar style="dark" />
+    <Tab.Navigator
+      screenOptions={({ route }) => ({
+        headerShown: false,
+        tabBarActiveTintColor: COLORS.primary,
+        tabBarInactiveTintColor: 'gray',
+        tabBarStyle: {
+          paddingBottom: 5,
+          paddingTop: 5,
+          height: 60,
+        },
+        tabBarIcon: ({ focused, color, size }) => {
+          let iconName: any;
 
-      {/* Header / Progress */}
-      <View style={styles.header}>
-        <View style={styles.topRow}>
-          <View style={styles.timerContainer}>
-            <Ionicons name="time-outline" size={20} color={COLORS.timer} />
-            <Text style={styles.timerText}>
-              {timeLeft !== null ? formatTime(timeLeft) : '--:--'}
-            </Text>
-          </View>
-          <Text style={styles.progressText}>
-            Soru {currentIndex + 1} / {questions.length}
-          </Text>
-        </View>
-        <View style={styles.progressBarContainer}>
-          <TouchableOpacity
-            activeOpacity={1}
-            style={{ flex: 1, justifyContent: 'center' }}
-            onPress={(e) => {
-              const { locationX } = e.nativeEvent;
-              // We need the width of the container. For simplicity, assuming full width minus padding.
-              // A better approach is using onLayout, but let's try a rough estimate or just use the Slider if user insisted on "bar".
-              // User said "tasarımı bozmamalıydın". The old design was a bar.
-              // Let's use a Pressable on the bar container to calculate index.
-              const totalWidth = width - 40; // 20 padding on each side
-              const percentage = locationX / totalWidth;
-              const newIndex = Math.floor(percentage * questions.length);
-              if (newIndex >= 0 && newIndex < questions.length) {
-                setCurrentIndex(newIndex);
-              }
-            }}
-          >
-            <View style={[styles.progressBar, { width: `${progress}%` }]} />
-          </TouchableOpacity>
-        </View>
-      </View>
+          if (route.name === 'Dashboard') {
+            iconName = focused ? 'home' : 'home-outline';
+          } else if (route.name === 'Tests') {
+            iconName = focused ? 'list' : 'list-outline';
+          } else if (route.name === 'Profile') {
+            iconName = focused ? 'person' : 'person-outline';
+          }
 
-      {/* Question Card */}
-      <View style={styles.card}>
-        <View style={styles.questionBadge}>
-          <Text style={styles.questionBadgeText}>SORU {currentIndex + 1}</Text>
-        </View>
-        <Text style={styles.questionText}>{currentQuestion.text}</Text>
-
-        <View style={styles.optionsContainer}>
-          {currentQuestion.options.map((option, index) => (
-            <TouchableOpacity
-              key={index}
-              style={getOptionStyle(option)}
-              onPress={() => handleAnswer(option)}
-              activeOpacity={0.8}
-            >
-              <Text style={styles.optionText}>{option}</Text>
-              {selectedAnswers[currentQuestion.id] === option && (
-                <Ionicons
-                  name={option === currentQuestion.correct_answer ? "checkmark-circle" : "close-circle"}
-                  size={24}
-                  color="white"
-                />
-              )}
-            </TouchableOpacity>
-          ))}
-        </View>
-      </View>
-
-      {/* Navigation */}
-      <View style={styles.footer}>
-        <TouchableOpacity
-          style={[styles.navButton, currentIndex === 0 && styles.navButtonDisabled]}
-          onPress={handlePrev}
-          disabled={currentIndex === 0}
-        >
-          <Ionicons name="arrow-back" size={24} color="white" />
-          <Text style={styles.navButtonText}>Geri</Text>
-        </TouchableOpacity>
-
-        <View style={styles.scoreContainer}>
-          <Text style={styles.scoreLabel}>Puan</Text>
-          <Text style={styles.scoreValue}>{score}</Text>
-        </View>
-
-        {currentIndex === questions.length - 1 ? (
-          <TouchableOpacity
-            style={[styles.navButton, { backgroundColor: COLORS.success }]}
-            onPress={handleFinishExam}
-          >
-            <Text style={styles.navButtonText}>Sınavı Bitir</Text>
-            <Ionicons name="checkmark-circle" size={24} color="white" />
-          </TouchableOpacity>
-        ) : (
-          <TouchableOpacity
-            style={styles.navButton}
-            onPress={handleNext}
-          >
-            <Text style={styles.navButtonText}>İleri</Text>
-            <Ionicons name="arrow-forward" size={24} color="white" />
-          </TouchableOpacity>
-        )}
-      </View>
-    </SafeAreaView >
+          return <Ionicons name={iconName} size={size} color={color} />;
+        },
+      })}
+    >
+      <Tab.Screen
+        name="Dashboard"
+        children={(props) => <DashboardScreen {...props} onLogout={onLogout} />}
+        options={{ title: 'Ana Sayfa' }}
+      />
+      <Tab.Screen name="Tests" component={TestListScreen} options={{ title: 'Testler' }} />
+      <Tab.Screen
+        name="Profile"
+        children={(props) => <ProfileScreen {...props} onLogout={onLogout} />}
+        options={{ title: 'Profil' }}
+      />
+    </Tab.Navigator>
   );
 }
 
-const { width } = Dimensions.get('window');
+// Auth Stack for Onboarding
+function AuthStack({ onLogin }: { onLogin: () => void }) {
+  // We wrap OnboardingScreen to pass onLogin prop via a wrapper or context. 
+  // Simplified: Onboarding saves to storage, then we trigger refresh here.
+  // Actually, simple hack: Pass setAuth as prop to screen? No, React Navigation doesn't like that easily.
+  // Custom component inside Stack.Screen works.
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: COLORS.background,
-    paddingTop: Platform.OS === 'android' ? 40 : 0,
-  },
-  loadingContainer: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: COLORS.background,
-  },
-  loadingText: {
-    marginTop: 10,
-    fontSize: 16,
-    color: COLORS.text,
-  },
-  errorText: {
-    fontSize: 16,
-    color: COLORS.error,
-    textAlign: 'center',
-    padding: 20,
-  },
-  header: {
-    paddingHorizontal: 20,
-    paddingVertical: 15,
-  },
-  topRow: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    alignItems: 'center',
-    marginBottom: 10,
-  },
-  timerContainer: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    backgroundColor: '#E8F6F3',
-    paddingHorizontal: 10,
-    paddingVertical: 5,
-    borderRadius: 15,
-    gap: 5,
-  },
-  timerText: {
-    fontSize: 16,
-    fontWeight: 'bold',
-    color: COLORS.timer,
-    fontVariant: ['tabular-nums'],
-  },
-  progressBarContainer: {
-    height: 10,
-    backgroundColor: '#E0E0E0',
-    borderRadius: 5,
-    overflow: 'hidden',
-  },
-  progressBar: {
-    height: '100%',
-    backgroundColor: COLORS.secondary,
-    borderRadius: 5,
-  },
-  progressText: {
-    fontSize: 14,
-    color: '#7F8C8D',
-    fontWeight: '600',
-  },
-  card: {
-    flex: 1,
-    backgroundColor: COLORS.white,
-    margin: 20,
-    borderRadius: 20,
-    padding: 20,
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 4 },
-    shadowOpacity: 0.1,
-    shadowRadius: 10,
-    elevation: 5,
-    justifyContent: 'center',
-  },
-  questionBadge: {
-    alignSelf: 'flex-start',
-    backgroundColor: COLORS.accent,
-    paddingHorizontal: 12,
-    paddingVertical: 6,
-    borderRadius: 12,
-    marginBottom: 15,
-  },
-  questionBadgeText: {
-    fontSize: 12,
-    fontWeight: 'bold',
-    color: '#5D4037',
-  },
-  questionText: {
-    fontSize: 22,
-    fontWeight: 'bold',
-    color: COLORS.text,
-    marginBottom: 30,
-    lineHeight: 32,
-  },
-  optionsContainer: {
-    gap: 12,
-  },
-  optionButton: {
-    flexDirection: 'row',
-    backgroundColor: '#F0F2F5',
-    padding: 16,
-    borderRadius: 12,
-    alignItems: 'center',
-    justifyContent: 'space-between',
-    borderWidth: 2,
-    borderColor: 'transparent',
-  },
-  optionCorrect: {
-    backgroundColor: COLORS.success,
-    borderColor: COLORS.success,
-  },
-  optionWrong: {
-    backgroundColor: COLORS.error,
-    borderColor: COLORS.error,
-  },
-  optionDisabled: {
-    opacity: 0.6,
-  },
-  optionText: {
-    fontSize: 16,
-    color: COLORS.text,
-    fontWeight: '600',
-    flex: 1,
-  },
-  footer: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    alignItems: 'center',
-    padding: 20,
-    paddingBottom: 30,
-  },
-  navButton: {
-    flexDirection: 'row',
-    backgroundColor: COLORS.primary,
-    paddingHorizontal: 20,
-    paddingVertical: 12,
-    borderRadius: 25,
-    alignItems: 'center',
-    gap: 8,
-    elevation: 3,
-    shadowColor: COLORS.primary,
-    shadowOffset: { width: 0, height: 4 },
-    shadowOpacity: 0.3,
-    shadowRadius: 5,
-  },
-  navButtonDisabled: {
-    backgroundColor: COLORS.disabled,
-    shadowOpacity: 0,
-    elevation: 0,
-  },
-  navButtonText: {
-    color: 'white',
-    fontWeight: 'bold',
-    fontSize: 16,
-  },
-  scoreContainer: {
-    alignItems: 'center',
-  },
-  scoreLabel: {
-    fontSize: 12,
-    color: '#7F8C8D',
-    fontWeight: 'bold',
-  },
-  scoreValue: {
-    fontSize: 24,
-    fontWeight: 'bold',
-    color: COLORS.primary,
-  },
-  centerContent: {
-    justifyContent: 'center',
-    alignItems: 'center',
-  },
-  timeUpText: {
-    fontSize: 32,
-    fontWeight: 'bold',
-    color: COLORS.error,
-    marginBottom: 20,
-  },
-  finalScoreText: {
-    fontSize: 24,
-    color: COLORS.text,
-    marginBottom: 40,
-  },
-  retryButton: {
-    backgroundColor: COLORS.primary,
-    paddingHorizontal: 30,
-    paddingVertical: 15,
-    borderRadius: 25,
-    elevation: 5,
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.25,
-    shadowRadius: 3.84,
-  },
-  retryButtonText: {
-    color: '#fff',
-    fontSize: 18,
-    fontWeight: 'bold',
-  },
-  statsContainer: {
-    marginBottom: 30,
-    alignItems: 'center',
-    gap: 10,
-  },
-  statText: {
-    fontSize: 18,
-    fontWeight: '600',
-  },
-});
+  return (
+    <Stack.Navigator screenOptions={{ headerShown: false }}>
+      <Stack.Screen name="Onboarding">
+        {(props) => {
+          // Check if Onboarding saves and then calls onLogin
+          // We intercept the handleStart in Onboarding to call this.
+          // But Onboarding logic is inside the component.
+          // Let's modify OnboardingScreen to accept a prop?
+          // Or easier: Onboarding saves ID. App polls or Onboarding uses a global context?
+          // Let's use a dirty trick for prototype: Pass callback via initialParams? 
+          // Or just make App check storage on interval? No.
+          // Let's use simple prop passing pattern.
+
+          // Modifying on the fly: OnboardingScreen logic needs to update parent.
+          // I will update OnboardingScreen code to verify `route.params.onLogin`.
+          return <OnboardingScreen {...props} route={{ ...props.route, params: { onLogin } }} />
+        }}
+      </Stack.Screen>
+    </Stack.Navigator>
+  );
+}
+
+export default function App() {
+  const [isAuthenticated, setIsAuthenticated] = useState<boolean | null>(null);
+
+  const checkAuth = async () => {
+    try {
+      const userId = await AsyncStorage.getItem('USER_ID');
+      setIsAuthenticated(!!userId);
+    } catch (e) {
+      setIsAuthenticated(false);
+    }
+  };
+
+  useEffect(() => {
+    checkAuth();
+  }, []);
+
+  if (isAuthenticated === null) {
+    return (
+      <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
+        <ActivityIndicator size="large" color={COLORS.primary} />
+      </View>
+    )
+  }
+
+  return (
+    <SafeAreaProvider>
+      <NavigationContainer>
+        <Stack.Navigator screenOptions={{ headerShown: false }}>
+          {!isAuthenticated ? (
+            <Stack.Screen name="Auth">
+              {() => <AuthStack onLogin={() => setIsAuthenticated(true)} />}
+            </Stack.Screen>
+          ) : (
+            <>
+              <Stack.Screen name="Main">
+                {() => <MainTabs onLogout={() => setIsAuthenticated(false)} />}
+              </Stack.Screen>
+              <Stack.Screen name="TestScreen" component={TestScreen} />
+            </>
+          )}
+        </Stack.Navigator>
+        <StatusBar style="dark" />
+      </NavigationContainer>
+    </SafeAreaProvider>
+  );
+}
