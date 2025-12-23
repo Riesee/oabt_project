@@ -75,45 +75,111 @@ func seedData() {
 		return
 	}
 
-	if count == 0 {
-		fmt.Println("Seeding dummy data...")
-		questions := []Question{
-			{
-				Text:          "React Native'de kullanılan dil hangisidir?",
-				Options:       []string{"Java", "Swift", "JavaScript/TypeScript", "Python"},
-				CorrectAnswer: "JavaScript/TypeScript",
-			},
-			{
-				Text:          "Go dilini kim geliştirmiştir?",
-				Options:       []string{"Facebook", "Google", "Microsoft", "Apple"},
-				CorrectAnswer: "Google",
-			},
-			{
-				Text:          "Expo nedir?",
-				Options:       []string{"Bir veritabanı", "React Native framework'ü", "Bir CSS kütüphanesi", "Bir işletim sistemi"},
-				CorrectAnswer: "React Native framework'ü",
-			},
-			{
-				Text:          "PostgreSQL nedir?",
-				Options:       []string{"Bir programlama dili", "İlişkisel veritabanı sistemi", "Bir web sunucusu", "Bir işletim sistemi"},
-				CorrectAnswer: "İlişkisel veritabanı sistemi",
-			},
-			{
-				Text:          "Hangisi bir HTTP metodudur?",
-				Options:       []string{"GET", "FETCH", "PULL", "PUSH"},
-				CorrectAnswer: "GET",
-			},
-		}
+	if count > 0 {
+		fmt.Println("Database already contains data, skipping seed.")
+		return
+	}
 
-		for _, q := range questions {
-			optionsJSON, _ := json.Marshal(q.Options)
-			_, err := db.Exec("INSERT INTO questions (text, options, correct_answer) VALUES ($1, $2, $3)",
-				q.Text, string(optionsJSON), q.CorrectAnswer)
-			if err != nil {
-				log.Printf("Error seeding question: %v", err)
+	fmt.Println("Database is empty. Attempting to seed...")
+
+	// 1. Try to load from questions.json
+	filename := "questions.json"
+	if _, err := os.Stat(filename); err == nil {
+		fmt.Println("Found questions.json, importing...")
+		file, err := os.ReadFile(filename)
+		if err == nil {
+			var importData ImportData
+			if err := json.Unmarshal(file, &importData); err == nil {
+				// Success parsing JSON
+				for _, q := range importData.Sorular {
+					keys := []string{"a", "b", "c", "d", "e"}
+					var options []string
+					var correctAnswerText string
+
+					for _, k := range keys {
+						if val, ok := q.Secenekler[k]; ok {
+							options = append(options, val)
+							if k == q.DogruCevap {
+								correctAnswerText = val
+							}
+						}
+					}
+
+					// Fallback for finding correct answer if key mismatch
+					if correctAnswerText == "" {
+						if val, ok := q.Secenekler[q.DogruCevap]; ok {
+							correctAnswerText = val
+						}
+					}
+
+					optionsJSON, _ := json.Marshal(options)
+					_, err := db.Exec("INSERT INTO questions (text, options, correct_answer) VALUES ($1, $2, $3)",
+						q.Soru, string(optionsJSON), correctAnswerText)
+					if err != nil {
+						log.Printf("Error importing question '%s': %v", q.Soru, err)
+					}
+				}
+				fmt.Println("Successfully seeded from questions.json")
+				return // Success, exit
+			} else {
+				log.Printf("Error parsing questions.json: %v", err)
 			}
+		} else {
+			log.Printf("Error reading questions.json: %v", err)
 		}
 	}
+
+	// 2. Fallback to hardcoded data if JSON failed or missing
+	fmt.Println("questions.json not found or invalid. Seeding with dummy data...")
+	questions := []Question{
+		{
+			Text:          "React Native'de kullanılan dil hangisidir?",
+			Options:       []string{"Java", "Swift", "JavaScript/TypeScript", "Python"},
+			CorrectAnswer: "JavaScript/TypeScript",
+		},
+		{
+			Text:          "Go dilini kim geliştirmiştir?",
+			Options:       []string{"Facebook", "Google", "Microsoft", "Apple"},
+			CorrectAnswer: "Google",
+		},
+		{
+			Text:          "Expo nedir?",
+			Options:       []string{"Bir veritabanı", "React Native framework'ü", "Bir CSS kütüphanesi", "Bir işletim sistemi"},
+			CorrectAnswer: "React Native framework'ü",
+		},
+		{
+			Text:          "PostgreSQL nedir?",
+			Options:       []string{"Bir programlama dili", "İlişkisel veritabanı sistemi", "Bir web sunucusu", "Bir işletim sistemi"},
+			CorrectAnswer: "İlişkisel veritabanı sistemi",
+		},
+		{
+			Text:          "Hangisi bir HTTP metodudur?",
+			Options:       []string{"GET", "FETCH", "PULL", "PUSH"},
+			CorrectAnswer: "GET",
+		},
+	}
+
+	for _, q := range questions {
+		optionsJSON, _ := json.Marshal(q.Options)
+		_, err := db.Exec("INSERT INTO questions (text, options, correct_answer) VALUES ($1, $2, $3)",
+			q.Text, string(optionsJSON), q.CorrectAnswer)
+		if err != nil {
+			log.Printf("Error seeding question: %v", err)
+		}
+	}
+	fmt.Println("Seeding complete with dummy data.")
+}
+
+// Structs for the new JSON format
+type ImportData struct {
+	TestAdi string           `json:"test_adi"`
+	Sorular []ImportQuestion `json:"sorular"`
+}
+
+type ImportQuestion struct {
+	Soru       string            `json:"soru"`
+	Secenekler map[string]string `json:"secenekler"`
+	DogruCevap string            `json:"dogru_cevap"`
 }
 
 func getQuestions(w http.ResponseWriter, r *http.Request) {
@@ -156,83 +222,9 @@ func enableCors(w *http.ResponseWriter) {
 	(*w).Header().Set("Access-Control-Allow-Headers", "Content-Type")
 }
 
-// Structs for the new JSON format
-type ImportData struct {
-	TestAdi string           `json:"test_adi"`
-	Sorular []ImportQuestion `json:"sorular"`
-}
-
-type ImportQuestion struct {
-	Soru       string            `json:"soru"`
-	Secenekler map[string]string `json:"secenekler"`
-	DogruCevap string            `json:"dogru_cevap"`
-}
-
-func importQuestions() {
-	filename := "questions.json"
-	if _, err := os.Stat(filename); os.IsNotExist(err) {
-		return // File does not exist, nothing to import
-	}
-
-	fmt.Println("Found questions.json, importing...")
-
-	file, err := os.ReadFile(filename)
-	if err != nil {
-		log.Printf("Error reading questions.json: %v", err)
-		return
-	}
-
-	// Try parsing as the new format first
-	var importData ImportData
-	if err := json.Unmarshal(file, &importData); err != nil {
-		// Fallback or error handling if it doesn't match
-		log.Printf("Error parsing questions.json as new format: %v", err)
-		return
-	}
-
-	for _, q := range importData.Sorular {
-		// Convert map options to slice, ensuring order a,b,c,d,e
-		keys := []string{"a", "b", "c", "d", "e"}
-		var options []string
-		var correctAnswerText string
-
-		for _, k := range keys {
-			if val, ok := q.Secenekler[k]; ok {
-				options = append(options, val)
-				if k == q.DogruCevap {
-					correctAnswerText = val
-				}
-			}
-		}
-
-		// If correct answer wasn't found in keys (e.g. upper case or typo), try to find it directly
-		if correctAnswerText == "" {
-			if val, ok := q.Secenekler[q.DogruCevap]; ok {
-				correctAnswerText = val
-			}
-		}
-
-		optionsJSON, _ := json.Marshal(options)
-		_, err := db.Exec("INSERT INTO questions (text, options, correct_answer) VALUES ($1, $2, $3)",
-			q.Soru, string(optionsJSON), correctAnswerText)
-		if err != nil {
-			log.Printf("Error importing question '%s': %v", q.Soru, err)
-		} else {
-			fmt.Printf("Imported: %s\n", q.Soru)
-		}
-	}
-
-	// Rename file to prevent re-importing on next run
-	if err := os.Rename(filename, filename+".imported"); err != nil {
-		log.Printf("Error renaming imported file: %v", err)
-	} else {
-		fmt.Println("Import successful. Renamed questions.json to questions.json.imported")
-	}
-}
-
 func main() {
 	initDB()
-	importQuestions() // Check for and import new questions
+	// Seeding is now handled within initDB -> seedData
 	defer db.Close()
 
 	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {

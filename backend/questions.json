@@ -1,0 +1,635 @@
+{
+  "test_adi": "Tıbbi Görüntüleme ve Yapay Zeka Testi - Set 2",
+  "sorular": [
+    {
+      "soru_no": 1,
+      "soru": "Derin öğrenme algoritması, sistolik kan basıncını ortalama kaç mmHg hata payı ile tahmin edebilmiştir?",
+      "secenekler": {
+        "a": "5 mmHg",
+        "b": "11 mmHg",
+        "c": "20 mmHg",
+        "d": "25 mmHg",
+        "e": "30 mmHg"
+      },
+      "dogru_cevap": "b",
+      "kaynak": "[1]"
+    },
+    {
+      "soru_no": 2,
+      "soru": "Kaliteli filtrelenmiş UK Biobank verilerinde 'eyeAge' (göz yaşı) saati, kronolojik yaşı ortalama kaç yıl hata ile tahmin etmiştir?",
+      "secenekler": {
+        "a": "1.50",
+        "b": "2.86",
+        "c": "3.30",
+        "d": "5.20",
+        "e": "7.06"
+      },
+      "dogru_cevap": "c",
+      "kaynak": "[2]"
+    },
+    {
+      "soru_no": 3,
+      "soru": "Retinal fundus görüntülerinden 5 yıllık majör olumsuz kardiyak olay (MACE) riskini tahmin eden modelin AUC değeri kaçtır?",
+      "secenekler": {
+        "a": "0.50",
+        "b": "0.60",
+        "c": "0.70",
+        "d": "0.85",
+        "e": "0.97"
+      },
+      "dogru_cevap": "c",
+      "kaynak": "[3]"
+    },
+    {
+      "soru_no": 4,
+      "soru": "UK Biobank veri setinde kırma kusuru tahmini için temel (baseline) MAE değeri nedir?",
+      "secenekler": {
+        "a": "0.56 diyoptri",
+        "b": "0.91 diyoptri",
+        "c": "1.63 diyoptri",
+        "d": "1.81 diyoptri",
+        "e": "2.50 diyoptri"
+      },
+      "dogru_cevap": "d",
+      "kaynak": "[4]"
+    },
+    {
+      "soru_no": 5,
+      "soru": "Vizyonu tehdit eden diyabetik retinopati (VTDR) tanımı aşağıdakilerden hangisini kapsar?",
+      "secenekler": {
+        "a": "Sadece hafif DR",
+        "b": "Sadece DME (Diyabetik Maküler Ödem)",
+        "c": "Şiddetli veya daha kötü DR veya DME",
+        "d": "Sadece katarakt",
+        "e": "Sadece glokom"
+      },
+      "dogru_cevap": "c",
+      "kaynak": "[5]"
+    },
+    {
+      "soru_no": 6,
+      "soru": "Gözün dış fotoğraflarından yapılan tahminde, en yüksek risk grubundaki (%5) hastaların yüzde kaçında gerçekte HbA1c seviyesi ≥ 9% çıkmıştır?",
+      "secenekler": {
+        "a": "%33",
+        "b": "%55",
+        "c": "%69",
+        "d": "%88",
+        "e": "%95"
+      },
+      "dogru_cevap": "c",
+      "kaynak": "[6]"
+    },
+    {
+      "soru_no": 7,
+      "soru": "Kan bağışı sonrası hemoglobin konsantrasyonu (Hb) düşüşü fizyolojik olarak ne zaman zirve yapar?",
+      "secenekler": {
+        "a": "Hemen bağıştan sonra",
+        "b": "1 saat sonra",
+        "c": "Birkaç gün sonra (plazma dengelendiğinde)",
+        "d": "1 ay sonra",
+        "e": "6 ay sonra"
+      },
+      "dogru_cevap": "c",
+      "kaynak": "[7]"
+    },
+    {
+      "soru_no": 8,
+      "soru": "StylEx yöntemi, mevcut ısı haritalarının (saliency maps) aksine görüntünün hangi özelliğini açıklamayı hedefler?",
+      "secenekler": {
+        "a": "Sadece 'Nerede' sorusunu",
+        "b": "Görsel değişimin 'Ne' olduğunu (dokü, şekil vb.)",
+        "c": "Sadece piksel yoğunluğunu",
+        "d": "Görüntü çözünürlüğünü",
+        "e": "Kamera açısını"
+      },
+      "dogru_cevap": "b",
+      "kaynak": "[8]"
+    },
+    {
+      "soru_no": 9,
+      "soru": "Göğüs röntgenlerinden (CXR) ırk tahmini yapılırken, köprücük kemiğinin (clavicle) açısı neyle ilişkilendirilmiştir?",
+      "secenekler": {
+        "a": "Hastanın genetik mirasıyla",
+        "b": "Görüntüleme açısı (PA vs AP)",
+        "c": "Hastanın boyuyla",
+        "d": "Cihazın markasıyla",
+        "e": "Hastanın yaşıyla"
+      },
+      "dogru_cevap": "b",
+      "kaynak": "[9]"
+    },
+    {
+      "soru_no": 10,
+      "soru": "Göz yaşı ivmelenmesi (eyeAgeAccel) üzerine yapılan GWAS çalışmasında SNP tabanlı kalıtılabilirlik (heritability) oranı ne bulunmuştur?",
+      "secenekler": {
+        "a": "0.01",
+        "b": "0.11",
+        "c": "0.27",
+        "d": "0.57",
+        "e": "0.90"
+      },
+      "dogru_cevap": "b",
+      "kaynak": "[10]"
+    },
+    {
+      "soru_no": 11,
+      "soru": "Derin öğrenme modelleri, retinal fundus görüntülerinden kronolojik yaşı ortalama kaç yıl hata payı ile tahmin edebilmektedir?",
+      "secenekler": {
+        "a": "1.52",
+        "b": "3.26",
+        "c": "5.40",
+        "d": "7.06",
+        "e": "10.1"
+      },
+      "dogru_cevap": "b",
+      "kaynak_isareti": "[3]"
+    },
+    {
+      "soru_no": 12,
+      "soru": "Yapay zeka modelleri retinal görüntülerden cinsiyeti (gender) % kaç doğrulukla (AUC) tahmin edebilmiştir?",
+      "secenekler": {
+        "a": "%70",
+        "b": "%85",
+        "c": "%90",
+        "d": "%97",
+        "e": "%100"
+      },
+      "dogru_cevap": "d",
+      "kaynak_isareti": "[3]"
+    },
+    {
+      "soru_no": 13,
+      "soru": "UK Biobank verilerinde anemi tespiti için geliştirilen 'kombine model' (fundus + metadata) hangi AUC değerine ulaşmıştır?",
+      "secenekler": {
+        "a": "0.74",
+        "b": "0.80",
+        "c": "0.87",
+        "d": "0.88",
+        "e": "0.95"
+      },
+      "dogru_cevap": "d",
+      "kaynak_isareti": "[4]"
+    },
+    {
+      "soru_no": 14,
+      "soru": "Retinal yaşlanma saati olan 'eyeAgeAccel' (yaşlanma ivmesi) ile aşağıdakilerden hangisi arasında istatistiksel olarak anlamlı bir korelasyon (p=0.0028) bulunmuştur?",
+      "secenekler": {
+        "a": "Göz rengi",
+        "b": "Tüm nedenlere bağlı mortalite",
+        "c": "Boy uzunluğu",
+        "d": "Etnik köken",
+        "e": "Katarakt tipi"
+      },
+      "dogru_cevap": "b",
+      "kaynak_isareti": "[5]"
+    },
+    {
+      "soru_no": 15,
+      "soru": "UK Biobank çalışmasında katılımcıların yaş aralığı nedir?",
+      "secenekler": {
+        "a": "18-40",
+        "b": "30-50",
+        "c": "40-69",
+        "d": "50-80",
+        "e": "60-90"
+      },
+      "dogru_cevap": "c",
+      "kaynak_isareti": "[6]"
+    },
+    {
+      "soru_no": 16,
+      "soru": "Retinal fundus görüntülerinden kırma kusuru tahmininde kullanılan 'spherical equivalent' formülü nedir?",
+      "secenekler": {
+        "a": "spherical power + cylindrical power",
+        "b": "spherical power + 0.5 * cylindrical power",
+        "c": "2 * spherical power + cylindrical power",
+        "d": "spherical power - cylindrical power",
+        "e": "cylindrical power / 2"
+      },
+      "dogru_cevap": "b",
+      "kaynak_isareti": "[7]"
+    },
+    {
+      "soru_no": 17,
+      "soru": "StylEx yöntemiyle yapılan analizde, gözün dış fotoğraflarından 'düşük hemoglobin' tahmini yapılırken hangi görsel unsurun bir 'karıştırıcı faktör' (confounder) olduğu bulunmuştur?",
+      "secenekler": {
+        "a": "Gözlük",
+        "b": "Kontak lens",
+        "c": "Göz sürmesi (eyeliner) yoğunluğu",
+        "d": "Işık yansıması",
+        "e": "Göz kapağı düşüklüğü"
+      },
+      "dogru_cevap": "c",
+      "kaynak_isareti": "[8, 9]"
+    },
+    {
+      "soru_no": 18,
+      "soru": "Ara araştırmalarda, gözün dış (external) fotoğraflarından yüksek HbA1c (≥ 9%) tahmini için en yüksek risk grubundaki (%5) PPV değeri yüzde kaçtır?",
+      "secenekler": {
+        "a": "%33",
+        "b": "%55",
+        "c": "%69",
+        "d": "%85",
+        "e": "%95"
+      },
+      "dogru_cevap": "c",
+      "kaynak_isareti": "[10, 11]"
+    },
+    {
+      "soru_no": 19,
+      "soru": "Yaşa bağlı makula dejenerasyonu (AMD) çalışmasında, ara evre AMD'den (iAMD) neovasküler AMD'ye (nvAMD) 1 yıllık ilerleme hızı 'düzeltilmiş' verilerde yüzde kaçtır?",
+      "secenekler": {
+        "a": "%1.2",
+        "b": "%3.7",
+        "c": "%7.2",
+        "d": "%12.4",
+        "e": "%17.2"
+      },
+      "dogru_cevap": "c",
+      "kaynak_isareti": "[12]"
+    },
+    {
+      "soru_no": 20,
+      "soru": "Retinal yaşlanma saati çalışmasında öne çıkan ALKAL2 geninin hangi hayvandaki homologu üzerine deneysel doğrulama yapılmıştır?",
+      "secenekler": {
+        "a": "Laboratuvar faresi",
+        "b": "Meyve sineği (Drosophila)",
+        "c": "Zebra balığı",
+        "d": "Rhesus maymunu",
+        "e": "C. elegans"
+      },
+      "dogru_cevap": "b",
+      "kaynak_isareti": "[13, 14]"
+    },
+    {
+      "soru_no": 21,
+      "soru": "Derin öğrenme modelleri, göğüs röntgenlerinden (CXR) ırk tahmini yaparken hangi anatomik yapının konumunu kullanabilmektedir?",
+      "secenekler": {
+        "a": "Kaburgalar",
+        "b": "Köprücük kemiği (clavicle)",
+        "c": "Kalp sınırı",
+        "d": "Diyafram",
+        "e": "Omurga"
+      },
+      "dogru_cevap": "b",
+      "kaynak_isareti": "[15, 16]"
+    },
+    {
+      "soru_no": 22,
+      "soru": "Kardiyovasküler risk faktörleri çalışmasında, sigara içme durumunu (smoker) tahmin eden modelin AUC değeri nedir?",
+      "secenekler": {
+        "a": "0.55",
+        "b": "0.60",
+        "c": "0.71",
+        "d": "0.85",
+        "e": "0.97"
+      },
+      "dogru_cevap": "c",
+      "kaynak_isareti": "[3, 17]"
+    },
+    {
+      "soru_no": 23,
+      "soru": "Kombine anemi tahmin modelinde hemoglobin ölçümü için elde edilen MAE (ortalama mutlak hata) değeri nedir?",
+      "secenekler": {
+        "a": "0.14 g/dL",
+        "b": "0.51 g/dL",
+        "c": "0.63 g/dL",
+        "d": "1.10 g/dL",
+        "e": "2.40 g/dL"
+      },
+      "dogru_cevap": "c",
+      "kaynak_isareti": "[4, 18]"
+    },
+    {
+      "soru_no": 24,
+      "soru": "Gözün dış fotoğrafları kullanılarak yapılan çalışmada 'pozitif kontrol' olarak hangi hastalığın tespiti kullanılmıştır?",
+      "secenekler": {
+        "a": "Diyabet",
+        "b": "Glokom",
+        "c": "Katarakt",
+        "d": "Anemi",
+        "e": "Hipertansiyon"
+      },
+      "dogru_cevap": "c",
+      "kaynak_isareti": "[19, 20]"
+    },
+    {
+      "soru_no": 25,
+      "soru": "Retinal yaşlanma ivmesinin (eyeAgeAccel) SNP tabanlı kalıtılabilirliği (heritability) ne bulunmuştur?",
+      "secenekler": {
+        "a": "0.01",
+        "b": "0.11",
+        "c": "0.27",
+        "d": "0.57",
+        "e": "0.90"
+      },
+      "dogru_cevap": "b",
+      "kaynak_isareti": "[21]"
+    },
+    {
+      "soru_no": 26,
+      "soru": "Diyabetik hastalarda gözün dış fotoğraflarından 'vizyonu tehdit eden diyabetik retinopati' (VTDR) tahmini hangi AUC değerine ulaşmıştır?",
+      "secenekler": {
+        "a": "0.55",
+        "b": "0.67",
+        "c": "0.70",
+        "d": "0.79",
+        "e": "0.95"
+      },
+      "dogru_cevap": "d",
+      "kaynak_isareti": "[11]"
+    },
+    {
+      "soru_no": 27,
+      "soru": "StylEx modelinde 'Spatial location' (mekânsal konum) bilgisini açıklayan soru hangisidir?",
+      "secenekler": {
+        "a": "Ne? (What)",
+        "b": "Neden? (Why)",
+        "c": "Nerede? (Where)",
+        "d": "Nasıl? (How)",
+        "e": "Kim? (Who)"
+      },
+      "dogru_cevap": "c",
+      "kaynak_isareti": "[22, 23]"
+    },
+    {
+      "soru_no": 28,
+      "soru": "Göz yaşı (eyeAge) modeli, phenotypic age (phenoAge) ile karşılaştırıldığında bu iki ölçüm hakkında ne söylenebilir?",
+      "secenekler": {
+        "a": "Tamamen aynıdırlar",
+        "b": "Birbirlerinden bağımsızdırlar",
+        "c": "eyeAge her zaman daha düşüktür",
+        "d": "phenoAge sadece genetiğe bağlıdır",
+        "e": "Aralarında negatif korelasyon vardır"
+      },
+      "dogru_cevap": "b",
+      "kaynak_isareti": "[24, 25]"
+    },
+    {
+      "soru_no": 29,
+      "soru": "Kan bağışçılarında hemoglobin düşüşü, bağıştan kaç gün sonra derin öğrenme modeli tarafından istatistiksel olarak anlamlı şekilde tespit edilmiştir?",
+      "secenekler": {
+        "a": "Bağıştan hemen sonra",
+        "b": "1 gün sonra",
+        "c": "2-3 gün sonra",
+        "d": "1 hafta sonra",
+        "e": "1 ay sonra"
+      },
+      "dogru_cevap": "c",
+      "kaynak_isareti": "[26, 27]"
+    },
+    {
+      "soru_no": 30,
+      "soru": "Gözün dış fotoğraflarından 'Lipid' (kolesterol/trigliserid) tahmini yapılırken hangi bölge 'eşit derecede önemli' bulunmuştur?",
+      "secenekler": {
+        "a": "Sadece göz bebeği",
+        "b": "Sadece göz kapakları",
+        "c": "Merkezi bölge ve dış kenar (outer rim)",
+        "d": "Sadece kornea",
+        "e": "Göz yaşartıcı bezler"
+      },
+      "dogru_cevap": "c",
+      "kaynak_isareti": "[28]"
+    },
+    {
+      "soru_no": 31,
+      "soru": "Bir derin öğrenme modeli, UK Biobank verilerinde sistolik kan basıncını ortalama kaç mmHg hata ile tahmin edebilmiştir? [1]",
+      "secenekler": {
+        "a": "5.45",
+        "b": "8.20",
+        "c": "11.35",
+        "d": "15.10",
+        "e": "20.00"
+      },
+      "dogru_cevap": "c"
+    },
+    {
+      "soru_no": 32,
+      "soru": "Retinal görüntülerden kronolojik yaş tahmini yapan modelin (eyeAge) UK Biobank test setindeki Ortalama Mutlak Hatası (MAE) kaçtır? [1]",
+      "secenekler": {
+        "a": "1.50 yıl",
+        "b": "3.26 yıl",
+        "c": "5.10 yıl",
+        "d": "7.06 yıl",
+        "e": "9.40 yıl"
+      },
+      "dogru_cevap": "b"
+    },
+    {
+      "soru_no": 33,
+      "soru": "Yapay zeka modelleri retinal fundus fotoğraflarından cinsiyet (gender) tahmini yaparken hangi AUC değerine ulaşmıştır? [2]",
+      "secenekler": {
+        "a": "0.70",
+        "b": "0.80",
+        "c": "0.85",
+        "d": "0.90",
+        "e": "0.97"
+      },
+      "dogru_cevap": "e"
+    },
+    {
+      "soru_no": 34,
+      "soru": "Retinal görüntülerden 5 yıllık majör olumsuz kardiyak olay (MACE) riskini tahmin eden modelin AUC değeri nedir? [3]",
+      "secenekler": {
+        "a": "0.55",
+        "b": "0.60",
+        "c": "0.70",
+        "d": "0.85",
+        "e": "0.95"
+      },
+      "dogru_cevap": "c"
+    },
+    {
+      "soru_no": 35,
+      "soru": "Cinsiyet tahmini yapan modelin dikkat haritaları (attention maps) incelendiğinde, damarlar ve optik diskin yanı sıra hangi bölgenin de vurgulandığı görülmüştür? [4]",
+      "secenekler": {
+        "a": "Sklera",
+        "b": "Makula",
+        "c": "Kirpik dipleri",
+        "d": "Lens kenarları",
+        "e": "Kornea"
+      },
+      "dogru_cevap": "b"
+    },
+    {
+      "soru_no": 36,
+      "soru": "UK Biobank veri setinde kırma kusuru (refractive error) tahmini için geliştirilen modelin MAE değeri nedir? [5, 6]",
+      "secenekler": {
+        "a": "0.20D",
+        "b": "0.56D",
+        "c": "0.91D",
+        "d": "1.50D",
+        "e": "1.81D"
+      },
+      "dogru_cevap": "b"
+    },
+    {
+      "soru_no": 37,
+      "soru": "AREDS veri setinde kırma kusuru tahmini yapan modelin MAE değeri kaçtır? [5, 6]",
+      "secenekler": {
+        "a": "0.45D",
+        "b": "0.60D",
+        "c": "0.91D",
+        "d": "1.63D",
+        "e": "2.10D"
+      },
+      "dogru_cevap": "c"
+    },
+    {
+      "soru_no": 38,
+      "soru": "UK Biobank popülasyonunda, kırma kusuru tahmini için sadece 'ortalama değer' üzerinden yapılan baz (baseline) MAE tahmini kaçtır? [5, 6]",
+      "secenekler": {
+        "a": "0.56D",
+        "b": "1.10D",
+        "c": "1.50D",
+        "d": "1.81D",
+        "e": "2.50D"
+      },
+      "dogru_cevap": "d"
+    },
+    {
+      "soru_no": 39,
+      "soru": "Kırma kusuru tahmini modelinde 'dikkat haritaları' en önemli bölge olarak nereyi işaret etmiştir? [5]",
+      "secenekler": {
+        "a": "Optik disk",
+        "b": "Temporal damarlar",
+        "c": "Foveal bölge",
+        "d": "Retinal pigmentler",
+        "e": "Göz kapağı"
+      },
+      "dogru_cevap": "c"
+    },
+    {
+      "soru_no": 40,
+      "soru": "UK Biobank verilerinde küresel güç (spherical power) tahmini için elde edilen R-kare (R2) değeri kaçtır? [7]",
+      "secenekler": {
+        "a": "0.05",
+        "b": "0.45",
+        "c": "0.65",
+        "d": "0.88",
+        "e": "0.95"
+      },
+      "dogru_cevap": "d"
+    },
+    {
+      "soru_no": 41,
+      "soru": "Anemi tespiti çalışmasında, hemoglobin konsantrasyonu ölçümü için geliştirilen kombine modelin MAE değeri nedir? [8]",
+      "secenekler": {
+        "a": "0.14 g/dL",
+        "b": "0.45 g/dL",
+        "c": "0.63 g/dL",
+        "d": "1.10 g/dL",
+        "e": "2.40 g/dL"
+      },
+      "dogru_cevap": "c"
+    },
+    {
+      "soru_no": 42,
+      "soru": "Anemi tespiti çalışmasında kombine modelin AUC başarısı kaçtır? [8]",
+      "secenekler": {
+        "a": "0.74",
+        "b": "0.80",
+        "c": "0.88",
+        "d": "0.95",
+        "e": "0.99"
+      },
+      "dogru_cevap": "c"
+    },
+    {
+      "soru_no": 43,
+      "soru": "Kombine anemi modelinde, aynı hastanın farklı ziyaretleri arasındaki 'kalıntı hata' (residual error) korelasyon katsayısı nedir? [9, 10]",
+      "secenekler": {
+        "a": "0.10",
+        "b": "0.25",
+        "c": "0.38",
+        "d": "0.65",
+        "e": "0.88"
+      },
+      "dogru_cevap": "c"
+    },
+    {
+      "soru_no": 44,
+      "soru": "Anemi tahmini için kullanılan açıklanabilirlik teknikleri (GradCAM vb.) en çok hangi bölgeye odaklanmaktadır? [11]",
+      "secenekler": {
+        "a": "Makula",
+        "b": "Optik disk ve çevre damarlar",
+        "c": "Sklera",
+        "d": "Lens",
+        "e": "Göz kapağı kenarı"
+      },
+      "dogru_cevap": "b"
+    },
+    {
+      "soru_no": 45,
+      "soru": "Gözün dış fotoğraflarından HbA1c tespiti için geliştirilen modelin AUC başarısı nedir? [12]",
+      "secenekler": {
+        "a": "%50-55",
+        "b": "%60-65",
+        "c": "%67-70",
+        "d": "%80-85",
+        "e": "%90-95"
+      },
+      "dogru_cevap": "c"
+    },
+    {
+      "soru_no": 46,
+      "soru": "Dış göz fotoğraflarından yapılan tahminde, en riskli %5'lik grubun HbA1c değerinin gerçekte ≥ 9% olma olasılığı (PPV) kaçtır? [13, 14]",
+      "secenekler": {
+        "a": "%33",
+        "b": "%45",
+        "c": "%55",
+        "d": "%69",
+        "e": "%88"
+      },
+      "dogru_cevap": "d"
+    },
+    {
+      "soru_no": 47,
+      "soru": "Ablasyon analizine göre, dış göz fotoğrafı modelleri için görüntünün hangi kısmının kapatılması performansı daha hızlı düşürür? [15, 16]",
+      "secenekler": {
+        "a": "Çevre (periphery) kısımlar",
+        "b": "Sadece göz kapakları",
+        "c": "Merkez (center) kısımlar",
+        "d": "Üst köşeler",
+        "e": "Sadece kirpikler"
+      },
+      "dogru_cevap": "c"
+    },
+    {
+      "soru_no": 48,
+      "soru": "eyeAge modelinin kalite filtresinden geçirilmiş UK Biobank verilerindeki MAE değeri nedir? [17]",
+      "secenekler": {
+        "a": "1.80 yıl",
+        "b": "2.86 yıl",
+        "c": "3.30 yıl",
+        "d": "5.40 yıl",
+        "e": "7.10 yıl"
+      },
+      "dogru_cevap": "c"
+    },
+    {
+      "soru_no": 49,
+      "soru": "Longitudinal çalışmada, eyeAge modelinin bir yıl içindeki yaşlanma sırasını doğru tahmin etme oranı nedir? [17]",
+      "secenekler": {
+        "a": "%50",
+        "b": "%61",
+        "c": "%71",
+        "d": "%85",
+        "e": "%97"
+      },
+      "dogru_cevap": "c"
+    },
+    {
+      "soru_no": 50,
+      "soru": "Göz yaşı ivmelenmesi (eyeAgeAccel) ile biyolojik yaşlanma arasındaki ilişkide öne çıkan ve GWAS'ta tespit edilen gen hangisidir? [18, 19]",
+      "secenekler": {
+        "a": "ALKAL2",
+        "b": "BRCA1",
+        "c": "APOE",
+        "d": "TP53",
+        "e": "MTHFR"
+      },
+      "dogru_cevap": "a"
+    }
+  ]
+}
