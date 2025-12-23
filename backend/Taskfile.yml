@@ -4,8 +4,7 @@ tasks:
   run:
     desc: "Run the backend server with Neon DB connection"
     dir: .
-    env:
-      DATABASE_URL: "postgresql://neondb_owner:npg_PhyHWdtqMk48@ep-quiet-leaf-ag5d96ok-pooler.c-2.eu-central-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
+    dotenv: ['.env']
     cmds:
       - go run .
 
