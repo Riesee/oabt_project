@@ -1,23 +1,30 @@
-# Build Stage
-FROM golang:1.21-alpine AS builder
+# Build stage
+FROM golang:1.24-alpine AS builder
 
 WORKDIR /app
 
-COPY go.mod ./
-COPY go.sum ./
+# Copy go mod and sum files
+COPY go.mod go.sum ./
 RUN go mod download
 
-COPY *.go ./
+# Copy source code
+COPY . .
 
-RUN go build -o /oabt-backend
+# Build the application
+RUN CGO_ENABLED=0 GOOS=linux go build -o main .
 
-# Run Stage
-FROM alpine:latest
+# Final stage
+FROM alpine:latest  
 
-WORKDIR /
+WORKDIR /root/
 
-COPY --from=builder /oabt-backend /oabt-backend
+# Copy the binary from the builder stage
+COPY --from=builder /app/main .
+# Copy questions.json so seeding works
+COPY --from=builder /app/questions.json .
 
+# Expose the port the app runs on
 EXPOSE 8080
 
-ENTRYPOINT ["/oabt-backend"]
+# Command to run the executable
+CMD ["./main"]

@@ -234,8 +234,14 @@ func main() {
 
 	http.HandleFunc("/questions", getQuestions)
 
-	fmt.Println("Server starting on port 8080...")
-	if err := http.ListenAndServe(":8080", nil); err != nil {
+	// Parse PORT from environment variables (default to 8080)
+	port := os.Getenv("PORT")
+	if port == "" {
+		port = "8080"
+	}
+
+	fmt.Printf("Server starting on port %s...\n", port)
+	if err := http.ListenAndServe(":"+port, nil); err != nil {
 		fmt.Printf("Error starting server: %s\n", err)
 	}
 }
