@@ -12,3 +12,18 @@ tasks:
     desc: "Build the backend binary (Output: server.exe)"
     cmds:
       - go build -o server.exe .
+
+  up:
+    desc: "Start backend and database services"
+    cmds:
+      - docker-compose -f ../docker-compose.yml up -d
+
+  down:
+    desc: "Stop backend and database services"
+    cmds:
+      - docker-compose -f ../docker-compose.yml down
+
+  logs:
+    desc: "View backend logs"
+    cmds:
+      - docker-compose -f ../docker-compose.yml logs -f backend
