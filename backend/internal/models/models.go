@@ -9,6 +9,12 @@ type User struct {
 	Streak         int    `json:"streak"`
 	LastActiveDate string `json:"last_active_date"` // YYYY-MM-DD
 	TotalScore     int    `json:"total_score"`
+	Level          int    `json:"level"`
+	XP             int    `json:"xp"`
+	Email          string `json:"email"`
+	GoogleID       string `json:"google_id"`
+	AppleID        string `json:"apple_id"`
+	Provider       string `json:"provider"`
 }
 
 type Test struct {

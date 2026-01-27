@@ -36,20 +36,27 @@ func InitDB() {
 
 func CreateTables() {
 	queries := []string{
-		`DROP TABLE IF EXISTS questions CASCADE`,
-		`DROP TABLE IF EXISTS tests CASCADE`,
-		`DROP TABLE IF EXISTS users CASCADE`,
-		`DROP TABLE IF EXISTS test_results CASCADE`,
-		`DROP TABLE IF EXISTS related_subjects CASCADE`,
-		`DROP TABLE IF EXISTS subjects CASCADE`,
 		`CREATE TABLE IF NOT EXISTS users (
 			id UUID PRIMARY KEY,
 			nickname TEXT UNIQUE NOT NULL,
 			emoji TEXT NOT NULL,
 			streak INTEGER DEFAULT 0,
 			last_active_date DATE,
-			total_score INTEGER DEFAULT 0
+			total_score INTEGER DEFAULT 0,
+			level INTEGER DEFAULT 1,
+			xp INTEGER DEFAULT 0,
+			email TEXT UNIQUE,
+			google_id TEXT UNIQUE,
+			apple_id TEXT UNIQUE,
+			provider TEXT DEFAULT 'local'
 		)`,
+		// Ensure columns exist for existing tables
+		`ALTER TABLE users ADD COLUMN IF NOT EXISTS level INTEGER DEFAULT 1`,
+		`ALTER TABLE users ADD COLUMN IF NOT EXISTS xp INTEGER DEFAULT 0`,
+		`ALTER TABLE users ADD COLUMN IF NOT EXISTS email TEXT UNIQUE`,
+		`ALTER TABLE users ADD COLUMN IF NOT EXISTS google_id TEXT UNIQUE`,
+		`ALTER TABLE users ADD COLUMN IF NOT EXISTS apple_id TEXT UNIQUE`,
+		`ALTER TABLE users ADD COLUMN IF NOT EXISTS provider TEXT DEFAULT 'local'`,
 		`CREATE TABLE IF NOT EXISTS tests (
 			id UUID PRIMARY KEY,
 			title TEXT NOT NULL,

@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useCallback } from 'react';
-import { View, Text, StyleSheet, ScrollView, TouchableOpacity, RefreshControl, Platform, ActivityIndicator } from 'react-native';
+import { View, Text, StyleSheet, ScrollView, TouchableOpacity, RefreshControl, Platform, ActivityIndicator, Modal, TextInput, Alert } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import AsyncStorage from '@react-native-async-storage/async-storage';
@@ -16,13 +16,20 @@ const COLORS = {
     gold: '#FFD700',
     purple: '#9B59B6',
     softBlue: '#D6EAF8',
+    gray: '#7F8C8D',
 };
+
+const EMOJIS = ['👨‍🏫', '👩‍🏫', '🎓', '📚', '✏️', '🧠', '🚀', '⭐', '🦉', '🦁', '🦊', '🦄'];
 
 export default function ProfileScreen({ navigation, onLogout }: any) {
     const [user, setUser] = useState<any>(null);
     const [history, setHistory] = useState<any[]>([]);
     const [refreshing, setRefreshing] = useState(false);
     const [isLoading, setIsLoading] = useState(true);
+    const [isEditModalVisible, setIsEditModalVisible] = useState(false);
+    const [editNickname, setEditNickname] = useState('');
+    const [editEmoji, setEditEmoji] = useState('');
+    const [isSaving, setIsSaving] = useState(false);
 
     const fetchData = async () => {
         try {
@@ -34,11 +41,19 @@ export default function ProfileScreen({ navigation, onLogout }: any) {
 
             const baseUrl = API_URL;
             const timestamp = Date.now();
+            const token = await AsyncStorage.getItem('AUTH_TOKEN');
 
             // Fetch User
-            const userRes = await fetch(`${baseUrl}/user/${userId}?t=${timestamp}`);
+            const userRes = await fetch(`${baseUrl}/user/${userId}?t=${timestamp}`, {
+                headers: { 'Authorization': `Bearer ${token}` }
+            });
             if (userRes.ok) {
                 setUser(await userRes.json());
+            } else if (userRes.status === 401) {
+                // Token invalid or expired
+                await AsyncStorage.multiRemove(['USER_ID', 'AUTH_TOKEN']);
+                if (onLogout) onLogout();
+                return;
             }
 
             // Fetch History
@@ -66,11 +81,55 @@ export default function ProfileScreen({ navigation, onLogout }: any) {
         fetchData();
     };
 
-    // Calculate Level
-    const totalScore = user?.total_score || 0;
-    const currentLevel = Math.floor(totalScore / 100) + 1;
-    const nextLevelScore = currentLevel * 100;
-    const progress = totalScore % 100;
+    const handleUpdateProfile = async () => {
+        if (!editNickname.trim()) {
+            Alert.alert('Hata', 'İsim boş olamaz.');
+            return;
+        }
+
+        setIsSaving(true);
+        try {
+            const token = await AsyncStorage.getItem('AUTH_TOKEN');
+            const res = await fetch(`${API_URL}/user/update`, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': `Bearer ${token}`
+                },
+                body: JSON.stringify({ nickname: editNickname, emoji: editEmoji })
+            });
+
+            if (res.ok) {
+                setIsEditModalVisible(false);
+                fetchData();
+            } else {
+                const errorData = await res.text();
+                if (res.status === 401) {
+                    Alert.alert('Hata', 'Oturumunuz sona ermiş. Lütfen tekrar giriş yapın.');
+                    await AsyncStorage.multiRemove(['USER_ID', 'AUTH_TOKEN']);
+                    if (onLogout) onLogout();
+                } else if (res.status === 409) {
+                    Alert.alert('Hata', 'Bu takma ad başka bir kullanıcı tarafından kullanılıyor.');
+                } else {
+                    Alert.alert('Hata', `Güncelleme başarısız: ${errorData || res.status}`);
+                }
+            }
+        } catch (e) {
+            console.error(e);
+        } finally {
+            setIsSaving(false);
+        }
+    };
+
+    const openEditModal = () => {
+        setEditNickname(user?.nickname || '');
+        setEditEmoji(user?.emoji || '👤');
+        setIsEditModalVisible(true);
+    };
+
+    // Level Progress from Backend
+    const currentLevel = user?.level || 1;
+    const progress = user?.xp || 0;
     const pointsNeeded = 100 - progress;
 
     if (isLoading) {
@@ -95,9 +154,15 @@ export default function ProfileScreen({ navigation, onLogout }: any) {
                 <View style={styles.profileHeader}>
                     <Text style={styles.emoji}>{user?.emoji || '👤'}</Text>
                     <Text style={styles.nickname}>{user?.nickname || 'Öğrenci'}</Text>
-                    <View style={styles.levelBadge}>
-                        <Ionicons name="star" size={12} color={COLORS.white} />
-                        <Text style={styles.levelText}>Seviye {currentLevel}</Text>
+                    <View style={styles.headerButtons}>
+                        <View style={styles.levelBadge}>
+                            <Ionicons name="star" size={12} color={COLORS.white} />
+                            <Text style={styles.levelText}>Seviye {currentLevel}</Text>
+                        </View>
+                        <TouchableOpacity style={styles.editButton} onPress={openEditModal}>
+                            <Ionicons name="create-outline" size={16} color={COLORS.primary} />
+                            <Text style={styles.editButtonText}>Düzenle</Text>
+                        </TouchableOpacity>
                     </View>
                 </View>
 
@@ -163,6 +228,52 @@ export default function ProfileScreen({ navigation, onLogout }: any) {
                         </View>
                     )}
                 </View>
+
+                {/* Edit Modal */}
+                <Modal visible={isEditModalVisible} animationType="slide" transparent={true}>
+                    <View style={styles.modalOverlay}>
+                        <View style={styles.modalContent}>
+                            <Text style={styles.modalTitle}>Profili Düzenle</Text>
+
+                            <Text style={styles.label}>Yeni Takma Ad</Text>
+                            <TextInput
+                                style={styles.input}
+                                value={editNickname}
+                                onChangeText={setEditNickname}
+                                placeholder="Takma adınızı girin"
+                            />
+
+                            <Text style={styles.label}>Emoji Seç</Text>
+                            <View style={styles.emojiGrid}>
+                                {EMOJIS.map((emoji) => (
+                                    <TouchableOpacity
+                                        key={emoji}
+                                        style={[styles.modalEmojiItem, editEmoji === emoji && styles.modalEmojiSelected]}
+                                        onPress={() => setEditEmoji(emoji)}
+                                    >
+                                        <Text style={styles.modalEmojiText}>{emoji}</Text>
+                                    </TouchableOpacity>
+                                ))}
+                            </View>
+
+                            <View style={styles.modalButtons}>
+                                <TouchableOpacity
+                                    style={[styles.modalButton, styles.cancelButton]}
+                                    onPress={() => setIsEditModalVisible(false)}
+                                >
+                                    <Text style={styles.cancelButtonText}>Vazgeç</Text>
+                                </TouchableOpacity>
+                                <TouchableOpacity
+                                    style={[styles.modalButton, styles.saveButton]}
+                                    onPress={handleUpdateProfile}
+                                    disabled={isSaving}
+                                >
+                                    <Text style={styles.saveButtonText}>{isSaving ? 'Kaydediliyor...' : 'Kaydet'}</Text>
+                                </TouchableOpacity>
+                            </View>
+                        </View>
+                    </View>
+                </Modal>
 
             </ScrollView>
         </SafeAreaView>
@@ -357,6 +468,107 @@ const styles = StyleSheet.create({
         borderRadius: 20,
     },
     letsGoText: {
+        color: COLORS.white,
+        fontWeight: 'bold',
+    },
+    headerButtons: {
+        flexDirection: 'row',
+        alignItems: 'center',
+        gap: 10,
+    },
+    editButton: {
+        flexDirection: 'row',
+        alignItems: 'center',
+        backgroundColor: '#FFEAEA',
+        paddingHorizontal: 12,
+        paddingVertical: 5,
+        borderRadius: 20,
+        gap: 5,
+    },
+    editButtonText: {
+        color: COLORS.primary,
+        fontWeight: 'bold',
+        fontSize: 12,
+    },
+    modalOverlay: {
+        flex: 1,
+        backgroundColor: 'rgba(0,0,0,0.5)',
+        justifyContent: 'flex-end',
+    },
+    modalContent: {
+        backgroundColor: COLORS.white,
+        borderTopLeftRadius: 30,
+        borderTopRightRadius: 30,
+        padding: 30,
+        paddingBottom: 50,
+    },
+    modalTitle: {
+        fontSize: 22,
+        fontWeight: 'bold',
+        color: COLORS.text,
+        marginBottom: 20,
+        textAlign: 'center',
+    },
+    label: {
+        fontSize: 14,
+        fontWeight: 'bold',
+        color: COLORS.text,
+        marginBottom: 8,
+    },
+    input: {
+        backgroundColor: '#F7F9FC',
+        padding: 15,
+        borderRadius: 15,
+        fontSize: 16,
+        marginBottom: 20,
+        borderWidth: 1,
+        borderColor: '#E0E0E0',
+    },
+    emojiGrid: {
+        flexDirection: 'row',
+        flexWrap: 'wrap',
+        justifyContent: 'space-between',
+        marginBottom: 30,
+    },
+    modalEmojiItem: {
+        width: '18%',
+        aspectRatio: 1,
+        justifyContent: 'center',
+        alignItems: 'center',
+        backgroundColor: '#F7F9FC',
+        borderRadius: 12,
+        marginBottom: 10,
+        borderWidth: 2,
+        borderColor: 'transparent',
+    },
+    modalEmojiSelected: {
+        borderColor: COLORS.primary,
+        backgroundColor: '#FFF5F5',
+    },
+    modalEmojiText: {
+        fontSize: 24,
+    },
+    modalButtons: {
+        flexDirection: 'row',
+        gap: 15,
+    },
+    modalButton: {
+        flex: 1,
+        padding: 16,
+        borderRadius: 15,
+        alignItems: 'center',
+    },
+    cancelButton: {
+        backgroundColor: '#F0F2F5',
+    },
+    saveButton: {
+        backgroundColor: COLORS.primary,
+    },
+    cancelButtonText: {
+        color: COLORS.text,
+        fontWeight: 'bold',
+    },
+    saveButtonText: {
         color: COLORS.white,
         fontWeight: 'bold',
     },

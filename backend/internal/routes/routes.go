@@ -25,11 +25,13 @@ func RegisterRoutes() *http.ServeMux {
 	}))
 
 	mux.HandleFunc("/register", logger(handlers.RegisterHandler))
+	mux.HandleFunc("/auth/social-login", logger(handlers.SocialLoginHandler))
 	mux.HandleFunc("/user/", logger(handlers.GetUserHandler))
+	mux.HandleFunc("/user/update", logger(middleware.AuthMiddleware(handlers.UpdateUserHandler)))
 	mux.HandleFunc("/user/history/", logger(handlers.GetHistoryHandler))
 	mux.HandleFunc("/tests", logger(handlers.GetTestsHandler))
 	mux.HandleFunc("/test/", logger(handlers.GetTestQuestionsHandler))
-	mux.HandleFunc("/submit-test", logger(handlers.SubmitTestHandler))
+	mux.HandleFunc("/submit-test", logger(middleware.AuthMiddleware(handlers.SubmitTestHandler)))
 	mux.HandleFunc("/leaderboard", logger(handlers.GetLeaderboardHandler))
 	mux.HandleFunc("/subjects", logger(handlers.GetSubjectsHandler))
 

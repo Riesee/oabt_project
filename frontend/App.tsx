@@ -107,7 +107,14 @@ export default function App() {
   const checkAuth = async () => {
     try {
       const userId = await AsyncStorage.getItem('USER_ID');
-      setIsAuthenticated(!!userId);
+      const token = await AsyncStorage.getItem('AUTH_TOKEN');
+
+      if (userId && token) {
+        setIsAuthenticated(true);
+      } else {
+        // Here we could attempt social silent login for "Automatic Login"
+        setIsAuthenticated(false);
+      }
     } catch (e) {
       setIsAuthenticated(false);
     }
@@ -136,7 +143,10 @@ export default function App() {
           ) : (
             <>
               <Stack.Screen name="Main">
-                {() => <MainTabs onLogout={() => setIsAuthenticated(false)} />}
+                {() => <MainTabs onLogout={async () => {
+                  await AsyncStorage.multiRemove(['USER_ID', 'AUTH_TOKEN']);
+                  setIsAuthenticated(false);
+                }} />}
               </Stack.Screen>
               <Stack.Screen name="TestScreen" component={TestScreen} />
             </>

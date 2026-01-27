@@ -5,6 +5,7 @@ import (
 	"backend/internal/middleware"
 	"backend/internal/models"
 	"encoding/json"
+	"log"
 	"net/http"
 	"strings"
 	"time"
@@ -68,6 +69,13 @@ func SubmitTestHandler(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
+	// Use authenticated UserID
+	res.UserID, _ = r.Context().Value("userID").(string)
+	if res.UserID == "" {
+		http.Error(w, "Unauthorized", http.StatusUnauthorized)
+		return
+	}
+
 	var existingScore int
 	err := database.DB.QueryRow("SELECT score FROM test_results WHERE user_id=$1 AND test_id=$2", res.UserID, res.TestID).Scan(&existingScore)
 	alreadyTaken := err == nil
@@ -75,12 +83,13 @@ func SubmitTestHandler(w http.ResponseWriter, r *http.Request) {
 	resultID, _ := uuid.NewV7()
 
 	if alreadyTaken {
-		database.DB.Exec("INSERT INTO test_results (id, user_id, test_id, score, completed_at) VALUES ($1, $2, $3, $4, NOW())",
+		_, _ = database.DB.Exec("INSERT INTO test_results (id, user_id, test_id, score, completed_at) VALUES ($1, $2, $3, $4, NOW())",
 			resultID.String(), res.UserID, res.TestID, res.Score)
+		// No total_score increase for retakes (or maybe half? let's keep it 0 for now)
+		scoreDiff = 0
 	} else {
 		_, _ = database.DB.Exec("INSERT INTO test_results (id, user_id, test_id, score, completed_at) VALUES ($1, $2, $3, $4, NOW())",
 			resultID.String(), res.UserID, res.TestID, res.Score)
-		database.DB.Exec("UPDATE users SET total_score = total_score + $1 WHERE id = $2", res.Score, res.UserID)
 		scoreDiff = res.Score
 	}
 
@@ -100,10 +109,33 @@ func SubmitTestHandler(w http.ResponseWriter, r *http.Request) {
 		_, _ = database.DB.Exec("UPDATE users SET streak=$1, last_active_date=$2 WHERE id=$3", newStreak, today, res.UserID)
 	}
 
+	// Level & XP Logic
+	var currentXP int
+	var currentLevel int
+	database.DB.QueryRow("SELECT xp, level FROM users WHERE id=$1", res.UserID).Scan(&currentXP, &currentLevel)
+
+	// Users always gain XP for solving tests!
+	newXP := currentXP + res.Score
+	newLevel := currentLevel
+	for newXP >= 100 {
+		newXP -= 100
+		newLevel++
+	}
+
+	// Update everything in ONE query
+	_, err = database.DB.Exec("UPDATE users SET xp=$1, level=$2, total_score = total_score + $3 WHERE id=$4",
+		newXP, newLevel, scoreDiff, res.UserID)
+	if err != nil {
+		log.Printf("Error updating user stats: %v", err)
+	}
+
 	json.NewEncoder(w).Encode(map[string]interface{}{
 		"success":        true,
 		"streak_updated": newStreak > streak,
 		"current_streak": newStreak,
 		"score_added":    scoreDiff,
+		"new_level":      newLevel,
+		"new_xp":         newXP,
+		"leveled_up":     newLevel > currentLevel,
 	})
 }

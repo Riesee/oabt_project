@@ -34,15 +34,19 @@ export default function DashboardScreen({ navigation, onLogout }: any) {
             // Add timestamp to force fresh data (cache busting)
             const timestamp = Date.now();
 
+            const token = await AsyncStorage.getItem('AUTH_TOKEN');
+
             // Fetch User
-            const userRes = await fetch(`${baseUrl}/user/${userId}?t=${timestamp}`);
+            const userRes = await fetch(`${baseUrl}/user/${userId}?t=${timestamp}`, {
+                headers: { 'Authorization': `Bearer ${token}` }
+            });
             if (userRes.ok) {
                 const userData = await userRes.json();
                 setUser(userData);
             } else {
-                // User not found (probably invalid ID from old session)
-                console.log('User not found, logging out...');
-                await AsyncStorage.removeItem('USER_ID');
+                // User not found or Auth error
+                console.log('User not found or Auth error, logging out...');
+                await AsyncStorage.multiRemove(['USER_ID', 'AUTH_TOKEN']);
                 if (onLogout) onLogout();
                 return;
             }
@@ -117,7 +121,8 @@ export default function DashboardScreen({ navigation, onLogout }: any) {
                     <View style={[styles.card, styles.statCard]}>
                         <Ionicons name="star" size={24} color={COLORS.secondary} />
                         <Text style={styles.statLabel}>Seviye</Text>
-                        <Text style={styles.statValue}>{Math.floor((user?.total_score || 0) / 100) + 1}</Text>
+                        <Text style={styles.statValue}>{user?.level || 1}</Text>
+                        <Text style={styles.statSub}>{user?.xp || 0}/100 XP</Text>
                     </View>
                 </View>
 
@@ -228,6 +233,10 @@ const styles = StyleSheet.create({
         fontSize: 20,
         fontWeight: 'bold',
         color: COLORS.text,
+    },
+    statSub: {
+        fontSize: 10,
+        color: '#999',
     },
     playButton: {
         backgroundColor: COLORS.secondary,

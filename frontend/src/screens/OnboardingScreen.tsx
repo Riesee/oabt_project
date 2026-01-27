@@ -1,7 +1,9 @@
 import React, { useState } from 'react';
-import { View, Text, StyleSheet, TextInput, TouchableOpacity, Alert, Platform, ScrollView } from 'react-native';
+import { View, Text, StyleSheet, TextInput, TouchableOpacity, Alert, Platform, ScrollView, ActivityIndicator } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import AsyncStorage from '@react-native-async-storage/async-storage';
+import * as AppleAuthentication from 'expo-apple-authentication';
+import { Ionicons } from '@expo/vector-icons';
 
 const COLORS = {
     primary: '#FF6B6B',
@@ -19,10 +21,82 @@ export default function OnboardingScreen({ navigation, route }: any) {
     const [nickname, setNickname] = useState('');
     const [selectedEmoji, setSelectedEmoji] = useState(EMOJIS[0]);
     const [loading, setLoading] = useState(false);
+    const [socialLoading, setSocialLoading] = useState<string | null>(null);
+    const [step, setStep] = useState<'social' | 'nickname'>('social');
+    const [tempUserId, setTempUserId] = useState<string | null>(null);
+    const [tempToken, setTempToken] = useState<string | null>(null);
 
     // ...
 
-    const handleStart = async () => {
+    const handleSocialLogin = async (provider: string) => {
+        setSocialLoading(provider);
+        try {
+            let userData: any = null;
+
+            if (provider === 'apple') {
+                const credential = await AppleAuthentication.signInAsync({
+                    requestedScopes: [
+                        AppleAuthentication.AppleAuthenticationScope.FULL_NAME,
+                        AppleAuthentication.AppleAuthenticationScope.EMAIL,
+                    ],
+                });
+                userData = {
+                    email: credential.email,
+                    nickname: credential.fullName?.givenName || '',
+                    oauth_id: credential.user,
+                    provider: 'apple',
+                    emoji: '🍎'
+                };
+            } else if (provider === 'google') {
+                // Simulation for professional demo
+                userData = {
+                    email: 'user' + Date.now() + '@example.com',
+                    nickname: 'Kullanıcı',
+                    oauth_id: 'google-mock-' + Date.now(),
+                    provider: 'google',
+                    emoji: '🚀'
+                };
+            }
+
+            if (userData) {
+                const res = await fetch(`${API_URL}/auth/social-login`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(userData)
+                });
+
+                if (res.ok) {
+                    const data = await res.json();
+                    if (data.is_new_user) {
+                        setTempUserId(data.id);
+                        setTempToken(data.token);
+                        setStep('nickname');
+                    } else {
+                        await AsyncStorage.multiSet([
+                            ['USER_ID', data.id],
+                            ['AUTH_TOKEN', data.token || '']
+                        ]);
+                        if (route.params?.onLogin) {
+                            route.params.onLogin();
+                        }
+                    }
+                } else {
+                    const text = await res.text();
+                    console.error('Login Server Error:', text);
+                    Alert.alert('Hata', `Giriş başarısız (Backend): ${res.status} - ${text.substring(0, 50)}`);
+                }
+            }
+        } catch (e: any) {
+            if (e.code !== 'ERR_REQUEST_CANCELED') {
+                console.error('Social Login Catch Error:', e);
+                Alert.alert('Hata', `Bağlantı hatası veya uygulama sorunu: ${e.message || 'Bilinmeyen'}`);
+            }
+        } finally {
+            setSocialLoading(null);
+        }
+    };
+
+    const handleSetNickname = async () => {
         if (!nickname.trim()) {
             Alert.alert('Hata', 'Lütfen bir takma ad giriniz.');
             return;
@@ -30,31 +104,28 @@ export default function OnboardingScreen({ navigation, route }: any) {
         setLoading(true);
 
         try {
-            console.log('Using API URL:', API_URL); // Debug
-
-            const res = await fetch(`${API_URL}/register`, {
+            const res = await fetch(`${API_URL}/user/update`, {
                 method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': `Bearer ${tempToken}`
+                },
                 body: JSON.stringify({ nickname, emoji: selectedEmoji })
             });
 
-            console.log('Response Status:', res.status);
-
             if (res.ok) {
-                const data = await res.json();
-                await AsyncStorage.setItem('USER_ID', data.id);
+                await AsyncStorage.multiSet([
+                    ['USER_ID', tempUserId!],
+                    ['AUTH_TOKEN', tempToken!]
+                ]);
                 if (route.params?.onLogin) {
                     route.params.onLogin();
                 }
             } else {
-                const text = await res.text();
-                console.log('Error Response:', text);
-                Alert.alert('Hata', `Kayıt başarısız: ${res.status}`);
+                Alert.alert('Hata', 'Bu takma ad zaten kullanılıyor.');
             }
-
         } catch (e) {
-            console.error('Network Error:', e);
-            Alert.alert('Hata', 'Sunucuya bağlanılamadı. İnternet bağlantınızı ve IP ayarını kontrol edin.');
+            Alert.alert('Hata', 'Sunucuya bağlanılamadı.');
         } finally {
             setLoading(false);
         }
@@ -63,35 +134,72 @@ export default function OnboardingScreen({ navigation, route }: any) {
     return (
         <SafeAreaView style={styles.container}>
             <ScrollView contentContainerStyle={styles.content}>
-                <Text style={styles.title}>Hoş Geldiniz! 👋</Text>
-                <Text style={styles.subtitle}>Sınav yolculuğuna başlamadan önce kendini tanıt.</Text>
+                <Text style={styles.title}>
+                    {step === 'social' ? 'Hoş Geldiniz! 👋' : 'Profilini Oluştur ✍️'}
+                </Text>
+                <Text style={styles.subtitle}>
+                    {step === 'social'
+                        ? 'Sınav yolculuğunda gelişiminizi takip etmek için giriş yapın.'
+                        : 'Seni diğer öğrencilerden ayıracak bir takma ad seç.'}
+                </Text>
 
-                <View style={styles.formContainer}>
-                    <Text style={styles.label}>Takma Adın</Text>
-                    <TextInput
-                        style={styles.input}
-                        placeholder="Örn: ÇalışkanÖğrenci"
-                        value={nickname}
-                        onChangeText={setNickname}
-                    />
-
-                    <Text style={styles.label}>Avatarını Seç</Text>
-                    <View style={styles.emojiGrid}>
-                        {EMOJIS.map((emoji, index) => (
+                {step === 'social' ? (
+                    <View style={styles.socialAuthContainer}>
+                        {Platform.OS === 'ios' ? (
+                            <AppleAuthentication.AppleAuthenticationButton
+                                buttonType={AppleAuthentication.AppleAuthenticationButtonType.SIGN_IN}
+                                buttonStyle={AppleAuthentication.AppleAuthenticationButtonStyle.BLACK}
+                                cornerRadius={15}
+                                style={styles.appleButton}
+                                onPress={() => handleSocialLogin('apple')}
+                            />
+                        ) : (
                             <TouchableOpacity
-                                key={index}
-                                style={[styles.emojiItem, selectedEmoji === emoji && styles.emojiSelected]}
-                                onPress={() => setSelectedEmoji(emoji)}
+                                style={[styles.socialButton, styles.googleButton]}
+                                onPress={() => handleSocialLogin('google')}
+                                disabled={!!socialLoading}
                             >
-                                <Text style={styles.emojiText}>{emoji}</Text>
+                                {socialLoading === 'google' ? (
+                                    <ActivityIndicator color={COLORS.text} size="small" />
+                                ) : (
+                                    <>
+                                        <Ionicons name="logo-google" size={20} color={COLORS.text} style={{ marginRight: 10 }} />
+                                        <Text style={styles.socialButtonText}>Google ile Devam Et</Text>
+                                    </>
+                                )}
                             </TouchableOpacity>
-                        ))}
+                        )}
+                        <Text style={styles.footerNote}>Devam ederek kullanım koşullarımızı kabul etmiş olursunuz.</Text>
                     </View>
+                ) : (
+                    <View style={styles.formContainer}>
+                        <Text style={styles.label}>Takma Adın</Text>
+                        <TextInput
+                            style={styles.input}
+                            placeholder="Örn: ÇalışkanÖğrenci"
+                            value={nickname}
+                            onChangeText={setNickname}
+                            autoFocus
+                        />
 
-                    <TouchableOpacity style={styles.button} onPress={handleStart} disabled={loading}>
-                        <Text style={styles.buttonText}>{loading ? 'Kaydediliyor...' : 'Başla 🚀'}</Text>
-                    </TouchableOpacity>
-                </View>
+                        <Text style={styles.label}>Avatarını Seç</Text>
+                        <View style={styles.emojiGrid}>
+                            {EMOJIS.map((emoji, index) => (
+                                <TouchableOpacity
+                                    key={index}
+                                    style={[styles.emojiItem, selectedEmoji === emoji && styles.emojiSelected]}
+                                    onPress={() => setSelectedEmoji(emoji)}
+                                >
+                                    <Text style={styles.emojiText}>{emoji}</Text>
+                                </TouchableOpacity>
+                            ))}
+                        </View>
+
+                        <TouchableOpacity style={styles.button} onPress={handleSetNickname} disabled={loading}>
+                            <Text style={styles.buttonText}>{loading ? 'Kaydediliyor...' : 'Hadi Başlayalım! 🚀'}</Text>
+                        </TouchableOpacity>
+                    </View>
+                )}
             </ScrollView>
         </SafeAreaView>
     );
@@ -178,5 +286,39 @@ const styles = StyleSheet.create({
         color: COLORS.white,
         fontSize: 18,
         fontWeight: 'bold',
+    },
+    footerNote: {
+        fontSize: 12,
+        color: '#999',
+        textAlign: 'center',
+        marginTop: 20,
+    },
+    socialAuthContainer: {
+        width: '100%',
+        marginBottom: 20,
+    },
+    appleButton: {
+        width: '100%',
+        height: 55,
+        marginBottom: 15,
+    },
+    socialButton: {
+        width: '100%',
+        height: 55,
+        borderRadius: 15,
+        flexDirection: 'row',
+        justifyContent: 'center',
+        alignItems: 'center',
+        borderWidth: 1,
+        borderColor: '#E0E0E0',
+        backgroundColor: COLORS.white,
+    },
+    googleButton: {
+        marginBottom: 20,
+    },
+    socialButtonText: {
+        fontSize: 16,
+        fontWeight: '600',
+        color: COLORS.text,
     },
 });

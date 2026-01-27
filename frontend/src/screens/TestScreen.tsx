@@ -180,16 +180,15 @@ export default function TestScreen({ route, navigation }: any) {
 
     const submitExam = async () => {
         try {
-            const userId = await AsyncStorage.getItem('USER_ID');
-            if (!userId) return;
-
-            console.log('Submitting Exam:', { userId, testId, score });
+            const token = await AsyncStorage.getItem('AUTH_TOKEN');
 
             await fetch(`${API_URL}/submit-test`, {
                 method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': `Bearer ${token}`
+                },
                 body: JSON.stringify({
-                    user_id: userId,
                     test_id: testId,
                     score: score
                 })
