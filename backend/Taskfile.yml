@@ -6,12 +6,13 @@ tasks:
     dir: .
     dotenv: ['.env']
     cmds:
-      - go run .
+      - go run ./cmd/api/main.go
 
   build:
     desc: "Build the backend binary (Output: server.exe)"
     cmds:
-      - go build -o server.exe .
+    cmds:
+      - go build -o server.exe ./cmd/api/main.go
 
   up:
     desc: "Start backend and database services"

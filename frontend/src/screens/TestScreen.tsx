@@ -96,15 +96,7 @@ export default function TestScreen({ route, navigation }: any) {
     }, [resetKey, testId]);
 
     useEffect(() => {
-        const envUrl = process.env.EXPO_PUBLIC_API_URL;
-        const defaultUrl = Platform.OS === 'android' ? 'http://10.0.2.2:8080' : 'http://localhost:8080';
-        const baseUrl = envUrl || defaultUrl;
-
-        // Fetch questions for specific test or fall back to 'random' (if supported)
-        // For now, if no testId, we might fetch all? Backend supports /test/{id}/questions
-        // If we just want random, we might need a different endpoint, or pick one.
-        // Let's assume testId is valid for now.
-
+        const baseUrl = API_URL;
         const apiUrl = testId ? `${baseUrl}/test/${testId}/questions` : `${baseUrl}/questions`;
 
         console.log('Fetching from:', apiUrl);

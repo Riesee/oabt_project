@@ -15,6 +15,7 @@ import TestListScreen from './src/screens/TestListScreen';
 import TestScreen from './src/screens/TestScreen';
 import ProfileScreen from './src/screens/ProfileScreen';
 import OnboardingScreen from './src/screens/OnboardingScreen';
+import SubjectsScreen from './src/screens/SubjectsScreen';
 
 // Navigators
 const Tab = createBottomTabNavigator();
@@ -45,6 +46,8 @@ function MainTabs({ onLogout }: { onLogout: () => void }) {
             iconName = focused ? 'home' : 'home-outline';
           } else if (route.name === 'Tests') {
             iconName = focused ? 'list' : 'list-outline';
+          } else if (route.name === 'Subjects') {
+            iconName = focused ? 'book' : 'book-outline';
           } else if (route.name === 'Profile') {
             iconName = focused ? 'person' : 'person-outline';
           }
@@ -59,6 +62,7 @@ function MainTabs({ onLogout }: { onLogout: () => void }) {
         options={{ title: 'Ana Sayfa' }}
       />
       <Tab.Screen name="Tests" component={TestListScreen} options={{ title: 'Testler' }} />
+      <Tab.Screen name="Subjects" component={SubjectsScreen} options={{ title: 'Konu Anlatımı' }} />
       <Tab.Screen
         name="Profile"
         children={(props) => <ProfileScreen {...props} onLogout={onLogout} />}
