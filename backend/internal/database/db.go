@@ -12,6 +12,7 @@ import (
 var DB *sql.DB
 
 func InitDB() {
+	fmt.Println("Initializing Database and dropping old tables...")
 	var err error
 	connStr := os.Getenv("DATABASE_URL")
 	if connStr == "" {
@@ -57,18 +58,32 @@ func CreateTables() {
 		`ALTER TABLE users ADD COLUMN IF NOT EXISTS google_id TEXT UNIQUE`,
 		`ALTER TABLE users ADD COLUMN IF NOT EXISTS apple_id TEXT UNIQUE`,
 		`ALTER TABLE users ADD COLUMN IF NOT EXISTS provider TEXT DEFAULT 'local'`,
+		`DROP TABLE IF EXISTS test_results CASCADE`,
+		`DROP TABLE IF EXISTS questions CASCADE`,
+		`DROP TABLE IF EXISTS tests CASCADE`,
 		`CREATE TABLE IF NOT EXISTS tests (
 			id UUID PRIMARY KEY,
 			title TEXT NOT NULL,
 			description TEXT
 		)`,
+		`DROP TABLE IF EXISTS questions CASCADE`,
 		`CREATE TABLE IF NOT EXISTS questions (
-			id UUID PRIMARY KEY,
-			test_id UUID REFERENCES tests(id),
-			text TEXT NOT NULL,
-			options JSONB NOT NULL,
-			correct_answer TEXT NOT NULL
-		)`,
+            id UUID PRIMARY KEY,
+            test_id UUID REFERENCES tests(id),
+            question_id TEXT,
+            category TEXT,
+            subject TEXT,
+            topic TEXT,
+            sub_topic TEXT,
+            difficulty TEXT,
+            skill_level TEXT,
+            text TEXT NOT NULL,
+            options JSONB NOT NULL,
+            solution JSONB,
+            metadata JSONB,
+            image_url TEXT,
+            related_concept_id TEXT
+        )`,
 		`CREATE TABLE IF NOT EXISTS test_results (
 			id UUID PRIMARY KEY,
 			user_id UUID REFERENCES users(id),

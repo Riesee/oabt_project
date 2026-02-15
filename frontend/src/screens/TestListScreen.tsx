@@ -18,8 +18,6 @@ export default function TestListScreen({ navigation }: any) {
     const [tests, setTests] = useState<any[]>([]);
     const [loading, setLoading] = useState(true);
 
-    // ... lines 13 ...
-
     useEffect(() => {
         const fetchTests = async () => {
             try {
@@ -28,7 +26,7 @@ export default function TestListScreen({ navigation }: any) {
                 const res = await fetch(`${baseUrl}/tests`);
                 if (res.ok) {
                     const data = await res.json();
-                    setTests(data || []); // Ensure array
+                    setTests(Array.isArray(data) ? data : []);
                 }
             } catch (e) {
                 console.error(e);

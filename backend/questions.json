@@ -1,635 +1,530 @@
-{
-  "test_adi": "Tıbbi Görüntüleme ve Yapay Zeka Testi - Set 2",
-  "sorular": [
-    {
-      "soru_no": 1,
-      "soru": "Derin öğrenme algoritması, sistolik kan basıncını ortalama kaç mmHg hata payı ile tahmin edebilmiştir?",
-      "secenekler": {
-        "a": "5 mmHg",
-        "b": "11 mmHg",
-        "c": "20 mmHg",
-        "d": "25 mmHg",
-        "e": "30 mmHg"
+[
+  {
+    "question_id": "Q-OE-001",
+    "category": "Özel Eğitim",
+    "subject": "Üstün Zekalılar ve Yetenekliler",
+    "topic": "Yetenek Modelleri",
+    "sub_topic": "Gagne’nin Ayrımsal Üstün Zekâ ve Yetenek Modeli",
+    "difficulty": "Orta",
+    "skill_level": "Kavrama",
+    "question_text": "Gagne’nin “Ayrımsal Üstün Zekâ ve Yetenek Modeli”ne göre “üstün yeteneklilik” (giftedness) doğuştan gelen ve eğitimle kazanılmayan potansiyel iken; “yetenek” (talent) bu potansiyelin sistematik bir çalışma ile performansa dönüşmüş halidir. Gagne’nin bu modeline göre, doğal yeteneklerin sistematik olarak gelişmiş becerilere (yeteneğe) dönüşmesi sürecinde katalizör (hızlandırıcı/kolaylaştırıcı) görevi gören faktörlerden biri aşağıdakilerden hangisi değildir?",
+    "options": [
+      {
+        "option_text": "Bireysel özellikler (motivasyon, mizaç)",
+        "is_correct": false
       },
-      "dogru_cevap": "b",
-      "kaynak": "[1]"
+      {
+        "option_text": "Çevresel faktörler (aile, okul)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Şans faktörü",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kişilerarası ilişkiler",
+        "is_correct": false
+      },
+      {
+        "option_text": "Standart zekâ testlerindeki IQ puanı",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "Gagne'nin modelinde IQ puanı, sürecin başında yer alan 'doğal yeteneklerin' (potansiyelin) bir göstergesidir. Katalizörler ise bu potansiyeli yeteneğe dönüştüren içsel ve dışsal aracı değişkenlerdir; IQ puanı bir katalizör değil, ölçülen bir yetenek alanıdır.",
+      "video_solution_url": null
     },
-    {
-      "soru_no": 2,
-      "soru": "Kaliteli filtrelenmiş UK Biobank verilerinde 'eyeAge' (göz yaşı) saati, kronolojik yaşı ortalama kaç yıl hata ile tahmin etmiştir?",
-      "secenekler": {
-        "a": "1.50",
-        "b": "2.86",
-        "c": "3.30",
-        "d": "5.20",
-        "e": "7.06"
-      },
-      "dogru_cevap": "c",
-      "kaynak": "[2]"
+    "metadata": {
+      "source_book": "Özel Eğitimde Çağdaş Yaklaşımlar ve Modeller",
+      "page_number": 142,
+      "average_solve_time_seconds": 75,
+      "tags": [
+        "Gagne",
+        "Üstün Yetenek",
+        "Katalizörler"
+      ]
     },
-    {
-      "soru_no": 3,
-      "soru": "Retinal fundus görüntülerinden 5 yıllık majör olumsuz kardiyak olay (MACE) riskini tahmin eden modelin AUC değeri kaçtır?",
-      "secenekler": {
-        "a": "0.50",
-        "b": "0.60",
-        "c": "0.70",
-        "d": "0.85",
-        "e": "0.97"
+    "image_url": null,
+    "related_concept_id": "OE-001"
+  },
+   {
+    "question_id": "Q-OE-002",
+    "category": "Özel Eğitim",
+    "subject": "Üstün Zekalılar ve Yetenekliler",
+    "topic": "Psikolojik Kuramlar",
+    "sub_topic": "Dabrowski’nin Pozitif Ayrışma Kuramı",
+    "difficulty": "Zor",
+    "skill_level": "Analiz",
+    "question_text": "Polonyalı psikiyatrist Kazimierz Dabrowski’nin “Pozitif Ayrışma Kuramı”nda yer alan “Aşırı Duyarlılık” (Overexcitability) kavramı, üstün yetenekli bireylerin uyaranlara karşı verdikleri yoğun tepkileri açıklar. Bir öğrencinin; sürekli hareket etme isteği, hızlı konuşması, enerjik olması, yerinde duramaması ve dürtüsel davranışlar sergilemesi, Dabrowski’nin tanımladığı hangi aşırı duyarlılık türüne örnektir?",
+    "options": [
+      {
+        "option_text": "Duygusal (Emotional)",
+        "is_correct": false
       },
-      "dogru_cevap": "c",
-      "kaynak": "[3]"
+      {
+        "option_text": "Psikomotor (Psychomotor)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Duyusal (Sensual)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Zihinsel (Intellectual)",
+        "is_correct": false
+      },
+      {
+        "option_text": "İmgeleme (Imaginational)",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "Psikomotor aşırı duyarlılık, sinir sisteminin yüksek düzeydeki enerjisini fiziksel hareket, konuşma hızı ve dürtüsellik yoluyla dışa vurmasıdır. Bu durum genellikle DEHB ile karıştırılsa da üstün yetenekli bireylerde organik bir ihtiyaç olarak ortaya çıkar.",
+      "video_solution_url": null
     },
-    {
-      "soru_no": 4,
-      "soru": "UK Biobank veri setinde kırma kusuru tahmini için temel (baseline) MAE değeri nedir?",
-      "secenekler": {
-        "a": "0.56 diyoptri",
-        "b": "0.91 diyoptri",
-        "c": "1.63 diyoptri",
-        "d": "1.81 diyoptri",
-        "e": "2.50 diyoptri"
-      },
-      "dogru_cevap": "d",
-      "kaynak": "[4]"
+    "metadata": {
+      "source_book": "Üstün Zekalıların Psikolojisi",
+      "page_number": 88,
+      "average_solve_time_seconds": 95,
+      "tags": [
+        "Dabrowski",
+        "Aşırı Duyarlılık",
+        "Psikomotor"
+      ]
     },
-    {
-      "soru_no": 5,
-      "soru": "Vizyonu tehdit eden diyabetik retinopati (VTDR) tanımı aşağıdakilerden hangisini kapsar?",
-      "secenekler": {
-        "a": "Sadece hafif DR",
-        "b": "Sadece DME (Diyabetik Maküler Ödem)",
-        "c": "Şiddetli veya daha kötü DR veya DME",
-        "d": "Sadece katarakt",
-        "e": "Sadece glokom"
+    "image_url": null,
+    "related_concept_id": "OE-002"
+  },
+  {
+    "question_id": "Q-OE-003",
+    "category": "Özel Eğitim",
+    "subject": "Özel Eğitim Tarihi ve Mevzuatı",
+    "topic": "Türkiye'de Üstün Yetenekliler Eğitimi",
+    "sub_topic": "Harika Çocuklar Yasası",
+    "difficulty": "Kolay",
+    "skill_level": "Bilgi",
+    "question_text": "Ülkemizde Cumhuriyet döneminde üstün yeteneklilerin eğitimiyle ilgili çıkarılan en önemli yasalardan biri 1948 tarihli 6660 sayılı yasadır. Kamuoyunda “İdil Biret ve Suna Kan Yasası” veya “Harika Çocuk Yasası” olarak da bilinen bu yasanın temel amacı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Fen ve matematik alanında üstün yetenekli çocuklara burs vermek.",
+        "is_correct": false
       },
-      "dogru_cevap": "c",
-      "kaynak": "[5]"
+      {
+        "option_text": "Güzel sanatlar alanında özel yeteneği belirlenen çocukların yurt dışında devlet bursuyla eğitilmelerini sağlamak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Üstün yetenekli çocukların askerlikten muaf tutulmasını sağlamak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Enderun mektebi sistemini modern bir yapıyla yeniden kurmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tüm lise mezunu üstün yeteneklileri sınavsız üniversiteye almak.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "6660 Sayılı Yasa, özellikle sanat alanında olağanüstü yeteneği olan çocukların devlet desteğiyle dünya çapında eğitim almasını amaçlamaktadır. İdil Biret ve Suna Kan'ın bu yasa kapsamında yurt dışına gönderilmesi, yasaya verilen popüler ismin kaynağıdır.",
+      "video_solution_url": null
     },
-    {
-      "soru_no": 6,
-      "soru": "Gözün dış fotoğraflarından yapılan tahminde, en yüksek risk grubundaki (%5) hastaların yüzde kaçında gerçekte HbA1c seviyesi ≥ 9% çıkmıştır?",
-      "secenekler": {
-        "a": "%33",
-        "b": "%55",
-        "c": "%69",
-        "d": "%88",
-        "e": "%95"
-      },
-      "dogru_cevap": "c",
-      "kaynak": "[6]"
+    "metadata": {
+      "source_book": "Türk Eğitim Tarihi ve Özel Eğitim Mevzuatı",
+      "page_number": 215,
+      "average_solve_time_seconds": 50,
+      "tags": [
+        "6660 Sayılı Kanun",
+        "Sanat Eğitimi",
+        "Tarih"
+      ]
     },
-    {
-      "soru_no": 7,
-      "soru": "Kan bağışı sonrası hemoglobin konsantrasyonu (Hb) düşüşü fizyolojik olarak ne zaman zirve yapar?",
-      "secenekler": {
-        "a": "Hemen bağıştan sonra",
-        "b": "1 saat sonra",
-        "c": "Birkaç gün sonra (plazma dengelendiğinde)",
-        "d": "1 ay sonra",
-        "e": "6 ay sonra"
+    "image_url": null,
+    "related_concept_id": "OE-003"
+  },
+  {
+    "question_id": "Q-OE-004",
+    "category": "Özel Eğitim",
+    "subject": "Eğitim Programları ve Öğretim",
+    "topic": "Öğretim Yaklaşımları",
+    "sub_topic": "Farklılaştırılmış Öğretim",
+    "difficulty": "Orta",
+    "skill_level": "Bilgi",
+    "question_text": "Üstün yetenekli öğrencilerin eğitimi için geliştirilen, içeriğin, sürecin, ürünün ve öğrenme ortamının öğrencinin hazırbulunuşluk, ilgi ve öğrenme profiline göre uyarlandığı yaklaşım aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Tam Öğrenme Modeli",
+        "is_correct": false
       },
-      "dogru_cevap": "c",
-      "kaynak": "[7]"
+      {
+        "option_text": "Yapılandırmacı Yaklaşım",
+        "is_correct": false
+      },
+      {
+        "option_text": "Farklılaştırılmış Öğretim",
+        "is_correct": true
+      },
+      {
+        "option_text": "Doğrudan Öğretim",
+        "is_correct": false
+      },
+      {
+        "option_text": "Programlı Öğretim",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "Farklılaştırılmış öğretim, öğrencilerin bireysel farklılıklarını dikkate alarak dersin tasarım bileşenlerini (içerik, süreç, ürün, ortam) esneten bir yaklaşımdır. Üstün yeteneklilerin eğitiminde bu esneklik, öğrencinin potansiyelini maksimize etmek için kritik öneme sahiptir.",
+      "video_solution_url": null
     },
-    {
-      "soru_no": 8,
-      "soru": "StylEx yöntemi, mevcut ısı haritalarının (saliency maps) aksine görüntünün hangi özelliğini açıklamayı hedefler?",
-      "secenekler": {
-        "a": "Sadece 'Nerede' sorusunu",
-        "b": "Görsel değişimin 'Ne' olduğunu (dokü, şekil vb.)",
-        "c": "Sadece piksel yoğunluğunu",
-        "d": "Görüntü çözünürlüğünü",
-        "e": "Kamera açısını"
-      },
-      "dogru_cevap": "b",
-      "kaynak": "[8]"
+    "metadata": {
+      "source_book": "Özel Eğitimde Program Geliştirme",
+      "page_number": 56,
+      "average_solve_time_seconds": 65,
+      "tags": [
+        "Farklılaştırma",
+        "Carol Ann Tomlinson",
+        "Öğretim Stratejileri"
+      ]
     },
-    {
-      "soru_no": 9,
-      "soru": "Göğüs röntgenlerinden (CXR) ırk tahmini yapılırken, köprücük kemiğinin (clavicle) açısı neyle ilişkilendirilmiştir?",
-      "secenekler": {
-        "a": "Hastanın genetik mirasıyla",
-        "b": "Görüntüleme açısı (PA vs AP)",
-        "c": "Hastanın boyuyla",
-        "d": "Cihazın markasıyla",
-        "e": "Hastanın yaşıyla"
+    "image_url": null,
+    "related_concept_id": "OE-004"
+  },
+  {
+    "question_id": "Q-OE-005",
+    "category": "Özel Eğitim",
+    "subject": "Özel Eğitim Mevzuatı",
+    "topic": "BİLSEM Programları",
+    "sub_topic": "Program Basamakları",
+    "difficulty": "Orta",
+    "skill_level": "Uygulama",
+    "question_text": "Bilim ve Sanat Merkezleri (BİLSEM) Yönergesi’ne göre, merkezde uygulanan eğitim programlarının en ileri aşaması olan ve öğrencinin disiplinler arası bir konuda, danışman öğretmen rehberliğinde özgün bir ürün veya çözüm ortaya koyduğu program basamağı hangisidir?",
+    "options": [
+      {
+        "option_text": "Uyum Programı",
+        "is_correct": false
       },
-      "dogru_cevap": "b",
-      "kaynak": "[9]"
+      {
+        "option_text": "Destek Eğitim Programı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bireysel Yetenekleri Fark Ettirme Programı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Özel Yetenekleri Geliştirme Programı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Proje Üretimi ve Yönetimi Programı",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "Proje Üretimi ve Yönetimi aşaması, öğrencilerin önceki aşamalarda kazandıkları becerileri kullanarak gerçek dünya problemlerine özgün çözümler ürettikleri final aşamasıdır. Bu basamakta öğrenci özerkliği ve disiplinler arası çalışma ön plandadır.",
+      "video_solution_url": null
     },
-    {
-      "soru_no": 10,
-      "soru": "Göz yaşı ivmelenmesi (eyeAgeAccel) üzerine yapılan GWAS çalışmasında SNP tabanlı kalıtılabilirlik (heritability) oranı ne bulunmuştur?",
-      "secenekler": {
-        "a": "0.01",
-        "b": "0.11",
-        "c": "0.27",
-        "d": "0.57",
-        "e": "0.90"
-      },
-      "dogru_cevap": "b",
-      "kaynak": "[10]"
+    "metadata": {
+      "source_book": "BİLSEM Eğitim Rehberi",
+      "page_number": 32,
+      "average_solve_time_seconds": 70,
+      "tags": [
+        "BİLSEM",
+        "Proje Üretimi",
+        "MEB Mevzuat"
+      ]
     },
-    {
-      "soru_no": 11,
-      "soru": "Derin öğrenme modelleri, retinal fundus görüntülerinden kronolojik yaşı ortalama kaç yıl hata payı ile tahmin edebilmektedir?",
-      "secenekler": {
-        "a": "1.52",
-        "b": "3.26",
-        "c": "5.40",
-        "d": "7.06",
-        "e": "10.1"
+    "image_url": null,
+    "related_concept_id": "OE-005"
+  },
+  {
+    "question_id": "Q-OE-006",
+    "category": "Özel Eğitim",
+    "subject": "Eğitim Programları ve Öğretim",
+    "topic": "Öğretim Stratejileri",
+    "sub_topic": "Zenginleştirme ve Hızlandırma",
+    "difficulty": "Orta",
+    "skill_level": "Uygulama",
+    "question_text": "Sınıf öğretmeni Ahmet Bey, fen bilimleri dersinde 'Elektrik' ünitesini işlerken, üstün yetenekli öğrencisi Can'ın konuyu önceden bildiğini tespit etmiştir. Ahmet Bey, Can'a sınıfın geri kalanı konuyla ilgili alıştırma yaparken, 'Geleceğin enerji kaynakları ve elektrikli araçların verimliliği' konusunda bir araştırma yapmasını ve sınıfa sunmasını söylemiştir. Öğretmenin uyguladığı bu strateji aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Sınıf atlatma",
+        "is_correct": false
       },
-      "dogru_cevap": "b",
-      "kaynak_isareti": "[3]"
+      {
+        "option_text": "Hızlandırma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Zenginleştirme",
+        "is_correct": true
+      },
+      {
+        "option_text": "Mentorluk",
+        "is_correct": false
+      },
+      {
+        "option_text": "Gruplama",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "Zenginleştirme, mevcut müfredatın derinlemesine ve genişlemesine genişletilerek öğrenciye sunulmasıdır. Can'ın akranlarıyla aynı sınıfta kalıp konuyu daha üst düzeyde araştırması, müfredatın yatay veya dikey olarak zenginleştirildiğini gösterir.",
+      "video_solution_url": null
     },
-    {
-      "soru_no": 12,
-      "soru": "Yapay zeka modelleri retinal görüntülerden cinsiyeti (gender) % kaç doğrulukla (AUC) tahmin edebilmiştir?",
-      "secenekler": {
-        "a": "%70",
-        "b": "%85",
-        "c": "%90",
-        "d": "%97",
-        "e": "%100"
-      },
-      "dogru_cevap": "d",
-      "kaynak_isareti": "[3]"
+    "metadata": {
+      "source_book": "Üstün Yetenekliler İçin Eğitim Stratejileri",
+      "page_number": 112,
+      "average_solve_time_seconds": 80,
+      "tags": [
+        "Zenginleştirme",
+        "Sınıf İçi Strateji",
+        "Fen Eğitimi"
+      ]
     },
-    {
-      "soru_no": 13,
-      "soru": "UK Biobank verilerinde anemi tespiti için geliştirilen 'kombine model' (fundus + metadata) hangi AUC değerine ulaşmıştır?",
-      "secenekler": {
-        "a": "0.74",
-        "b": "0.80",
-        "c": "0.87",
-        "d": "0.88",
-        "e": "0.95"
+    "image_url": null,
+    "related_concept_id": "OE-006"
+  },
+  {
+    "question_id": "Q-OE-007",
+    "category": "Özel Eğitim",
+    "subject": "Eğitimin Temelleri",
+    "topic": "Tanılama ve Değerlendirme",
+    "sub_topic": "Tanılama Yaklaşımları",
+    "difficulty": "Zor",
+    "skill_level": "Kavrama",
+    "question_text": "Üstün yetenekli bireylerin tanılanmasında 'Bireye Dayalı' ve 'Programa Dayalı' olmak üzere iki temel yaklaşım bulunmaktadır. Aşağıdakilerden hangisi 'Programa Dayalı' tanılama yaklaşımının özelliklerinden biridir?",
+    "options": [
+      {
+        "option_text": "Önce öğrencinin kapasitesi belirlenir, sonra ona uygun program aranır.",
+        "is_correct": false
       },
-      "dogru_cevap": "d",
-      "kaynak_isareti": "[4]"
+      {
+        "option_text": "Öncelik, mevcut eğitim programının içeriği ve özellikleridir; öğrenci bu programa uygunluğuna göre seçilir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğrencinin bireysel ihtiyaçlarına göre sıfırdan bir müfredat oluşturulur.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tanılama sürecinde sadece bireysel zekâ testleri kullanılır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Herhangi bir kontenjan sınırı olmaksızın tüm başvuranlar kabul edilir.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "Programa dayalı yaklaşımda amaç, mevcut olan spesifik bir programa (örneğin konservatuvar veya BİLSEM gibi) en iyi uyum sağlayacak adayı bulmaktır. Bu yaklaşım, öğrencinin genel potansiyelinden ziyade programın gerektirdiği özel performansa odaklanır.",
+      "video_solution_url": null
     },
-    {
-      "soru_no": 14,
-      "soru": "Retinal yaşlanma saati olan 'eyeAgeAccel' (yaşlanma ivmesi) ile aşağıdakilerden hangisi arasında istatistiksel olarak anlamlı bir korelasyon (p=0.0028) bulunmuştur?",
-      "secenekler": {
-        "a": "Göz rengi",
-        "b": "Tüm nedenlere bağlı mortalite",
-        "c": "Boy uzunluğu",
-        "d": "Etnik köken",
-        "e": "Katarakt tipi"
-      },
-      "dogru_cevap": "b",
-      "kaynak_isareti": "[5]"
+    "metadata": {
+      "source_book": "Özel Eğitimde Ölçme ve Değerlendirme",
+      "page_number": 174,
+      "average_solve_time_seconds": 100,
+      "tags": [
+        "Tanılama",
+        "Programa Dayalı Tanı",
+        "Ölçme Yaklaşımları"
+      ]
     },
-    {
-      "soru_no": 15,
-      "soru": "UK Biobank çalışmasında katılımcıların yaş aralığı nedir?",
-      "secenekler": {
-        "a": "18-40",
-        "b": "30-50",
-        "c": "40-69",
-        "d": "50-80",
-        "e": "60-90"
+    "image_url": null,
+    "related_concept_id": "OE-007"
+  },
+  {
+    "question_id": "Q-OE-008",
+    "category": "Özel Eğitim",
+    "subject": "Eğitim Programları ve Öğretim",
+    "topic": "Müfredat Modelleri",
+    "sub_topic": "Maker Modeli",
+    "difficulty": "Kolay",
+    "skill_level": "Bilgi",
+    "question_text": "Maker'ın (1982) Üstün Yetenekliler İçin Müfredat Farklılaştırma Modeli'ne göre, farklılaştırma yapılması gereken dört temel bileşen aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": [
+      {
+        "option_text": "İçerik - Süreç - Ürün - Öğrenme Ortamı",
+        "is_correct": true
       },
-      "dogru_cevap": "c",
-      "kaynak_isareti": "[6]"
+      {
+        "option_text": "Öğrenci - Öğretmen - Veli - Okul",
+        "is_correct": false
+      },
+      {
+        "option_text": "Zekâ - Yetenek - Yaratıcılık - Liderlik",
+        "is_correct": false
+      },
+      {
+        "option_text": "Analiz - Sentez - Değerlendirme - Uygulama",
+        "is_correct": false
+      },
+      {
+        "option_text": "Girdi - İşlem - Çıktı - Dönüt",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "June Maker'ın modeli, farklılaştırılmış eğitimin çekirdeğini oluşturur. İçerik (ne öğretildiği), Süreç (nasıl öğretildiği), Ürün (nasıl değerlendirildiği) ve Ortam (nerede öğretildiği) boyutlarında yapılan değişiklikler eğitim kalitesini artırır.",
+      "video_solution_url": null
     },
-    {
-      "soru_no": 16,
-      "soru": "Retinal fundus görüntülerinden kırma kusuru tahmininde kullanılan 'spherical equivalent' formülü nedir?",
-      "secenekler": {
-        "a": "spherical power + cylindrical power",
-        "b": "spherical power + 0.5 * cylindrical power",
-        "c": "2 * spherical power + cylindrical power",
-        "d": "spherical power - cylindrical power",
-        "e": "cylindrical power / 2"
-      },
-      "dogru_cevap": "b",
-      "kaynak_isareti": "[7]"
+    "metadata": {
+      "source_book": "Müfredat Farklılaştırma Modelleri",
+      "page_number": 45,
+      "average_solve_time_seconds": 55,
+      "tags": [
+        "Maker",
+        "Farklılaştırma",
+        "Eğitim Bileşenleri"
+      ]
     },
-    {
-      "soru_no": 17,
-      "soru": "StylEx yöntemiyle yapılan analizde, gözün dış fotoğraflarından 'düşük hemoglobin' tahmini yapılırken hangi görsel unsurun bir 'karıştırıcı faktör' (confounder) olduğu bulunmuştur?",
-      "secenekler": {
-        "a": "Gözlük",
-        "b": "Kontak lens",
-        "c": "Göz sürmesi (eyeliner) yoğunluğu",
-        "d": "Işık yansıması",
-        "e": "Göz kapağı düşüklüğü"
+    "image_url": null,
+    "related_concept_id": "OE-008"
+  },
+  {
+    "question_id": "Q-OE-009",
+    "category": "Özel Eğitim",
+    "subject": "Eğitim Programları ve Öğretim",
+    "topic": "Öğretim Teknikleri",
+    "sub_topic": "Müfredat Daraltma",
+    "difficulty": "Orta",
+    "skill_level": "Kavrama",
+    "question_text": "Üstün yetenekli çocukların, belirli bir konuyu öğrenirken zaten bildikleri kısımları atlayarak, sadece bilmedikleri veya daha derinlemesine öğrenmeleri gereken kısımlara odaklanmalarını sağlayan, böylece onlara zaman kazandıran teknik aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Beyin Fırtınası",
+        "is_correct": false
       },
-      "dogru_cevap": "c",
-      "kaynak_isareti": "[8, 9]"
+      {
+        "option_text": "Müfredat Daraltma (Curriculum Compacting)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Akran Öğretimi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Gösterip Yaptırma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Soru-Cevap Tekniği",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "Müfredat daraltma, Joseph Renzulli tarafından geliştirilmiştir. Bu teknikle, öğrencinin halihazırda uzmanlaştığı konular elenerek, kazanılan bu boş zaman öğrencinin ilgisini çeken zenginleştirme veya hızlandırma etkinliklerine ayrılır.",
+      "video_solution_url": null
     },
-    {
-      "soru_no": 18,
-      "soru": "Ara araştırmalarda, gözün dış (external) fotoğraflarından yüksek HbA1c (≥ 9%) tahmini için en yüksek risk grubundaki (%5) PPV değeri yüzde kaçtır?",
-      "secenekler": {
-        "a": "%33",
-        "b": "%55",
-        "c": "%69",
-        "d": "%85",
-        "e": "%95"
-      },
-      "dogru_cevap": "c",
-      "kaynak_isareti": "[10, 11]"
+    "metadata": {
+      "source_book": "Üstün Yetenekliler İçin Öğretim Teknikleri",
+      "page_number": 198,
+      "average_solve_time_seconds": 70,
+      "tags": [
+        "Müfredat Daraltma",
+        "Renzulli",
+        "Hızlandırma"
+      ]
     },
-    {
-      "soru_no": 19,
-      "soru": "Yaşa bağlı makula dejenerasyonu (AMD) çalışmasında, ara evre AMD'den (iAMD) neovasküler AMD'ye (nvAMD) 1 yıllık ilerleme hızı 'düzeltilmiş' verilerde yüzde kaçtır?",
-      "secenekler": {
-        "a": "%1.2",
-        "b": "%3.7",
-        "c": "%7.2",
-        "d": "%12.4",
-        "e": "%17.2"
+    "image_url": null,
+    "related_concept_id": "OE-009"
+  },
+  {
+    "question_id": "Q-OE-010",
+    "category": "Özel Eğitim",
+    "subject": "Özel Eğitim Tarihi ve Mevzuatı",
+    "topic": "Uluslararası Raporlar",
+    "sub_topic": "Marland Raporu",
+    "difficulty": "Zor",
+    "skill_level": "Bilgi",
+    "question_text": "ABD Eğitim Bakanlığı tarafından 1972 yılında hazırlanan ve üstün yetenekliliğin sadece akademik başarıdan ibaret olmadığını; liderlik, yaratıcılık, psikomotor ve sanatsal yetenekleri de kapsadığını resmen ilan eden rapor aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "A Nation at Risk Raporu",
+        "is_correct": false
       },
-      "dogru_cevap": "c",
-      "kaynak_isareti": "[12]"
+      {
+        "option_text": "Coleman Raporu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Marland Raporu",
+        "is_correct": true
+      },
+      {
+        "option_text": "Warnock Raporu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bloom Raporu",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "1972 Marland Raporu, üstün yeteneklilik tanımını çok boyutlu hale getiren dönüm noktasıdır. Bu rapor ile sadece yüksek zekâ testi puanı değil, yaratıcılık ve liderlik gibi alanların da üstünlük kapsamına girmesi yasalaşmıştır.",
+      "video_solution_url": null
     },
-    {
-      "soru_no": 20,
-      "soru": "Retinal yaşlanma saati çalışmasında öne çıkan ALKAL2 geninin hangi hayvandaki homologu üzerine deneysel doğrulama yapılmıştır?",
-      "secenekler": {
-        "a": "Laboratuvar faresi",
-        "b": "Meyve sineği (Drosophila)",
-        "c": "Zebra balığı",
-        "d": "Rhesus maymunu",
-        "e": "C. elegans"
-      },
-      "dogru_cevap": "b",
-      "kaynak_isareti": "[13, 14]"
+    "metadata": {
+      "source_book": "Uluslararası Özel Eğitim Tarihi",
+      "page_number": 310,
+      "average_solve_time_seconds": 110,
+      "tags": [
+        "Marland Raporu",
+        "Tanım",
+        "Tarihçe"
+      ]
     },
-    {
-      "soru_no": 21,
-      "soru": "Derin öğrenme modelleri, göğüs röntgenlerinden (CXR) ırk tahmini yaparken hangi anatomik yapının konumunu kullanabilmektedir?",
-      "secenekler": {
-        "a": "Kaburgalar",
-        "b": "Köprücük kemiği (clavicle)",
-        "c": "Kalp sınırı",
-        "d": "Diyafram",
-        "e": "Omurga"
+    "image_url": null,
+    "related_concept_id": "OE-010"
+  },
+  {
+    "question_id": "Q-OE-011",
+    "category": "Özel Eğitim",
+    "subject": "Eğitim Programları ve Öğretim",
+    "topic": "Özel Eğitimde Destek Hizmetler",
+    "sub_topic": "Mentorluk",
+    "difficulty": "Kolay",
+    "skill_level": "Kavrama",
+    "question_text": "Üstün yetenekli öğrencilerin eğitiminde kullanılan 'Mentorluk' (Usta-Çırak) uygulamasının temel amacı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Öğrencinin okul ödevlerini eksiksiz yapmasını sağlamak.",
+        "is_correct": false
       },
-      "dogru_cevap": "b",
-      "kaynak_isareti": "[15, 16]"
+      {
+        "option_text": "Öğrencinin sınıf içi disiplin sorunlarını çözmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin ilgi duyduğu alanda uzman bir kişiyle birebir çalışarak derinlemesine bilgi ve deneyim kazanmasını sağlamak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğrencinin zekâ puanını (IQ) artırmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin arkadaşlarıyla sosyalleşmesini sağlamak.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "Mentorluk, öğrencinin akademik sınırlarının dışına çıkıp bir uzman eşliğinde çalışmasıdır. Bu model, öğrencinin mesleki farkındalığını artırırken ilgili alandaki ileri düzey becerileri birebir etkileşimle edinmesini sağlar.",
+      "video_solution_url": null
     },
-    {
-      "soru_no": 22,
-      "soru": "Kardiyovasküler risk faktörleri çalışmasında, sigara içme durumunu (smoker) tahmin eden modelin AUC değeri nedir?",
-      "secenekler": {
-        "a": "0.55",
-        "b": "0.60",
-        "c": "0.71",
-        "d": "0.85",
-        "e": "0.97"
-      },
-      "dogru_cevap": "c",
-      "kaynak_isareti": "[3, 17]"
+    "metadata": {
+      "source_book": "Özel Yeteneklilerde Mentorluk Rehberi",
+      "page_number": 124,
+      "average_solve_time_seconds": 55,
+      "tags": [
+        "Mentorluk",
+        "Usta-Çırak",
+        "Öğrenme Modelleri"
+      ]
     },
-    {
-      "soru_no": 23,
-      "soru": "Kombine anemi tahmin modelinde hemoglobin ölçümü için elde edilen MAE (ortalama mutlak hata) değeri nedir?",
-      "secenekler": {
-        "a": "0.14 g/dL",
-        "b": "0.51 g/dL",
-        "c": "0.63 g/dL",
-        "d": "1.10 g/dL",
-        "e": "2.40 g/dL"
-      },
-      "dogru_cevap": "c",
-      "kaynak_isareti": "[4, 18]"
-    },
-    {
-      "soru_no": 24,
-      "soru": "Gözün dış fotoğrafları kullanılarak yapılan çalışmada 'pozitif kontrol' olarak hangi hastalığın tespiti kullanılmıştır?",
-      "secenekler": {
-        "a": "Diyabet",
-        "b": "Glokom",
-        "c": "Katarakt",
-        "d": "Anemi",
-        "e": "Hipertansiyon"
-      },
-      "dogru_cevap": "c",
-      "kaynak_isareti": "[19, 20]"
-    },
-    {
-      "soru_no": 25,
-      "soru": "Retinal yaşlanma ivmesinin (eyeAgeAccel) SNP tabanlı kalıtılabilirliği (heritability) ne bulunmuştur?",
-      "secenekler": {
-        "a": "0.01",
-        "b": "0.11",
-        "c": "0.27",
-        "d": "0.57",
-        "e": "0.90"
-      },
-      "dogru_cevap": "b",
-      "kaynak_isareti": "[21]"
-    },
-    {
-      "soru_no": 26,
-      "soru": "Diyabetik hastalarda gözün dış fotoğraflarından 'vizyonu tehdit eden diyabetik retinopati' (VTDR) tahmini hangi AUC değerine ulaşmıştır?",
-      "secenekler": {
-        "a": "0.55",
-        "b": "0.67",
-        "c": "0.70",
-        "d": "0.79",
-        "e": "0.95"
-      },
-      "dogru_cevap": "d",
-      "kaynak_isareti": "[11]"
-    },
-    {
-      "soru_no": 27,
-      "soru": "StylEx modelinde 'Spatial location' (mekânsal konum) bilgisini açıklayan soru hangisidir?",
-      "secenekler": {
-        "a": "Ne? (What)",
-        "b": "Neden? (Why)",
-        "c": "Nerede? (Where)",
-        "d": "Nasıl? (How)",
-        "e": "Kim? (Who)"
-      },
-      "dogru_cevap": "c",
-      "kaynak_isareti": "[22, 23]"
-    },
-    {
-      "soru_no": 28,
-      "soru": "Göz yaşı (eyeAge) modeli, phenotypic age (phenoAge) ile karşılaştırıldığında bu iki ölçüm hakkında ne söylenebilir?",
-      "secenekler": {
-        "a": "Tamamen aynıdırlar",
-        "b": "Birbirlerinden bağımsızdırlar",
-        "c": "eyeAge her zaman daha düşüktür",
-        "d": "phenoAge sadece genetiğe bağlıdır",
-        "e": "Aralarında negatif korelasyon vardır"
-      },
-      "dogru_cevap": "b",
-      "kaynak_isareti": "[24, 25]"
-    },
-    {
-      "soru_no": 29,
-      "soru": "Kan bağışçılarında hemoglobin düşüşü, bağıştan kaç gün sonra derin öğrenme modeli tarafından istatistiksel olarak anlamlı şekilde tespit edilmiştir?",
-      "secenekler": {
-        "a": "Bağıştan hemen sonra",
-        "b": "1 gün sonra",
-        "c": "2-3 gün sonra",
-        "d": "1 hafta sonra",
-        "e": "1 ay sonra"
-      },
-      "dogru_cevap": "c",
-      "kaynak_isareti": "[26, 27]"
-    },
-    {
-      "soru_no": 30,
-      "soru": "Gözün dış fotoğraflarından 'Lipid' (kolesterol/trigliserid) tahmini yapılırken hangi bölge 'eşit derecede önemli' bulunmuştur?",
-      "secenekler": {
-        "a": "Sadece göz bebeği",
-        "b": "Sadece göz kapakları",
-        "c": "Merkezi bölge ve dış kenar (outer rim)",
-        "d": "Sadece kornea",
-        "e": "Göz yaşartıcı bezler"
-      },
-      "dogru_cevap": "c",
-      "kaynak_isareti": "[28]"
-    },
-    {
-      "soru_no": 31,
-      "soru": "Bir derin öğrenme modeli, UK Biobank verilerinde sistolik kan basıncını ortalama kaç mmHg hata ile tahmin edebilmiştir? [1]",
-      "secenekler": {
-        "a": "5.45",
-        "b": "8.20",
-        "c": "11.35",
-        "d": "15.10",
-        "e": "20.00"
-      },
-      "dogru_cevap": "c"
-    },
-    {
-      "soru_no": 32,
-      "soru": "Retinal görüntülerden kronolojik yaş tahmini yapan modelin (eyeAge) UK Biobank test setindeki Ortalama Mutlak Hatası (MAE) kaçtır? [1]",
-      "secenekler": {
-        "a": "1.50 yıl",
-        "b": "3.26 yıl",
-        "c": "5.10 yıl",
-        "d": "7.06 yıl",
-        "e": "9.40 yıl"
-      },
-      "dogru_cevap": "b"
-    },
-    {
-      "soru_no": 33,
-      "soru": "Yapay zeka modelleri retinal fundus fotoğraflarından cinsiyet (gender) tahmini yaparken hangi AUC değerine ulaşmıştır? [2]",
-      "secenekler": {
-        "a": "0.70",
-        "b": "0.80",
-        "c": "0.85",
-        "d": "0.90",
-        "e": "0.97"
-      },
-      "dogru_cevap": "e"
-    },
-    {
-      "soru_no": 34,
-      "soru": "Retinal görüntülerden 5 yıllık majör olumsuz kardiyak olay (MACE) riskini tahmin eden modelin AUC değeri nedir? [3]",
-      "secenekler": {
-        "a": "0.55",
-        "b": "0.60",
-        "c": "0.70",
-        "d": "0.85",
-        "e": "0.95"
-      },
-      "dogru_cevap": "c"
-    },
-    {
-      "soru_no": 35,
-      "soru": "Cinsiyet tahmini yapan modelin dikkat haritaları (attention maps) incelendiğinde, damarlar ve optik diskin yanı sıra hangi bölgenin de vurgulandığı görülmüştür? [4]",
-      "secenekler": {
-        "a": "Sklera",
-        "b": "Makula",
-        "c": "Kirpik dipleri",
-        "d": "Lens kenarları",
-        "e": "Kornea"
-      },
-      "dogru_cevap": "b"
-    },
-    {
-      "soru_no": 36,
-      "soru": "UK Biobank veri setinde kırma kusuru (refractive error) tahmini için geliştirilen modelin MAE değeri nedir? [5, 6]",
-      "secenekler": {
-        "a": "0.20D",
-        "b": "0.56D",
-        "c": "0.91D",
-        "d": "1.50D",
-        "e": "1.81D"
-      },
-      "dogru_cevap": "b"
-    },
-    {
-      "soru_no": 37,
-      "soru": "AREDS veri setinde kırma kusuru tahmini yapan modelin MAE değeri kaçtır? [5, 6]",
-      "secenekler": {
-        "a": "0.45D",
-        "b": "0.60D",
-        "c": "0.91D",
-        "d": "1.63D",
-        "e": "2.10D"
-      },
-      "dogru_cevap": "c"
-    },
-    {
-      "soru_no": 38,
-      "soru": "UK Biobank popülasyonunda, kırma kusuru tahmini için sadece 'ortalama değer' üzerinden yapılan baz (baseline) MAE tahmini kaçtır? [5, 6]",
-      "secenekler": {
-        "a": "0.56D",
-        "b": "1.10D",
-        "c": "1.50D",
-        "d": "1.81D",
-        "e": "2.50D"
-      },
-      "dogru_cevap": "d"
-    },
-    {
-      "soru_no": 39,
-      "soru": "Kırma kusuru tahmini modelinde 'dikkat haritaları' en önemli bölge olarak nereyi işaret etmiştir? [5]",
-      "secenekler": {
-        "a": "Optik disk",
-        "b": "Temporal damarlar",
-        "c": "Foveal bölge",
-        "d": "Retinal pigmentler",
-        "e": "Göz kapağı"
-      },
-      "dogru_cevap": "c"
-    },
-    {
-      "soru_no": 40,
-      "soru": "UK Biobank verilerinde küresel güç (spherical power) tahmini için elde edilen R-kare (R2) değeri kaçtır? [7]",
-      "secenekler": {
-        "a": "0.05",
-        "b": "0.45",
-        "c": "0.65",
-        "d": "0.88",
-        "e": "0.95"
-      },
-      "dogru_cevap": "d"
-    },
-    {
-      "soru_no": 41,
-      "soru": "Anemi tespiti çalışmasında, hemoglobin konsantrasyonu ölçümü için geliştirilen kombine modelin MAE değeri nedir? [8]",
-      "secenekler": {
-        "a": "0.14 g/dL",
-        "b": "0.45 g/dL",
-        "c": "0.63 g/dL",
-        "d": "1.10 g/dL",
-        "e": "2.40 g/dL"
-      },
-      "dogru_cevap": "c"
-    },
-    {
-      "soru_no": 42,
-      "soru": "Anemi tespiti çalışmasında kombine modelin AUC başarısı kaçtır? [8]",
-      "secenekler": {
-        "a": "0.74",
-        "b": "0.80",
-        "c": "0.88",
-        "d": "0.95",
-        "e": "0.99"
-      },
-      "dogru_cevap": "c"
-    },
-    {
-      "soru_no": 43,
-      "soru": "Kombine anemi modelinde, aynı hastanın farklı ziyaretleri arasındaki 'kalıntı hata' (residual error) korelasyon katsayısı nedir? [9, 10]",
-      "secenekler": {
-        "a": "0.10",
-        "b": "0.25",
-        "c": "0.38",
-        "d": "0.65",
-        "e": "0.88"
-      },
-      "dogru_cevap": "c"
-    },
-    {
-      "soru_no": 44,
-      "soru": "Anemi tahmini için kullanılan açıklanabilirlik teknikleri (GradCAM vb.) en çok hangi bölgeye odaklanmaktadır? [11]",
-      "secenekler": {
-        "a": "Makula",
-        "b": "Optik disk ve çevre damarlar",
-        "c": "Sklera",
-        "d": "Lens",
-        "e": "Göz kapağı kenarı"
-      },
-      "dogru_cevap": "b"
-    },
-    {
-      "soru_no": 45,
-      "soru": "Gözün dış fotoğraflarından HbA1c tespiti için geliştirilen modelin AUC başarısı nedir? [12]",
-      "secenekler": {
-        "a": "%50-55",
-        "b": "%60-65",
-        "c": "%67-70",
-        "d": "%80-85",
-        "e": "%90-95"
-      },
-      "dogru_cevap": "c"
-    },
-    {
-      "soru_no": 46,
-      "soru": "Dış göz fotoğraflarından yapılan tahminde, en riskli %5'lik grubun HbA1c değerinin gerçekte ≥ 9% olma olasılığı (PPV) kaçtır? [13, 14]",
-      "secenekler": {
-        "a": "%33",
-        "b": "%45",
-        "c": "%55",
-        "d": "%69",
-        "e": "%88"
-      },
-      "dogru_cevap": "d"
-    },
-    {
-      "soru_no": 47,
-      "soru": "Ablasyon analizine göre, dış göz fotoğrafı modelleri için görüntünün hangi kısmının kapatılması performansı daha hızlı düşürür? [15, 16]",
-      "secenekler": {
-        "a": "Çevre (periphery) kısımlar",
-        "b": "Sadece göz kapakları",
-        "c": "Merkez (center) kısımlar",
-        "d": "Üst köşeler",
-        "e": "Sadece kirpikler"
-      },
-      "dogru_cevap": "c"
-    },
-    {
-      "soru_no": 48,
-      "soru": "eyeAge modelinin kalite filtresinden geçirilmiş UK Biobank verilerindeki MAE değeri nedir? [17]",
-      "secenekler": {
-        "a": "1.80 yıl",
-        "b": "2.86 yıl",
-        "c": "3.30 yıl",
-        "d": "5.40 yıl",
-        "e": "7.10 yıl"
-      },
-      "dogru_cevap": "c"
-    },
-    {
-      "soru_no": 49,
-      "soru": "Longitudinal çalışmada, eyeAge modelinin bir yıl içindeki yaşlanma sırasını doğru tahmin etme oranı nedir? [17]",
-      "secenekler": {
-        "a": "%50",
-        "b": "%61",
-        "c": "%71",
-        "d": "%85",
-        "e": "%97"
-      },
-      "dogru_cevap": "c"
-    },
-    {
-      "soru_no": 50,
-      "soru": "Göz yaşı ivmelenmesi (eyeAgeAccel) ile biyolojik yaşlanma arasındaki ilişkide öne çıkan ve GWAS'ta tespit edilen gen hangisidir? [18, 19]",
-      "secenekler": {
-        "a": "ALKAL2",
-        "b": "BRCA1",
-        "c": "APOE",
-        "d": "TP53",
-        "e": "MTHFR"
-      },
-      "dogru_cevap": "a"
-    }
-  ]
-}
+    "image_url": null,
+    "related_concept_id": "OE-011"
+  }
+]

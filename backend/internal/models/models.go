@@ -24,11 +24,38 @@ type Test struct {
 }
 
 type Question struct {
-	ID            string   `json:"id"`
-	TestID        string   `json:"test_id"`
-	Text          string   `json:"text"`
-	Options       []string `json:"options"`
-	CorrectAnswer string   `json:"correct_answer"`
+	ID               string   `json:"id"`
+	TestID           string   `json:"test_id"`
+	QuestionID       string   `json:"question_id"`
+	Category         string   `json:"category"`
+	Subject          string   `json:"subject"`
+	Topic            string   `json:"topic"`
+	SubTopic         string   `json:"sub_topic"`
+	Difficulty       string   `json:"difficulty"`
+	SkillLevel       string   `json:"skill_level"`
+	Text             string   `json:"question_text"`
+	Options          []Option `json:"options"`
+	Solution         Solution `json:"solution"`
+	Metadata         Metadata `json:"metadata"`
+	ImageURL         *string  `json:"image_url"`
+	RelatedConceptID string   `json:"related_concept_id"`
+}
+
+type Option struct {
+	Text      string `json:"option_text"`
+	IsCorrect bool   `json:"is_correct"`
+}
+
+type Solution struct {
+	ExplanationText  string  `json:"explanation_text"`
+	VideoSolutionURL *string `json:"video_solution_url"`
+}
+
+type Metadata struct {
+	SourceBook              string   `json:"source_book"`
+	PageNumber              int      `json:"page_number"`
+	AverageSolveTimeSeconds int      `json:"average_solve_time_seconds"`
+	Tags                    []string `json:"tags"`
 }
 
 type TestResult struct {
@@ -46,14 +73,4 @@ type Subject struct {
 	Category string   `json:"category"`
 	Content  string   `json:"content"`
 	Related  []string `json:"related"`
-}
-
-type ImportData struct {
-	Sorular []ImportQuestion `json:"sorular"`
-}
-
-type ImportQuestion struct {
-	Soru       string            `json:"soru"`
-	Secenekler map[string]string `json:"secenekler"`
-	DogruCevap string            `json:"dogru_cevap"`
 }

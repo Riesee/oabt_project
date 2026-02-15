@@ -12,31 +12,33 @@ import (
 
 func SeedData() {
 	var count int
-	DB.QueryRow("SELECT COUNT(*) FROM tests").Scan(&count)
+	DB.QueryRow("SELECT COUNT(*) FROM questions").Scan(&count)
 	if count > 0 {
 		return
 	}
 
 	fmt.Println("Seeding Questions and Tests...")
-	importQuestions := []models.ImportQuestion{}
+	var questions []models.Question
 	filename := "questions.json"
 	if data, err := os.ReadFile(filename); err == nil {
-		var importData models.ImportData
-		if err := json.Unmarshal(data, &importData); err == nil {
-			importQuestions = importData.Sorular
+		if err := json.Unmarshal(data, &questions); err != nil {
+			log.Printf("Error unmarshalling questions.json: %v", err)
+			return
 		}
+	} else {
+		log.Printf("Error reading questions.json: %v", err)
+		return
 	}
 
-	if len(importQuestions) == 0 {
-		importQuestions = []models.ImportQuestion{
-			{Soru: "Özel eğitimde hangisi doğrudur?", Secenekler: map[string]string{"a": "Farklılıklar engeldir", "b": "Her birey özeldir"}, DogruCevap: "b"},
-		}
+	if len(questions) == 0 {
+		fmt.Println("No questions to seed.")
+		return
 	}
 
-	questionsPerTest := 10
+	questionsPerTest := 100
 	currentTestID := ""
 
-	for i, q := range importQuestions {
+	for i, q := range questions {
 		if i%questionsPerTest == 0 {
 			testNum := (i / questionsPerTest) + 1
 			testID, _ := uuid.NewV7()
@@ -46,23 +48,18 @@ func SeedData() {
 		}
 
 		qID, _ := uuid.NewV7()
-		options := []string{}
-		keys := []string{"a", "b", "c", "d", "e"}
-		correctText := ""
-		for _, k := range keys {
-			if val, ok := q.Secenekler[k]; ok {
-				options = append(options, val)
-				if k == q.DogruCevap {
-					correctText = val
-				}
-			}
+		optionsJson, _ := json.Marshal(q.Options)
+		solutionJson, _ := json.Marshal(q.Solution)
+		metadataJson, _ := json.Marshal(q.Metadata)
+
+		_, err := DB.Exec(`INSERT INTO questions 
+            (id, test_id, question_id, category, subject, topic, sub_topic, difficulty, skill_level, text, options, solution, metadata, image_url, related_concept_id) 
+            VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15)`,
+			qID.String(), currentTestID, q.QuestionID, q.Category, q.Subject, q.Topic, q.SubTopic, q.Difficulty, q.SkillLevel, q.Text, optionsJson, solutionJson, metadataJson, q.ImageURL, q.RelatedConceptID)
+
+		if err != nil {
+			log.Printf("Error inserting question %s: %v", q.QuestionID, err)
 		}
-		if correctText == "" && len(options) > 0 {
-			correctText = options[0]
-		}
-		optsJson, _ := json.Marshal(options)
-		_, _ = DB.Exec("INSERT INTO questions (id, test_id, text, options, correct_answer) VALUES ($1, $2, $3, $4, $5)",
-			qID.String(), currentTestID, q.Soru, string(optsJson), correctText)
 	}
 }
 

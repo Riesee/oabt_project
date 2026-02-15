@@ -23,11 +23,21 @@ const COLORS = {
 // Configuration
 const EXAM_DURATION_MINUTES = 2; // Increased slightly
 
+interface QuestionOption {
+    option_text: string;
+    is_correct: boolean;
+}
+
 interface Question {
-    id: string; // Changed to string for UUID
-    text: string;
-    options: string[];
-    correct_answer: string;
+    id: string;
+    question_text: string;
+    category: string;
+    options: QuestionOption[];
+    difficulty: string;
+    solution?: {
+        explanation_text: string;
+        video_solution_url?: string;
+    };
 }
 
 export default function TestScreen({ route, navigation }: any) {
@@ -105,7 +115,12 @@ export default function TestScreen({ route, navigation }: any) {
             .then((response) => response.json())
             .then((data) => {
                 if (Array.isArray(data)) {
-                    setQuestions(shuffleArray(data));
+                    // Shuffle Options for each question
+                    const processedQuestions = data.map((q: any) => ({
+                        ...q,
+                        options: shuffleArray([...q.options])
+                    }));
+                    setQuestions(shuffleArray(processedQuestions));
                 } else {
                     console.error("Data is not array:", data);
                     setQuestions([]);
@@ -118,18 +133,17 @@ export default function TestScreen({ route, navigation }: any) {
             });
     }, [resetKey, testId]);
 
-    const handleAnswer = (option: string) => {
+    const handleAnswer = (option: QuestionOption) => {
         const currentQuestion = questions[currentIndex];
         if (selectedAnswers[currentQuestion.id]) return;
 
-        const isCorrect = option === currentQuestion.correct_answer;
-        if (isCorrect) {
+        if (option.is_correct) {
             setScore(score + 2);
         }
 
         setSelectedAnswers({
             ...selectedAnswers,
-            [currentQuestion.id]: option,
+            [currentQuestion.id]: option.option_text,
         });
     };
 
@@ -145,20 +159,19 @@ export default function TestScreen({ route, navigation }: any) {
         }
     };
 
-    const getOptionStyle = (option: string) => {
+    const getOptionStyle = (option: QuestionOption) => {
         const currentQuestion = questions[currentIndex];
-        const selected = selectedAnswers[currentQuestion.id];
-        const isCorrect = option === currentQuestion.correct_answer;
+        const selectedText = selectedAnswers[currentQuestion.id];
 
-        if (!selected) return styles.optionButton;
+        if (!selectedText) return styles.optionButton;
 
-        if (option === selected) {
-            return isCorrect
+        if (option.option_text === selectedText) {
+            return option.is_correct
                 ? [styles.optionButton, styles.optionCorrect]
                 : [styles.optionButton, styles.optionWrong];
         }
 
-        if (selected && isCorrect) {
+        if (selectedText && option.is_correct) {
             return [styles.optionButton, styles.optionCorrect];
         }
 
@@ -231,7 +244,9 @@ export default function TestScreen({ route, navigation }: any) {
     if (isTimeUp || isExamFinished) {
         const correctCount = Object.keys(selectedAnswers).filter((key) => {
             const question = questions.find(q => q.id === key);
-            return question && selectedAnswers[key] === question.correct_answer;
+            const selectedOptionText = selectedAnswers[key];
+            const correctOption = question?.options.find(opt => opt.is_correct);
+            return correctOption && correctOption.option_text === selectedOptionText;
         }).length;
 
         const wrongCount = Object.keys(selectedAnswers).length - correctCount;
@@ -275,8 +290,6 @@ export default function TestScreen({ route, navigation }: any) {
     }
 
     const currentQuestion = questions[currentIndex];
-    // Calculate progress based on constant width or percentage?
-    // Let's use percentage for simplicity in `width` style.
     const progressPercent = ((currentIndex + 1) / questions.length) * 100;
 
     return (
@@ -308,9 +321,9 @@ export default function TestScreen({ route, navigation }: any) {
             <View style={styles.card}>
                 <ScrollView showsVerticalScrollIndicator={false} contentContainerStyle={{ flexGrow: 0 }}>
                     <View style={styles.questionBadge}>
-                        <Text style={styles.questionBadgeText}>{testTitle || 'GENEL TARAMA'}</Text>
+                        <Text style={styles.questionBadgeText}>{currentQuestion.category || testTitle || 'GENEL TARAMA'}</Text>
                     </View>
-                    <Text style={styles.questionText}>{currentQuestion.text}</Text>
+                    <Text style={styles.questionText}>{currentQuestion.question_text}</Text>
 
                     <View style={styles.optionsContainer}>
                         {(currentQuestion.options || []).map((option, index) => (
@@ -320,10 +333,10 @@ export default function TestScreen({ route, navigation }: any) {
                                 onPress={() => handleAnswer(option)}
                                 activeOpacity={0.8}
                             >
-                                <Text style={styles.optionText}>{option}</Text>
-                                {selectedAnswers[currentQuestion.id] === option && (
+                                <Text style={styles.optionText}>{option.option_text}</Text>
+                                {selectedAnswers[currentQuestion.id] === option.option_text && (
                                     <Ionicons
-                                        name={option === currentQuestion.correct_answer ? "checkmark-circle" : "close-circle"}
+                                        name={option.is_correct ? "checkmark-circle" : "close-circle"}
                                         size={24}
                                         color="white"
                                     />

@@ -40,7 +40,9 @@ func GetTestQuestionsHandler(w http.ResponseWriter, r *http.Request) {
 	}
 	testID := parts[2]
 
-	rows, err := database.DB.Query("SELECT id, test_id, text, options, correct_answer FROM questions WHERE test_id=$1", testID)
+	rows, err := database.DB.Query(`
+        SELECT id, test_id, question_id, category, subject, topic, sub_topic, difficulty, skill_level, text, options, solution, metadata, image_url, related_concept_id 
+        FROM questions WHERE test_id=$1`, testID)
 	if err != nil {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
 		return
@@ -50,9 +52,21 @@ func GetTestQuestionsHandler(w http.ResponseWriter, r *http.Request) {
 	var questions []models.Question
 	for rows.Next() {
 		var q models.Question
-		var optsStr string
-		rows.Scan(&q.ID, &q.TestID, &q.Text, &optsStr, &q.CorrectAnswer)
-		json.Unmarshal([]byte(optsStr), &q.Options)
+		var optsStr, solStr, metaStr []byte
+
+		err := rows.Scan(
+			&q.ID, &q.TestID, &q.QuestionID, &q.Category, &q.Subject, &q.Topic, &q.SubTopic,
+			&q.Difficulty, &q.SkillLevel, &q.Text, &optsStr, &solStr, &metaStr, &q.ImageURL, &q.RelatedConceptID,
+		)
+		if err != nil {
+			log.Printf("Error scanning question: %v", err)
+			continue
+		}
+
+		json.Unmarshal(optsStr, &q.Options)
+		json.Unmarshal(solStr, &q.Solution)
+		json.Unmarshal(metaStr, &q.Metadata)
+
 		questions = append(questions, q)
 	}
 	json.NewEncoder(w).Encode(questions)
