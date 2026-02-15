@@ -11,7 +11,6 @@ tasks:
   build:
     desc: "Build the backend binary (Output: server.exe)"
     cmds:
-    cmds:
       - go build -o server.exe ./cmd/api/main.go
 
   up:
