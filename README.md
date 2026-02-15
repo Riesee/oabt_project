@@ -1,4 +1,4 @@
-# 🎓 ÖABT Sınav Uygulaması (OABT Project)
+# 🎓 ÖABT Özel Eğitim Uygulaması
 
 Bu proje, ÖABT (Öğretmenlik Alan Bilgisi Testi) ve benzeri sınavlar için geliştirilmiş, Full-Stack bir sınav simülasyon uygulamasıdır. Kullanıcıların kendilerini test edebilecekleri, süre kısıtlamalı ve anlık geri bildirimli bir platform sunar.
 

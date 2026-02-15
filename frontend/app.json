@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "OABT_Project",
-    "slug": "OABT_Project",
+    "name": "ÖABT Özel Eğitim",
+    "slug": "oabt-ozel-egitim",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/logo.png",
