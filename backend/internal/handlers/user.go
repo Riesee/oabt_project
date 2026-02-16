@@ -5,7 +5,6 @@ import (
 	"backend/internal/middleware"
 	"backend/internal/models"
 	"encoding/json"
-	"log"
 	"net/http"
 	"strings"
 
@@ -185,8 +184,8 @@ func SocialLoginHandler(w http.ResponseWriter, r *http.Request) {
 	err = database.DB.QueryRow(query, payload.OauthID).Scan(&userID)
 
 	if err != nil {
-		// Not found by ID, try email
-		err = database.DB.QueryRow("SELECT id FROM users WHERE email = $1", payload.Email).Scan(&userID)
+		// Not found by ID, try email (case-insensitive)
+		err = database.DB.QueryRow("SELECT id FROM users WHERE LOWER(email) = LOWER($1)", payload.Email).Scan(&userID)
 		if err == nil {
 			// Found by email, link the provider ID
 			updateQuery := "UPDATE users SET " + payload.Provider + "_id = $1, provider = $2 WHERE id = $3"
@@ -205,16 +204,18 @@ func SocialLoginHandler(w http.ResponseWriter, r *http.Request) {
 			insertQuery := "INSERT INTO users (id, nickname, emoji, email, " + payload.Provider + "_id, provider, streak, last_active_date) VALUES ($1, $2, $3, $4, $5, $6, 1, CURRENT_DATE)"
 			_, err = database.DB.Exec(insertQuery, userID, tempNickname, payload.Emoji, payload.Email, payload.OauthID, payload.Provider)
 			if err != nil {
-				log.Printf("DEBUG: Error creating user: %v", err)
+
 				http.Error(w, "Error creating user", http.StatusInternalServerError)
 				return
 			}
 		}
-	} else {
-		// Found by ID, check if nickname is empty
-		var nick string
-		database.DB.QueryRow("SELECT nickname FROM users WHERE id = $1", userID).Scan(&nick)
-		if nick == "" {
+	}
+
+	// Double check if nickname is still temporary or empty
+	var nick string
+	err = database.DB.QueryRow("SELECT nickname FROM users WHERE id = $1", userID).Scan(&nick)
+	if err == nil {
+		if nick == "" || strings.HasPrefix(nick, "user_") {
 			isNewUser = true
 		}
 	}

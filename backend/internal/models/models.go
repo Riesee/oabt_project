@@ -15,6 +15,9 @@ type User struct {
 	GoogleID       string `json:"google_id"`
 	AppleID        string `json:"apple_id"`
 	Provider       string `json:"provider"`
+	Role           string `json:"role"`
+	Tokens         int    `json:"tokens"`
+	IsPremium      bool   `json:"is_premium"`
 }
 
 type Test struct {

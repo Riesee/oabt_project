@@ -4,7 +4,10 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { useFocusEffect } from '@react-navigation/native';
+import AdBanner from '../components/AdBanner';
+import RewardedAdButton from '../components/RewardedAdButton';
 import { API_URL } from '../config';
+import { AVATAR_EMOJIS, getEmojiById } from '../constants/emojis';
 
 const COLORS = {
     primary: '#FF6B6B',
@@ -19,8 +22,6 @@ const COLORS = {
     gray: '#7F8C8D',
 };
 
-const EMOJIS = ['👨‍🏫', '👩‍🏫', '🎓', '📚', '✏️', '🧠', '🚀', '⭐', '🦉', '🦁', '🦊', '🦄'];
-
 export default function ProfileScreen({ navigation, onLogout }: any) {
     const [user, setUser] = useState<any>(null);
     const [history, setHistory] = useState<any[]>([]);
@@ -28,8 +29,10 @@ export default function ProfileScreen({ navigation, onLogout }: any) {
     const [isLoading, setIsLoading] = useState(true);
     const [isEditModalVisible, setIsEditModalVisible] = useState(false);
     const [editNickname, setEditNickname] = useState('');
-    const [editEmoji, setEditEmoji] = useState('');
+    const [editEmojiId, setEditEmojiId] = useState('');
     const [isSaving, setIsSaving] = useState(false);
+    const [isPremium, setIsPremium] = useState(false);
+    const [userTokens, setUserTokens] = useState(0);
 
     const fetchData = async () => {
         try {
@@ -48,7 +51,10 @@ export default function ProfileScreen({ navigation, onLogout }: any) {
                 headers: { 'Authorization': `Bearer ${token}` }
             });
             if (userRes.ok) {
-                setUser(await userRes.json());
+                const userData = await userRes.json();
+                setUser(userData);
+                setIsPremium(userData.is_premium || false);
+                setUserTokens(userData.tokens || 0);
             } else if (userRes.status === 401) {
                 // Token invalid or expired
                 await AsyncStorage.multiRemove(['USER_ID', 'AUTH_TOKEN']);
@@ -96,7 +102,7 @@ export default function ProfileScreen({ navigation, onLogout }: any) {
                     'Content-Type': 'application/json',
                     'Authorization': `Bearer ${token}`
                 },
-                body: JSON.stringify({ nickname: editNickname, emoji: editEmoji })
+                body: JSON.stringify({ nickname: editNickname, emoji: editEmojiId })
             });
 
             if (res.ok) {
@@ -123,7 +129,7 @@ export default function ProfileScreen({ navigation, onLogout }: any) {
 
     const openEditModal = () => {
         setEditNickname(user?.nickname || '');
-        setEditEmoji(user?.emoji || '👤');
+        setEditEmojiId(user?.emoji || 'brain');
         setIsEditModalVisible(true);
     };
 
@@ -142,7 +148,7 @@ export default function ProfileScreen({ navigation, onLogout }: any) {
 
     // Chart Data (Last 5 tests)
     const chartData = history.slice(0, 5).reverse(); // Show oldest to newest of the last 5
-    const maxScore = 100; // Assuming tests are out of 100 mostly
+    const maxScore = 100;
 
     return (
         <SafeAreaView style={styles.container}>
@@ -152,7 +158,7 @@ export default function ProfileScreen({ navigation, onLogout }: any) {
             >
                 {/* Header Profile Card */}
                 <View style={styles.profileHeader}>
-                    <Text style={styles.emoji}>{user?.emoji || '👤'}</Text>
+                    <Text style={styles.emoji}>{getEmojiById(user?.emoji)}</Text>
                     <Text style={styles.nickname}>{user?.nickname || 'Öğrenci'}</Text>
                     <View style={styles.headerButtons}>
                         <View style={styles.levelBadge}>
@@ -192,7 +198,7 @@ export default function ProfileScreen({ navigation, onLogout }: any) {
                     <View style={styles.card}>
                         <Text style={styles.cardTitle}>Son Performansım</Text>
                         <View style={styles.chartContainer}>
-                            {chartData.map((item, index) => (
+                            {chartData.map((item: any, index: number) => (
                                 <View key={index} style={styles.chartBarWrapper}>
                                     <Text style={styles.barLabelTop}>{item.score}</Text>
                                     <View style={[styles.chartBar, { height: (item.score / maxScore) * 100 }]} />
@@ -204,78 +210,92 @@ export default function ProfileScreen({ navigation, onLogout }: any) {
                     </View>
                 )}
 
-                {/* Recent History */}
-                <Text style={styles.sectionTitle}>📝 Test Geçmişi</Text>
-                <View style={styles.historyList}>
-                    {history.map((item, index) => (
-                        <View key={index} style={styles.historyItem}>
-                            <View style={styles.historyIcon}>
-                                <Ionicons name="checkmark-circle" size={24} color={COLORS.secondary} />
-                            </View>
-                            <View style={styles.historyInfo}>
-                                <Text style={styles.historyTitle}>{item.title || 'Genel Test'}</Text>
-                                <Text style={styles.historyDate}>{item.date}</Text>
-                            </View>
-                            <Text style={styles.historyScore}>{item.score} P</Text>
-                        </View>
-                    ))}
-                    {history.length === 0 && (
-                        <View style={styles.emptyState}>
-                            <Text style={styles.emptyText}>Henüz hiç test çözmedin.</Text>
-                            <TouchableOpacity style={styles.letsGoButton} onPress={() => navigation.navigate('Tests')}>
-                                <Text style={styles.letsGoText}>İlk Testini Çöz</Text>
-                            </TouchableOpacity>
-                        </View>
-                    )}
+                {/* App Information & Privacy */}
+                <View style={[styles.card, { marginTop: 10 }]}>
+                    <Text style={styles.cardTitle}>Uygulama Bilgileri</Text>
+
+                    <TouchableOpacity
+                        style={styles.legalButton}
+                        onPress={() => navigation.navigate('LegalScreen', { type: 'privacy' })}
+                    >
+                        <Ionicons name="document-lock-outline" size={20} color={COLORS.text} />
+                        <Text style={styles.legalButtonText}>Gizlilik Politikası</Text>
+                        <Ionicons name="chevron-forward" size={16} color="#999" />
+                    </TouchableOpacity>
+
+                    <TouchableOpacity
+                        style={styles.legalButton}
+                        onPress={() => navigation.navigate('LegalScreen', { type: 'terms' })}
+                    >
+                        <Ionicons name="shield-checkmark-outline" size={20} color={COLORS.text} />
+                        <Text style={styles.legalButtonText}>Kullanım Koşulları</Text>
+                        <Ionicons name="chevron-forward" size={16} color="#999" />
+                    </TouchableOpacity>
+
+                    <TouchableOpacity
+                        style={[styles.legalButton, { borderBottomWidth: 0 }]}
+                        onPress={onLogout}
+                    >
+                        <Ionicons name="log-out-outline" size={20} color={COLORS.primary} />
+                        <Text style={[styles.legalButtonText, { color: COLORS.primary }]}>Oturumu Kapat</Text>
+                        <Ionicons name="chevron-forward" size={16} color="#999" />
+                    </TouchableOpacity>
                 </View>
 
-                {/* Edit Modal */}
-                <Modal visible={isEditModalVisible} animationType="slide" transparent={true}>
-                    <View style={styles.modalOverlay}>
-                        <View style={styles.modalContent}>
-                            <Text style={styles.modalTitle}>Profili Düzenle</Text>
+                <Text style={styles.versionText}>Versiyon 1.0.0</Text>
+            </ScrollView>
 
-                            <Text style={styles.label}>Yeni Takma Ad</Text>
-                            <TextInput
-                                style={styles.input}
-                                value={editNickname}
-                                onChangeText={setEditNickname}
-                                placeholder="Takma adınızı girin"
-                            />
+            <Modal visible={isEditModalVisible} animationType="slide" transparent={true}>
+                <View style={styles.modalOverlay}>
+                    <View style={styles.modalContent}>
+                        <Text style={styles.modalTitle}>Profili Düzenle</Text>
 
-                            <Text style={styles.label}>Emoji Seç</Text>
-                            <View style={styles.emojiGrid}>
-                                {EMOJIS.map((emoji) => (
-                                    <TouchableOpacity
-                                        key={emoji}
-                                        style={[styles.modalEmojiItem, editEmoji === emoji && styles.modalEmojiSelected]}
-                                        onPress={() => setEditEmoji(emoji)}
-                                    >
-                                        <Text style={styles.modalEmojiText}>{emoji}</Text>
-                                    </TouchableOpacity>
-                                ))}
-                            </View>
+                        <Text style={styles.label}>Yeni Takma Ad</Text>
+                        <TextInput
+                            style={styles.input}
+                            value={editNickname}
+                            onChangeText={setEditNickname}
+                            placeholder="Takma adınızı girin"
+                        />
 
-                            <View style={styles.modalButtons}>
+                        <Text style={styles.label}>Emoji Seç</Text>
+                        <ScrollView contentContainerStyle={styles.emojiGrid}>
+                            {AVATAR_EMOJIS.map((emoji) => (
                                 <TouchableOpacity
-                                    style={[styles.modalButton, styles.cancelButton]}
-                                    onPress={() => setIsEditModalVisible(false)}
+                                    key={emoji.id}
+                                    style={[styles.modalEmojiItem, editEmojiId === emoji.id && styles.modalEmojiSelected]}
+                                    onPress={() => setEditEmojiId(emoji.id)}
                                 >
-                                    <Text style={styles.cancelButtonText}>Vazgeç</Text>
+                                    <Text style={styles.modalEmojiText}>{emoji.char}</Text>
                                 </TouchableOpacity>
-                                <TouchableOpacity
-                                    style={[styles.modalButton, styles.saveButton]}
-                                    onPress={handleUpdateProfile}
-                                    disabled={isSaving}
-                                >
-                                    <Text style={styles.saveButtonText}>{isSaving ? 'Kaydediliyor...' : 'Kaydet'}</Text>
-                                </TouchableOpacity>
-                            </View>
+                            ))}
+                        </ScrollView>
+
+                        <View style={styles.modalButtons}>
+                            <TouchableOpacity
+                                style={[styles.modalButton, styles.cancelButton]}
+                                onPress={() => setIsEditModalVisible(false)}
+                            >
+                                <Text style={styles.cancelButtonText}>Vazgeç</Text>
+                            </TouchableOpacity>
+                            <TouchableOpacity
+                                style={[styles.modalButton, styles.saveButton]}
+                                onPress={handleUpdateProfile}
+                                disabled={isSaving}
+                            >
+                                <Text style={styles.saveButtonText}>{isSaving ? 'Kaydediliyor...' : 'Kaydet'}</Text>
+                            </TouchableOpacity>
                         </View>
                     </View>
-                </Modal>
+                </View>
+            </Modal>
 
-            </ScrollView>
+            {/* Sticky Bottom Banner */}
+            {!isPremium && (
+                <View style={styles.bannerContainer}>
+                    <AdBanner showAd={!isPremium} />
+                </View>
+            )}
         </SafeAreaView>
     );
 }
@@ -414,63 +434,6 @@ const styles = StyleSheet.create({
         color: '#999',
         marginTop: 10,
     },
-    sectionTitle: {
-        fontSize: 18,
-        fontWeight: 'bold',
-        color: COLORS.text,
-        marginBottom: 15,
-    },
-    historyList: {
-        backgroundColor: COLORS.white,
-        borderRadius: 16,
-        padding: 5,
-    },
-    historyItem: {
-        flexDirection: 'row',
-        alignItems: 'center',
-        padding: 15,
-        borderBottomWidth: 1,
-        borderBottomColor: '#F0F2F5',
-    },
-    historyIcon: {
-        marginRight: 15,
-        opacity: 0.8,
-    },
-    historyInfo: {
-        flex: 1,
-    },
-    historyTitle: {
-        fontSize: 14,
-        fontWeight: 'bold',
-        color: COLORS.text,
-    },
-    historyDate: {
-        fontSize: 12,
-        color: '#999',
-    },
-    historyScore: {
-        fontSize: 16,
-        fontWeight: 'bold',
-        color: COLORS.primary,
-    },
-    emptyState: {
-        padding: 30,
-        alignItems: 'center',
-    },
-    emptyText: {
-        color: '#999',
-        marginBottom: 15,
-    },
-    letsGoButton: {
-        backgroundColor: COLORS.primary,
-        paddingHorizontal: 20,
-        paddingVertical: 10,
-        borderRadius: 20,
-    },
-    letsGoText: {
-        color: COLORS.white,
-        fontWeight: 'bold',
-    },
     headerButtons: {
         flexDirection: 'row',
         alignItems: 'center',
@@ -501,6 +464,7 @@ const styles = StyleSheet.create({
         borderTopRightRadius: 30,
         padding: 30,
         paddingBottom: 50,
+        maxHeight: '80%',
     },
     modalTitle: {
         fontSize: 22,
@@ -528,7 +492,7 @@ const styles = StyleSheet.create({
         flexDirection: 'row',
         flexWrap: 'wrap',
         justifyContent: 'space-between',
-        marginBottom: 30,
+        marginBottom: 10,
     },
     modalEmojiItem: {
         width: '18%',
@@ -571,5 +535,31 @@ const styles = StyleSheet.create({
     saveButtonText: {
         color: COLORS.white,
         fontWeight: 'bold',
+    },
+    legalButton: {
+        flexDirection: 'row',
+        alignItems: 'center',
+        paddingVertical: 15,
+        borderBottomWidth: 1,
+        borderBottomColor: '#F0F2F5',
+        gap: 15,
+    },
+    legalButtonText: {
+        flex: 1,
+        fontSize: 15,
+        color: COLORS.text,
+    },
+    versionText: {
+        textAlign: 'center',
+        color: '#BDC3C7',
+        fontSize: 12,
+        marginTop: 10,
+        marginBottom: 30,
+    },
+    bannerContainer: {
+        position: 'absolute',
+        bottom: 0,
+        width: '100%',
+        backgroundColor: COLORS.white,
     },
 });

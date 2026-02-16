@@ -2,6 +2,9 @@ import React, { useEffect, useState } from 'react';
 import { View, Text, StyleSheet, FlatList, TouchableOpacity, ActivityIndicator, Platform } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
+import AsyncStorage from '@react-native-async-storage/async-storage';
+import AdBanner from '../components/AdBanner';
+import RewardedAdButton from '../components/RewardedAdButton';
 
 const COLORS = {
     primary: '#FF6B6B',
@@ -17,6 +20,8 @@ import { API_URL } from '../config';
 export default function TestListScreen({ navigation }: any) {
     const [tests, setTests] = useState<any[]>([]);
     const [loading, setLoading] = useState(true);
+    const [isPremium, setIsPremium] = useState(false);
+    const [userTokens, setUserTokens] = useState(0);
 
     useEffect(() => {
         const fetchTests = async () => {
@@ -35,12 +40,36 @@ export default function TestListScreen({ navigation }: any) {
             }
         };
         fetchTests();
+        fetchUserData();
     }, []);
+
+    const fetchUserData = async () => {
+        try {
+            const userId = await AsyncStorage.getItem('USER_ID');
+            const token = await AsyncStorage.getItem('AUTH_TOKEN');
+            if (!userId) return;
+
+            const res = await fetch(`${API_URL}/user/${userId}`, {
+                headers: { 'Authorization': `Bearer ${token}` }
+            });
+            if (res.ok) {
+                const userData = await res.json();
+                setIsPremium(userData.is_premium || userData.role === 'pro');
+                setUserTokens(userData.tokens || 0);
+            }
+        } catch (e) {
+            console.error('Error fetching user data:', e);
+        }
+    };
+
+    const handleTestPress = (test: any) => {
+        navigation.navigate('TestScreen', { testId: test.id, testTitle: test.title });
+    };
 
     const renderItem = ({ item, index }: any) => (
         <TouchableOpacity
             style={styles.testCard}
-            onPress={() => navigation.navigate('TestScreen', { testId: item.id, testTitle: item.title })}
+            onPress={() => handleTestPress(item)}
         >
             <View style={[styles.iconBox, { backgroundColor: index % 2 === 0 ? '#E8F6F3' : '#FFF5F5' }]}>
                 <Ionicons
@@ -61,7 +90,23 @@ export default function TestListScreen({ navigation }: any) {
         <SafeAreaView style={styles.container}>
             <View style={styles.header}>
                 <Text style={styles.headerTitle}>Konu Tarama Testleri</Text>
+                {/* Token info hidden for now
+                {!isPremium && (
+                    <View style={styles.tokenInfo}>
+                        <Ionicons name="diamond" size={16} color={COLORS.accent} />
+                        <Text style={styles.tokenText}>{userTokens} Token</Text>
+                    </View>
+                )}
+                */}
             </View>
+
+            {/* Token section hidden for now
+            {!isPremium && (
+                <View style={styles.adSection}>
+                    <RewardedAdButton onRewardGranted={(newBalance) => setUserTokens(newBalance)} />
+                </View>
+            )}
+            */}
 
             {loading ? (
                 <ActivityIndicator size="large" color={COLORS.primary} style={{ marginTop: 50 }} />
@@ -70,9 +115,15 @@ export default function TestListScreen({ navigation }: any) {
                     data={tests}
                     renderItem={renderItem}
                     keyExtractor={(item) => item.id}
-                    contentContainerStyle={styles.listContent}
+                    contentContainerStyle={[styles.listContent, !isPremium && { paddingBottom: 80 }]}
                     ListEmptyComponent={<Text style={styles.emptyText}>Henüz test bulunmamaktadır.</Text>}
                 />
+            )}
+
+            {!isPremium && (
+                <View style={styles.bannerContainer}>
+                    <AdBanner showAd={!isPremium} />
+                </View>
             )}
         </SafeAreaView>
     );
@@ -94,6 +145,23 @@ const styles = StyleSheet.create({
         fontSize: 20,
         fontWeight: 'bold',
         color: COLORS.text,
+    },
+    tokenInfo: {
+        flexDirection: 'row',
+        alignItems: 'center',
+        gap: 5,
+        marginTop: 5,
+    },
+    tokenText: {
+        fontSize: 14,
+        fontWeight: '600',
+        color: COLORS.text,
+    },
+    adSection: {
+        padding: 15,
+        backgroundColor: COLORS.white,
+        borderBottomWidth: 1,
+        borderBottomColor: '#F0F2F5',
     },
     listContent: {
         padding: 20,
@@ -136,5 +204,12 @@ const styles = StyleSheet.create({
         textAlign: 'center',
         marginTop: 20,
         color: '#999',
+    },
+    bannerContainer: {
+        position: 'absolute',
+        bottom: 0,
+        width: '100%',
+        backgroundColor: COLORS.white,
+        paddingBottom: Platform.OS === 'ios' ? 20 : 0,
     },
 });

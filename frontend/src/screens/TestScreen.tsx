@@ -109,7 +109,7 @@ export default function TestScreen({ route, navigation }: any) {
         const baseUrl = API_URL;
         const apiUrl = testId ? `${baseUrl}/test/${testId}/questions` : `${baseUrl}/questions`;
 
-        console.log('Fetching from:', apiUrl);
+
 
         fetch(apiUrl)
             .then((response) => response.json())
@@ -191,11 +191,13 @@ export default function TestScreen({ route, navigation }: any) {
         submitExam();
     };
 
+    const [submitResult, setSubmitResult] = useState<any>(null);
+
     const submitExam = async () => {
         try {
             const token = await AsyncStorage.getItem('AUTH_TOKEN');
 
-            await fetch(`${API_URL}/submit-test`, {
+            const res = await fetch(`${API_URL}/submit-test`, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
@@ -206,6 +208,14 @@ export default function TestScreen({ route, navigation }: any) {
                     score: score
                 })
             });
+
+            if (res.ok) {
+                const data = await res.json();
+                setSubmitResult(data);
+                if (data.leveled_up) {
+                    Alert.alert('TEBRİKLER! 🎉', `Seviye Atladın! Yeni Seviyen: ${data.new_level}`);
+                }
+            }
         } catch (e) {
             console.error('Error submitting exam:', e);
         }
@@ -253,27 +263,57 @@ export default function TestScreen({ route, navigation }: any) {
         const emptyCount = questions.length - (correctCount + wrongCount);
 
         return (
-            <SafeAreaView style={[styles.container, styles.centerContent]}>
-                <Text style={styles.timeUpText}>
-                    {isTimeUp ? "Süreniz Dolmuştur" : "Sınav Tamamlandı"}
-                </Text>
-                <Text style={styles.finalScoreText}>Puanınız: {score}</Text>
+            <SafeAreaView style={[styles.container, { backgroundColor: COLORS.white }]}>
+                <ScrollView contentContainerStyle={[styles.centerContent, { padding: 30 }]}>
+                    <Ionicons
+                        name={correctCount > questions.length / 2 ? "trophy" : "ribbon"}
+                        size={80}
+                        color={COLORS.accent}
+                    />
 
-                <View style={styles.statsContainer}>
-                    <Text style={[styles.statText, { color: COLORS.success }]}>Doğru Sayısı: {correctCount}</Text>
-                    <Text style={[styles.statText, { color: COLORS.error }]}>Yanlış Sayısı: {wrongCount}</Text>
-                    <Text style={[styles.statText, { color: COLORS.text }]}>Boş Sayısı: {emptyCount}</Text>
-                </View>
+                    <Text style={styles.timeUpText}>
+                        {isTimeUp ? "Süra Doldu!" : "Tebrikler!"}
+                    </Text>
 
-                <View style={{ gap: 10 }}>
-                    <TouchableOpacity style={styles.retryButton} onPress={handleTryAgain}>
-                        <Text style={styles.retryButtonText}>Tekrar Deneyiniz</Text>
-                    </TouchableOpacity>
+                    <View style={styles.resultCard}>
+                        <Text style={styles.finalScoreLabel}>Toplam Puan</Text>
+                        <Text style={styles.finalScoreValue}>{score}</Text>
+                    </View>
 
-                    <TouchableOpacity style={[styles.retryButton, { backgroundColor: COLORS.secondary }]} onPress={handleGoHome}>
-                        <Text style={styles.retryButtonText}>Ana Sayfaya Dön</Text>
-                    </TouchableOpacity>
-                </View>
+                    <View style={styles.statsGrid}>
+                        <View style={[styles.statBox, { borderLeftColor: COLORS.success }]}>
+                            <Text style={styles.statLabel}>Doğru</Text>
+                            <Text style={[styles.statValueShort, { color: COLORS.success }]}>{correctCount}</Text>
+                        </View>
+                        <View style={[styles.statBox, { borderLeftColor: COLORS.error }]}>
+                            <Text style={styles.statLabel}>Yanlış</Text>
+                            <Text style={[styles.statValueShort, { color: COLORS.error }]}>{wrongCount}</Text>
+                        </View>
+                        <View style={[styles.statBox, { borderLeftColor: COLORS.disabled }]}>
+                            <Text style={styles.statLabel}>Boş</Text>
+                            <Text style={[styles.statValueShort, { color: COLORS.text }]}>{emptyCount}</Text>
+                        </View>
+                    </View>
+
+                    {submitResult && (
+                        <View style={styles.xpInfo}>
+                            <Ionicons name="sparkles" size={16} color={COLORS.primary} />
+                            <Text style={styles.xpText}>+{submitResult.score_added || 0} XP Kazanıldı</Text>
+                        </View>
+                    )}
+
+                    <View style={styles.resultActions}>
+                        <TouchableOpacity style={styles.primaryActionButton} onPress={handleTryAgain}>
+                            <Ionicons name="refresh" size={20} color="white" />
+                            <Text style={styles.actionButtonText}>Tekrar Çöz</Text>
+                        </TouchableOpacity>
+
+                        <TouchableOpacity style={styles.secondaryActionButton} onPress={handleGoHome}>
+                            <Ionicons name="home" size={20} color={COLORS.primary} />
+                            <Text style={[styles.actionButtonText, { color: COLORS.primary }]}>Ana Sayfa</Text>
+                        </TouchableOpacity>
+                    </View>
+                </ScrollView>
             </SafeAreaView>
         );
     }
@@ -597,5 +637,92 @@ const styles = StyleSheet.create({
     statText: {
         fontSize: 18,
         fontWeight: '600',
+    },
+    resultCard: {
+        backgroundColor: COLORS.background,
+        padding: 20,
+        borderRadius: 20,
+        width: '100%',
+        alignItems: 'center',
+        marginVertical: 20,
+    },
+    finalScoreLabel: {
+        fontSize: 14,
+        color: '#7F8C8D',
+        fontWeight: 'bold',
+        textTransform: 'uppercase',
+    },
+    finalScoreValue: {
+        fontSize: 48,
+        fontWeight: 'bold',
+        color: COLORS.primary,
+    },
+    statsGrid: {
+        flexDirection: 'row',
+        justifyContent: 'space-between',
+        width: '100%',
+        marginBottom: 30,
+    },
+    statBox: {
+        flex: 1,
+        backgroundColor: '#F8FAFC',
+        padding: 10,
+        borderRadius: 12,
+        marginHorizontal: 5,
+        borderLeftWidth: 4,
+        alignItems: 'center',
+    },
+    statLabel: {
+        fontSize: 12,
+        color: '#7F8C8D',
+        fontWeight: 'bold',
+    },
+    statValueShort: {
+        fontSize: 20,
+        fontWeight: 'bold',
+    },
+    xpInfo: {
+        flexDirection: 'row',
+        alignItems: 'center',
+        backgroundColor: '#FFF5F5',
+        paddingHorizontal: 15,
+        paddingVertical: 8,
+        borderRadius: 20,
+        gap: 8,
+        marginBottom: 30,
+    },
+    xpText: {
+        color: COLORS.primary,
+        fontWeight: 'bold',
+        fontSize: 14,
+    },
+    resultActions: {
+        width: '100%',
+        gap: 15,
+    },
+    primaryActionButton: {
+        flexDirection: 'row',
+        backgroundColor: COLORS.primary,
+        padding: 18,
+        borderRadius: 15,
+        alignItems: 'center',
+        justifyContent: 'center',
+        gap: 10,
+    },
+    secondaryActionButton: {
+        flexDirection: 'row',
+        backgroundColor: 'white',
+        borderWidth: 2,
+        borderColor: COLORS.primary,
+        padding: 18,
+        borderRadius: 15,
+        alignItems: 'center',
+        justifyContent: 'center',
+        gap: 10,
+    },
+    actionButtonText: {
+        color: 'white',
+        fontSize: 16,
+        fontWeight: 'bold',
     },
 });

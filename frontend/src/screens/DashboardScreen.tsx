@@ -4,7 +4,10 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { useFocusEffect } from '@react-navigation/native';
+import AdBanner from '../components/AdBanner';
+import RewardedAdButton from '../components/RewardedAdButton';
 import { API_URL } from '../config';
+import { getEmojiById } from '../constants/emojis';
 
 const COLORS = {
     primary: '#FF6B6B',
@@ -21,6 +24,8 @@ export default function DashboardScreen({ navigation, onLogout }: any) {
     const [leaderboard, setLeaderboard] = useState<any[]>([]);
     const [refreshing, setRefreshing] = useState(false);
     const [isLoading, setIsLoading] = useState(true);
+    const [isPremium, setIsPremium] = useState(false);
+    const [userTokens, setUserTokens] = useState(0);
 
     const fetchData = async () => {
         try {
@@ -36,16 +41,17 @@ export default function DashboardScreen({ navigation, onLogout }: any) {
 
             const token = await AsyncStorage.getItem('AUTH_TOKEN');
 
-            // Fetch User
             const userRes = await fetch(`${baseUrl}/user/${userId}?t=${timestamp}`, {
                 headers: { 'Authorization': `Bearer ${token}` }
             });
             if (userRes.ok) {
                 const userData = await userRes.json();
                 setUser(userData);
+                setIsPremium(userData.is_premium || false);
+                setUserTokens(userData.tokens || 0);
             } else {
                 // User not found or Auth error
-                console.log('User not found or Auth error, logging out...');
+
                 await AsyncStorage.multiRemove(['USER_ID', 'AUTH_TOKEN']);
                 if (onLogout) onLogout();
                 return;
@@ -58,7 +64,11 @@ export default function DashboardScreen({ navigation, onLogout }: any) {
                 setLeaderboard(lbData || []);
             }
         } catch (e) {
-            console.error(e);
+            console.error('Fetch error:', e);
+            // If we get an error here, especially a network error while switching backends,
+            // it's safer to logout to clear old session data.
+            await AsyncStorage.multiRemove(['USER_ID', 'AUTH_TOKEN']);
+            if (onLogout) onLogout();
         } finally {
             setRefreshing(false);
             setIsLoading(false);
@@ -98,7 +108,7 @@ export default function DashboardScreen({ navigation, onLogout }: any) {
                         <Text style={styles.greeting}>Merhaba,</Text>
                         <Text style={styles.nickname}>{user?.nickname || 'Öğrenci'}</Text>
                     </View>
-                    <Text style={styles.emoji}>{user?.emoji || '👋'}</Text>
+                    <Text style={styles.emoji}>{getEmojiById(user?.emoji)}</Text>
                 </View>
 
                 {/* Streak Card */}
@@ -138,7 +148,7 @@ export default function DashboardScreen({ navigation, onLogout }: any) {
                     {leaderboard.map((item, index) => (
                         <View key={index} style={styles.leaderboardItem}>
                             <Text style={styles.rank}>#{index + 1}</Text>
-                            <Text style={styles.lbEmoji}>{item.emoji}</Text>
+                            <Text style={styles.lbEmoji}>{getEmojiById(item.emoji)}</Text>
                             <Text style={styles.lbName}>{item.nickname}</Text>
                             <Text style={styles.lbScore}>{item.score} P</Text>
                         </View>
@@ -146,7 +156,26 @@ export default function DashboardScreen({ navigation, onLogout }: any) {
                     {leaderboard.length === 0 && <Text style={{ textAlign: 'center', color: '#999' }}>Henüz veri yok.</Text>}
                 </View>
 
+                {/* Token Section hidden for now
+                {!isPremium && (
+                    <View style={styles.adSection}>
+                        <View style={styles.tokenDisplay}>
+                            <Ionicons name="diamond" size={20} color={COLORS.primary} />
+                            <Text style={styles.tokenText}>{userTokens} Token</Text>
+                        </View>
+                        <RewardedAdButton onRewardGranted={(newBalance) => setUserTokens(newBalance)} />
+                    </View>
+                )}
+                */}
+
             </ScrollView>
+
+            {/* Banner Ad at the bottom */}
+            {!isPremium && (
+                <View style={styles.bannerContainer}>
+                    <AdBanner showAd={!isPremium} />
+                </View>
+            )}
         </SafeAreaView>
     );
 }
@@ -293,5 +322,31 @@ const styles = StyleSheet.create({
     lbScore: {
         fontWeight: 'bold',
         color: COLORS.primary,
+    },
+    adSection: {
+        marginTop: 20,
+        marginBottom: 10,
+        alignItems: 'center',
+    },
+    tokenDisplay: {
+        flexDirection: 'row',
+        alignItems: 'center',
+        backgroundColor: COLORS.white,
+        paddingHorizontal: 15,
+        paddingVertical: 8,
+        borderRadius: 15,
+        marginBottom: 10,
+    },
+    tokenText: {
+        marginLeft: 8,
+        fontWeight: 'bold',
+        color: COLORS.text,
+    },
+    bannerContainer: {
+        position: 'absolute',
+        bottom: 0,
+        width: '100%',
+        backgroundColor: COLORS.white,
+        paddingBottom: Platform.OS === 'ios' ? 20 : 0,
     },
 });

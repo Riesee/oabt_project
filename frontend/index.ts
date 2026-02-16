@@ -1,8 +1,13 @@
 import { registerRootComponent } from 'expo';
-
 import App from './App';
+import mobileAds from 'react-native-google-mobile-ads';
 
-// registerRootComponent calls AppRegistry.registerComponent('main', () => App);
-// It also ensures that whether you load the app in Expo Go or in a native build,
-// the environment is set up appropriately
+// Initialize Ads as early as possible
+mobileAds()
+    .initialize()
+    .then(() => {
+
+    })
+    .catch(e => console.error('AdMob Init Error:', e));
+
 registerRootComponent(App);

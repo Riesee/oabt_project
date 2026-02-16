@@ -2,6 +2,7 @@
   "expo": {
     "name": "ÖABT Özel Eğitim",
     "slug": "oabt-ozel-egitim",
+    "scheme": "oabtozelegitim",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/logo.png",
@@ -13,9 +14,14 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.riesee.oabtozelegitim",
+      "buildNumber": "1",
+      "icon": "./assets/logo.png"
     },
     "android": {
+      "package": "com.riesee.oabtozelegitim",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/logo.png",
         "backgroundColor": "#ffffff"
@@ -25,6 +31,21 @@
     },
     "web": {
       "favicon": "./assets/logo.png"
+    },
+    "plugins": [
+      [
+        "react-native-google-mobile-ads",
+        {
+          "androidAppId": "ca-app-pub-4680021224989326~9738243150",
+          "iosAppId": "ca-app-pub-4680021224989326~2303430673"
+        }
+      ],
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "eeb7206d-a105-4a4d-8267-59d931d844d3"
+      }
     }
   }
 }

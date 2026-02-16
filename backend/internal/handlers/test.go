@@ -22,13 +22,47 @@ func GetTestsHandler(w http.ResponseWriter, r *http.Request) {
 	}
 	defer rows.Close()
 
-	var tests []models.Test
+	tests := []models.Test{}
 	for rows.Next() {
 		var t models.Test
 		rows.Scan(&t.ID, &t.Title, &t.Description)
 		tests = append(tests, t)
 	}
 	json.NewEncoder(w).Encode(tests)
+}
+
+func GetQuestionsHandler(w http.ResponseWriter, r *http.Request) {
+	middleware.EnableCors(&w)
+	rows, err := database.DB.Query(`
+        SELECT id, test_id, question_id, category, subject, topic, sub_topic, difficulty, skill_level, text, options, solution, metadata, image_url, related_concept_id 
+        FROM questions LIMIT 100`)
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
+	defer rows.Close()
+
+	questions := []models.Question{}
+	for rows.Next() {
+		var q models.Question
+		var optsStr, solStr, metaStr []byte
+
+		err := rows.Scan(
+			&q.ID, &q.TestID, &q.QuestionID, &q.Category, &q.Subject, &q.Topic, &q.SubTopic,
+			&q.Difficulty, &q.SkillLevel, &q.Text, &optsStr, &solStr, &metaStr, &q.ImageURL, &q.RelatedConceptID,
+		)
+		if err != nil {
+			log.Printf("Error scanning question: %v", err)
+			continue
+		}
+
+		json.Unmarshal(optsStr, &q.Options)
+		json.Unmarshal(solStr, &q.Solution)
+		json.Unmarshal(metaStr, &q.Metadata)
+
+		questions = append(questions, q)
+	}
+	json.NewEncoder(w).Encode(questions)
 }
 
 func GetTestQuestionsHandler(w http.ResponseWriter, r *http.Request) {
@@ -49,7 +83,7 @@ func GetTestQuestionsHandler(w http.ResponseWriter, r *http.Request) {
 	}
 	defer rows.Close()
 
-	var questions []models.Question
+	questions := []models.Question{}
 	for rows.Next() {
 		var q models.Question
 		var optsStr, solStr, metaStr []byte

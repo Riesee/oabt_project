@@ -2,7 +2,11 @@ import React, { useState, useEffect, useCallback } from 'react';
 import { View, Text, StyleSheet, ScrollView, TouchableOpacity, Modal, StatusBar, ActivityIndicator, RefreshControl } from 'react-native';
 import { SafeAreaView, useSafeAreaInsets } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
+import AsyncStorage from '@react-native-async-storage/async-storage';
+import AdBanner from '../components/AdBanner';
+import RewardedAdButton from '../components/RewardedAdButton';
 import { API_URL } from '../config';
+import { SUBJECT_EMOJIS } from '../constants/emojis';
 
 const COLORS = {
     primary: '#FF6B6B',
@@ -21,6 +25,8 @@ export default function SubjectsScreen() {
     const [subjects, setSubjects] = useState<any[]>([]);
     const [isLoading, setIsLoading] = useState(true);
     const [refreshing, setRefreshing] = useState(false);
+    const [isPremium, setIsPremium] = useState(false);
+    const [userTokens, setUserTokens] = useState(0);
 
     const fetchSubjects = async () => {
         try {
@@ -39,7 +45,26 @@ export default function SubjectsScreen() {
 
     useEffect(() => {
         fetchSubjects();
+        checkPremiumStatus();
     }, []);
+
+    const checkPremiumStatus = async () => {
+        try {
+            const userId = await AsyncStorage.getItem('USER_ID');
+            const token = await AsyncStorage.getItem('AUTH_TOKEN');
+            if (!userId) return;
+            const res = await fetch(`${API_URL}/user/${userId}`, {
+                headers: { 'Authorization': `Bearer ${token}` }
+            });
+            if (res.ok) {
+                const data = await res.json();
+                setIsPremium(data.is_premium || false);
+                setUserTokens(data.tokens || 0);
+            }
+        } catch (e) {
+            console.error(e);
+        }
+    };
 
     const onRefresh = useCallback(() => {
         setRefreshing(true);
@@ -64,7 +89,10 @@ export default function SubjectsScreen() {
             activeOpacity={0.7}
         >
             <View style={styles.cardHeader}>
-                <Text style={styles.subjectTitle}>{item.title}</Text>
+                <View style={styles.titleRow}>
+                    <Text style={styles.subjectEmoji}>{SUBJECT_EMOJIS[item.title] || SUBJECT_EMOJIS['default']}</Text>
+                    <Text style={styles.subjectTitle}>{item.title}</Text>
+                </View>
                 <View style={styles.weightBadge}>
                     <Text style={styles.weightText}>{item.weight}</Text>
                 </View>
@@ -183,6 +211,9 @@ export default function SubjectsScreen() {
                     </ScrollView>
                 </View>
             </Modal>
+
+            {/* Bottom Ad Banner */}
+            {!isPremium && <AdBanner showAd={!isPremium} />}
         </SafeAreaView>
     );
 }
@@ -260,6 +291,15 @@ const styles = StyleSheet.create({
         color: COLORS.text,
         lineHeight: 22,
         marginRight: 10,
+    },
+    titleRow: {
+        flexDirection: 'row',
+        alignItems: 'center',
+        flex: 1,
+    },
+    subjectEmoji: {
+        fontSize: 24,
+        marginRight: 12,
     },
     weightBadge: {
         backgroundColor: '#FFF5F5',

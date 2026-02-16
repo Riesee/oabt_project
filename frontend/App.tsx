@@ -16,6 +16,8 @@ import TestScreen from './src/screens/TestScreen';
 import ProfileScreen from './src/screens/ProfileScreen';
 import OnboardingScreen from './src/screens/OnboardingScreen';
 import SubjectsScreen from './src/screens/SubjectsScreen';
+import LegalScreen from './src/screens/LegalScreen';
+
 
 // Navigators
 const Tab = createBottomTabNavigator();
@@ -149,6 +151,7 @@ export default function App() {
                 }} />}
               </Stack.Screen>
               <Stack.Screen name="TestScreen" component={TestScreen} />
+              <Stack.Screen name="LegalScreen" component={LegalScreen} />
             </>
           )}
         </Stack.Navigator>

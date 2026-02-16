@@ -58,15 +58,18 @@ func CreateTables() {
 		`ALTER TABLE users ADD COLUMN IF NOT EXISTS google_id TEXT UNIQUE`,
 		`ALTER TABLE users ADD COLUMN IF NOT EXISTS apple_id TEXT UNIQUE`,
 		`ALTER TABLE users ADD COLUMN IF NOT EXISTS provider TEXT DEFAULT 'local'`,
-		`DROP TABLE IF EXISTS test_results CASCADE`,
-		`DROP TABLE IF EXISTS questions CASCADE`,
-		`DROP TABLE IF EXISTS tests CASCADE`,
+		`ALTER TABLE users ADD COLUMN IF NOT EXISTS role TEXT DEFAULT 'free'`,
+		`ALTER TABLE users ADD COLUMN IF NOT EXISTS tokens INTEGER DEFAULT 0`,
+		`ALTER TABLE users ADD COLUMN IF NOT EXISTS is_premium BOOLEAN DEFAULT FALSE`,
+		// Explicitly ensure uniqueness for emails (case-insensitive) and provider IDs
+		`CREATE UNIQUE INDEX IF NOT EXISTS idx_users_email ON users(LOWER(email)) WHERE email IS NOT NULL AND email != ''`,
+		`CREATE UNIQUE INDEX IF NOT EXISTS idx_users_google_id ON users(google_id) WHERE google_id IS NOT NULL`,
+		`CREATE UNIQUE INDEX IF NOT EXISTS idx_users_apple_id ON users(apple_id) WHERE apple_id IS NOT NULL`,
 		`CREATE TABLE IF NOT EXISTS tests (
 			id UUID PRIMARY KEY,
 			title TEXT NOT NULL,
 			description TEXT
 		)`,
-		`DROP TABLE IF EXISTS questions CASCADE`,
 		`CREATE TABLE IF NOT EXISTS questions (
             id UUID PRIMARY KEY,
             test_id UUID REFERENCES tests(id),

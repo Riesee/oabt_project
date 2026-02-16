@@ -13,13 +13,12 @@ const COLORS = {
     white: '#FFFFFF',
 };
 
-const EMOJIS = ['👨‍🏫', '👩‍🏫', '🎓', '📚', '✏️', '🧠', '🚀', '⭐', '🦉', '🦁', '🦊', '🦄'];
-
 import { API_URL } from '../config';
+import { AVATAR_EMOJIS } from '../constants/emojis';
 
 export default function OnboardingScreen({ navigation, route }: any) {
     const [nickname, setNickname] = useState('');
-    const [selectedEmoji, setSelectedEmoji] = useState(EMOJIS[0]);
+    const [selectedEmoji, setSelectedEmoji] = useState(AVATAR_EMOJIS[0]);
     const [loading, setLoading] = useState(false);
     const [socialLoading, setSocialLoading] = useState<string | null>(null);
     const [step, setStep] = useState<'social' | 'nickname'>('social');
@@ -45,51 +44,66 @@ export default function OnboardingScreen({ navigation, route }: any) {
                     nickname: credential.fullName?.givenName || '',
                     oauth_id: credential.user,
                     provider: 'apple',
-                    emoji: '🍎'
+                    emoji: 'apple'
                 };
             } else if (provider === 'google') {
-                // Simulation for professional demo
+                // FIXED TEST ACCOUNT for consistent testing
                 userData = {
-                    email: 'user' + Date.now() + '@example.com',
-                    nickname: 'Kullanıcı',
-                    oauth_id: 'google-mock-' + Date.now(),
+                    nickname: 'Test Kullanıcı',
+                    oauth_id: 'google-fixed-test-id-123456', // Always the same
                     provider: 'google',
-                    emoji: '🚀'
+                    emoji: 'rocket'
                 };
             }
 
             if (userData) {
-                const res = await fetch(`${API_URL}/auth/social-login`, {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify(userData)
-                });
 
-                if (res.ok) {
-                    const data = await res.json();
-                    if (data.is_new_user) {
-                        setTempUserId(data.id);
-                        setTempToken(data.token);
-                        setStep('nickname');
-                    } else {
-                        await AsyncStorage.multiSet([
-                            ['USER_ID', data.id],
-                            ['AUTH_TOKEN', data.token || '']
-                        ]);
-                        if (route.params?.onLogin) {
-                            route.params.onLogin();
+
+                // Add a timeout to prevent infinite loading
+                const controller = new AbortController();
+                const timeoutId = setTimeout(() => controller.abort(), 10000); // 10 second timeout
+
+                try {
+                    const res = await fetch(`${API_URL}/auth/social-login`, {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify(userData),
+                        signal: controller.signal
+                    });
+                    clearTimeout(timeoutId);
+
+                    if (res.ok) {
+                        const data = await res.json();
+                        if (data.is_new_user) {
+                            setTempUserId(data.id);
+                            setTempToken(data.token);
+                            setStep('nickname');
+                        } else {
+                            await AsyncStorage.multiSet([
+                                ['USER_ID', data.id],
+                                ['AUTH_TOKEN', data.token || '']
+                            ]);
+                            if (route.params?.onLogin) {
+                                route.params.onLogin();
+                            }
                         }
+                    } else {
+                        const text = await res.text();
+                        console.error('Login Server Error:', text);
+                        Alert.alert('Hata', `Giriş başarısız (Backend): ${res.status} - ${text.substring(0, 50)}`);
                     }
-                } else {
-                    const text = await res.text();
-                    console.error('Login Server Error:', text);
-                    Alert.alert('Hata', `Giriş başarısız (Backend): ${res.status} - ${text.substring(0, 50)}`);
+                } catch (fetchErr: any) {
+                    clearTimeout(timeoutId);
+                    console.error('Fetch Error Details:', fetchErr);
+                    throw fetchErr; // Pass to outer catch
                 }
             }
         } catch (e: any) {
-            if (e.code !== 'ERR_REQUEST_CANCELED') {
-                console.error('Social Login Catch Error:', e);
-                Alert.alert('Hata', `Bağlantı hatası veya uygulama sorunu: ${e.message || 'Bilinmeyen'}`);
+            console.error('Social Login Catch Error:', e);
+            if (e.name === 'AbortError') {
+                Alert.alert('Zaman Aşımı', `Sunucu 10 saniye içinde yanıt vermedi. Lütfen internetinizi ve backend ayarlarını kontrol edin. Adres: ${API_URL}`);
+            } else {
+                Alert.alert('Bağlantı Hatası', `Sunucuya erişilemedi: ${e.message}\n\nAdres: ${API_URL}`);
             }
         } finally {
             setSocialLoading(null);
@@ -110,7 +124,7 @@ export default function OnboardingScreen({ navigation, route }: any) {
                     'Content-Type': 'application/json',
                     'Authorization': `Bearer ${tempToken}`
                 },
-                body: JSON.stringify({ nickname, emoji: selectedEmoji })
+                body: JSON.stringify({ nickname, emoji: selectedEmoji.id })
             });
 
             if (res.ok) {
@@ -184,13 +198,13 @@ export default function OnboardingScreen({ navigation, route }: any) {
 
                         <Text style={styles.label}>Avatarını Seç</Text>
                         <View style={styles.emojiGrid}>
-                            {EMOJIS.map((emoji, index) => (
+                            {AVATAR_EMOJIS.map((emoji, index) => (
                                 <TouchableOpacity
                                     key={index}
-                                    style={[styles.emojiItem, selectedEmoji === emoji && styles.emojiSelected]}
+                                    style={[styles.emojiItem, selectedEmoji.id === emoji.id && styles.emojiSelected]}
                                     onPress={() => setSelectedEmoji(emoji)}
                                 >
-                                    <Text style={styles.emojiText}>{emoji}</Text>
+                                    <Text style={styles.emojiText}>{emoji.char}</Text>
                                 </TouchableOpacity>
                             ))}
                         </View>

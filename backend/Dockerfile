@@ -1,30 +1,36 @@
 # Build stage
-FROM golang:1.25-alpine AS builder
+FROM golang:1.23-alpine AS builder
 
 WORKDIR /app
 
 # Copy go mod and sum files
-COPY go.mod go.sum ./
+COPY go.mod ./
+# If go.sum exists, uncomment the line below
+# COPY go.sum ./
+
+# Download dependencies
 RUN go mod download
 
-# Copy source code
+# Copy the source code
 COPY . .
 
 # Build the application
-RUN CGO_ENABLED=0 GOOS=linux go build -o main ./cmd/api/main.go
+RUN CGO_ENABLED=0 GOOS=linux go build -o main ./cmd/api
 
 # Final stage
-FROM alpine:latest  
+FROM alpine:latest
 
-WORKDIR /root/
+WORKDIR /app
 
 # Copy the binary from the builder stage
 COPY --from=builder /app/main .
-# Copy questions.json so seeding works
 COPY --from=builder /app/questions.json .
 
-# Expose the port the app runs on
+# Expose port
 EXPOSE 8080
 
-# Command to run the executable
+# Environment variables
+ENV PORT=8080
+
+# Command to run
 CMD ["./main"]

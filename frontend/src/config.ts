@@ -1,3 +1,5 @@
-// Expo environment variable (defined in .env)
-// Must start with EXPO_PUBLIC_ to be accessible in the app
-export const API_URL = process.env.EXPO_PUBLIC_API_URL || 'http://192.168.1.108:8080';
+// Production URL from Render.com
+const PROD_URL = 'https://oabt-project-1.onrender.com';
+
+export const API_URL = process.env.EXPO_PUBLIC_API_URL || PROD_URL;
+
