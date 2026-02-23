@@ -27,6 +27,33 @@ export default function DashboardScreen({ navigation, onLogout }: any) {
     const [isPremium, setIsPremium] = useState(false);
     const [userTokens, setUserTokens] = useState(0);
 
+    const [isStartingTest, setIsStartingTest] = useState(false);
+
+    const startRandomTest = async () => {
+        try {
+            setIsStartingTest(true);
+            const userId = await AsyncStorage.getItem('USER_ID');
+            if (!userId) return;
+
+            const res = await fetch(`${API_URL}/api/v1/test/random-unsolved?userId=${userId}`);
+            if (res.ok) {
+                const test = await res.json();
+                navigation.navigate('TestScreen', {
+                    testId: test.id,
+                    testTitle: test.title
+                });
+            } else {
+                // If error, just go to test list
+                navigation.navigate('Tests');
+            }
+        } catch (e) {
+            console.error('Error starting random test:', e);
+            navigation.navigate('Tests');
+        } finally {
+            setIsStartingTest(false);
+        }
+    };
+
     const fetchData = async () => {
         try {
             const userId = await AsyncStorage.getItem('USER_ID');
@@ -137,9 +164,19 @@ export default function DashboardScreen({ navigation, onLogout }: any) {
                 </View>
 
                 {/* Action Button */}
-                <TouchableOpacity style={styles.playButton} onPress={() => navigation.navigate('Tests')}>
-                    <Text style={styles.playButtonText}>Hemen Test Çöz</Text>
-                    <Ionicons name="arrow-forward-circle" size={30} color={COLORS.white} />
+                <TouchableOpacity
+                    style={[styles.playButton, isStartingTest && { opacity: 0.8 }]}
+                    onPress={startRandomTest}
+                    disabled={isStartingTest}
+                >
+                    <Text style={styles.playButtonText}>
+                        {isStartingTest ? 'Test Hazırlanıyor...' : 'Hemen Test Çöz'}
+                    </Text>
+                    {isStartingTest ? (
+                        <ActivityIndicator color={COLORS.white} />
+                    ) : (
+                        <Ionicons name="arrow-forward-circle" size={30} color={COLORS.white} />
+                    )}
                 </TouchableOpacity>
 
                 {/* Leaderboard */}

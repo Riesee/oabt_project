@@ -213,3 +213,34 @@ func DBStatsHandler(w http.ResponseWriter, r *http.Request) {
 		"questions_count": questionCount,
 	})
 }
+
+func GetRandomUnsolvedTestHandler(w http.ResponseWriter, r *http.Request) {
+	middleware.EnableCors(&w)
+	w.Header().Set("Content-Type", "application/json")
+	userID := r.URL.Query().Get("userId")
+	if userID == "" {
+		http.Error(w, "UserID required", http.StatusBadRequest)
+		return
+	}
+
+	var t models.Test
+	err := database.DB.QueryRow(`
+		SELECT id, title, description 
+		FROM tests 
+		WHERE id NOT IN (SELECT test_id FROM test_results WHERE user_id = $1)
+		ORDER BY RANDOM() 
+		LIMIT 1`, userID).Scan(&t.ID, &t.Title, &t.Description)
+
+	if err != nil {
+		if err == sql.ErrNoRows {
+			// If all tests solved, just return any random test
+			err = database.DB.QueryRow("SELECT id, title, description FROM tests ORDER BY RANDOM() LIMIT 1").Scan(&t.ID, &t.Title, &t.Description)
+		}
+		if err != nil {
+			http.Error(w, "No tests available", http.StatusNotFound)
+			return
+		}
+	}
+
+	json.NewEncoder(w).Encode(t)
+}

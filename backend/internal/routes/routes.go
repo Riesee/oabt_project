@@ -60,6 +60,7 @@ func RegisterRoutes() *http.ServeMux {
 	mux.HandleFunc("/api/v1/admin/sync", wrap(middleware.AuthMiddleware(middleware.RequireAdmin(handlers.SyncQuestionsHandler))))
 	mux.HandleFunc("/api/v1/debug/db-stats", wrap(handlers.DBStatsHandler))
 	mux.HandleFunc("/api/v1/debug/sync-public", wrap(handlers.SyncQuestionsHandler))
+	mux.HandleFunc("/api/v1/test/random-unsolved", wrap(handlers.GetRandomUnsolvedTestHandler))
 
 	return mux
 }
