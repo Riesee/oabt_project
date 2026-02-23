@@ -58,31 +58,38 @@ func SeedData() {
 					continue
 				}
 
-				// Check if question already exists in THIS category
-				var existingID string
-				categoryName := strings.Title(strings.TrimSpace(strings.ReplaceAll(strings.ReplaceAll(strings.ReplaceAll(strings.TrimSuffix(file.Name(), filepath.Ext(file.Name())), " öabt sorular", ""), " ÖABT sorular", ""), " sorular", "")))
+				// Use the cleaned filename as the category
+				categoryName := file.Name()
+				categoryName = strings.TrimSuffix(categoryName, filepath.Ext(categoryName))
+				categoryName = strings.ReplaceAll(categoryName, " öabt sorular", "")
+				categoryName = strings.ReplaceAll(categoryName, " ÖABT sorular", "")
+				categoryName = strings.ReplaceAll(categoryName, " sorular", "")
+				categoryName = strings.Title(strings.TrimSpace(categoryName))
 
+				// Check if question already exists
+				var existingID string
 				err := DB.QueryRow("SELECT id FROM questions WHERE question_id = $1 AND category = $2", q.QuestionID, categoryName).Scan(&existingID)
 				if err == nil {
 					continue
 				}
 
-				// Switch to a new test ID every 20 questions
-				if currentTestID == "" || newQuestionsInFile%questionsPerTest == 0 {
-					category := categoryName
-					testNum := (newQuestionsInFile / questionsPerTest) + 1
-					testTitle := fmt.Sprintf("%s - Deneme %d", category, testNum)
+				// Change test every 20 questions
+				testNum := (newQuestionsInFile / questionsPerTest) + 1
+				testTitle := fmt.Sprintf("%s - Deneme %d", categoryName, testNum)
 
+				if currentTestID == "" || newQuestionsInFile%questionsPerTest == 0 {
 					var testID string
 					err := DB.QueryRow("SELECT id FROM tests WHERE title = $1", testTitle).Scan(&testID)
 					if err != nil {
 						newUUID, _ := uuid.NewV7()
 						testID = newUUID.String()
 						_, err = DB.Exec("INSERT INTO tests (id, title, description) VALUES ($1, $2, $3)",
-							testID, testTitle, "ÖABT "+category+" Alan Bilgisi")
+							testID, testTitle, "ÖABT "+categoryName+" Alan Bilgisi")
 						if err != nil {
 							log.Printf("Error creating test %s: %v", testTitle, err)
 							_ = DB.QueryRow("SELECT id FROM tests WHERE title = $1", testTitle).Scan(&testID)
+						} else {
+							fmt.Printf("Created NEW test title: %s\n", testTitle)
 						}
 					}
 					currentTestID = testID
@@ -100,7 +107,7 @@ func SeedData() {
 				_, err = DB.Exec(`INSERT INTO questions 
 					(id, test_id, question_id, category, subject, topic, sub_topic, difficulty, skill_level, text, options, solution, metadata, image_url, related_concept_id) 
 					VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15)`,
-					qID.String(), currentTestID, q.QuestionID, q.Category, q.Subject, q.Topic, q.SubTopic, q.Difficulty, q.SkillLevel, q.Text, optionsJson, solutionJson, metadataJson, q.ImageURL, q.RelatedConceptID)
+					qID.String(), currentTestID, q.QuestionID, categoryName, q.Subject, q.Topic, q.SubTopic, q.Difficulty, q.SkillLevel, q.Text, optionsJson, solutionJson, metadataJson, q.ImageURL, q.RelatedConceptID)
 
 				if err == nil {
 					newQuestionsInFile++
@@ -110,7 +117,7 @@ func SeedData() {
 				}
 			}
 			if newQuestionsInFile > 0 {
-				fmt.Printf("Successfully seeded %d new questions from %s\n", newQuestionsInFile, file.Name())
+				fmt.Printf("Successfully seeded %d questions from %s divided into %d tests\n", newQuestionsInFile, file.Name(), (newQuestionsInFile+19)/20)
 			}
 		}
 	}

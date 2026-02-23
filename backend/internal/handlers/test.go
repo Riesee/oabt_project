@@ -81,16 +81,18 @@ func GetQuestionsHandler(w http.ResponseWriter, r *http.Request) {
 
 func GetTestQuestionsHandler(w http.ResponseWriter, r *http.Request) {
 	middleware.EnableCors(&w)
-	parts := strings.Split(r.URL.Path, "/")
-	if len(parts) < 3 {
+	parts := strings.Split(strings.Trim(r.URL.Path, "/"), "/")
+	if len(parts) < 2 {
 		http.Error(w, "Invalid URL", http.StatusBadRequest)
 		return
 	}
-	testID := parts[2]
+	// URL can be /test/<id> or /test/<id>/questions
+	testID := parts[1]
+	log.Printf("Fetching questions for testID: %s", testID)
 
 	rows, err := database.DB.Query(`
-        SELECT id, test_id, question_id, category, subject, topic, sub_topic, difficulty, skill_level, text, options, solution, metadata, image_url, related_concept_id 
-        FROM questions WHERE test_id=$1`, testID)
+		SELECT id, test_id, question_id, category, subject, topic, sub_topic, difficulty, skill_level, text, options, solution, metadata, image_url, related_concept_id 
+		FROM questions WHERE test_id=$1`, testID)
 	if err != nil {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
 		return

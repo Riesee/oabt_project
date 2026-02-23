@@ -107,7 +107,7 @@ export default function TestScreen({ route, navigation }: any) {
 
     useEffect(() => {
         const baseUrl = API_URL;
-        const apiUrl = testId ? `${baseUrl}/test/${testId}/questions` : `${baseUrl}/questions`;
+        const apiUrl = testId ? `${baseUrl}/test/${testId}` : `${baseUrl}/questions`;
 
 
 
