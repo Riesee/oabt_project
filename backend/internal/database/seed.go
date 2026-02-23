@@ -47,34 +47,35 @@ func SeedData() {
 
 			questionsPerTest := 100
 			currentTestID := ""
-
-			for i, q := range fileQuestions {
-				// Check if question already exists by its original question_id
+			newQuestionsInFile := 0
+			for _, q := range fileQuestions {
+				// Check if question already exists
 				var existingID string
 				err := DB.QueryRow("SELECT id FROM questions WHERE question_id = $1", q.QuestionID).Scan(&existingID)
 				if err == nil {
-					// Question already exists, skip to next one
 					continue
 				}
 
-				if i%questionsPerTest == 0 || currentTestID == "" {
-					category := q.Category
-					if category == "" {
-						// Clean filename: "zihinsel yet öabt sorular.json" -> "Zihinsel Yet"
+				// Switch to a new test ID every 100 NEW questions, or if we don't have one yet
+				if currentTestID == "" || newQuestionsInFile%questionsPerTest == 0 {
+					var category string
+					if q.Category != "" {
+						category = q.Category
+					} else {
 						fname := file.Name()
 						nameWithoutExt := strings.TrimSuffix(fname, filepath.Ext(fname))
 						cleanName := strings.ReplaceAll(nameWithoutExt, " öabt sorular", "")
 						cleanName = strings.ReplaceAll(cleanName, " ÖABT sorular", "")
-						category = strings.Title(strings.TrimSpace(cleanName)) // strings.Title for better naming
+						category = strings.Title(strings.TrimSpace(cleanName))
 					}
 
-					testTitle := fmt.Sprintf("%s - Deneme %d", category, (i/questionsPerTest)+1)
+					// Determine test number based on how many questions we've already ekledik from this file
+					testNum := (newQuestionsInFile / questionsPerTest) + 1
+					testTitle := fmt.Sprintf("%s - Deneme %d", category, testNum)
 
-					// Check if test with this title already exists
 					var testID string
 					err := DB.QueryRow("SELECT id FROM tests WHERE title = $1", testTitle).Scan(&testID)
 					if err != nil {
-						// Create new test
 						newUUID, _ := uuid.NewV7()
 						testID = newUUID.String()
 						_, err = DB.Exec("INSERT INTO tests (id, title, description) VALUES ($1, $2, $3)",
@@ -97,9 +98,14 @@ func SeedData() {
 					VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15)`,
 					qID.String(), currentTestID, q.QuestionID, q.Category, q.Subject, q.Topic, q.SubTopic, q.Difficulty, q.SkillLevel, q.Text, optionsJson, solutionJson, metadataJson, q.ImageURL, q.RelatedConceptID)
 
-				if err != nil {
+				if err == nil {
+					newQuestionsInFile++
+				} else {
 					log.Printf("Error inserting question %s from %s: %v", q.QuestionID, file.Name(), err)
 				}
+			}
+			if newQuestionsInFile > 0 {
+				fmt.Printf("Successfully seeded %d new questions from %s\n", newQuestionsInFile, file.Name())
 			}
 		}
 	}
