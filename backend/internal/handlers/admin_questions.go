@@ -5,6 +5,7 @@ import (
 	"backend/internal/models"
 	"encoding/json"
 	"fmt"
+	"log"
 	"net/http"
 	"strings"
 
@@ -127,18 +128,27 @@ func DeleteQuestionHandler(w http.ResponseWriter, r *http.Request) {
 	w.WriteHeader(http.StatusNoContent)
 }
 
-// SyncQuestionsHandler triggers the seed logic manually (re-scans the data/questions folder)
+// SyncQuestionsHandler triggers the seed logic manually
 func SyncQuestionsHandler(w http.ResponseWriter, r *http.Request) {
-	if r.Method != http.MethodPost {
+	if r.Method != http.MethodPost && r.Method != http.MethodGet {
 		http.Error(w, "Method not allowed", http.StatusMethodNotAllowed)
 		return
+	}
+
+	clean := r.URL.Query().Get("clean") == "true"
+	if clean {
+		log.Println("ADMIN: Truncating tables for fresh sync...")
+		_, _ = database.DB.Exec("TRUNCATE questions, test_results, tests CASCADE")
 	}
 
 	database.SeedData()
 
 	w.Header().Set("Content-Type", "application/json")
 	w.WriteHeader(http.StatusOK)
-	json.NewEncoder(w).Encode(map[string]string{"status": "Sync completed! Checked all JSON files in data/questions folder."})
+	json.NewEncoder(w).Encode(map[string]string{
+		"status": "Sync successful",
+		"mode":   "Clean: " + r.URL.Query().Get("clean"),
+	})
 }
 
 // BulkCreateQuestionsHandler adds multiple questions at once from a JSON array

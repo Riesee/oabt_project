@@ -187,3 +187,15 @@ func SubmitTestHandler(w http.ResponseWriter, r *http.Request) {
 		"leveled_up":     newLevel > currentLevel,
 	})
 }
+
+func DBStatsHandler(w http.ResponseWriter, r *http.Request) {
+	middleware.EnableCors(&w)
+	var testCount, questionCount int
+	database.DB.QueryRow("SELECT COUNT(*) FROM tests").Scan(&testCount)
+	database.DB.QueryRow("SELECT COUNT(*) FROM questions").Scan(&questionCount)
+
+	json.NewEncoder(w).Encode(map[string]interface{}{
+		"tests_count":     testCount,
+		"questions_count": questionCount,
+	})
+}
