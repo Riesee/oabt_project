@@ -8,6 +8,7 @@ import (
 	"os"
 )
 
+// Build Version: 1.0.2
 func main() {
 	// Initialize Database
 	database.InitDB()
