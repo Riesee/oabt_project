@@ -58,23 +58,18 @@ func SeedData() {
 					continue
 				}
 
-				// Check if question already exists
+				// Check if question already exists in THIS category
 				var existingID string
-				err := DB.QueryRow("SELECT id FROM questions WHERE question_id = $1", q.QuestionID).Scan(&existingID)
+				categoryName := strings.Title(strings.TrimSpace(strings.ReplaceAll(strings.ReplaceAll(strings.ReplaceAll(strings.TrimSuffix(file.Name(), filepath.Ext(file.Name())), " öabt sorular", ""), " ÖABT sorular", ""), " sorular", "")))
+
+				err := DB.QueryRow("SELECT id FROM questions WHERE question_id = $1 AND category = $2", q.QuestionID, categoryName).Scan(&existingID)
 				if err == nil {
 					continue
 				}
 
 				// Switch to a new test ID every 20 questions
 				if currentTestID == "" || newQuestionsInFile%questionsPerTest == 0 {
-					var category string
-					fname := file.Name()
-					nameWithoutExt := strings.TrimSuffix(fname, filepath.Ext(fname))
-					cleanName := strings.ReplaceAll(nameWithoutExt, " öabt sorular", "")
-					cleanName = strings.ReplaceAll(cleanName, " ÖABT sorular", "")
-					cleanName = strings.ReplaceAll(cleanName, " sorular", "")
-					category = strings.Title(strings.TrimSpace(cleanName))
-
+					category := categoryName
 					testNum := (newQuestionsInFile / questionsPerTest) + 1
 					testTitle := fmt.Sprintf("%s - Deneme %d", category, testNum)
 
