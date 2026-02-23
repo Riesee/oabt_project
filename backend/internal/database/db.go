@@ -68,8 +68,10 @@ func CreateTables() {
 		`CREATE TABLE IF NOT EXISTS tests (
 			id UUID PRIMARY KEY,
 			title TEXT NOT NULL,
-			description TEXT
+			description TEXT,
+			category TEXT
 		)`,
+		`ALTER TABLE tests ADD COLUMN IF NOT EXISTS category TEXT`,
 		`CREATE TABLE IF NOT EXISTS questions (
             id UUID PRIMARY KEY,
             test_id UUID REFERENCES tests(id),

@@ -83,8 +83,8 @@ func SeedData() {
 					if err != nil {
 						newUUID, _ := uuid.NewV7()
 						testID = newUUID.String()
-						_, err = DB.Exec("INSERT INTO tests (id, title, description) VALUES ($1, $2, $3)",
-							testID, testTitle, "ÖABT "+categoryName+" Alan Bilgisi")
+						_, err = DB.Exec("INSERT INTO tests (id, title, description, category) VALUES ($1, $2, $3, $4)",
+							testID, testTitle, "ÖABT "+categoryName+" Alan Bilgisi", categoryName)
 						if err != nil {
 							log.Printf("Error creating test %s: %v", testTitle, err)
 							_ = DB.QueryRow("SELECT id FROM tests WHERE title = $1", testTitle).Scan(&testID)

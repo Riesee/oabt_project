@@ -21,22 +21,39 @@ const COLORS = {
 import { API_URL } from '../config';
 
 export default function TestListScreen({ navigation }: any) {
+    const [categories, setCategories] = useState<string[]>([]);
     const [tests, setTests] = useState<any[]>([]);
+    const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
     const [loading, setLoading] = useState(true);
     const [isPremium, setIsPremium] = useState(false);
     const [userTokens, setUserTokens] = useState(0);
 
-    const fetchTests = async () => {
+    const fetchCategories = async () => {
         try {
-            const baseUrl = API_URL;
+            setLoading(true);
+            const res = await fetch(`${API_URL}/tests/categories`);
+            if (res.ok) {
+                const data = await res.json();
+                setCategories(Array.isArray(data) ? data : []);
+            }
+        } catch (e) {
+            console.error('Error fetching categories:', e);
+        } finally {
+            setLoading(false);
+        }
+    };
+
+    const fetchTests = async (category: string) => {
+        try {
+            setLoading(true);
             const userId = await AsyncStorage.getItem('USER_ID');
-            const res = await fetch(`${baseUrl}/tests?userId=${userId || ''}`);
+            const res = await fetch(`${API_URL}/tests?userId=${userId || ''}&category=${encodeURIComponent(category)}`);
             if (res.ok) {
                 const data = await res.json();
                 setTests(Array.isArray(data) ? data : []);
             }
         } catch (e) {
-            console.error(e);
+            console.error('Error fetching tests:', e);
         } finally {
             setLoading(false);
         }
@@ -63,16 +80,44 @@ export default function TestListScreen({ navigation }: any) {
 
     useFocusEffect(
         useCallback(() => {
-            fetchTests();
+            if (selectedCategory) {
+                fetchTests(selectedCategory);
+            } else {
+                fetchCategories();
+            }
             fetchUserData();
-        }, [])
+        }, [selectedCategory])
     );
 
     const handleTestPress = (test: any) => {
         navigation.navigate('TestScreen', { testId: test.id, testTitle: test.title });
     };
 
-    const renderItem = ({ item, index }: any) => {
+    const handleCategoryPress = (category: string) => {
+        setSelectedCategory(category);
+    };
+
+    const renderCategoryItem = ({ item, index }: any) => (
+        <TouchableOpacity
+            style={styles.testCard}
+            onPress={() => handleCategoryPress(item)}
+        >
+            <View style={[styles.iconBox, { backgroundColor: index % 2 === 0 ? '#E8F6F3' : '#FFF5F5' }]}>
+                <Ionicons
+                    name="folder-open"
+                    size={24}
+                    color={index % 2 === 0 ? COLORS.secondary : COLORS.primary}
+                />
+            </View>
+            <View style={styles.testInfo}>
+                <Text style={styles.testTitle}>{item}</Text>
+                <Text style={styles.testDesc}>Alan Bilgisi Denemeleri</Text>
+            </View>
+            <Ionicons name="chevron-forward" size={24} color="#BDC3C7" />
+        </TouchableOpacity>
+    );
+
+    const renderTestItem = ({ item, index }: any) => {
         const isCompleted = item.completed;
 
         return (
@@ -116,34 +161,31 @@ export default function TestListScreen({ navigation }: any) {
     return (
         <SafeAreaView style={styles.container}>
             <View style={styles.header}>
-                <Text style={styles.headerTitle}>Konu Tarama Testleri</Text>
-                {/* Token info hidden for now
-                {!isPremium && (
-                    <View style={styles.tokenInfo}>
-                        <Ionicons name="diamond" size={16} color={COLORS.accent} />
-                        <Text style={styles.tokenText}>{userTokens} Token</Text>
-                    </View>
-                )}
-                */}
-            </View>
-
-            {/* Token section hidden for now
-            {!isPremium && (
-                <View style={styles.adSection}>
-                    <RewardedAdButton onRewardGranted={(newBalance) => setUserTokens(newBalance)} />
+                <View style={styles.headerTop}>
+                    {selectedCategory && (
+                        <TouchableOpacity style={styles.backButton} onPress={() => setSelectedCategory(null)}>
+                            <Ionicons name="arrow-back" size={24} color={COLORS.text} />
+                        </TouchableOpacity>
+                    )}
+                    <Text style={styles.headerTitle}>
+                        {selectedCategory ? selectedCategory : 'Konu Kategorileri'}
+                    </Text>
                 </View>
-            )}
-            */}
+            </View>
 
             {loading ? (
                 <ActivityIndicator size="large" color={COLORS.primary} style={{ marginTop: 50 }} />
             ) : (
                 <FlatList
-                    data={tests}
-                    renderItem={renderItem}
-                    keyExtractor={(item) => item.id}
+                    data={selectedCategory ? tests : categories}
+                    renderItem={selectedCategory ? renderTestItem : renderCategoryItem}
+                    keyExtractor={(item, index) => selectedCategory ? (item.id || index.toString()) : `cat-${index}`}
                     contentContainerStyle={[styles.listContent, !isPremium && { paddingBottom: 80 }]}
-                    ListEmptyComponent={<Text style={styles.emptyText}>Henüz test bulunmamaktadır.</Text>}
+                    ListEmptyComponent={
+                        <Text style={styles.emptyText}>
+                            {selectedCategory ? 'Bu kategoride test bulunmamaktadır.' : 'Henüz kategori bulunmamaktadır.'}
+                        </Text>
+                    }
                 />
             )}
 
@@ -168,10 +210,18 @@ const styles = StyleSheet.create({
         borderBottomWidth: 1,
         borderBottomColor: '#F0F2F5',
     },
+    headerTop: {
+        flexDirection: 'row',
+        alignItems: 'center',
+    },
+    backButton: {
+        marginRight: 15,
+    },
     headerTitle: {
-        fontSize: 20,
+        fontSize: 18,
         fontWeight: 'bold',
         color: COLORS.text,
+        flex: 1,
     },
     tokenInfo: {
         flexDirection: 'row',

@@ -17,17 +17,19 @@ import (
 func GetTestsHandler(w http.ResponseWriter, r *http.Request) {
 	middleware.EnableCors(&w)
 	userID := r.URL.Query().Get("userId")
+	category := r.URL.Query().Get("category")
 
 	var rows *sql.Rows
 	var err error
 
-	if userID != "" {
-		rows, err = database.DB.Query(`
-			SELECT t.id, t.title, t.description, 
-			EXISTS(SELECT 1 FROM test_results r WHERE r.test_id = t.id AND r.user_id = $1) as completed
-			FROM tests t ORDER BY t.title`, userID)
+	query := `SELECT t.id, t.title, t.description, COALESCE(t.category, ''), 
+			  EXISTS(SELECT 1 FROM test_results r WHERE r.test_id = t.id AND r.user_id = $1) as completed
+			  FROM tests t`
+
+	if category != "" {
+		rows, err = database.DB.Query(query+" WHERE t.category = $2 ORDER BY t.title", userID, category)
 	} else {
-		rows, err = database.DB.Query("SELECT id, title, description, false as completed FROM tests ORDER BY title")
+		rows, err = database.DB.Query(query+" ORDER BY t.title", userID)
 	}
 
 	if err != nil {
@@ -39,10 +41,28 @@ func GetTestsHandler(w http.ResponseWriter, r *http.Request) {
 	tests := []models.Test{}
 	for rows.Next() {
 		var t models.Test
-		rows.Scan(&t.ID, &t.Title, &t.Description, &t.Completed)
+		rows.Scan(&t.ID, &t.Title, &t.Description, &t.Category, &t.Completed)
 		tests = append(tests, t)
 	}
 	json.NewEncoder(w).Encode(tests)
+}
+
+func GetCategoriesHandler(w http.ResponseWriter, r *http.Request) {
+	middleware.EnableCors(&w)
+	rows, err := database.DB.Query("SELECT DISTINCT category FROM tests WHERE category IS NOT NULL AND category != '' ORDER BY category")
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
+	defer rows.Close()
+
+	categories := []string{}
+	for rows.Next() {
+		var c string
+		rows.Scan(&c)
+		categories = append(categories, c)
+	}
+	json.NewEncoder(w).Encode(categories)
 }
 
 func GetQuestionsHandler(w http.ResponseWriter, r *http.Request) {
