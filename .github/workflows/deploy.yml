@@ -1,4 +1,4 @@
-name: Render Auto Deploy
+name: Render Deployment
 
 on:
   push:
@@ -9,6 +9,12 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger Render Deploy Hook
-        run: |
-          curl -X POST "${{ secrets.RENDER_DEPLOY_HOOK }}"
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Trigger and Wait for Render Deploy
+        uses: johnbeynon/render-deploy-action@v0.0.8
+        with:
+          service-id: ${{ secrets.RENDER_SERVICE_ID }}
+          api-key: ${{ secrets.RENDER_API_KEY }}
+          wait-for-success: true 
