@@ -24,6 +24,7 @@ func SeedData() {
 		files, _ = os.ReadDir(questionsDir)
 	}
 
+	totalInserted := 0
 	for _, file := range files {
 		if !file.IsDir() && (file.Name() == "questions.json" || (len(file.Name()) > 5 && file.Name()[len(file.Name())-5:] == ".json")) {
 			filename := questionsDir + "/" + file.Name()
@@ -49,6 +50,12 @@ func SeedData() {
 			currentTestID := ""
 			newQuestionsInFile := 0
 			for _, q := range fileQuestions {
+				// Basic Validation
+				if q.Text == "" || len(q.Options) == 0 {
+					log.Printf("Skipping invalid question %s from %s (missing text or options)", q.QuestionID, file.Name())
+					continue
+				}
+
 				// Check if question already exists
 				var existingID string
 				err := DB.QueryRow("SELECT id FROM questions WHERE question_id = $1", q.QuestionID).Scan(&existingID)
@@ -69,7 +76,7 @@ func SeedData() {
 						category = strings.Title(strings.TrimSpace(cleanName))
 					}
 
-					// Determine test number based on how many questions we've already ekledik from this file
+					// Determine test number based on ne kadar yeni soru ekledik
 					testNum := (newQuestionsInFile / questionsPerTest) + 1
 					testTitle := fmt.Sprintf("%s - Deneme %d", category, testNum)
 
@@ -82,10 +89,15 @@ func SeedData() {
 							testID, testTitle, "ÖABT "+category+" Alan Bilgisi")
 						if err != nil {
 							log.Printf("Error creating test %s: %v", testTitle, err)
-							continue
+							// Double check if it was created by another process/turn
+							_ = DB.QueryRow("SELECT id FROM tests WHERE title = $1", testTitle).Scan(&testID)
 						}
 					}
 					currentTestID = testID
+				}
+
+				if currentTestID == "" {
+					continue
 				}
 
 				qID, _ := uuid.NewV7()
@@ -100,6 +112,7 @@ func SeedData() {
 
 				if err == nil {
 					newQuestionsInFile++
+					totalInserted++
 				} else {
 					log.Printf("Error inserting question %s from %s: %v", q.QuestionID, file.Name(), err)
 				}
@@ -109,6 +122,7 @@ func SeedData() {
 			}
 		}
 	}
+	fmt.Printf("Seeding complete. Total new questions added: %d\n", totalInserted)
 }
 
 func SeedSubjects() {

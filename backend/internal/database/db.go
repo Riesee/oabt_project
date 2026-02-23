@@ -87,6 +87,7 @@ func CreateTables() {
             image_url TEXT,
             related_concept_id TEXT
         )`,
+		`ALTER TABLE questions DROP COLUMN IF EXISTS correct_answer`,
 		`ALTER TABLE questions ADD COLUMN IF NOT EXISTS question_id TEXT`,
 		`ALTER TABLE questions ADD COLUMN IF NOT EXISTS category TEXT`,
 		`ALTER TABLE questions ADD COLUMN IF NOT EXISTS subject TEXT`,
