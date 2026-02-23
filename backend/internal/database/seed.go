@@ -6,59 +6,101 @@ import (
 	"fmt"
 	"log"
 	"os"
+	"path/filepath"
+	"strings"
 
 	"github.com/google/uuid"
 )
 
 func SeedData() {
-	var count int
-	DB.QueryRow("SELECT COUNT(*) FROM questions").Scan(&count)
-	if count > 0 {
-		return
+	fmt.Println("Checking for Questions and Tests to seed...")
+
+	questionsDir := "data/questions"
+	files, err := os.ReadDir(questionsDir)
+	if err != nil {
+		log.Printf("Error reading questions directory: %v", err)
+		// Fallback to current directory for safety if data/questions doesn't exist
+		questionsDir = "."
+		files, _ = os.ReadDir(questionsDir)
 	}
 
-	fmt.Println("Seeding Questions and Tests...")
-	var questions []models.Question
-	filename := "questions.json"
-	if data, err := os.ReadFile(filename); err == nil {
-		if err := json.Unmarshal(data, &questions); err != nil {
-			log.Printf("Error unmarshalling questions.json: %v", err)
-			return
-		}
-	} else {
-		log.Printf("Error reading questions.json: %v", err)
-		return
-	}
+	for _, file := range files {
+		if !file.IsDir() && (file.Name() == "questions.json" || (len(file.Name()) > 5 && file.Name()[len(file.Name())-5:] == ".json")) {
+			filename := questionsDir + "/" + file.Name()
+			fmt.Printf("Processing file: %s\n", filename)
 
-	if len(questions) == 0 {
-		fmt.Println("No questions to seed.")
-		return
-	}
+			var fileQuestions []models.Question
+			data, err := os.ReadFile(filename)
+			if err != nil {
+				log.Printf("Error reading file %s: %v", filename, err)
+				continue
+			}
 
-	questionsPerTest := 100
-	currentTestID := ""
+			if err := json.Unmarshal(data, &fileQuestions); err != nil {
+				log.Printf("Error unmarshalling %s: %v", filename, err)
+				continue
+			}
 
-	for i, q := range questions {
-		if i%questionsPerTest == 0 {
-			testNum := (i / questionsPerTest) + 1
-			testID, _ := uuid.NewV7()
-			currentTestID = testID.String()
-			_, _ = DB.Exec("INSERT INTO tests (id, title, description) VALUES ($1, $2, $3)",
-				currentTestID, fmt.Sprintf("Deneme Sınavı %d", testNum), "Genel Yetenek ve Alan Bilgisi")
-		}
+			if len(fileQuestions) == 0 {
+				continue
+			}
 
-		qID, _ := uuid.NewV7()
-		optionsJson, _ := json.Marshal(q.Options)
-		solutionJson, _ := json.Marshal(q.Solution)
-		metadataJson, _ := json.Marshal(q.Metadata)
+			questionsPerTest := 100
+			currentTestID := ""
 
-		_, err := DB.Exec(`INSERT INTO questions 
-            (id, test_id, question_id, category, subject, topic, sub_topic, difficulty, skill_level, text, options, solution, metadata, image_url, related_concept_id) 
-            VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15)`,
-			qID.String(), currentTestID, q.QuestionID, q.Category, q.Subject, q.Topic, q.SubTopic, q.Difficulty, q.SkillLevel, q.Text, optionsJson, solutionJson, metadataJson, q.ImageURL, q.RelatedConceptID)
+			for i, q := range fileQuestions {
+				// Check if question already exists by its original question_id
+				var existingID string
+				err := DB.QueryRow("SELECT id FROM questions WHERE question_id = $1", q.QuestionID).Scan(&existingID)
+				if err == nil {
+					// Question already exists, skip to next one
+					continue
+				}
 
-		if err != nil {
-			log.Printf("Error inserting question %s: %v", q.QuestionID, err)
+				if i%questionsPerTest == 0 || currentTestID == "" {
+					category := q.Category
+					if category == "" {
+						// Clean filename: "zihinsel yet öabt sorular.json" -> "Zihinsel Yet"
+						fname := file.Name()
+						nameWithoutExt := strings.TrimSuffix(fname, filepath.Ext(fname))
+						cleanName := strings.ReplaceAll(nameWithoutExt, " öabt sorular", "")
+						cleanName = strings.ReplaceAll(cleanName, " ÖABT sorular", "")
+						category = strings.Title(strings.TrimSpace(cleanName)) // strings.Title for better naming
+					}
+
+					testTitle := fmt.Sprintf("%s - Deneme %d", category, (i/questionsPerTest)+1)
+
+					// Check if test with this title already exists
+					var testID string
+					err := DB.QueryRow("SELECT id FROM tests WHERE title = $1", testTitle).Scan(&testID)
+					if err != nil {
+						// Create new test
+						newUUID, _ := uuid.NewV7()
+						testID = newUUID.String()
+						_, err = DB.Exec("INSERT INTO tests (id, title, description) VALUES ($1, $2, $3)",
+							testID, testTitle, "ÖABT "+category+" Alan Bilgisi")
+						if err != nil {
+							log.Printf("Error creating test %s: %v", testTitle, err)
+							continue
+						}
+					}
+					currentTestID = testID
+				}
+
+				qID, _ := uuid.NewV7()
+				optionsJson, _ := json.Marshal(q.Options)
+				solutionJson, _ := json.Marshal(q.Solution)
+				metadataJson, _ := json.Marshal(q.Metadata)
+
+				_, err = DB.Exec(`INSERT INTO questions 
+					(id, test_id, question_id, category, subject, topic, sub_topic, difficulty, skill_level, text, options, solution, metadata, image_url, related_concept_id) 
+					VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15)`,
+					qID.String(), currentTestID, q.QuestionID, q.Category, q.Subject, q.Topic, q.SubTopic, q.Difficulty, q.SkillLevel, q.Text, optionsJson, solutionJson, metadataJson, q.ImageURL, q.RelatedConceptID)
+
+				if err != nil {
+					log.Printf("Error inserting question %s from %s: %v", q.QuestionID, file.Name(), err)
+				}
+			}
 		}
 	}
 }

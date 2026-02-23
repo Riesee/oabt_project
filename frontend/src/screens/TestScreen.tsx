@@ -139,6 +139,13 @@ export default function TestScreen({ route, navigation }: any) {
 
         if (option.is_correct) {
             setScore(score + 2);
+
+            // Auto-advance to next question after a short delay
+            if (currentIndex < questions.length - 1) {
+                setTimeout(() => {
+                    setCurrentIndex(prev => prev + 1);
+                }, 250);
+            }
         }
 
         setSelectedAnswers({

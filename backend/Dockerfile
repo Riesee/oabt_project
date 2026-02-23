@@ -24,7 +24,7 @@ WORKDIR /app
 
 # Copy the binary from the builder stage
 COPY --from=builder /app/main .
-COPY --from=builder /app/questions.json .
+COPY --from=builder /app/data ./data
 
 # Expose port
 EXPOSE 8080

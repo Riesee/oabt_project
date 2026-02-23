@@ -1,0 +1,4718 @@
+[
+  {
+    "question_id": "Q-TEST01-001",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Yasal tanıma göre \"kör\" (hiç görmeyen) olarak sınıflandırılan bir bireyin, tüm düzeltmelerle birlikte gören gözündeki olağan görme keskinliği ve görme alanı ölçütleri aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Görme keskinliğinin 20/70 ile 20/200 arasında olmasıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görme keskinliğinin 20/200 ya da daha az olması ve görme alanının 20 dereceden az olmasıdır.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Görme keskinliğinin 20/100 olması ve renk algısının bulunmamasıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece ışık algısına sahip olması ve şekilleri ayırt edememesidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görme alanının 45 dereceden dar olması ve santral görmenin kaybıdır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-002",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan öğrencilerin fen bilimleri dersindeki kavram öğretimi süreçleri incelendiğinde, bu öğrencilerin soyut kavramları anlamlandırmada güçlük çektikleri görülmektedir. Buna göre, aşağıdakilerden hangisi görme yetersizliği olan bir öğrencinin \"hacim\" veya \"yoğunluk\" gibi kavramları öğrenmesini desteklemek için yapılması gereken en uygun uyarlamadır?",
+    "options": [
+      {
+        "option_text": "Konuyu sadece sözel olarak anlatıp öğrencinin hayal etmesini istemek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Konuyu içeren metinleri Braille alfabesiyle yazılı olarak vermek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Akran öğretimi tekniği ile gören bir arkadaşının notlarını okumasını sağlamak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dokunsal materyallere ağırlık vermek ve deney sırasında ayrıntılı sözel betimlemeler yapmak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğrenciyi bu tür karmaşık ve soyut konuların değerlendirmesinden muaf tutmak.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-003",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Gözün en ön kısmında bulunan, saat camı gibi şeffaf ve kubbe şeklindeki yapı olup; göze gelen ışığın kırılarak retina üzerine düşmesini sağlayan ve dış etkilerden gözü koruyan tabaka aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "İris",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sklera",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kornea",
+        "is_correct": true
+      },
+      {
+        "option_text": "Retina",
+        "is_correct": false
+      },
+      {
+        "option_text": "Lens",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan çocukların dil gelişimi incelendiğinde, duyuları ile tecrübe etmedikleri veya anlamını tam olarak kavramadıkları kelimeleri (örneğin renk isimleri veya \"parlayan yıldız\" gibi ifadeler) bağlam içinde kullanma eğiliminde oldukları görülür. Alan yazında bu durum aşağıdakilerden hangisi ile adlandırılır?",
+    "options": [
+      {
+        "option_text": "Ekolali",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sözcülük (Verbalism)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Alıcı dil geriliği",
+        "is_correct": false
+      },
+      {
+        "option_text": "Pragmatik bozukluk",
+        "is_correct": false
+      },
+      {
+        "option_text": "Artikülasyon bozukluğu",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-005",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan bir öğrenci, sınıf içinde bağımsız hareket ederken veya masasının üzerindeki bir nesneyi ararken sistematik yöntemlere ihtiyaç duyar. Bir öğrencinin masanın üzerindeki küçük bir nesneyi (silgi vb.) bulmak için elini masanın kendine yakın köşesinden başlayıp diğer köşeye kadar düz bir hat üzerinde ilerletmesi, ardından bir el boyu yana kayarak ters yönde taramaya devam etmesi hangi arama yöntemini kullandığını gösterir?",
+    "options": [
+      {
+        "option_text": "Dairesel arama yöntemi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Paralel arama yöntemi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Izgara arama yöntemi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Rastgele arama yöntemi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çevresem arama yöntemi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-006",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "6 yaşındaki görme yetersizliği olan Ali, sınıfta sürekli olarak gözlerini ovuşturmakta ve oturduğu yerde öne arkaya sallanmaktadır. Öğretmeni bu davranışların, Ali'nin herhangi bir etkinlikle meşgul olmadığı boş zamanlarında arttığını gözlemlemiştir. Ali'nin sergilediği bu davranışlar (\"Körlük tikleri\" veya stereotipik davranışlar) en temel olarak hangi nedene dayandırılabilir?",
+    "options": [
+      {
+        "option_text": "Çocuğun aşırı sosyalleşme isteğine",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görme keskinliğinin aniden artmasına",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uyaran eksikliği ve çevresel etkileşimin sınırlı olmasına",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğun kas gelişiminin çok güçlü olmasına",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kulak enfeksiyonuna bağlı denge kaybına",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-007",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Braille alfabesi ile ilgili aşağıda verilen bilgilerden hangisi yanlıştır?",
+    "options": [
+      {
+        "option_text": "6 noktanın çeşitli kombinasyonlarından oluşur.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tablet ve kalem kullanılarak yazılırken kağıda sağdan sola doğru (tersten) yazılır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okuma işlemi soldan sağa doğru parmak uçlarıyla yapılır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Her harf veya sembol, dikdörtgen bir hücre içindeki noktaların kabartılmasıyla oluşturulur.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Braille alfabesi sadece harfleri içerir; rakamlar, matematiksel işaretler ve müzik notaları bu sistemle yazılamaz.",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-008",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan bireylerin bağımsız hareket becerileri kapsamında \"Elle Duvar Takibi\" tekniğini kullanırken dikkat etmesi gereken vücut pozisyonu aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Yüzü duvara dönük, iki elini duvara dayayarak yan yan yürümelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sırtı duvara dönük, elinin tersiyle duvara dokunarak ilerlemelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Duvara yan (paralel) durmalı, kolunu 45 derece öne uzatmalı ve elinin dış kenarı (serçe parmak tarafı) duvara temas etmelidir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Duvara dik durmalı ve bastonunu duvara vurarak ilerlemelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Duvara hiç temas etmeden, sadece işitsel ipuçlarıyla duvarı takip etmelidir.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-009",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Az gören bir öğrencinin sınıf ortamındaki fiziksel düzenlemeleriyle ilgili olarak aşağıdakilerden hangisi yapılmamalıdır?",
+    "options": [
+      {
+        "option_text": "Öğrenci tahtayı en iyi görebileceği, parlamanın en az olduğu yere oturtulmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıf içindeki eşyaların ve materyallerin yerleri sabit tutulmalı, değişiklikler öğrenciye bildirilmelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Materyallerde zıt renkler (kontrast) kullanılarak görme kolaylaştırılmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenci pencerenin tam karşısına oturtularak yüzü doğrudan güneşe dönük olmalıdır.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Işık kaynağının öğrencinin arkasından veya yanından gelmesine dikkat edilmelidir.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-010",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan bir çocuğun ailesi, çocuklarına tanı konulduktan sonra yoğun bir üzüntü yaşamakta, \"Keşke o ilacı içmeseydim\" veya \"Bu durum bizim suçumuz\" şeklinde düşüncelerle kendilerini suçlamaktadır. Ailelerin engelli bir çocuğa sahip olduklarında yaşadıkları uyum sürecine göre, bu aile hangi duygusal evrede bulunmaktadır?",
+    "options": [
+      {
+        "option_text": "Şok",
+        "is_correct": false
+      },
+      {
+        "option_text": "İnkar (Reddetme)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Suçluluk",
+        "is_correct": true
+      },
+      {
+        "option_text": "Pazarlık",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kabul ve Uyum",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-011",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Doğum anında oksijensiz kalma, erken doğum (prematüre) gibi nedenlerle bebeklerde retina tabakasının tam gelişememesi sonucu oluşan ve körlüğe neden olabilen göz hastalığı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Glokom",
+        "is_correct": false
+      },
+      {
+        "option_text": "Katarakt",
+        "is_correct": false
+      },
+      {
+        "option_text": "Prematüre Retinopatis (ROP)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Albinizm",
+        "is_correct": false
+      },
+      {
+        "option_text": "Miyop",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-012",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan çocukların motor gelişimi ile ilgili aşağıdakilerden hangisi söylenebilir?",
+    "options": [
+      {
+        "option_text": "Görme kaybı motor gelişimi hiçbir şekilde etkilemez, gören akranlarıyla eş zamanlı ilerlerler.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görsel motivasyon eksikliği nedeniyle baş kontrolü, nesneye uzanma ve yürüme gibi becerilerde gecikmeler görülebilir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Emekleme becerisi gören çocuklardan daha önce gelişir çünkü yerle temasları daha fazladır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Denge ve duruş (postür) bozukluklarına bu grupta hiç rastlanmaz.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kaba motor becerileri etkilenirken ince motor becerileri (parmak kullanımı) doğuştan mükemmeldir.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-013",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan öğrencilerin matematik öğretiminde kullanılan, üzerinde kabartma sayılar ve işlem işaretleri bulunan küplerin yerleştirildiği, günümüzde kullanımı yaygın olan materyal hangisidir?",
+    "options": [
+      {
+        "option_text": "Taylor Kasa",
+        "is_correct": false
+      },
+      {
+        "option_text": "Abaküs",
+        "is_correct": false
+      },
+      {
+        "option_text": "Küp Kasa (Küp Taş)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Braille Daktilo",
+        "is_correct": false
+      },
+      {
+        "option_text": "Geometrik Şekiller Tahtası",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-014",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "\"Eğitsel açıdan az gören\" tanımı aşağıdakilerden hangisini ifade eder?",
+    "options": [
+      {
+        "option_text": "Bireyin sadece ışığı algılayabilmesidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görme duyusunu öğrenme amacıyla kullanamayıp dokunsal materyallere ihtiyaç duymasıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görme duyusunu öğrenme amacıyla kullanabilen, ancak optik araçlara ve çevresel düzenlemelere gereksinim duyan bireydir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Görme keskinliğinin 20/200'ün altında olmasıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hiçbir görsel uyaranı alamayan bireydir.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-015",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan bireylerin bilgiye erişimini kolaylaştıran, bilgisayar ekranındaki yazıları seslendiren (örneğin JAWS) veya ekranı büyüten (örneğin ZoomText) yazılımlar ve donanımlar genel olarak hangi adla sınıflandırılır?",
+    "options": [
+      {
+        "option_text": "Tıbbi rehabilitasyon araçları",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yardımcı teknolojiler",
+        "is_correct": true
+      },
+      {
+        "option_text": "Fizik tedavi cihazları",
+        "is_correct": false
+      },
+      {
+        "option_text": "Oyun materyalleri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ölçme ve değerlendirme araçları",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-016",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan çocukların oyun davranışları incelendiğinde, gören akranlarına kıyasla aşağıdaki oyun türlerinden hangisinde daha belirgin bir sınırlılık veya gecikme yaşadıkları gözlemlenmiştir?",
+    "options": [
+      {
+        "option_text": "Basit nesne manipülasyonu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tekrarlayıcı oyunlar",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bedensel oyunlar (Gıdıklama vb.)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sembolik (Sosyodramatik/ -mış gibi yapma) oyunlar",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sesli oyuncaklarla oynama",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-017",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "5. sınıf öğrencisi olan ve az gören tanısı bulunan Ayşe'nin öğretmeni, ders anlatırken tahtaya yazdığı her şeyi yüksek sesle okumakta ve Ayşe'ye verdiği çalışma kağıtlarının puntolarını büyütmektedir. Öğretmenin yaptığı bu uygulamalar, özel eğitimde hangi ilke veya kavram kapsamında değerlendirilir?",
+    "options": [
+      {
+        "option_text": "Ayrıştırılmış eğitim",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tıbbi tedavi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Eğitsel uyarlama ve düzenleme",
+        "is_correct": true
+      },
+      {
+        "option_text": "Davranış değiştirme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Erken müdahale",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-018",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan bireylerin günlük yaşam becerilerini bağımsız olarak yerine getirebilmeleri için tasarlanmış, paraların değerini dokunarak anlamalarını sağlayan araç aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Renk tanıma cihazı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sıvı düzeyi ölçer",
+        "is_correct": false
+      },
+      {
+        "option_text": "Para ölçü aracı (şablonu)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Braille daktilo",
+        "is_correct": false
+      },
+      {
+        "option_text": "Baston",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-019",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Beynin görme merkezindeki (korteks) hasar veya işlev bozukluğu nedeniyle oluşan, gözün anatomik yapısının sağlam olmasına rağmen görme işlevinin gerçekleşemediği duruma ne ad verilir?",
+    "options": [
+      {
+        "option_text": "Katarakt",
+        "is_correct": false
+      },
+      {
+        "option_text": "Glokom",
+        "is_correct": false
+      },
+      {
+        "option_text": "Nistagmus",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kortikal Görme Bozukluğu (KGB/CVI)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Miyop",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-020",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi görme yetersizliği olan öğrencilerin merkezi sınavlarda (ÖSYM vb.) yararlanabileceği tedbirlerden biri değildir?",
+    "options": [
+      {
+        "option_text": "Okuyucu ve işaretleyici desteği verilmesi.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınav süresine ek süre verilmesi.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Soruların Braille veya büyük puntolu kitapçıkla sunulması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Şekilli ve grafikli sorulardan muaf tutulması veya betimlenmesi.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınav puanına engel durumundan dolayı doğrudan ek puan eklenmesi.",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-001",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "30 yaşındaki görme yetersizliği olan bir birey, kamu kurumuna engelli personel statüsünde atanmak istemektedir. Bu bireyin yasal haklardan ve istihdam kotalarından yararlanabilmesi için hastaneden alacağı raporda, görme keskinliği veya görme alanı ile ilgili hangi yasal alt sınırın altında olması gerekmektedir?",
+    "options": [
+      {
+        "option_text": "Görme keskinliğinin 20/40 ve altı olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görme alanının 45 dereceden dar olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Düzeltilmiş görme keskinliğinin 20/70 (yaklaşık 0.3) ve altı olması",
+        "is_correct": true
+      },
+      {
+        "option_text": "Tek gözün tamamen işlevini yitirmiş olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yakın görme probleminin hipermetropiye bağlı olması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-002",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan çocukların zihinsel gelişimi incelendiğinde, Piaget’nin işlem öncesi ve somut işlemler dönemlerinde gören akranlarına göre bazı kavramları edinmekte güçlük çektikleri görülmektedir. Özellikle nesnelerin şekli değişse bile miktarının, ağırlığının veya hacminin değişmeyeceğini anlama becerisinde gecikmeler yaşanabilir. Paragrafta bahsedilen ve görme yetersizliği olan çocuklarda kazanımı gecikebilen bu zihinsel beceri aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Nesne sürekliliği",
+        "is_correct": false
+      },
+      {
+        "option_text": "Korunum ilkesi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Döngüsel tepkiler",
+        "is_correct": false
+      },
+      {
+        "option_text": "Benmerkezcilik",
+        "is_correct": false
+      },
+      {
+        "option_text": "Animasyon (Canlandırmacılık)",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-003",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Gözün anatomik yapısında bulunan ve göze gelen ışık miktarını, ortamın aydınlığına göre büyüyüp küçülerek ayarlayan, aynı zamanda göze rengini veren yapı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Sklera",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kornea",
+        "is_correct": false
+      },
+      {
+        "option_text": "Retina",
+        "is_correct": false
+      },
+      {
+        "option_text": "İris",
+        "is_correct": true
+      },
+      {
+        "option_text": "Lens",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Kaynaştırma sınıfında eğitim gören az gören bir öğrenci olan Elif, tahtadaki yazıları okumakta zorlanmakta ve sürekli yerinden kalkarak tahtanın yanına gitmektedir. Sınıf öğretmeni, Elif'in derse katılımını artırmak için fiziksel ortamda bir düzenleme yapmak istemektedir. Aşağıdakilerden hangisi Elif için yapılması gereken en uygun çevresel düzenlemedir?",
+    "options": [
+      {
+        "option_text": "Elif'i pencerenin tam karşısına, yüzü güneşe bakacak şekilde oturtmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıfın perdelerini sürekli kapalı tutarak ortamı tamamen loş hale getirmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Elif’i tahtaya en yakın ve parlamanın en az olduğu, ışığı arkasına veya yanına alabileceği bir sıraya oturtmak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Tahtadaki yazıları okuması için yanındaki arkadaşından sürekli yardım istemesini söylemek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Elif'i sınıfın en arka sırasına oturtup dersi sadece dinlemesini sağlamak.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-005",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan bir öğrenciye bağımsız hareket becerileri kapsamında \"Elle Duvar Takibi\" yöntemi öğretilmektedir. Öğretmen, öğrencinin güvenli bir şekilde ilerlemesi için kol pozisyonunu düzeltmektedir. Bu teknikte öğrencinin kolu ve eli nasıl bir pozisyonda olmalıdır?",
+    "options": [
+      {
+        "option_text": "Kol vücuda yapışık, avuç içi duvara tam temas etmelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kol yere paralel, avuç içi yukarı bakacak şekilde olmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kol omuz hizasında, dirsek bükük ve el yumruk şeklinde olmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kol yaklaşık 45 derecelik açıyla öne uzatılmış, elin dış kenarı (serçe parmak tarafı) duvara hafifçe temas etmelidir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "İki kol da öne uzatılmış ve parmak uçlarıyla duvara dokunulmalıdır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-006",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi görme yetersizliği olan bireylerin bilgiye erişimini, okuma ve yazma becerilerini destekleyen \"yardımcı teknolojiler\" kapsamında değerlendirilen, metinleri sese dönüştüren yazılımlara verilen genel addır?",
+    "options": [
+      {
+        "option_text": "Ekran Büyütme Programı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ekran Okuyucu Program (Screen Reader)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Braille Çeviri Programı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sesli Betimleme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Optik Karakter Tanıma (OCR)",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-007",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan öğrencilerin matematik öğretiminde kullanılan, üzerinde kabartma rakamların bulunduğu küplerin, dikdörtgen prizma şeklindeki bir kasanın hücrelerine yerleştirilmesiyle işlem yapılan araç hangisidir?",
+    "options": [
+      {
+        "option_text": "Taylor Kasa",
+        "is_correct": false
+      },
+      {
+        "option_text": "Abaküs",
+        "is_correct": false
+      },
+      {
+        "option_text": "Braille Daktilo",
+        "is_correct": false
+      },
+      {
+        "option_text": "Küp Kasa (Küp Taş)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Geometri Tahtası",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-008",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Fen Bilimleri dersinde \"Maddenin Tanecikli Yapısı\" konusunu işleyen bir öğretmen, sınıfındaki görme yetersizliği olan öğrenci için soyut olan bu kavramı somutlaştırmak istemektedir. Öğretmenin bu amaçla başvurabileceği en etkili yöntem aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Konuyu sadece sözlü olarak detaylıca anlatmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tanecikli yapıyı gösteren resimleri betimlemek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Konuyu içeren ses kaydını evde dinlemesini istemek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Farklı büyüklükteki boncuklar, küreler veya kabartma materyaller kullanarak öğrencinin dokunarak modeli incelemesini sağlamak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Bu konuyu öğrenci için sınavdan muaf tutmak.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-009",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Ailelerin, çocuklarına görme yetersizliği tanısı konulduktan sonra yaşadıkları uyum süreci evrelerinden biri olan \"Pazarlık\" evresinde en sık gözlemlenen davranış kalıbı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Durumu tamamen reddetme ve başka doktorlara gitme.",
+        "is_correct": false
+      },
+      {
+        "option_text": "\"Neden ben?\" sorusunu sorarak öfke duyma.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun engelini ortadan kaldırmak için \"Eğer çocuğum iyileşirse...\" şeklinde adaklar adama veya mucizevi tedaviler arama.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Durumu kabullenip eğitim planlamasına başlama.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğu aşırı koruyarak evden dışarı çıkarmama.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-010",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan bir öğrenci, masasının üzerinde düşürdüğü silgisini ararken elini masanın kendine yakın kenarından başlayıp karşı kenara kadar düz bir çizgide götürmekte, ardından elini yana kaydırıp geri çekmektedir. Öğrencinin kullandığı bu sistematik arama yöntemi aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Dairesel arama",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rastgele arama",
+        "is_correct": false
+      },
+      {
+        "option_text": "Izgara arama yöntemi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Paralel arama yöntemi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çevresel arama",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-011",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan çocukların motor gelişiminde, baş kontrolü ve yürüme gibi becerilerde gecikmeler yaşanabilmektedir. Bu gecikmelerin temel nedeni aşağıdakilerden hangisi ile açıklanabilir?",
+    "options": [
+      {
+        "option_text": "Kas sistemlerinin doğuştan bozuk olması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çevreyi gözlemleyerek taklit etme imkanının sınırlı olması ve harekete geçirecek görsel motivasyon eksikliği.",
+        "is_correct": true
+      },
+      {
+        "option_text": "İşitme duyularının da yetersiz olması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Zihinsel gelişimlerinin geride olması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kemik yapılarının çok zayıf olması.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-012",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Az gören öğrencilerin okuma becerilerini desteklemek amacıyla kullanılan, metinleri, resimleri veya haritaları ekran üzerinde büyüterek, zıt renklerle (kontrast) sunabilen teknolojik cihazlara ne ad verilir?",
+    "options": [
+      {
+        "option_text": "Braille Daktilo",
+        "is_correct": false
+      },
+      {
+        "option_text": "CCTV (Kapalı Devre Televizyon Sistemi) / Video Büyüteç",
+        "is_correct": true
+      },
+      {
+        "option_text": "Abaküs",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tablet ve Kalem",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ses Kayıt Cihazı",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-013",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel Eğitim Hizmetleri Yönetmeliği'ne göre, kaynaştırma eğitimi alan görme yetersizliği olan bir öğrenci, haftalık ders saatinin belirli bir kısmında bireysel ihtiyaçları (Braille okuma-yazma, baston kullanımı vb.) için özel bir ortamda eğitim almaktadır. Bu eğitim ortamının adı nedir?",
+    "options": [
+      {
+        "option_text": "Özel Alt Sınıf",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rehberlik Servisi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hastane Sınıfı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Destek Eğitim Odası",
+        "is_correct": true
+      },
+      {
+        "option_text": "Evde Eğitim Hizmeti",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-014",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan bireylerin bağımsız hareket becerileri öğretiminde, bir rehber eşliğinde yürürken rehberin kolunu tutma şekli (Rehberle Yürüme Tekniği) nasıl olmalıdır?",
+    "options": [
+      {
+        "option_text": "Rehberin elinden tutarak yanında yürümeli.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rehberin omzuna elini koyarak arkasından yürümeli.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rehberin dirseğinin hemen üzerinden, başparmak dışta diğer parmaklar içte kalacak şekilde C harfi yaparak tutmalı ve yarım adım geriden gelmeli.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Rehberin koluna girerek (kol kola) yan yana yürümeli.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rehberin kemerinden tutarak takip etmeli.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-015",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan çocuklarda sıklıkla gözlemlenen sallanma, göz ovuşturma, ışığa bakma, el çırpma gibi tekrarlayıcı davranışlara \"körlük tikleri\" (stereotipik davranışlar) denir. Bu davranışların azaltılması veya ortadan kaldırılması için ailelere ve eğitimcilere önerilen en etkili yaklaşım aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Çocuğu sürekli uyararak \"yapma\" demek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun ellerini bağlayarak hareketi engellemek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğu cezalandırmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun çevresel uyaranlarını zenginleştirmek, onu aktif etkinliklere ve oyunlara yönlendirerek ellerini meşgul etmek.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Davranışı görmezden gelip kendiliğinden geçmesini beklemek.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-016",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Braille alfabesi ile yazı yazarken kullanılan, kağıdın arasına sıkıştırıldığı metal veya plastik çerçeveye \"tablet\", kağıdı delmek için kullanılan ucu sivri araca \"kalem\" denir. Tablet ve kalem kullanılarak Braille yazı yazılırken uyulması gereken temel kural nedir?",
+    "options": [
+      {
+        "option_text": "Yazı soldan sağa doğru, harfler düz şekilde yazılır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yazı sağdan sola doğru yazılır, harfler ters çevrilerek kodlanır, okurken kağıt çevrilip soldan sağa okunur.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sadece büyük harflerle yazılabilir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kağıt dikey olarak yerleştirilir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Her harf için ayrı bir satır kullanılır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-017",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan bireylerin eğitimi ve rehabilitasyonunda, özellikle iş ve meslek edinme sürecinde karşılaşılan güçlükleri aşmak amacıyla, devlet destekli ve korumalı bir ortamda çalışmalarını sağlayan işyeri modeline ne ad verilir?",
+    "options": [
+      {
+        "option_text": "Halk Eğitim Merkezi",
+        "is_correct": false
+      },
+      {
+        "option_text": "İş ve Uğraşı Atölyesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Korumalı İşyeri",
+        "is_correct": true
+      },
+      {
+        "option_text": "Rehberlik Araştırma Merkezi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Mesleki Eğitim Merkezi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-018",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan bebeklerde \"nesne sürekliliği\" kavramının kazanımı ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      {
+        "option_text": "Gören bebeklerden daha erken kazanırlar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitme duyusuna dayalı nesne sürekliliği (sesin kaynağını arama), görerek aramaya göre daha geç geliştiği için bu kavramı daha geç kazanabilirler.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Nesne sürekliliği doğuştan gelen bir yetenektir, görme ile ilgisi yoktur.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görme yetersizliği olan bebekler nesnelere hiç ilgi duymazlar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bu kavram sadece zihinsel engelli çocuklarda gecikir.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-019",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir öğretmen, görme yetersizliği olan öğrencisine bağımsız hareket becerilerini öğretirken \"İpuçlarının Geri Çekilmesi\" sürecini izlemektedir. Buna göre, öğrencinin bağımsızlığa en yakın olduğu ve en az yardıma ihtiyaç duyduğu ipucu aşaması aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Tam fiziksel yardım",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yarı fiziksel yardım",
+        "is_correct": false
+      },
+      {
+        "option_text": "Gölge yardım",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tam sözel ipucu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tek eylem ipucu (veya bağımsız öncesi son sözel hatırlatma)",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-020",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan bireylerin okuma ve yazma amacıyla kullandıkları, altı noktanın çeşitli kombinasyonlarından oluşan kabartma yazı sistemine ne ad verilir?",
+    "options": [
+      {
+        "option_text": "Mors Alfabesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşaret Dili",
+        "is_correct": false
+      },
+      {
+        "option_text": "Braille Alfabesi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Latin Alfabesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kiril Alfabesi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-001",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan bireylerin yasal hakları ve istihdamı konusunda 657 sayılı Devlet Memurları Kanunu ve ilgili yönetmelikler belirleyici rol oynamaktadır. Buna göre, kamu kurum ve kuruluşlarında engelli personel istihdamı amacıyla yapılan merkezi sınav (EKPSS) ve yerleştirme işlemlerinde, ilkokul, ortaokul ve ilköğretim mezunu adayların yerleştirilmesi hangi usulle yapılmaktadır?",
+    "options": [
+      {
+        "option_text": "Doğrudan mülakat ile",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kura usulü ile",
+        "is_correct": true
+      },
+      {
+        "option_text": "Yazılı sınav puanı ile",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uygulama sınavı ile",
+        "is_correct": false
+      },
+      {
+        "option_text": "Diploma notu üstünlüğü ile",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-002",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan bir öğrenciye bağımsız hareket becerileri kapsamında \"Paralel Arama Yöntemi\" öğretilmektedir. Öğrenci ellerini masanın kenarında bir el boyu ilerlettikten sonraki aşamada güçlük yaşamaktadır. Analize göre, öğrencinin bu aşamadan sonra yapması gereken doğru davranış basamağı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Ellerini masanın ortasında başparmakları birbirine değecek şekilde birleştirir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ellerini masadan kaldırıp başlangıç noktasına geri döner.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tek elini kullanarak dairesel hareketler yapmaya başlar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ellerini masanın diğer ucuna kadar çapraz şekilde götürür.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Arama işlemini sonlandırıp yardım ister.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-003",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Gözün yapısı incelendiğinde, ışığın göze girdiği ilk şeffaf tabaka olan, ışığı kırma gücü en yüksek olan ve göze gelen toz vb. maddelere karşı koruyucu görev üstlenen yapı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "İris",
+        "is_correct": false
+      },
+      {
+        "option_text": "Lens (Mercek)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Retina",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kornea",
+        "is_correct": true
+      },
+      {
+        "option_text": "Vitreus",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan çocukların aileleri, tanı sürecinden sonra çeşitli duygusal aşamalardan geçerler. Bir anne, çocuğunun görme yetersizliği tanısı almasından sonra \"Eğer çocuğumun gözleri açılırsa tüm mal varlığımı bağışlayacağım\" veya \"Bu doktor bilemedi, kesin yanlış teşhis koydu, başka doktora gidelim\" şeklinde tepkiler vermektedir. Ailenin içinde bulunduğu bu psikolojik evre aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Kabul ve Uyum",
+        "is_correct": false
+      },
+      {
+        "option_text": "Şok",
+        "is_correct": false
+      },
+      {
+        "option_text": "Depresyon",
+        "is_correct": false
+      },
+      {
+        "option_text": "Suçluluk",
+        "is_correct": false
+      },
+      {
+        "option_text": "Pazarlık / İnkâr (Karmaşa)",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-005",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan çocukların dil gelişimi özellikleriyle ilgili olarak aşağıdakilerden hangisi söylenemez?",
+    "options": [
+      {
+        "option_text": "\"Ben, sen, o\" gibi zamirleri kullanmada ve ayırt etmede gören akranlarına göre gecikmeler yaşayabilirler.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Alıcı dil becerileri genellikle ifade edici dil becerilerine göre daha ileridedir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görme yetersizliği olan çocuklarda jest ve mimik kullanımı gören akranlarıyla aynı hızda ve nitelikte gelişir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "\"Sözcülük\" (Verbalism) adı verilen, anlamını tam deneyimlemediği kelimeleri kullanma eğilimi görülebilir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ekolali (yankılayıcı konuşma) davranışına bu grupta da rastlanabilir.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-006",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Rehberlik ve Araştırma Merkezleri (RAM) tarafından yapılan eğitsel değerlendirme sonucunda, görme yetersizliği olan bir öğrencinin tam zamanlı kaynaştırma eğitimine devam etmesine karar verilmiştir. Özel Eğitim Hizmetleri Yönetmeliği'ne göre, bu öğrencinin okul bünyesinde açılan \"Destek Eğitim Odası\"ndan yararlanabileceği haftalık ders saati süresi, toplam haftalık ders saatinin en fazla yüzde kaçı olabilir?",
+    "options": [
+      {
+        "option_text": "%10",
+        "is_correct": false
+      },
+      {
+        "option_text": "%20",
+        "is_correct": false
+      },
+      {
+        "option_text": "%25",
+        "is_correct": false
+      },
+      {
+        "option_text": "%30",
+        "is_correct": false
+      },
+      {
+        "option_text": "%40",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-007",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan bireylerin eğitimi ve günlük yaşamında kullanılan yardımcı teknolojilerden biri olan \"Ekran Okuyucu Programlar\" (Örn: JAWS, NVD",
+    "options": [
+      {
+        "option_text": "ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece basılı materyalleri tarayıp seslendirir, bilgisayar ekranını okuyamaz.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ekrandaki metinleri ve ikonları sentezlenmiş bir sesle kullanıcıya aktarır.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sadece az gören bireylerin ekranı büyütmesi için kullanılır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bilgisayarın faresini (mouse) kullanmayı zorunlu kılar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Braille alfabesini otomatik olarak Latin alfabesine çeviren bir yazıcıdır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-008",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan öğrencilerin fen derslerindeki kavram yanılgılarını gidermek ve öğrenmelerini desteklemek için öğretmenin yapması gerekenler arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      {
+        "option_text": "Deneyler sırasında gerçekleşen görsel değişimleri (renk değişimi vb.) ayrıntılı olarak betimlemek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin materyallere dokunmasına izin vererek dokunsal algıyı sürece katmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "\"Şurada\", \"bu\", \"oradaki\" gibi işaret zamirlerini sıkça kullanarak yer tarifi yapmak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Soyut kavramları somutlaştırmak için modeller ve kabartma materyaller kullanmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Az gören öğrenci için çalışma kâğıtlarını büyük puntolu ve zıt renkli hazırlamak.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-009",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan bebeklerde \"nesne sürekliliği\" kavramının kazanımı, gören bebeklere göre neden daha geç gerçekleşir?",
+    "options": [
+      {
+        "option_text": "Zihinsel gelişimleri her zaman geride olduğu için.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dokunma duyusu nesneyi algılamak için yetersiz kaldığı için.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Nesne görüş alanından çıktığında, nesnenin varlığını sürdürdüğünü anlamalarını sağlayacak görsel ipucundan yoksun oldukları ve ses-nesne eşleşmesini daha geç kurdukları için.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Aileleri onlara yeterince oyuncak almadığı için.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitme duyuları, nesnelerin yerini tespit etmede etkisiz olduğu için.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-010",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan çocuklarda sıklıkla gözlemlenen \"körlük tikleri\" (stereotipik davranışlar) olarak adlandırılan sallanma, göz ovuşturma, ışığa bakma gibi davranışların azaltılması için en uygun eğitsel yaklaşım aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Davranışı her yaptığında çocuğu sözel olarak sertçe uyarmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun ellerini bağlayarak veya tutarak hareketi fiziksel olarak engellemek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğu çevresel uyaranlarla zenginleştirilmiş etkinliklere yönlendirmek ve ellerini işlevsel kullanmasını sağlamak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Davranışı görmezden gelerek kendiliğinden geçmesini beklemek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğa ceza vererek davranışın sönmesini sağlamak.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-011",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aile Eğitim Rehberi'ne göre, \"dokunmaya karşı savunma\" (tactile defensiveness) geliştiren bir görme yetersizliği olan çocuk için aşağıdakilerden hangisi yanlış bir yaklaşımdır?",
+    "options": [
+      {
+        "option_text": "Çocuğa haber vermeden aniden yüzüne veya vücuduna dokunmak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğun tolere edebileceği farklı dokudaki nesnelerle (kumaş, su, kum) aşamalı olarak oynamasını sağlamak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğa dokunmadan önce onunla konuşmak ve izin istemek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "\"El el üstünde\" tekniği ile çocuğun elini yönlendirirken nazik olmak ve zorlamamak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun hoşlanmadığı dokulardan (yapışkan vb.) başlangıçta kaçınarak güven ilişkisi kurmak.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-012",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Yasal tanıma göre \"az gören\" bir bireyin görme keskinliği aralığı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "20/20 ile 20/40 arası",
+        "is_correct": false
+      },
+      {
+        "option_text": "20/70 ile 20/200 arası",
+        "is_correct": true
+      },
+      {
+        "option_text": "20/200 ile 20/400 arası",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece ışık algısı olanlar",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görme alanı 10 dereceden az olanlar",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-013",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi görme yetersizliği olan bireylerin günlük yaşam becerilerini kolaylaştıran \"yardımcı teknolojiler\" veya araçlardan biri değildir?",
+    "options": [
+      {
+        "option_text": "Para ölçü aracı (şablonu)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sıvı seviye ölçer (bardağa takılan sesli aparat)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Renk tanıma cihazı",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitme cihazı (Koklear implant)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Konuşan saat veya hesap makinesi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-014",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan çocukların gelişimsel oyun değerlendirmesi (GODA/DP",
+    "options": [
+      {
+        "option_text": "ile ilgili yapılan çalışmalarda, bu çocukların özellikle hangi oyun türünde gören akranlarına kıyasla daha fazla desteğe ihtiyaç duydukları ve gecikme yaşadıkları belirlenmiştir?",
+        "is_correct": false
+      },
+      {
+        "option_text": "Basit nesne manipülasyonu (Ayrımsız oyun)",
+        "is_correct": false
+      },
+      {
+        "option_text": "İlişkisel oyun",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sembolik ve hayali (Sosyodramatik) oyun",
+        "is_correct": true
+      },
+      {
+        "option_text": "Bedensel temas oyunları",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sesli oyuncaklarla oynama",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-015",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir sınıf öğretmeni, kaynaştırma öğrencisi olan az gören öğrencisi Ali'nin dersi daha iyi takip edebilmesi için tahtaya yazdığı yazıları eş zamanlı olarak sesli bir şekilde okumaktadır. Öğretmenin bu uygulaması, özel eğitimde hangi ilkenin veya uyarlamanın bir gereğidir?",
+    "options": [
+      {
+        "option_text": "Davranış değiştirme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bilişsel strateji öğretimi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bilgiyi erişilebilir kılma ve duyusal ikame (görseli işitsele çevirme)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Akran öğretimi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tersine kaynaştırma",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-016",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Doğuştan kataraktı olan bir bebeğin, görme duyusunun körelmemesi (göz tembelliği oluşmaması) ve görsel yolların gelişimi için kritik olan müdahale yaklaşımı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "7 yaşına kadar bekleyip sonra ameliyat etmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Mümkün olan en kısa sürede (ilk aylarda) ameliyat edilerek, ardından optik düzeltme ve görsel uyarım çalışmalarına başlamak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sadece ilaç tedavisi uygulamak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bebeği sürekli karanlık odada tutmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece dokunsal uyaranlar vermek.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-017",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan bireylerin toplumsal yaşama katılımını desteklemek amacıyla devlet tarafından sağlanan \"Korumalı İşyerleri\"nin temel özelliği nedir?",
+    "options": [
+      {
+        "option_text": "Sadece fiziksel engellilerin çalışabildiği spor merkezleridir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşgücü piyasasına kazandırılmaları güç olan zihinsel veya ruhsal engelli bireylere istihdam sağlayan, devlet destekli ve vergi indirimli işyerleridir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Engellilerin sadece hobi amaçlı vakit geçirdiği kurslardır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece görme engelli öğretmenlerin çalıştığı okullardır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Engellilerin evden çalışmasını zorunlu kılan sistemdir.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-018",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan bir öğrenci, \"Izgara Arama Yöntemi\"ni kullanarak sırasının üzerindeki kalemini aramaktadır. Bu yönteme göre öğrencinin el hareketi aşağıdakilerden hangisi gibi olmalıdır?",
+    "options": [
+      {
+        "option_text": "Masanın ortasından başlayıp dairesel hareketlerle dışa doğru açılmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Masanın kenarından başlayıp, karşı kenara kadar düz gidip, elini yana kaydırıp tekrar geri gelerek tüm yüzeyi sistematik taramalıdır.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Rastgele masanın üzerine vurarak ses çıkarmaya çalışmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İki elini masanın iki ucuna koyup ortada birleştirmelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece masanın kenarlarını parmak uçlarıyla takip etmelidir.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-019",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Milli Eğitim Bakanlığı'na bağlı okullarda, özel eğitim ihtiyacı olan öğrencilerin okula ulaşımlarının sağlanması amacıyla yürütülen \"Ücretsiz Okul Servisi\" hizmetinden yararlanabilmek için temel şart nedir?",
+    "options": [
+      {
+        "option_text": "Ailenin gelir düzeyinin çok düşük olması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin sadece ortopedik engelli olması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin resmî özel eğitim okullarında, özel eğitim sınıflarında veya yaygın eğitim kurumlarında özel eğitim alıyor olması.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğrencinin not ortalamasının yüksek olması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Servis şoförünün tanıdık olması.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-020",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan bireylerin bağımsız hareket etmelerini sağlayan, beyaz renkli ve genellikle katlanabilir olan bastonun temel işlevi nedir?",
+    "options": [
+      {
+        "option_text": "Aksesuar olarak kullanılmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bireyin önündeki engelleri fark etmesini ve güvenli yürümesini sağlamak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sadece karanlıkta ışık saçmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yürüme güçlüğü çekenlere fiziksel destek olmak (değnek gibi).",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yağmurdan korunmak.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-001",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan çocukların bilişsel gelişim süreçlerinde \"nesne sürekliliği\" kavramının kazanımı, gören çocuklara göre farklılık göstermektedir. Gören çocuklar nesne görüş alanından çıksa bile var olduğunu görsel takiple daha erken fark ederken, görme yetersizliği olan çocuklarda bu süreç işitsel ve dokunsal ipuçlarına bağlıdır. Buna göre, görme yetersizliği olan bir bebeğin nesne sürekliliğini kazanabilmesi için ön koşul olan beceri aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Renkleri ayırt etme becerisi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sesin kaynağına yönelme ve ses-nesne eşleşmesini kurma becerisi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Bağımsız yürüme becerisi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Braille alfabesindeki ilk 3 harfi tanıma becerisi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sosyodramatik oyun oynama becerisi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-002",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan çocukların motor gelişimi incelendiğinde, \"yüzükoyun yatma\" pozisyonunu sevmedikleri ve bu pozisyonda başlarını kaldırmakta (baş kontrolü) geciktikleri gözlemlenmiştir. Bu durumun temel nedeni aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Karın kaslarının aşırı gelişmiş olması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Başlarını kaldırdıklarında görecekleri görsel bir uyaranın olmaması nedeniyle motivasyon eksikliği yaşamaları.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Kulak yapılarının basınca dayanıksız olması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dokunma duyularının karın bölgesinde aşırı hassas olması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ebeveynlerin çocukları sürekli kucakta tutması.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-003",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "3 yaşındaki görme yetersizliği olan bir çocuğun annesi, çocuğunun gözlerine parmaklarıyla bastırdığını, sürekli sallandığını ve ışığa bakarak ellerini salladığını (körlük tikleri/stereotipik davranışlar) ifade ederek endişelerini dile getirmektedir. Bu davranışların azaltılması veya söndürülmesi için aileye verilecek en uygun tavsiye aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Çocuğun ellerini bağlayarak davranışın fiziksel olarak engellenmesi.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Davranışı her yaptığında çocuğa ceza verilmesi.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun otizm tanısı alması için hemen psikiyatriste yönlendirilmesi.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun bulunduğu ortamdaki uyaranların zenginleştirilmesi ve ellerini kullanabileceği işlevsel oyunlara yönlendirilmesi.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Davranışın görmezden gelinerek kendiliğinden geçmesinin beklenmesi.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bağımsız hareket becerileri öğretiminde \"Elle Duvar Takibi\" yöntemini kullanan bir öğrenci, parmaklarının ucunu duvara sürtmekte ve vücudu duvara dönük şekilde yan yan yürümektedir. Öğretmen bu duruşun yanlış olduğunu ve güvenlik riski oluşturduğunu belirtmiştir. Bu teknikte öğrencinin el ve kol pozisyonu güvenli bir takip için nasıl olmalıdır?",
+    "options": [
+      {
+        "option_text": "Kol vücuda yapışık, avuç içi duvara tam temas etmelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kol yere paralel, avuç içi yukarı bakacak şekilde olmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kol omuz hizasında ve dirsek bükük olmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kol yaklaşık 45 derecelik açıyla öne uzatılmış, elin dış kenarı (serçe parmak tarafı) ve yüzük parmağı duvara hafifçe temas etmelidir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "İki el duvara dayalı şekilde \"kurbağa yürüyüşü\" yapılmalıdır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-005",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Albinizm tanısı olan az gören bir öğrenci için sınıf ortamında yapılması gereken ışık düzenlemesi aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Işık kaynağının (pencere veya lamba) öğrencinin yüzüne doğrudan gelmesi sağlanmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenci, ışık hassasiyeti (fotofobi) nedeniyle kamaşmayı önlemek için ışığı arkasına veya yanına alacak şekilde, tahtaya yakın oturtulmalıdır.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sınıf tamamen karanlık hale getirilmelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenci en arka sıraya oturtularak ışıktan uzaklaştırılmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin sürekli güneş gözlüğü takması yasaklanmalıdır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-006",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan çocukların \"dokunmaya karşı savunma\" geliştirmemeleri ve nesneleri tanımaları için ailelerin izlemesi gereken yol aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Çocuğun elini zorla nesnenin üzerine bastırmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece yumuşak oyuncaklarla oynamasına izin vermek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğa dokunmadan ve nesneyi vermeden önce sözel açıklama yapmak, \"el el üstünde\" tekniğiyle nazikçe rehberlik etmek.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğun istemediği nesnelere dokunması için onu ödülle kandırmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dokunma duyusunu geliştirmek için çocuğu karanlık odada bırakmak.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-007",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan bireylerin günlük yaşam becerilerini desteklemek amacıyla, yemek yerken tabağındaki yiyeceklerin yerini tarif etmek için kullanılan yöntem aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Pusula Yöntemi (Kuzeyde pilav, güneyde et var)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Saat Yöntemi (Saat 3 yönünde pilav, saat 9 yönünde salata var)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Renk Yöntemi (Beyaz olan pilav, kırmızı olan domates)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dokunma Yöntemi (Elini tabağa sokarak bulmasını istemek)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kartezyen Koordinat Yöntemi (X ekseninde et var)",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-008",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi görme yetersizliğinin doğum sonrası nedenlerinden biri olarak kabul edilir?",
+    "options": [
+      {
+        "option_text": "Annenin hamilelikte geçirdiği kızamıkçık (Rubella)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Akraba evliliğine bağlı genetik geçiş",
+        "is_correct": false
+      },
+      {
+        "option_text": "Prematüre retinopatisi (ROP)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocukluk çağında geçirilen ateşli hastalıklar (Menenjit vb.) veya kazalar",
+        "is_correct": true
+      },
+      {
+        "option_text": "Doğum anında oksijensiz kalma",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-009",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel eğitimde \"En Az Kısıtlayıcı Ortam\" ilkesi, görme yetersizliği olan öğrenci için aşağıdakilerden hangisini ifade eder?",
+    "options": [
+      {
+        "option_text": "Öğrencinin sadece evde eğitim almasını.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin, eğitsel ihtiyaçlarının en iyi şekilde karşılandığı ve akranlarıyla en fazla bir arada olabildiği ortamda eğitim görmesini.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Tüm görme engelli öğrencilerin ayrı yatılı okullarda toplanmasını.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin sınıfta hiç hareket etmeden sırasında oturmasını.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin okuldan tamamen muaf tutulmasını.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-010",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan bir öğrenciye \"Izgara Arama Yöntemi\" öğretilmektedir. Öğrenci elini masanın bir kenarından diğer kenarına düz bir hat şeklinde götürdükten sonra nesneyi bulamamıştır. Performans analizine göre öğrencinin bir sonraki adımı ne olmalıdır?",
+    "options": [
+      {
+        "option_text": "Elini masadan kaldırıp başlangıç noktasına dönmelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Elini masanın kenarında \"bir el boyu\" yana kaydırıp ters yönde taramaya devam etmelidir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Masanın ortasına rastgele vurmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Arama işlemini bırakıp öğretmeninden yardım istemelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İki elini masanın ortasında birleştirip daire çizmelidir.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-011",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme duyusu görme yetersizliği olan bireyler için hayati öneme sahiptir. Ancak işitme duyusunun görme duyusuna göre bilgiyi işlemlemede bir sınırlılığı vardır. Bu sınırlılık aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "İşitme duyusu yön tayini yapamaz.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitme duyusu nesnelerin rengi, şekli ve bütünü hakkında anında ve bütüncül bilgi veremez, bilgi parça parça ve ardışık gelir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "İşitme duyusu uyurken çalışmaz.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görme yetersizliği olanların işitme duyusu normalden daha az hassastır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitme duyusu duyguları algılayamaz.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-012",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan bireylerin istihdamını desteklemek amacıyla devlet tarafından sağlanan \"Korumalı İşyeri\" statüsündeki bir işyerinde çalışabilmek için, bireyin engel oranının en az yüzde kaç olması ve zihinsel/ruhsal engel durumunun da bulunması gibi kriterler aranmaktadır? (Not: Genel engelli raporu oranı değil, korumalı işyerine kabuldeki spesifik durumu sorulmaktadır, ancak genel ÖABT bilgisinde korumalı işyeri tanımı daha ön plandadır. Burada tanım üzerinden gidelim.) Korumalı işyerlerinin temel hedef kitlesi ve amacı nedir?",
+    "options": [
+      {
+        "option_text": "Sadece fiziksel engellilere masa başı iş sağlamak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşgücü piyasasına normal şartlarda kazandırılmaları güç olan zihinsel veya ruhsal engelli bireylere (görme engeliyle birlikte olabilir) istihdam sağlamak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Üniversite mezunu engellileri yönetici yapmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Emekli olan engellilere hobi alanı oluşturmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece geçici işçi statüsünde çalıştırmak.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-013",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Retinanın hasar görmesi sonucu oluşan ve genellikle \"tavuk karası\" veya \"gece körlüğü\" olarak bilinen, görme alanının giderek daraldığı (tünel görüşü) genetik göz hastalığı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Katarakt",
+        "is_correct": false
+      },
+      {
+        "option_text": "Glokom",
+        "is_correct": false
+      },
+      {
+        "option_text": "Retinitis Pigmentosa",
+        "is_correct": true
+      },
+      {
+        "option_text": "Nistagmus",
+        "is_correct": false
+      },
+      {
+        "option_text": "Miyop",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-014",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan öğrencilerin matematik eğitiminde kullanılan, boncukların dizili olduğu telli çerçeveden oluşan ve dört işlem yapmaya yarayan araca ne ad verilir?",
+    "options": [
+      {
+        "option_text": "Küp Kasa",
+        "is_correct": false
+      },
+      {
+        "option_text": "Abaküs",
+        "is_correct": true
+      },
+      {
+        "option_text": "Taylor Kasa",
+        "is_correct": false
+      },
+      {
+        "option_text": "Braille Daktilo",
+        "is_correct": false
+      },
+      {
+        "option_text": "Geometri Tahtası",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-015",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "657 sayılı Devlet Memurları Kanunu’na göre, görme yetersizliği olan bir memurun isteği dışında, gece nöbeti ve gece vardiyası görevi verilemez. Ayrıca, engelli memurların günlük çalışma saatlerinin başlangıç ve bitiş saatleri ile ilgili düzenleme yapma yetkisi kime aittir?",
+    "options": [
+      {
+        "option_text": "Okul Müdürü",
+        "is_correct": false
+      },
+      {
+        "option_text": "Doğrudan memurun kendisine",
+        "is_correct": false
+      },
+      {
+        "option_text": "Merkezde üst yönetici, taşrada mülki amirler",
+        "is_correct": true
+      },
+      {
+        "option_text": "Belediye Başkanı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sağlık Bakanlığı",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-016",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan çocukların aileleri, çocuklarının durumunu öğrendiklerinde \"Şok\", \"İnkar\", \"Suçluluk\", \"Kızgınlık\" gibi evrelerden geçerler. Ailenin \"Neden bizim başımıza geldi? Neden ben?\" sorularını sorduğu ve isyan duygularının yoğun olduğu evre hangisidir?",
+    "options": [
+      {
+        "option_text": "Şok",
+        "is_correct": false
+      },
+      {
+        "option_text": "Pazarlık",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kabul",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kızgınlık",
+        "is_correct": true
+      },
+      {
+        "option_text": "Depresyon",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-017",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan bireylerin kullandığı \"Beyaz Baston\"un temel işlevi nedir?",
+    "options": [
+      {
+        "option_text": "Sadece başkaları tarafından fark edilmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bir aksesuar olarak kullanılmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bireyin önündeki engelleri fark etmesini sağlamak, güvenli bir adım atma alanı oluşturmak ve çevreden bilgi toplamak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Yürürken dayanarak destek almak (ortopedik amaçlı).",
+        "is_correct": false
+      },
+      {
+        "option_text": "Köpeklerden korunmak.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-018",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi, kaynaştırma sınıfında bulunan az gören bir öğrenci için yapılması gereken sınav uyarlamalarından biri değildir?",
+    "options": [
+      {
+        "option_text": "Sınav kağıdının puntosunun büyütülmesi (16-18 punto gibi).",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınav süresine ek süre eklenmesi.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Şekilli ve grafikli soruların betimlenmesi veya muadil soru sorulması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Optik form işaretlemesinde kodlayıcı desteği verilmesi.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin sınavdan tamamen muaf tutularak herkese 100 tam puan verilmesi.",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-019",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Gözün en net görme noktası olan \"sarı nokta\" (makula) bölgesindeki hücrelerin bozulması sonucu, merkezi görmenin kaybolduğu ancak çevresel görmenin korunduğu durum aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Makula Dejenerasyonu",
+        "is_correct": true
+      },
+      {
+        "option_text": "Katarakt",
+        "is_correct": false
+      },
+      {
+        "option_text": "Glokom",
+        "is_correct": false
+      },
+      {
+        "option_text": "Albinizm",
+        "is_correct": false
+      },
+      {
+        "option_text": "Şaşılık",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-020",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan çocukların zihin kuramı (zihinsel durumları anlama) becerilerini değerlendirmek için kullanılan \"Yanlış Kanı Atfı\" görevlerinden biri olan \"Beklenmeyen Yer Değiştirme\" görevinde (Örn: Sally-Anne testi), çocuğun neyi başarması beklenir?",
+    "options": [
+      {
+        "option_text": "Nesnenin rengini bilmesi.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bir karakterin (Sally), nesnenin yerinin değiştirildiğini görmediği için, nesneyi ilk koyduğu yerde arayacağını tahmin etmesi.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Nesnenin şeklini dokunarak tanıması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hikayeyi ezbere anlatması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kendi istediği yerde arama yapması.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-001",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Gözün anatomik yapısında herhangi bir sorun olmamasına rağmen, beyindeki görme merkezinin (oksipital lob) hasar görmesi sonucu ortaya çıkan, görsel bilgiyi işleme ve anlamlandırma sürecindeki bozuklukla karakterize edilen görme yetersizliği türü aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Retinitis Pigmentosa",
+        "is_correct": false
+      },
+      {
+        "option_text": "Glokom",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kortikal Görme Bozukluğu (KGB/CVI)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Katarakt",
+        "is_correct": false
+      },
+      {
+        "option_text": "Nistagmus",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-002",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan bir öğrenciye \"Izgara Arama Yöntemi\" öğretilmektedir. Öğrenci, elini masanın kendine yakın sol köşesinden sağ köşesine kadar düz bir hat üzerinde ilerletmiştir. Ancak aradığı nesneye rastlamamıştır. Performans analizine göre, öğrencinin bu aşamadan sonra yapması gereken doğru davranış basamağı hangisidir?",
+    "options": [
+      {
+        "option_text": "Elini masadan kaldırıp tekrar başlangıç noktasına dönmelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Elini masanın kenarında bir el boyu kadar yukarı (ileri) kaydırıp ters yönde taramaya devam etmelidir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Elini masanın ortasına getirip dairesel hareketler yapmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İki elini masanın ortasında birleştirip dışa doğru açmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Arama işlemini sonlandırıp yardım istemelidir.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-003",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan bebeklerin motor gelişim basamaklarında (örneğin başını dik tutma, emekleme) gören akranlarına göre gecikmeler yaşamasının en temel nedeni aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Kas yapılarının doğuştan zayıf olması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dış dünyayı merak etmemeleri.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Harekete geçirecek görsel uyaran eksikliği ve buna bağlı motivasyon düşüklüğü.",
+        "is_correct": true
+      },
+      {
+        "option_text": "İşitme duyularının da yetersiz olması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kemik gelişimlerinin yavaş olması.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan çocukların oyun davranışları incelendiğinde, nesneleri işlevlerine uygun kullanmaktan ziyade (örneğin tarağı saça götürmek yerine masaya vurmak) nesnelerin çıkardığı seslere veya dokusal özelliklerine odaklandıkları, nesneleri ağza götürme davranışını uzun süre devam ettirdikleri görülmektedir. Gelişimsel Oyun Değerlendirmesi (GODA/DP",
+    "options": [
+      {
+        "option_text": "taksonomisine göre bu davranışlar hangi oyun seviyesini işaret eder?",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sosyodramatik oyun",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yapı-inşa oyunu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ayrımsız oyun (İşlevsel olmayan)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ayrımlı oyun",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kurallı grup oyunu",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-005",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "657 sayılı Devlet Memurları Kanunu ve ilgili yönetmeliklere göre, kamu kurum ve kuruluşlarında istihdam edilen engelli personelin çalışma saatleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      {
+        "option_text": "Engelli personel haftada sadece 3 gün çalışır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Engelli personelin günlük çalışma saatlerinin başlama ve bitiş saatleri, merkezde üst yönetici, taşrada mülki amirlerce engellilerin durumlarına göre belirlenebilir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Engelli personel gece nöbeti tutmak zorundadır, muafiyet hakkı yoktur.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Engelli personel günde en fazla 4 saat çalıştırılabilir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Engelli personelin mesai saatleri diğer personelden tamamen farklı ve bağımsızdır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-006",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Okul öncesi dönemdeki bir kaynaştırma öğrencisi olan Can, az görendir. Sınıf öğretmeni, Can'ın görsel materyalleri daha iyi algılayabilmesi için materyallerde \"zıtlık\" (kontrast) ilkesini kullanmak istemektedir. Aşağıdaki renk kombinasyonlarından hangisi az gören bir öğrenci için en yüksek kontrastı ve dolayısıyla en iyi görme performansını sağlar?",
+    "options": [
+      {
+        "option_text": "Sarı zemin üzerine beyaz yazı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Mavi zemin üzerine yeşil yazı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Siyah zemin üzerine sarı veya beyaz yazı",
+        "is_correct": true
+      },
+      {
+        "option_text": "Kırmızı zemin üzerine pembe yazı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Gri zemin üzerine mavi yazı",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-007",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi, Milli Eğitim Bakanlığı'na bağlı okullarda eğitim gören özel eğitim ihtiyacı olan öğrencilerin (görme yetersizliği dahil) okullara erişimini kolaylaştırmak amacıyla sağlanan ücretsiz hizmettir?",
+    "options": [
+      {
+        "option_text": "Öğle yemeği hizmeti",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ücretsiz okul servisi / taşıma hizmeti",
+        "is_correct": true
+      },
+      {
+        "option_text": "Özel ders hizmeti",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kırtasiye yardımı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tablet dağıtımı",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-008",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan bireylerin bilgiye erişimini sağlayan, basılı materyalleri sesli hale getiren veya bilgisayar ekranındaki yazıları okuyan yazılımlara (örneğin JAWS, NVD",
+    "options": [
+      {
+        "option_text": "genel olarak ne ad verilir?",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ekran Büyütme Programı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ekran Okuyucu Program (Screen Reader)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Braille Çeviri Programı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sesli Komut Sistemi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Optik Karakter Tanıma (OCR)",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-009",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Ailelerin, çocuklarına görme yetersizliği tanısı konulduktan sonra yaşadıkları uyum süreci evrelerinden biri olan \"İnkar\" (Reddetme) evresinde görülen en tipik davranış aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Durumu kabullenip eğitim kurumlarını araştırmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "\"Neden ben?\" diyerek öfke duymak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tanının yanlış olduğunu düşünerek doktor doktor gezmek ve sorunu yok saymaya çalışmak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğun geleceği için aşırı kaygı duymak (Depresyon).",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun durumunu iyileştirmek için pazarlık yapmak.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-010",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "\"Duyu bütünleme\" bozukluğu yaşayan bazı görme yetersizliği olan çocuklarda, belirli dokulara (yapışkan, ıslak, tüylü vb.) dokunmaktan kaçınma, dokunulduğunda aşırı tepki verme veya irkilme davranışı görülür. Bu durum alan yazında hangi terimle ifade edilir?",
+    "options": [
+      {
+        "option_text": "Dokunsal duyarlılık / Dokunma savunması (Tactile defensiveness)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Hipotonik kas yapısı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Stereotipik davranış",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görsel uyarım eksikliği",
+        "is_correct": false
+      },
+      {
+        "option_text": "İnce motor beceri yetersizliği",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-011",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Gözün en arkasında bulunan, ışığa duyarlı hücrelerin (koni ve çubuk hücreleri) yer aldığı ve görüntünün sinir sinyallerine dönüştürülerek beyne iletildiği tabaka hangisidir?",
+    "options": [
+      {
+        "option_text": "Kornea",
+        "is_correct": false
+      },
+      {
+        "option_text": "İris",
+        "is_correct": false
+      },
+      {
+        "option_text": "Retina (Ağ Tabaka)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sklera",
+        "is_correct": false
+      },
+      {
+        "option_text": "Lens",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-012",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan bir öğrenciye \"Paralel Arama Yöntemi\" öğretilmektedir. Öğrenci ellerini masanın ortasından zıt yönlere doğru (kenarlara) hareket ettirmiştir. Öğretim analizine göre bir sonraki adımda öğrenci ellerini nasıl hareket ettirmelidir?",
+    "options": [
+      {
+        "option_text": "Elleriyle masaya vurmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ellerini masanın kenarında \"bir el boyu\" ileriye (yukarı) doğru kaydırmalıdır.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ellerini havaya kaldırmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tek elini kullanarak aramaya devam etmelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ellerini çapraz yaparak omuzlarına dokunmalıdır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-013",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "3 yaşındaki görme yetersizliği olan bir çocuk, çevresindeki sesleri (buzdolabı sesi, araba sesi vb.) sürekli dinlemekte ancak sesin kaynağına yönelip nesneyi inceleme girişiminde bulunmamaktadır. Bu durumun gelişimi üzerindeki en olumsuz etkisi aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "İşitme duyusunun körelmesi.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Nesne kavramının ve çevre bilgisinin gelişiminin sınırlı kalması (Kavram gelişiminde gerilik).",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğun aşırı hareketli olmasına neden olması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun erken okuma yazma öğrenmesi.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun renkleri öğrenememesi.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-014",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Doğumdan sonraki ilk aylarda bebeğin gözlerinde titreme olması, ışığa tepki vermemesi veya göz kontağı kuramaması durumunda ailelerin şüphelenerek bir uzmana başvurmaları gerekmektedir. Gözlerin istemsizce, hızlı ve ritmik bir şekilde titremesi durumuna tıbbi olarak ne ad verilir?",
+    "options": [
+      {
+        "option_text": "Şaşılık (Strabismus)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Nistagmus",
+        "is_correct": true
+      },
+      {
+        "option_text": "Glokom",
+        "is_correct": false
+      },
+      {
+        "option_text": "Katarakt",
+        "is_correct": false
+      },
+      {
+        "option_text": "Miyop",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-015",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan çocukların sosyal gelişimlerini desteklemek amacıyla ebeveynlere önerilen davranışlardan biri aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Çocuğu korumak adına sürekli evde tutmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun her işini onun yerine yapmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun diğer çocuklarla oynaması için fırsatlar yaratmak ve onu cesaretlendirmek.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğun dış dünyadan korkmasını sağlamak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğu sadece görme engelli çocuklarla görüştürmek.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-016",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Yasal tanıma göre, tüm düzeltmelere rağmen iyi gören gözündeki görme keskinliği 20/70 ile 20/200 arasında olan bireyler hangi sınıflamaya girer?",
+    "options": [
+      {
+        "option_text": "Kör (Total görme kaybı)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Az Gören",
+        "is_correct": true
+      },
+      {
+        "option_text": "Normal Gören",
+        "is_correct": false
+      },
+      {
+        "option_text": "Renk Körlüğü",
+        "is_correct": false
+      },
+      {
+        "option_text": "Gece Körlüğü",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-017",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan bireylerin bağımsız hareket ederken kullandıkları \"Elle Duvar Takibi\" tekniğinde, elin yaralanmasını önlemek ve güvenliği sağlamak için elin duvara temas eden kısmı neresi olmalıdır?",
+    "options": [
+      {
+        "option_text": "Avuç içi tamamen duvara yapışık olmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece işaret parmağının ucu değmelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Elin dış kenarı (serçe parmak tarafı) ve yüzük parmağı hafifçe duvara değmelidir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "El yumruk yapılarak duvara vurulmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Elin tersi (üst kısmı) tamamen duvara sürtülmelidir.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-018",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan bireylerin okuma-yazma sürecinde kullandıkları kabartma yazı sistemi olan Braille alfabesinde, rakamları (1, 2, 3...) yazabilmek için harflerin önüne özel bir işaret konulması gerekir. Braille alfabesinde rakamları oluşturmak için harflerin (a, b, c...) önüne konulan bu işarete ne ad verilir?",
+    "options": [
+      {
+        "option_text": "Büyük harf işareti",
+        "is_correct": false
+      },
+      {
+        "option_text": "Noktalama işareti",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rakam (Sayı) işareti",
+        "is_correct": true
+      },
+      {
+        "option_text": "Hece işareti",
+        "is_correct": false
+      },
+      {
+        "option_text": "Satır sonu işareti",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-019",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görme yetersizliği olan öğrencilerin fen derslerinde soyut kavramları (atom, hücre, gezegenler vb.) anlayabilmeleri için iki boyutlu görsellerin (resimlerin) kabartma hale getirilmesi veya üç boyutlu modellerin kullanılması gerekmektedir. Zorluoğlu ve Sözbilir’in çalışmasında da vurgulanan, görme yetersizliği olan öğrencilerin dokunarak inceleyebildiği bu tür uyarlanmış materyallere genel olarak ne ad verilir?",
+    "options": [
+      {
+        "option_text": "İşitsel betimleme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dokunsal (Taktil) materyaller",
+        "is_correct": true
+      },
+      {
+        "option_text": "Optik cihazlar",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dijital büyütücüler",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ekran okuyucular",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-020",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Kaynaştırma sınıfında eğitim gören az gören bir öğrenci için sınav uyarlaması yapılırken aşağıdakilerden hangisinin yapılması uygun değildir?",
+    "options": [
+      {
+        "option_text": "Sınav süresinin uzatılması (Ek süre verilmesi).",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınav kağıdının 16-18 punto gibi büyük puntolarla ve sans-serif (tırnaksız) yazı tipiyle hazırlanması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Şekil, grafik veya harita içeren soruların betimlenmesi veya muaf tutulması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin sınavdan tamamen muaf tutularak notunun \"geçer\" olarak girilmesi.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Kodlama gerektiren sınavlarda (optik form) işaretleyici desteği sağlanması.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  }
+]

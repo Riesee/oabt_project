@@ -1,0 +1,4702 @@
+[
+  {
+    "question_id": "Q-TEST01-001",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "DSM-V tanı kriterlerine göre, bir öğrencinin \"Özgül Öğrenme Bozukluğu\" tanısı alabilmesi için okuma, yazma veya sayısal becerilerdeki güçlüklerin, sağlanan müdahalelere rağmen en az ne kadar süreyle devam etmesi gerekmektedir?",
+    "options": [
+      {
+        "option_text": "Bir eğitim-öğretim yılı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Üç ay",
+        "is_correct": false
+      },
+      {
+        "option_text": "Altı ay",
+        "is_correct": true
+      },
+      {
+        "option_text": "Dokuz hafta",
+        "is_correct": false
+      },
+      {
+        "option_text": "İki yıl",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-002",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi Özgül Öğrenme Güçlüğü olan bireylerin yaşadığı akademik sorunların temel nedenleri arasında gösterilemez?",
+    "options": [
+      {
+        "option_text": "Nörobiyolojik farklılıklar",
+        "is_correct": false
+      },
+      {
+        "option_text": "Zihinsel yetersizlik",
+        "is_correct": true
+      },
+      {
+        "option_text": "Görsel algı süreçlerindeki farklılıklar",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitsel işlemleme sorunları",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fonolojik farkındalık eksikliği",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-003",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel öğrenme güçlüğü yaşayan bireylerde matematiksel terimleri, işlemleri, kavramları anlama, sayıları tanıma ve sembolleri kullanma konusunda yaşanan güçlük literatürde hangi kavramla ifade edilmektedir?",
+    "options": [
+      {
+        "option_text": "Disleksi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Disgrafi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dispraksi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Afazi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Diskalkuli",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özgül Öğrenme Güçlüğü olan öğrencilerin eğitim ortamlarında desteklenmesi amacıyla hazırlanan \"Destek Eğitim Programı\"nda yer alan modüllerden biri aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Öz Bakım Becerileri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Toplumsal Uyum Becerileri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dil ve İletişim",
+        "is_correct": true
+      },
+      {
+        "option_text": "Bağımsız Hareket",
+        "is_correct": false
+      },
+      {
+        "option_text": "İş ve Meslek Becerileri",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-005",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Okuma güçlüğü (disleksi) olan bir öğrencinin sıklıkla sergilediği davranışlardan biri, harfleri veya kelimeleri karıştırmaktır. Aşağıdaki harf çiftlerinden hangisi bu öğrenciler tarafından görsel benzerlikleri nedeniyle en sık karıştırılan çiftlerden biridir?",
+    "options": [
+      {
+        "option_text": "k - m",
+        "is_correct": false
+      },
+      {
+        "option_text": "b - d",
+        "is_correct": true
+      },
+      {
+        "option_text": "r - z",
+        "is_correct": false
+      },
+      {
+        "option_text": "t - l",
+        "is_correct": false
+      },
+      {
+        "option_text": "v - y",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-006",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Öğrenme güçlüğü olan bir öğrenciyle \"erken okuryazarlık\" kapsamında yapılan bir çalışmada, öğretmen öğrenciden \"masa\" kelimesi ile \"kasa\" kelimesinin son seslerinin benzer olup olmadığını ayırt etmesini istemiştir. Bu etkinlik, destek eğitim programının hangi alt beceri alanına yöneliktir?",
+    "options": [
+      {
+        "option_text": "Yazı farkındalığı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görsel ayrım",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fonolojik (Sesbilgisel) farkındalık",
+        "is_correct": true
+      },
+      {
+        "option_text": "Akıcı okuma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okuduğunu anlama",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-007",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir öğretmen, sınıfındaki ÖÖG tanılı öğrenci için matematik dersinde bir problem çözme stratejisi geliştirmek istemektedir. Öğretmenin, problemi çözerken öğrencinin işlem basamaklarını takip etmesini kolaylaştırmak adına yapması gereken en uygun düzenleme aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Öğrenciye sınıf seviyesinin çok altında basit toplama işlemleri vermek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Problemdeki anahtar sözcüklerin ve işlem yapılacak yerlerin altını çizmesini öğretmek.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Problemi öğrenci yerine sesli bir şekilde okuyup çözümü tahtaya yazmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenciye problemi çözmesi için diğer öğrencilerden daha az süre tanımak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Matematik dersinden muaf tutarak resim etkinliğine yönlendirmek.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-008",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görsel algı ve bellek çalışmaları kapsamında, bir öğrenciye karışık çizgiler ve şekillerin bulunduğu bir zemin üzerinde, belirli bir geometrik şekli (örneğin bir üçgeni) bulup parmağıyla göstermesi veya boyaması istenmektedir. Bu etkinlik, görsel algının hangi alt bileşenini geliştirmeyi hedeflemektedir?",
+    "options": [
+      {
+        "option_text": "Şekil-zemin ilişkisi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Görsel tamamlama",
+        "is_correct": false
+      },
+      {
+        "option_text": "Mekânsal ilişkiler",
+        "is_correct": false
+      },
+      {
+        "option_text": "Şekil değişmezliği",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görsel hafıza",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-009",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özgül Öğrenme Güçlüğü olan bir öğrencinin yazılı anlatım becerilerini desteklemek isteyen bir eğitimci, öğrenciye bir resim göstermiş ve \"Bu resimde ne görüyorsun, anlat ve yaz\" yönergesini vermiştir. Ancak öğrenci başlamakta zorlanmıştır. Bu durumda eğitimcinin kullanması gereken \"cümle birleştirme\" veya \"genişletme\" tekniğine uygun strateji aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Öğrencinin yerine cümleyi yazıp kopyalamasını istemek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "\"Kim, nerede, ne zaman?\" gibi sorularla basit cümleleri detaylandırmasını sağlamak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Resmi kaldırıp öğrencinin hayalinden bir şeyler yazmasını beklemek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenciye dil bilgisi kurallarını ezberletip tekrar denemesini istemek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yazma çalışmasını sonlandırıp okuma çalışmasına geçmek.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-010",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Öğretmen, sınıfındaki öğrenme güçlüğü riski taşıyan öğrencilerin işitsel dikkatini ve belleğini güçlendirmek için bir oyun oynatmaktadır. Öğretmen arka arkaya üç sayı söylemekte (örneğin: 3-8-5) ve öğrenciden bu sayıları aynı sırayla tekrar etmesini istemektedir. Bu etkinlik, destek eğitim programındaki hangi hedef davranışla doğrudan ilişkilidir?",
+    "options": [
+      {
+        "option_text": "Sesin kaynağını bulma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sözel yönergeleri yerine getirme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rakam veya sözcük dizisini tekrar etme",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sesleri ayırt etme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kafiyeli sözcükleri bulma",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-011",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdaki davranışlardan hangisi, okul öncesi dönemde (erken çocukluk) özgül öğrenme güçlüğü riski taşıyan bir çocukta gözlemlenebilecek belirtilerden biri değildir?",
+    "options": [
+      {
+        "option_text": "Kavramları (büyük-küçük, alt-üst) öğrenmede güçlük",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ayakkabı bağcığı bağlama gibi motor becerilerde zorlanma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Konuşmanın akıcılığında ve sesletimde (artikülasyon) gecikme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Soyut matematik problemlerini zihinden çözmede yavaşlık",
+        "is_correct": true
+      },
+      {
+        "option_text": "Renkleri, şekilleri ve sayıları isimlendirmede güçlük",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-012",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özgül Öğrenme Güçlüğü olan bir öğrenci, matematik dersinde \"35\" sayısını \"53\" olarak okumakta, \"+\" işaretini gördüğünde çarpma işlemi yapmaya çalışmaktadır. Ayrıca saati okurken akrep ve yelkovanı karıştırmaktadır. Bu öğrencinin yaşadığı temel sorun alanı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "İşitsel işlemleme bozukluğu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fonolojik farkındalık eksikliği",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görsel-mekânsal algı ve sembol karıştırma",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sözel ifade yetersizliği",
+        "is_correct": false
+      },
+      {
+        "option_text": "İnce motor beceri yetersizliği",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-013",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Öğretmen, sınıfta uyguladığı bir sınavda ÖÖG tanısı olan öğrencisine, diğer öğrencilerden farklı olarak soruları daha az karmaşık parçalara bölerek sunmuş ve ek süre vermiştir. Sınavın içeriğini değiştirmemiş, sadece sunum şeklini uyarlamıştır. Öğretmenin bu uygulaması literatürde nasıl adlandırılmaktadır?",
+    "options": [
+      {
+        "option_text": "Müfredat daraltma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görevde farklılaştırma / Uyarlama",
+        "is_correct": true
+      },
+      {
+        "option_text": "Bireyselleştirilmiş Eğitim Planı'nı iptal etme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Alternatif değerlendirme dışı bırakma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Akran öğretimi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-014",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "3. sınıf öğrencisi Arda, zeka düzeyi normal sınırlarda olmasına rağmen okuma hızında yaşıtlarının gerisindedir. Okurken satır atlamakta, \"ev\" kelimesini \"ve\" olarak okumakta ve kelime sonlarına uydurma ekler getirmektedir. Yazı yazarken de harflerin boyutlarını ayarlayamamakta ve satır çizgisine riayet edememektedir. Öğretmeni Arda’nın sadece \"tembel\" olduğunu düşünmektedir. Bu vaka analiz edildiğinde, Arda’nın durumu ve öğretmenin yaklaşımı ile ilgili en doğru tespit aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Arda’da zihinsel yetersizlik vardır, öğretmenin tespiti yanlıştır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Arda’da hem disleksi hem disgrafi belirtileri görülmektedir; öğretmenin \"isteksizlik\" yorumu, ÖÖG belirtilerini yanlış atfettiğini göstermektedir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Arda’nın sorunu sadece görme bozukluğudur, göz doktoruna yönlendirilmelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Arda’da diskalkuli mevcuttur, okuma sorunları buna ikincil olarak gelişmiştir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğretmen haklıdır, zeka düzeyi normal olan bir çocukta bu tür hatalar sadece motivasyon eksikliğinden kaynaklanır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-015",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "ÖÖG olan öğrencilerin \"Kendini Düzenleme/Yönetme\" becerilerini geliştirmek isteyen bir uzman, öğrenciden bir görevi yaparken kendi kendine şu soruları sormasını istemiştir: \"Şu anda dikkatim nerede?\", \"Yönergeyi anladım mı?\", \"Görevi tamamlamak için ne kadar sürem kaldı?\". Uzmanın kullandığı bu strateji, üstbilişsel (metacognitive) becerilerden hangisini geliştirmeyi amaçlamaktadır?",
+    "options": [
+      {
+        "option_text": "Görsel ayrıştırma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fonolojik farkındalık",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kendi kendini izleme (Self-monitoring)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Mekânsal oryantasyon",
+        "is_correct": false
+      },
+      {
+        "option_text": "Motor planlama",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-016",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir sınıf öğretmeni, sınıfındaki farklı öğrenme düzeylerine sahip öğrenciler (ÖÖG tanılılar dahil) için \"kademeli etkinlik\" planlamıştır. Okuma köşesinde I. grup (ileri düzey) öğrenciler sınıf seviyesinin üzerindeki kitapları okurken, III. grup (destek ihtiyacı olan) öğrencilerin sesli kitapları dinleyip takip etmelerini sağlamıştır. Bu öğretmenin uyguladığı \"Farklılaştırılmış Öğretim\" yaklaşımının temel dayanağı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Tüm öğrencilerin aynı anda aynı materyali kullanarak standart başarıya ulaşmasını zorunlu kılmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencilerin hazırbulunuşluk düzeylerine göre içeriği ve süreci uyarlayarak aynı kazanım için farklı yollar sunmak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "ÖÖG tanılı öğrencileri sınıftan izole ederek ayrı bir odada eğitim görmelerini sağlamak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Başarılı öğrencilerin, başarısız öğrencilere sürekli ders anlatmasını sağlayarak öğretmen yükünü azaltmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıfın ortalama seviyesini baz alıp, geride kalan öğrencilerin zamanla yetişmesini beklemek.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-017",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "8 yaşındaki Efe, tahtadaki yazıyı defterine geçirirken çok zorlanmakta, harfleri eksik veya fazla yazmaktadır. \"p\" ve \"g\" harflerini karıştırmakta, kelimeler arasında hiç boşluk bırakmamaktadır. Ancak öğretmeni sözlü sınav yaptığında Efe'nin ders konularına hakim olduğunu ve soruları doğru cevapladığını gözlemlemektedir. Bu senaryoda Efe'nin akademik başarısının yazılı ve sözlü sınavlarda farklılaşmasının temel nedeni nedir ve bu durum ÖÖG'nin hangi alt tipiyle en güçlü ilişkiyi gösterir?",
+    "options": [
+      {
+        "option_text": "İşitsel bellek sorunu - Diskalkuli",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dikkat eksikliği - Hiperaktivite",
+        "is_correct": false
+      },
+      {
+        "option_text": "İnce motor ve görsel-mekânsal kodlama sorunu - Disgrafi (Yazılı anlatım güçlüğü)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Zihinsel süreçlerde yavaşlama - Global gelişim geriliği",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sosyal uyum problemi - Otizm",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-018",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel öğrenme güçlüğü olan bireylerin eğitiminde kullanılan \"Doğrudan Öğretim Yöntemi\" ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      {
+        "option_text": "Öğretim, öğretmen merkezli ve yapılandırılmış bir şekilde sunulur.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Model olma, rehberli uygulama ve bağımsız uygulama aşamalarını içerir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin hatasız öğrenmesi için ipuçları sunulur ve dönüt verilir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Karmaşık beceriler küçük alt basamaklara ayrılarak öğretilir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin keşfederek öğrenmesi esas alınır, öğretmen müdahalesi en aza indirilir.",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-019",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir öğrenci \"dondurma\" kelimesini okurken \"domdurma\", \"kitap\" kelimesini \"kipat\" şeklinde okumakta; ayrıca haftanın günlerini ve ayları sırasıyla saymakta ciddi güçlük çekmektedir. Bu öğrencinin yaşadığı güçlükler, bilişsel işlemleme süreçlerinden hangilerindeki bozuklukla en doğrudan ilişkilidir?",
+    "options": [
+      {
+        "option_text": "Dokunsal algı ve kaba motor beceriler",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fonolojik işlemleme ve ardıl (sıralı) işlemleme",
+        "is_correct": true
+      },
+      {
+        "option_text": "Görsel şekil-zemin algısı ve sosyal beceriler",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uzamsal ilişkiler ve problem çözme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tat ve koku duyusu ayrımı",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-020",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "ÖÖG tanısı almış bir öğrencinin matematik (diskalkuli) becerilerini desteklemek isteyen bir öğretmen; \"toplama işleminin artma/çoğalma\", \"çıkarma işleminin eksilme/azalma\" anlamına geldiğini somutlaştırmak istemektedir. Bu amaçla öğretmenin aşağıdaki yöntemlerden hangisini kullanması, öğrencinin kavramsal anlamayı geliştirmesi açısından en etkili yoldur?",
+    "options": [
+      {
+        "option_text": "Öğrenciye çarpım tablosunu ezberlemesi için ek ev ödevi vermek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşlemleri sadece rakam sembolleri (3+2=5) üzerinden tahtada anlatmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Gerçek nesneler (fasulye, kapak vb.) veya modeller kullanarak işlemi hikayeleştirmek ve modellemek.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Hesap makinesi kullanımını serbest bırakarak işlem yükünü tamamen kaldırmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıfın en başarılı öğrencisini yanına oturtup onun defterinden kopyalamasını istemek.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-001",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Öğrenme güçlüğü olan bireyler için hazırlanan destek eğitim programında, görsel algı ve bellek çalışmaları kapsamında bir beceri (örneğin şekil veya harf kopyalama) öğretilirken izlenmesi gereken öğretimsel aşamalandırma sırası aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Bağımsız yapma - Sözlü ipucuyla yapma - Fiziksel yardımla yapma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Modele bakarak yapma - Modelin üzerinden gitme - Bağımsız yapma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Model eşliğinde yapma - Modele bakarak yapma - Bağımsız yapma",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sözel yönergeyle yapma - Bağımsız yapma - Model eşliğinde yapma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fiziksel yardımla yapma - Bağımsız yapma - Modele bakarak yapma",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-002",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitsel algı ve bellek modülü kapsamında, kendisine söylenen bir rakam veya sözcük dizisini aklında tutmakta ve tekrar etmekte zorlanan bir öğrenciye, aşağıdaki bellek stratejilerinden hangisinin öğretilmesi beklenmez?",
+    "options": [
+      {
+        "option_text": "Bilgiyi içinden tekrar etme (Rehearsal)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bilgileri alt başlıklara göre gruplama",
+        "is_correct": false
+      },
+      {
+        "option_text": "Zihinsel imajlama (Göz önünde canlandırma)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hedef kelimenin harflerini tersinden heceleme",
+        "is_correct": true
+      },
+      {
+        "option_text": "Hatırlatıcı kelime kodlamaları oluşturma",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-003",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Öğrenme Güçlüğü Destek Eğitim Programı \"Erken Matematik\" modülüne göre, sayıların ve rakamların sembolik olarak öğretilmesi sürecinde izlenmesi gereken en doğru temel pedagojik sıra aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Öğretime her zaman \"0\"dan (sıfır) başlanmalı, 9'a kadar sırayla gidilmelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğretime 1'den başlanmalı, en son miktar ifade etmeyen \"0\" (sıfır) rakamı öğretilmelidir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Rakamlar bireyin ilgi duyduğu sayılardan başlanarak karmaşık sırayla verilmelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Önce çift rakamların öğretimi tamamlanmalı, ardından tek rakamlara geçilmelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğretime 9'dan başlanıp geriye doğru eksiltme yoluyla sayılarak 0'a ulaşılmalıdır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Dil bilgisi öğretiminde ve okuduğunu anlamada kelimenin cümleye kattığı anlamı fark edebilmek önemlidir. İsim ve fiillerin cümle içinde üstlendikleri rolleri belirleyen \"hâl ekleri, zaman ekleri, kişi ekleri ve çoğul ekleri\" literatürde genel olarak hangi adla sınıflandırılır?",
+    "options": [
+      {
+        "option_text": "Yapım ekleri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Türetme ekleri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bağlama ekleri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çekim ekleri",
+        "is_correct": true
+      },
+      {
+        "option_text": "Kök ekleri",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-005",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Okuduğunu anlama stratejileri kapsamında, cevabı metnin içinde doğrudan bir cümleyle açıkça ifade edilmeyen; okuyucunun metnin çeşitli bölümlerini birleştirerek olaylar arası mantıksal bir ilişki kurmasını gerektiren soru türü aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Kelime dağarcığı soruları",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çıkarımsal (Inferential) sorular",
+        "is_correct": true
+      },
+      {
+        "option_text": "Metinde bulunan açık sorular",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öznel deneyim soruları",
+        "is_correct": false
+      },
+      {
+        "option_text": "Doğrudan bilgi soruları",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-006",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Erken okuryazarlık döneminde çocukların sesbilgisel (fonolojik) farkındalığını geliştirmek amacıyla \"uyak (kafiye) farkındalığı\" çalışmaları yapılmaktadır.\nBu çalışmalarda dikkat edilmesi gereken hususlarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      {
+        "option_text": "Eğitimde uyaklı sözcükler içeren kısa şiirler ve tekerlemeler kullanılmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uyaklı kelimelerin en az iki ses ile (örneğin: tas-pas) birbirine benzemesine dikkat edilmelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çalışmalara çok heceli ve uzun kelimelerle başlanarak çocuğun işitsel dikkati zorlanmalıdır.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Bireyden, duyduğu uyaklı bir sözcüğe söyleyişi benzeyen yeni bir sözcük üretmesi istenmelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Etkinlikler sırasında uyaklı sözcükler öğretmen tarafından ses tonuyla vurgulanmalıdır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-007",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir öğretmen, özel öğrenme güçlüğü olan öğrencisine yazılı anlatım becerileri kapsamında \"Kurgusal Metin (Öykü) Yapısı\"nı öğretmek istemektedir.\nÖğretmenin, öğrencinin metin yapısını kavraması için atması gereken ilk stratejik adım aşağıdakilerden hangisi olmalıdır?",
+    "options": [
+      {
+        "option_text": "Öğrenciye öykü haritası sunmadan, rastgele bir metni tahtadan kopyalamasını istemek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Metnin bölümlerini (karakter, yer, zaman, problem), metin türüne uygun bir şemada (öykü haritası) tanıtmak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğrencinin kendiliğinden kurgusal bir metin yazmasını ve metin yapısını deneyerek keşfetmesini beklemek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bilgi veren nesnel metinlerle kurgusal metinleri aynı oturumda eş zamanlı olarak öğretmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Metnin ana fikrini doğrudan söyleyip öğrencinin sadece ana fikri ezberlemesini sağlamak.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-008",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel öğrenme güçlüğü olan öğrencilerin matematik öğretiminde, çıkarma işleminin kavramsal olarak anlaşılabilmesi için destek eğitim programlarında bazı noktaların özellikle vurgulanması tavsiye edilmektedir.\nBuna göre, çıkarma işleminin yalnızca \"eksiltme/azalma\" anlamı dışında hangi anlamının modellenerek öğretilmesi, problemi anlamayı kolaylaştırır?",
+    "options": [
+      {
+        "option_text": "Rakamların mutlak değerlerinin birbirine bağlanması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sayı doğrusunda yalnızca ileriye ritmik sayılması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çıkarma işleminin \"bilinmeyen ekleneni bulma\" süreci olduğu",
+        "is_correct": true
+      },
+      {
+        "option_text": "Toplama işleminin tamamen zıddı olan anlamsız bir kural bütünü olduğu",
+        "is_correct": false
+      },
+      {
+        "option_text": "İki farklı çokluğun fiziksel olarak birbiri üzerine ilave edilmesi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-009",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Dikkat eksikliği ve odaklanma güçlüğü yaşayan bir öğrenci için uzman; belirli aralıklarla bir zil sesi dinletmekte ve bu ses çaldığında öğrencinin defterine \"Şu anda dikkatim nerede, bana verilen görevi mi yapıyorum?\" sorusunun cevabını (+) veya (-) olarak işaretlemesini istemektedir.\nBu uygulama, öğrencinin hangi üstbilişsel stratejiyi kazanmasına yönelik yapılmıştır?",
+    "options": [
+      {
+        "option_text": "Kendi kendini izleme ve denetleme (Self-monitoring)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Akademik görevi alt parçalara bölme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görsel belleği sembollerle kodlama",
+        "is_correct": false
+      },
+      {
+        "option_text": "Akran destekli performans değerlendirme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fiziksel ve çevresel uyaranları uyarlama",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-010",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Yazılı anlatım bozukluğu (disgrafi) yaşayan öğrencilerin metin yazma aşamasında \"cümle birleştirme\" veya \"çekirdek cümleleri genişletme\" teknikleri sıklıkla kullanılmaktadır.\nÖğretmenin çekirdek bir cümleye (örneğin: \"Kedi koştu.\") \"Nerede?\", \"Nasıl?\", \"Neden?\" gibi sorular sorarak öğrencinin cümlesini büyütmesini sağlamasındaki temel amaç aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Cümlelerdeki tüm noktalama işaretlerini sıfır hata ile kullanmasını sağlamak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Söz dizimsel olgunluğu geliştirerek üretilen cümlenin ifade derinliğini artırmak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğrencinin el yazısı hızını sınıfın ortalama yazma hızına ulaştırmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kelimelerin zıt anlamlılarını ezberleterek soyut zekâyı ölçmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kurgusal metinlerdeki yazım hatalarını diğer öğrencilere düzelttirmek.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-011",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "\"Dün, bugün, yarın\" gibi zaman bildiren kavramların öğretiminde, özel öğrenme güçlüğü olan bir öğrencinin \"Gece okula giderim\" veya \"Dün sinemaya gideceğim\" gibi gramer ve bağlam dışı ifadeler kullandığı görülmüştür.\nBu durum, zaman kavramlarının öğretiminde öncelikle öğrencinin hangi alanda desteklenmesi gerektiğine işaret eder?",
+    "options": [
+      {
+        "option_text": "Analog saat ile dijital saati birbirine rakamsal olarak dönüştürebilme.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Günün bölümlerinin olaylarla ilişkisini ve kavramların bağlama uygun fiil çekimleriyle kullanımını kavrama.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Uzamsal ilişkileri (sağ-sol, alt-üst) zaman sıralamasıyla mekanik olarak eşleştirme.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Standart olmayan ölçü birimlerini (karış, adım) kullanarak süreyi tahmin edebilme.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İnce motor becerilerini kullanarak takvim şablonu çizebilme.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-012",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Dinlediğini anlama becerisini geliştirmek isteyen bir eğitimci, okuyacağı hikâyeye başlamadan önce öğrencilere metnin ana karakterleriyle ilgili birkaç hedef soru sormakta ve \"Bu sorulara cevap bulmak üzere beni dikkatlice dinleyin\" yönergesini vermektedir.\nBu stratejinin dinleme süreci üzerindeki en belirgin pedagojik işlevi aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Öğrencinin dinleme süresini yarı yarıya kısaltarak dersi hızlandırmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenciye amaçlı dinleme becerisi kazandırarak dikkatini önemli bilgileri bulmaya yönlendirmek.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Dinleme sırasında hafızaya alınan notların unutulmasını kesin olarak engellemek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kısa süreli belleğin kapasitesini sadece ses bilgisel tekrarlarla iki katına çıkarmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin öğretmeni izlemesini zorunlu kılarak sınıf disiplinini sağlamak.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-013",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel eğitimde parça-bütün ilişkisinin (kesirlerin) öğretiminde doğrudan sembollere (örneğin 1/4 veya 1/2) geçilmemesi önerilir.\nÖğrencinin \"yarım\" kavramını içselleştirebilmesi için sembolik öğretimden önce sırasıyla yapılması gereken somut çalışma aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Tahtaya \"yarım=1/2\" yazılarak çocuğun bunu defalarca defterine kopyalamasını istemek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Farklı büyüklükteki nesneleri tartarak ağır olanın bütün olduğunu iddia etmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Gerçek bir bütün nesneyi (örneğin bir elmayı) iki eş parçaya bölerek, iki yarımın bir bütün oluşturduğunu modellemek.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Dört adet çeyrek şeklini gösterip bunların toplamının bir bütün ettiğini doğrudan ezberletmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Payın paydaya bölünmesiyle ondalık virgül kullanımını detaylıca anlatmak.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-014",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "1. sınıf öğrencisi Ece, okuma çalışmalarında sesleri tek tek doğru çıkarabilmektedir (örneğin \"k\", \"a\", \"l\", \"e\", \"m\" seslerini tek tek harfe bakıp söyleyebilmektedir). Ancak bu sesleri akıcı bir şekilde birleştirerek \"kalem\" kelimesini oluşturmada ve kelimeyi bir bütün olarak tanımada ciddi zorluk yaşamaktadır.\nBu senaryoya göre, Ece'nin bireyselleştirilmiş eğitim programında (BEP) öncelikle ve ağırlıklı olarak hangi alana yönelik beceriler hedeflenmelidir?",
+    "options": [
+      {
+        "option_text": "Okuduğunu anlama ve metin türünün ana fikrini çıkarma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yazılı anlatımda olay sırasına göre kurgusal metin oluşturma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görsel kopyalama, kalemi doğru tutma ve ince motor planlama",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sesbilgisel (fonolojik) farkındalık, ses birleştirme ve kod çözme stratejileri",
+        "is_correct": true
+      },
+      {
+        "option_text": "Geometrik şekilleri tanıma, uzamsal konumlandırma ve boyut algısı",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-015",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "3. sınıf öğrencisi Mert, temel toplama ve çıkarma işlemlerini kâğıt üzerinde sadece rakamlar verildiğinde hatasız yapabilmektedir. Ancak \"Ali'nin 5 misketi vardı, Ayşe ona 3 misket daha verdi. Ali'nin toplam kaç misketi oldu?\" şeklindeki sözel problemleri çözerken, sayılara hangi işlemi (+ veya -) uygulayacağına karar verememekte ve rastgele işlem seçmektedir.\nMert'in bu güçlüğünü aşması için uzman öğreticinin kullanması gereken en etkili kavramsal strateji aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Mert'e sadece işlem sembollerini defalarca yazdırarak otomatikleşmesini beklemek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Problemi daha yüksek sesle ve daha hızlı okumasını isteyerek okuma hızına odaklanmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Problemi gerçek nesnelerle (sayma çubukları vb.) veya şemalarla modelleyerek \"daha fazla, eklendi, arttı\" gibi eylemleri görselleştirmesini sağlamak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Mert'i sözel problemlerden tamamen muaf tutarak sadece alt alta toplama testleri çözdürmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Problemin sonucunu Mert'in yerine tahtada çözüp defterine bakarak kopyalamasını istemek.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-016",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir öğretmen, okuma dersinde öğrencileri hazırbulunuşluk düzeylerine göre gruplandırmıştır. İleri düzeydeki öğrencilere sınıf seviyesinin üzerindeki metinleri dağıtmış ve tartışma görevleri vermiştir. Okuma güçlüğü yaşayan öğrencilerin bulunduğu gruba ise, okuma metnini sesli kitap formatında dinlemeleri için kulaklık vermiş ve boşluk doldurma (cloze) etkinlikleri planlamıştır.\nÖğretmenin aynı kazanımı hedeflerken öğrencilerin bireysel profillerine göre süreci ve materyali uyarlaması, özel eğitimde hangi temel yaklaşıma karşılık gelir?",
+    "options": [
+      {
+        "option_text": "Farklılaştırılmış Öğretim Tasarımı",
+        "is_correct": true
+      },
+      {
+        "option_text": "Tersine Zincirleme Yöntemi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Akran Aracılı Standardizasyon",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tam Öğrenme ve Ayrıştırma Modeli",
+        "is_correct": false
+      },
+      {
+        "option_text": "Müfredat Daraltma ve Muafiyet",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-017",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Yazılı anlatım güçlüğü (disgrafi) olan bir öğrenci; defterine yazı yazarken harfleri satır çizgisine oturtamamakta, yazıların yönünü sıklıkla yukarı-aşağı kaydırmakta ve harf boyutlarını orantısız ayarlamaktadır. Sadece sözlü uyarılarda bulunmak işe yaramamıştır.\nBu öğrencinin mekânsal organizasyon sorununu aşması için eğitimcinin uygulayacağı en doğru somut müdahale aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Cümleleri doğrudan tahtadan bakarak havada parmağıyla hayali olarak yazmasını istemek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kalemi tutuş açısına kesinlikle müdahale etmeden harflerin boyutunu zorla küçültmesini istemek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Satır çizgilerini renklendirmek, harflerin başlama-bitiş noktalarını belirgin bir nokta ile işaretlemek ve yönleri oklarla göstermek.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğrenciye yazım ve imla kurallarını teorik bir metin halinde ezberlemesi için ödev vermek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hatalı yazdığı ve satırdan taşırdığı her kelimenin altını kırmızıyla çizerek notunu düşürmek.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-018",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "4. sınıf öğrencisi Burak, okul bahçesinde koşan bir arkadaşı yanlışlıkla kendisine çarptığında, arkadaşının niyetini (bunu bilerek mi yaptı yoksa kaza mıydı?) ayırt edememiş ve hemen fiziksel tepki göstererek yüksek sesle bağırmıştır. Burak ayrıca sohbet halindeyken karşısındakinin jest, mimik ve ses tonundaki şakacı vurguları çoğunlukla gerçek olarak algılamakta ve yanlış anlamaktadır.\nDestek eğitim programına göre Burak'ın \"Sosyal Etkileşim\" becerileri kapsamında özellikle hangi modül başlığında desteklenmeye ihtiyacı vardır?",
+    "options": [
+      {
+        "option_text": "Fonolojik Farkındalık ve Sözcük Dağarcığı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sözel Olmayan İletişim, Duygu Düzenleme ve Niyet Okuma",
+        "is_correct": true
+      },
+      {
+        "option_text": "İnce Motor Beceriler ve El-Göz Koordinasyonu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ritmik Sayma ve İşitsel Ardışık Bellek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görsel Tamamlama ve Şekil Zemin Ayrımı",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-019",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Öğrenme güçlüğü olan bireylerde okuduğunu anlama stratejileri, \"Okuma Öncesi\", \"Okuma Sırası\" ve \"Okuma Sonrası\" stratejiler olarak üçe ayrılır.\nAşağıdakilerden hangisi okuma süreci tamamlandıktan sonra (Okuma Sonrası) uygulanması gereken, sentez düzeyindeki bir stratejidir?",
+    "options": [
+      {
+        "option_text": "Metnin başlığına ve görsellerine bakarak metnin ne hakkında olduğunu tahmin etme.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okuma hızını, metnin zorlandığı bölümlerinde bilinçli olarak yavaşlatıp tekrar okuma.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kendi yaptığı başlangıç tahminleriyle metnin gerçek içeriği arasında karşılaştırma yaparak bir özet oluşturma.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Önemli olduğunu düşündüğü anahtar sözcüklerin altını okuma anında fosforlu kalemle çizme.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okuma amacını (bu metni ne öğrenmek için okuyacağım?) öğretmenle birlikte belirleme.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-020",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir sınıf öğretmeni, kelimeleri hatasız okuyabilen ancak okuma hızı çok yavaş olan, okurken noktalama işaretlerini (virgül, nokta) hiç dikkate almayan ve dümdüz monoton bir sesle okuyan dislektik bir öğrencisinin okuma becerisini geliştirmek istemektedir.\nBu öğretmenin, öğrencinin okuma prozadisi (vurgu/tonlama) ve akıcılığını geliştirmek için aşağıdaki yöntemlerden hangisini kullanması en etkili sonucu verir?",
+    "options": [
+      {
+        "option_text": "Metindeki bilmediği kelimelerin sözlük anlamlarını bularak deftere 10 kez kopyalatma.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenciyi sessiz okuma zamanlarında tamamen kendi haline bırakıp hızlanmasını bekleme.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Eko (yankılayıcı) okuma, koro hâlinde okuma ve okuma tiyatrosu (canlandırma) etkinlikleri yaptırma.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Metni cümlenin son kelimesinden başlayarak tersine doğru okutarak kelime bilgisini ölçme.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenciye, kendi yaş seviyesinin çok üstünde felsefi metinler vererek kelime dağarcığını zorlama.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-001",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel öğrenme güçlüğü olan öğrencilerin sınıf ortamı düzenlenirken fiziksel ve duyuşsal ihtiyaçların karşılanması büyük önem taşır. Destek eğitim programı standartlarına göre, sınıf ortamında aşağıdakilerden hangisinin yapılması öğrenmeyi destekleyen \"doğrudan fiziksel bir uyarlama\" olarak önerilmektedir?",
+    "options": [
+      {
+        "option_text": "Sınıfın tamamen sessiz ve izole edilmiş pencerelere sahip olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenci için sınıfta su ve kurutulmuş meyve bulundurularak beyin gelişiminin desteklenmesi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Oturma düzeninin her ders saati değiştirilerek dikkatin uyanık tutulması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıfta sadece parlak beyaz spot ışıklar kullanılması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin her zaman tahtaya sırtı dönük oturtulması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-002",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Akran aracılı okuma çalışmalarında sınıf ortamı \"eşli okuma grupları\" olarak organize edildiğinde \"Oyuncu\" ve \"Koç\" rolleri kullanılmaktadır. Bu uygulamada \"Koç\" rolünü üstlenen öğrencinin temel görevi aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Metni sınıfın önünde yüksek sesle ve tek başına okumak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Metnin özetini çıkararak öğretmene rapor halinde sunmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Oyuncunun okuma sürecini izleyip ona yapıcı dönütler ve öneriler sunmak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sınıftaki okuma kitaplarını seviyelerine göre raflara dizmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okunacak yeni metinleri gruplar adına bağımsız olarak seçmek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-003",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel eğitim destek programı işitsel bellek modülünde yer alan \"Kendisine söylenen rakam veya sözcük dizisini sondan başa doğru (tersine) söyler\" hedef davranışı, bireyin öncelikle hangi bilişsel becerisini geliştirmeyi amaçlar?",
+    "options": [
+      {
+        "option_text": "Görsel ve uzamsal organizasyon",
+        "is_correct": false
+      },
+      {
+        "option_text": "Şekil-zemin ilişkisini ayırt etme",
+        "is_correct": false
+      },
+      {
+        "option_text": "İnce motor ve psiko-motor planlama",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sesbilgisel (fonolojik) kodlama",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitsel ardışık sıralama ve çalışma belleği",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Yazılı anlatım bozukluğu (disgrafi) olan bir öğrencinin ince motor becerilerini destekleme sürecinde kalemi tutuş pozisyonu ile ilgili olarak uzmanların önerdiği temel yaklaşım aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Öğrenci kalemi farklı tutsa bile yazma hızında ve kalitesinde belirgin bir sorun yaşamıyorsa tutuş pozisyonuna müdahale edilmemelidir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Hatalı tutuşlar ne olursa olsun anında fiziksel müdahale ile standart şekle sokulmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kalem mutlak surette sadece işaret ve orta parmağın arasına sıkıştırılarak kullanılmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Disgrafisi olan her öğrenciye yazı yazarken mutlaka ağırlıklı bileklik taktırılmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenci kalemi yalnızca başparmağı ile iterek kullanmaya yönlendirilmelidir.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-005",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Erken okuryazarlık becerileri kapsamında öğrencilerin \"uyak (kafiye) farkındalığını\" geliştirmek için çeşitli işitsel çalışmalar yapılmaktadır. Bu çalışmalarda içeriğin niteliği bakımından aşağıdakilerden hangisinin kullanılması en uygundur?",
+    "options": [
+      {
+        "option_text": "Bilimsel olguları anlatan bilgi verici metinler",
+        "is_correct": false
+      },
+      {
+        "option_text": "Soyut felsefi kavramları barındıran okuma parçaları",
+        "is_correct": false
+      },
+      {
+        "option_text": "Günlük gazete köşe yazılarından alınan kesitler",
+        "is_correct": false
+      },
+      {
+        "option_text": "Seslerin ritmik biçimde tekrarlandığı şiirler, tekerlemeler ve şarkılar",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sadece görsel öğelerden oluşan kelimesiz haritalar",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-006",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Derste dikkati çabuk dağılan bir öğrenciye öğretmeni belirli aralıklarla omzuna hafifçe dokunarak bir işaret vermekte ve öğrenciden o anda \"Şu anda dikkatim nerede, bana verilen görev üstünde miyim?\" sorusunu kendisine sorarak durumunu değerlendirmesini istemektedir.\nÖğretmenin öğrenciye kazandırmaya çalıştığı bu strateji aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Kendi kendini izleme (Self-monitoring)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Akran aracılı performans değerlendirmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Doğrudan anlatım modeli",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bilişsel haritalama",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tersine zincirleme ile hata düzeltme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-007",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Okuma hızı yaşıtlarına göre çok yavaş olan ve okurken sık sık sözcükleri yanlış sesleten (atlama, uydurma) bir öğrenci için \"tekrarlı okuma (repeated reading)\" stratejisi uygulanmaktadır.\nÖzel eğitimde bu stratejinin kullanılmasındaki asıl gerekçe aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Öğrencinin okuduğu metindeki yazım hatalarını kırmızı kalemle tespit etmesini sağlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Metni defalarca bakarak yazdırıp ince motor becerilerini ve el yazısını geliştirmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kelimelerin zıt ve eş anlamlılarını metin içerisinde bularak sözcük dağarcığını zorlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Metnin ana fikrini bulması için yalnızca ilk ve son paragrafı okuma alışkanlığı kazandırmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Aynı metni belirli bir akıcılık ölçütüne ulaşana kadar okutarak kelime tanıma otomatikliğini (deşifre hızını) artırmak",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-008",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel eğitim öğretmeni, diskalkulisi (matematik öğrenme güçlüğü) olan öğrencisinin \"daha fazla, daha az ve eşit\" kavramlarını tam olarak öğrenebilmesi için önüne iki farklı renkte (kırmızı ve mavi) nesne grupları koymuş ve bu nesneleri karşılıklı çizgi çizerek birebir eşlemesini istemiştir.\nÖğretmenin doğrudan semboller (>, <, =) yerine birebir eşleme stratejisini kullanmasındaki temel pedagojik neden aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Öğrencinin mekanik ritmik sayma hızını saniyeler bazında artırmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "İki küme arasındaki miktar ilişkisini (çokluk-azlık) somutlaştırarak görselleştirmek",
+        "is_correct": true
+      },
+      {
+        "option_text": "Nesnelerin sadece renklerine göre geometrik örüntü oluşturma becerisini ölçmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Toplama işleminin eldeli yapılış kurallarını ezberlemesi için ön hazırlık yapmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "El-göz koordinasyonunu gerektiren çizim becerilerine odaklanmak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-009",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Sosyal etkileşim ve iletişim modüllerine göre, özel öğrenme güçlüğü olan bireylere duygu öğretimi yapılırken belirli bir hiyerarşi izlenir. Mutluluk, üzüntü ve korku gibi temel duyguların öğretiminden sonra daha soyut olan \"karmaşık duyguların\" öğretimine geçilir.\nBuna göre, aşağıdakilerden hangisi destek eğitim programında belirtilen karmaşık duygulara örnek olarak gösterilebilir?",
+    "options": [
+      {
+        "option_text": "Kızgınlık",
+        "is_correct": false
+      },
+      {
+        "option_text": "Mutluluk",
+        "is_correct": false
+      },
+      {
+        "option_text": "Gurur",
+        "is_correct": true
+      },
+      {
+        "option_text": "Şaşkınlık",
+        "is_correct": false
+      },
+      {
+        "option_text": "İğrenme (Tiksinti)",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-010",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Okuma güçlüğü olan öğrencilerin okuduğunu anlama seviyesini artırmak isteyen bir öğretmenin, \"öykü haritası\" veya \"karşılaştırma şeması\" gibi grafik düzenleyiciler kullanması önerilmektedir.\nGrafik düzenleyicilerin (şemaların) kullanılmasının okuma sürecine sağladığı en temel katkı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Metni sesli okuma hızını sınıf ortalamasının iki katına çıkarmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sözcüklerin heceleme kurallarını otomatik hale getirerek dikte becerisini artırmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yazı yazarken noktalama işaretlerini kurallara yüzde yüz uygun kullanmayı sağlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Metindeki önemli bilgi birimlerini belirlemeyi, organize etmeyi ve metin yapısını kavramayı kolaylaştırmak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Fonolojik farkındalığı artırarak kafiyeli (uyaklı) sözcük üretme becerisini geliştirmek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-011",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Sözel problemleri çözmede zorlanan öğrenme güçlüğü tanılı bir öğrenciye, öğretmeni problemi önce sesli okumasını, anladığını kendi cümleleriyle anlatmasını ve ardından işleme geçmeden önce problemi şekil çizerek (çubuk, kutu vb.) görselleştirmesini istemektedir.\nÖğretmenin yaptırdığı bu basamaklandırma çalışmasının odaklandığı asıl süreç aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "İşlem hatasını tespit edip sonucu hesap makinesi ile doğrulama süreci",
+        "is_correct": false
+      },
+      {
+        "option_text": "Problemi kavramsal olarak anlama ve çözüm için plan oluşturma süreci",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çarpım tablosunun kısa yoldan ezberlenmesini sağlama süreci",
+        "is_correct": false
+      },
+      {
+        "option_text": "Metindeki uzun sayıları basamak değerlerine göre sınıflandırma süreci",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kesirlerin pay ve payda ilişkisini mekanik yollarla ifade etme süreci",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-012",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Yeni bir sözcüğün (örneğin \"orman\") anlamını öğretmek için, kelimenin sayfanın ortasına yazıldığı ve etrafına \"ağaç, yeşil, oksijen, vahşi hayvan\" gibi ilişkili olduğu diğer kelimelerin çizgilerle bağlanarak görsel bir yapının oluşturulduğu kelime öğretim stratejisi literatürde ne ad verilir?",
+    "options": [
+      {
+        "option_text": "Cümle birleştirme tekniği",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sesbilgisel ayrıştırma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kelime kök-ek analizi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tersine zincirleme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Anlamsal haritalama / Anlamsal ağ oluşturma",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-013",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel eğitim değerlendirme süreçlerinde, bireylerin sadece standart çoktan seçmeli testlerle değil, \"portfolyo (gelişim dosyası)\" aracılığıyla değerlendirilmesi oldukça önemlidir. Bir portfolyoda sadece en yüksek not alınan testlerin değil, öğrencinin yarım kalmış taslaklarının, karalamalarının ve çabalarını yansıtan süreç ürünlerinin de bulunması tavsiye edilir.\nBunun ölçme-değerlendirme açısından temel nedeni aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Ailelerin, çocuklarının mükemmel olduğuna ikna edilerek tepkilerinin azaltılması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin sadece ulaştığı son nihai noktanın ve en başarılı ürününün belgelenmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin gelişimsel sürecini, karşılaştığı güçlükleri ve ürün çeşitliliğini bütüncül olarak izleyebilmek",
+        "is_correct": true
+      },
+      {
+        "option_text": "Millî Eğitim Bakanlığının talep ettiği evrak yükünün standart dosya boyutuna uydurulması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenciyi sınıfın en başarılı öğrencisi ile aynı normlarda rekabete sokmak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-014",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "2. sınıf öğrencisi Cem, okuma yaparken kelimelerin sonlarına ekler uydurmakta, \"kitap\" kelimesini \"kipat\" şeklinde okumakta ve sık sık satır atlamaktadır. Bu yüzden okuduğunu anlayamamaktadır. Ancak aynı metin kendisine öğretmeni tarafından sesli olarak okunduğunda, Cem metnin ana fikrini, karakterleri ve olay örgüsünü rahatlıkla ve doğru biçimde anlatabilmektedir.\nVaka analiz edildiğinde, Cem'in akademik performansındaki bu ayrışmanın temel nedeni ve yapılması gereken en uygun öncelikli müdahale aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Sorun temel olarak kod çözme (deşifre) ve kelime tanıma akıcılığındadır; ses farkındalığı ve tekrarlı okuma stratejileri uygulanmalıdır.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sorun doğrudan dinlediğini anlama ve işitsel zekâ geriliğidir; görsel zekâ testleri ile durum doğrulanmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sorun ince motor kas gruplarının gelişmemesinden kaynaklıdır; çizgi çalışmaları ve hamurla oynama etkinlikleri artırılmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Cem'de yaygın gelişimsel bozukluk (Otizm) belirtileri mevcuttur; sosyal uyum eğitimine öncelik verilmelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun sorun yaşamasının tek nedeni dikkatsizliktir; ceza sistemi ile okuma hızı zorla artırılmalıdır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-015",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Yazılı anlatım güçlüğü yaşayan Ayşe'den \"Bir Hafta Sonu Tatili\" konulu kısa bir hikâye yazması istenmiştir. Ayşe'nin yazdığı taslak incelendiğinde; cümlelerinin kısa ve kopuk olduğu, \"çünkü, ama, sonra\" gibi bağlaçları hatalı kullandığı ve olayların oluş sırasının (giriş, gelişme, sonuç bağlamının) tamamen birbirine girdiği görülmüştür.\nBu senaryoya göre, uzman öğreticinin Ayşe'nin yazılı anlatım sürecinde müdahale etmesi gereken \"en kritik ve öncelikli\" üstbilişsel strateji aşaması aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Metni yazdıktan sonraki harf ve noktalama hatalarını kırmızı kalemle düzeltme aşaması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Metni yazmaya başlamadan önce (yazma öncesi) fikirleri beyin fırtınasıyla belirleme ve bir şema üzerinde planlama aşaması",
+        "is_correct": true
+      },
+      {
+        "option_text": "Taslak bittikten sonra metni sınıftaki diğer arkadaşlarının önünde sesli okuma aşaması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Metinde kullanılan tüm fiillerin altını çizip fiil çekim eklerini teorik olarak ezberleme aşaması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yazının sadece estetik görünümüne (güzel yazı/kaligrafi) odaklanarak sayfalarca aynı metni kopyalama aşaması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-016",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özgül öğrenme güçlüğü olan çocuklarda \"b-d\", \"p-q\", \"m-n\" gibi görsel olarak birbirine benzeyen harfleri karıştırma sıklıkla görülür. Uzun yıllar bu durum sadece görsel-mekânsal bir algı sorunu olarak değerlendirilse de, çağdaş okuma araştırmaları (örneğin müdahaleye tepki modeli çalışmaları) bu hatanın altında yatan asıl nedenin farklı bir bilişsel bileşen olduğunu güçlü kanıtlarla ortaya koymuştur.\nGüncel bilimsel yaklaşımlara göre dislektik çocukların bu harfleri karıştırmasının temelinde yatan en baskın nörobilişsel zorluk aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Görme keskinliğindeki fiziksel zayıflık ve renk körlüğü",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bireyin sözel olmayan soyut zekâ bölümünün ortalamanın çok altında olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dikkat eksikliği ve hiperaktivitenin sürekli kas hareketlerine yol açması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fonolojik (sesbilgisel) işlemleme, harf-ses eşlemesini zihinde geri çağırma ve ayırt etmedeki zayıflık",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğrencinin el-göz koordinasyonunu sağlayan ince motor kas liflerindeki anatomik gerilik",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-017",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "3. sınıf öğrencisi Burak, \"62 - 28\" işlemini yaparken sonucu \"44\" olarak bulmaktadır. Öğretmeni işlemi nasıl yaptığını sesli olarak anlatmasını istediğinde Burak: \"2'den 8 çıkmaz, o yüzden aşağıdaki 8'den yukarıdaki 2'yi çıkardım 6 kaldı. Sonra onlar basamağında 6'dan 2'yi çıkardım 4 kaldı. Sonuç 46\" şeklinde bir açıklama yapmıştır.\nBurak'ın yaptığı bu kavramsal hata türü dikkate alındığında, öğretmenin izlemesi gereken en doğru düzeltici strateji aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Hesap makinesi kullanımını serbest bırakarak işlem yükünü öğrencinin üzerinden tamamen almak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşlemdeki hatanın anlık bir dikkatsizlik olduğunu varsayıp aynı işlemden 50 tane ödev vermek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Onluk taban bloklarını veya gerçek nesneleri kullanarak \"onluk bozma\" (gruplama) kavramını somut bir şekilde modelleyerek anlatmak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Burak'ı onluk bozmalı çıkarma işlemlerinden muaf tutarak sadece tek basamaklı sayılarla toplamaya yönlendirmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çıkarma işlemini bırakıp çarpım tablosunu ritmik sayma yoluyla öğretmeye geçmek.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-018",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "\"Farklılaştırılmış Öğretim\" uygulamalarında içerik, süreç ve ürün; öğrencilerin ilgi, hazırbulunuşluk ve öğrenme profillerine göre uyarlanır. Bir okuma dersinde öğretmen; okuma düzeyi ileri olan öğrencilere metnin ana fikrini tartışacakları bir forum görevi verirken, okuma güçlüğü çeken öğrencilere aynı metni sesli kitaptan dinleyerek ana olayları resimli kartlarla sıralama görevi vermiştir.\nÖğretmenin öğretim sürecinde yaptığı bu pedagojik farklılaştırmanın, özel eğitim felsefesi açısından asıl dayanağı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Öğrencileri yeteneklerine göre tamamen ayrıştırarak zayıf öğrencilerin başarılılarla iletişimini kesmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıf içindeki notlandırma sistemini kolaylaştırarak öğretmenin evrak yükünü ortadan kaldırmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okuma güçlüğü olan öğrencileri akademik kazanımlardan bütünüyle muaf tutarak onlara sadece oyun oynatmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıftaki rekabet duygusunu körükleyerek zayıf öğrencilerin kendi başlarına hırslanmasını beklemek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tüm öğrencilerin bireysel kapasitelerine (hazırbulunuşluklarına) uygun yollar sunarak hepsinin aynı hedef kazanıma erişmesini sağlamak.",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-019",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "10 yaşındaki Ali, konuşurken kelimeleri doğru telaffuz etmekte ve uzun, kurallı cümleler kurabilmektedir. Ancak karşılıklı sohbet sırasında arkadaşının sözünü sık sık kesmekte, arkadaşının sıkıldığını veya konuyu değiştirmek istediğini gösteren yüz ifadelerini (esneme, uzağa bakma) fark edememektedir. Ayrıca deyimleri ve yapılan ince esprileri çoğunlukla gerçek anlamıyla (somut) algılamaktadır.\nDestek Eğitim Programı'na göre Ali'nin dil ve iletişim becerilerinin özellikle hangi alt boyutunda \"belirgin bir güçlük\" yaşadığı söylenebilir?",
+    "options": [
+      {
+        "option_text": "Fonoloji (Sesbilgisi) ve Artikülasyon",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sentaks (Sözdizimi ve Cümle Yapısı)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Morfoloji (Biçimbilim ve Ek Kullanımı)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Pragmatik (Kullanımbilim / Sosyal İletişim ve Niyet Okuma)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Erken Okuryazarlık ve Yazı Farkındalığı",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-020",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel Öğrenme Güçlüğü (ÖÖG) tanılama sürecinde \"dışlama (exclusion) kriterleri\" hayati bir önem taşır. Bir öğrencinin yaşadığı akademik başarısızlığın \"özgül öğrenme güçlüğü\" olarak nitelendirilebilmesi için, sorunun temelinde bazı durumların kesinlikle yatmaması (bu durumlardan kaynaklanmıyor olması) gerekir.\nAşağıdaki durumlardan hangisi, bir çocuğun yaşadığı akademik zorluğun \"Özgül Öğrenme Güçlüğü\" olarak tanımlanmasını doğrudan engelleyen (dışlayan) temel etkenlerden biridir?",
+    "options": [
+      {
+        "option_text": "Çocuğun çalışma belleğinin kapasitesinin yaşıtlarından düşük olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun akademik geriliğinin temel nedeninin \"Zihinsel Yetersizlik (Mental Retardasyon)\" olması",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğun dikkati sürdürme ve kendini düzenleme (self-monitoring) becerilerinde güçlük çekmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun harf-ses uyumunu otomatik hale getirmekte zorlanması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun yazı yazarken mekânsal hizalama (satır takibi) problemleri yaşaması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-001",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Müdahaleye Tepki Modeli (RTI) kapsamında okuma veya matematik becerilerinde sınıf düzeyinin gerisinde kalan öğrencilere uygulanan \"İkinci Aşama (Düzey-II)\" müdahalelerinin temel özelliği aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Öğrenciye özel eğitim tanısı konularak haftanın beş günü ayrı bir özel eğitim sınıfına alınması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıf öğretmeninin tüm müfredatı bir kenara bırakarak sadece o öğrenci ile birebir çalışması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıf düzeyinin gerisinde kalan 4-5 kişilik küçük gruplara haftada 30-40 dakika ek destekleyici yoğun öğretim sunulması.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğrencinin gelişiminin sadece dönem sonlarında (yılda iki kez) standart başarı testleriyle ölçülmesi.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun akademik geriliğinin tıbbi bir nedene dayanıp dayanmadığının hastane ortamında araştırılması.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-002",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Akran aracılı okuma (eşli okuma) çalışmalarında sınıf, farklı okuma seviyelerindeki öğrencilerin eşleştirilmesiyle \"Oyuncu\" ve \"Koç\" rollerine ayrılır. Bu stratejide eşli okuma etkinliği sırasında \"Oyuncu\" rolündeki öğrencinin yerine getirmesi beklenen temel görev aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Okuma hızını tamamen göz ardı ederek sadece metindeki kelimelerin köklerini tahlil etmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Metni sessiz okuyarak ana fikri zihninde yapılandırmak ve koçun sorularını beklemek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Koçun okuduğu metni takip edip onun yaptığı yazım ve imla hatalarını not almak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Metni belirlenen süre içerisinde akıcı bir şekilde, vurgu ve tonlamaya dikkat ederek yüksek sesle okumak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Metinde yer alan ana karakterlerin özelliklerini okuma yapmadan doğrudan özetlemek.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-003",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Destek Eğitim Programı \"Erken Okuryazarlık\" modülü kapsamında, bir eğitimcinin öğrencilerine her gün belirli bir süre ayırarak uygulattığı \"Her Şeyi Topla ve Oku (DEAR - Drop Everything and Read)\" etkinliğinin temel amacı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Sınıftaki disiplin problemlerini çözmek için bir mola zamanı yaratmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sessiz ve bağımsız okuma alışkanlığı kazandırarak okuma zevkini geliştirmek.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğrencilerin birbirlerine yüksek sesle hikâye okumasını (koro okuması) sağlamak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece akademik ders kitaplarının ezberlenmesine olanak tanımak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yazılı anlatım öncesi beyin fırtınası yapmak için fikir toplamak.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Fiziksel sınıf ortamının özel öğrenme güçlüğü olan çocukların öğrenme süreçleri üzerindeki etkisi büyüktür. Bu bağlamda uzmanlar, sınıf ortamında \"su ve bir miktar kurutulmuş meyve\" bulundurulmasını tavsiye etmektedir. Bu tavsiyenin altında yatan temel pedagojik/biyolojik gerekçe aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "İnce motor becerilerde çatal-bıçak kullanımı pratiği yaptırmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin beyninin ihtiyaç duyduğu hidrasyonu ve enerjiyi sağlayarak bilişsel öğrenmeyi desteklemek.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğrencinin sosyal etkileşim becerilerini paylaşım yoluyla artırmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıf içindeki ödül-ceza sisteminin materyal ihtiyacını karşılamak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ders sürelerini kısaltıp serbest zaman etkinliklerine geçişi hızlandırmak.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-005",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görsel algı becerilerini destekleme modülünde yer alan \"Karmaşık resimler, iç içe geçmiş şekiller veya çizgi labirentleri içerisine yerleştirilmiş olan hedef harfleri ya da nesneleri bulup üzerinden çizme\" etkinliği, görsel algının hangi alt alanını geliştirmeye yöneliktir?",
+    "options": [
+      {
+        "option_text": "Görsel şekil-zemin ilişkisini ayırt etme",
+        "is_correct": true
+      },
+      {
+        "option_text": "Görsel tamamlama",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uzamsal (mekânsal) ilişkiler",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görsel şekil değişmezliği",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sözel-görsel bellek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-006",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel öğrenme güçlüğü olan öğrencilerin yazılı anlatımlarını geliştirmek için \"Cümle Birleştirme\" tekniği uygulanmaktadır. Eğitimci, \"Ağaç devrildi.\" çekirdek cümlesini verip öğrenciden bu cümleye \"Nerede?\", \"Ne zaman?\" ve \"Neden?\" sorularının cevaplarını ekleyerek genişletmesini istemektedir. Bu uygulamanın öğrencinin yazılı anlatım becerisine sağladığı en temel katkı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Noktalama işaretlerinin görevlerini kusursuz bir şekilde ezberlemesini sağlamak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Söz dizimsel (sentaktik) olgunluğu artırarak ifade kapasitesini ve cümle uzunluğunu geliştirmek.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Motor planlama becerisini geliştirerek el yazısının okunabilirliğini artırmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece kurgusal metinlerin ana hatlarını oluşturma becerisini kazandırmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kelimelerin eş ve zıt anlamlılarını bulma hızını sınıf seviyesine çıkarmak.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-007",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir öğretmen, işitsel algı ve bellek çalışmaları kapsamında öğrencisine sırasıyla bir zil sesi, bir davul sesi ve bir el çırpma sesi dinletmiştir. Daha sonra bu üç sesi aynı anda (karışık) veya arka arkaya dinletip öğrenciden \"en baskın/yüksek olan sesi\" söylemesini istemiştir. Öğretmenin bu etkinlikle kazandırmayı hedeflediği beceri aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "İşitsel ardışık sıralama",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fonolojik sözcük farkındalığı",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitsel hafızayı görselleştirme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sesleri ayırt etme ve işitsel şekil-zemin ilişkisi kurma",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sesin kaynağının yönünü ve uzaklığını belirleme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-008",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel öğrenme güçlüğü tanılı bir öğrenci, \"Dün, bugün, yarın, sabah, akşam\" gibi zaman kavramlarını kullanırken sıklıkla \"Gece okula giderim\" veya \"Dün halamlara gideceğim\" gibi bağlam dışı ifadeler kurmaktadır. Bu durumda, eğitimcinin zaman kavramlarını öğretirken öğrenciyi hangi alanda doğrudan desteklemesi gerekir?",
+    "options": [
+      {
+        "option_text": "Analog saat üzerinde akrep ve yelkovanın hareket yönünü kavrama",
+        "is_correct": false
+      },
+      {
+        "option_text": "Takvim üzerinde sayı sayma ve haftanın günlerini ezberleme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Günün bölümleri veya olayların oluş sırası ile fiil çekim ekleri (geçmiş/gelecek zaman) arasındaki anlamsal ilişkiyi kurma",
+        "is_correct": true
+      },
+      {
+        "option_text": "Standart olmayan zaman ölçüleri (kum saati vb.) ile deneyler yapma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kurgusal metinlerde geçen kahramanların fiziksel özelliklerini betimleme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-009",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "\"Okuduğunu Anlama\" modülüne göre, metin yapısı (örneğin; problem-çözüm, neden-sonuç, karşılaştırma) öğretimi yapılırken \"Şema (Grafik Düzenleyici) Yöntemi\" kullanılması şiddetle tavsiye edilir. Aşağıdakilerden hangisi şema yönteminin metni anlamlandırma sürecine sağladığı doğrudan bir fayda değildir?",
+    "options": [
+      {
+        "option_text": "Ana fikir ile yardımcı fikirler arasındaki hiyerarşiyi görselleştirmesi.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin metindeki önemli bilgi birimlerini gereksiz detaylardan ayırmasını kolaylaştırması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fikirlerin birbiriyle olan bağlantılarını organize ederek bellekte tutulmasını sağlaması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Olayların kronolojik veya mantıksal sırasının takip edilmesine somut bir taslak sunması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Harf ve hecelerin deşifre (kod çözme) edilme hızını otomatik olarak iki katına çıkarması.",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-010",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Matematik modülünde, \"parça-bütün ilişkisi ve kesirlerin öğretimi\" aşamasında Düzey-1'den Düzey-4'e kadar belli bir sıra izlenir. Öğrencinin \"yarım\" ve \"çeyrek\" kavramlarını sembolik olarak (1/2, 1/4 şeklinde) yazmadan ve okumadan önce, ön koşul beceri olarak aşağıdakilerden hangisini başarması beklenir?",
+    "options": [
+      {
+        "option_text": "Gerçek bir bütünü (örneğin bir elmayı) eş parçalara ayırarak somut modeller üzerinde yarım ve bütünü ilişkilendirmesi.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Verilen her türlü ondalık sayıyı zihninden basamak değerlerine ayırması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Payı paydasından büyük olan bileşik kesirleri birbirine dönüştürmesi.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kesirlerle toplama ve çıkarma işlemlerini soyut algoritmalarla yapması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Geometrik şekillerin iç açılarının toplamını formülle hesaplaması.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-011",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel eğitimde \"İletişimin İşlevleri\" modülü kapsamında, öğrenciye sırayla devam eden olayları içeren resimli kartlar gösterilir (örneğin; kedi sütü döker, sütçü gelir...). Eğitimci hikâyeyi yarıda kesip \"Sence bundan sonra ne olacak?\" diye sorar. Eğitimcinin burada öğrencinin hangi dilsel/bilişsel işlevini geliştirmeyi amaçladığı söylenebilir?",
+    "options": [
+      {
+        "option_text": "Geçmiş zaman deneyimlerini aktarma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tahmin etme (yordama) ve mantık yürüterek dili kullanma",
+        "is_correct": true
+      },
+      {
+        "option_text": "Duygusal tepkilerini kontrol etme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kendi haklarını korumak için dili kullanma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Zıt anlamlı kelimeleri bağlam içinde türetme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-012",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bellek stratejileri öğretilirken bir uzman, \"elma, sandalye, köpek, muz, masa, kedi\" sözcüklerini öğrencinin kısa süreli belleğinde daha uzun tutabilmesi için bu kelimeleri zihinsel olarak \"meyveler, eşyalar, hayvanlar\" şeklinde klasörlere ayırmasını öğretmektedir. Uzmanın uyguladığı bu üstbilişsel bellek stratejisinin literatürdeki adı nedir?",
+    "options": [
+      {
+        "option_text": "Zihinsel imajlama (Göz önünde canlandırma)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hatırlatıcı akrostiş (Akronim) kullanma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıflandırma / Gruplama",
+        "is_correct": true
+      },
+      {
+        "option_text": "İçinden tekrar etme (Rehearsal)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tersine zincirleme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-013",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Sınıf öğretmeni, farklı okuma düzeylerine sahip öğrencilerin bulunduğu bir sınıfta \"Farklılaştırılmış Öğretim\" uygulamaktadır. Ders sırasında I. grup (ileri düzey) öğrencilerden okunan metnin farklı bir sonla nasıl bitebileceğini yazmalarını, III. grup (destek ihtiyacı olan) öğrencilerden ise metindeki ana karakterin resmini sıraya koymalarını istemiştir. Bu durumda öğretmen, öğretimin hangi boyutunda bir farklılaştırmaya gitmiştir?",
+    "options": [
+      {
+        "option_text": "Değerlendirme not standartlarında",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıfın fiziksel oturma düzeninde",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dersin kazanım ve müfredat iptalinde",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ürün (Etkinlik ve Süreç) boyutunda",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sınıf kuralları ve ceza yöntemlerinde",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-014",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "4. sınıf öğrencisi Arda, teneffüste yanından koşarak geçen bir arkadaşı yanlışlıkla omzuna çarptığında, arkadaşının bunu bilerek ve kendisine zarar vermek amacıyla yaptığını düşünerek öfkeyle karşılık vermiştir. Oysa arkadaşı hemen özür dilemiş ve kazayla olduğunu belirten üzgün bir yüz ifadesi takınmıştır. Arda, karşısındakinin jest ve mimiklerini okumakta başarısız olmuştur. Bu senaryoya göre, Arda'nın Destek Eğitim Programı'nın hangi modülü altındaki becerilerde en fazla desteğe ihtiyacı vardır?",
+    "options": [
+      {
+        "option_text": "Yazılı Anlatım - Kurgusal metin oluşturma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görsel Algı - Şekil zemin ilişkisi kurma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fonolojik Farkındalık - Heceleme ve sesleri ayırma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Erken Matematik - Uzamsal ilişkileri kavrama",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sosyal Etkileşim - Sözel olmayan mesajları (niyet, duygu) anlama ve davranış düzenleme",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-015",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "2. sınıfa devam eden Selin, yaşıtları gibi harfleri tanımakta ancak kelimeleri bir bütün olarak deşifre ederken zorlanmaktadır. \"Sandalye\" kelimesini okurken baş harfine bakıp \"salıncak\" diye uydurmakta, bazen de kelimelerin sonundaki ekleri (örneğin \"-lar, -da\") tamamen yutmaktadır. Bilişsel değerlendirme profili incelendiğinde, Selin'in bu okuma hatalarının temelinde yatan en olası işlemleme sorunu aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "İşitsel-Ardıl kodlama ve fonolojik (sesbilgisel) işlemleme eksikliği",
+        "is_correct": true
+      },
+      {
+        "option_text": "Kavramsal akıl yürütme ve soyut zekâ geriliği",
+        "is_correct": false
+      },
+      {
+        "option_text": "El-göz koordinasyonunu sağlayan ince motor kas zayıflığı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çevresel uyaran eksikliği ve kültürel yoksunluk",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sözel olmayan görsel-mekânsal işlemleme bozukluğu",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-016",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Matematik öğrenme güçlüğü (diskalkuli) riski taşıyan bir öğrenci, \"Ali'nin 5 lirası vardı, annesi 3 lira daha verdi. Ali'nin kaç lirası oldu?\" şeklindeki sözel bir problemi çözerken sayıları rastgele çarpmakta veya çıkarmaktadır. Sadece sayıları gördüğünde işlemi doğru yapan öğrenci, işin içine \"metin\" girdiğinde ne yapacağını bilememektedir. Uzman öğreticinin bu öğrenciye problemi anlama ve uygun işlemi seçme sürecinde sunması gereken en etkili bilişsel strateji aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Öğrencinin okuma hızını artırmak için sadece metni defalarca sesli okutmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rakamları alt alta yazıp işlemi öğrenci yerine çözerek doğru cevabı ezberletmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Problemi şemalarla veya kendi çizimleriyle görselleştirmesini (modellemesini) sağlayarak eylemin \"artma\" mı \"azalma\" mı olduğunu kavratmak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sözel problemleri müfredattan çıkarıp sadece dört işlem pratiklerine dönmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hesap makinesi kullanımını zorunlu kılarak öğrencinin kavramsal düşünme yükünü hafifletmek.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-017",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel öğrenme güçlüğünde portfolyo (gelişim dosyası) değerlendirmesi son derece kritiktir. Millî Eğitim Bakanlığı rehberlik standartlarına göre, bir öğrencinin portfolyosuna sadece standart çoktan seçmeli test sonuçlarının veya tamamen bitirilmiş hatasız (mükemmel) ödevlerin konulması yanlış bir uygulamadır. Portfolyolara öğrencinin yarım kalmış çizimlerinin, taslaklarının ve ilk denemelerinin de konulmasının ölçme ve değerlendirme açısından temel gerekçesi aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Aileyi, çocuklarının yetersizlikleri ile yüzleştirip beklentilerini kalıcı olarak düşürmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Millî Eğitim Bakanlığı'nın talep ettiği dosya kalınlığı kotasını doldurmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin sadece zayıf yönlerini ön plana çıkararak okul yönetimine mazeret sunmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin hedefe ulaşırken hangi stratejileri kullandığını, nerede hata yaptığını ve süreç içindeki bireysel gelişimini (ilerlemesini) bütüncül görebilmek.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sınıftaki diğer öğrencilerle katı bir rekabet ortamı oluşturmak.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-018",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Disgrafi (yazılı anlatım güçlüğü) tanısı olan bir öğrenci kalemi geleneksel \"üç parmak (tripod)\" tutuşu yerine, dört parmağıyla kavramakta ve bileğini hafifçe içe kıvırarak yazmaktadır. Ancak öğrenci bu pozisyonda yazarken herhangi bir ağrı çekmemekte, yazısı yaşıtlarıyla aynı hızda ilerlemekte ve harflerin okunabilirliği (kalitesi) kabul edilebilir düzeyde kalmaktadır. Bu durumda özel eğitimcinin izlemesi gereken en doğru stratejik yol aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Öğrenci yazma becerisinde ustalık ve akıcılık sergilediği ile ağrı çekmediği için kalemi tutma pozisyonuna müdahale etmemek.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ergonomik kurallara uymadığı için yazısı ne kadar iyi olursa olsun tutuşu zorla değiştirmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Standart tutuşu öğrenene kadar çocuğun yazı yazmasını (kalem kullanmasını) tamamen yasaklamak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin bileğine atel takarak fizyoterapist eşliğinde kaligrafi (güzel yazı) eğitimine başlamak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İnce motor kaslarının gelişmesi için okuma etkinliklerini sonlandırıp sadece oyun hamuru oynatmak.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-019",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir uzman, ders sırasında dikkati sürekli dağılan ve hayallere dalan bir öğrencisi için masasına \"Dikkatimi Veriyorum (+)\" ve \"Dikkatimi Vermiyorum (-)\" şeklinde iki sütunlu bir çizelge yapıştırmıştır. Uzman, rastgele aralıklarla zili çaldığında öğrencinin o anki durumunu değerlendirip ilgili sütuna işaret koymasını istemektedir. Uzmanın uyguladığı bu yöntemin kazandırmayı hedeflediği üstbilişsel strateji aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Doğrudan anlatım ile ezberleme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görsel mekânsal algıyı yapılandırma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Başkalarının niyetlerini okuma (Empati)",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitsel-fonolojik ayrıştırma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kendi kendini izleme ve denetleme (Self-monitoring)",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-020",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "\"Tekrarlı Okuma\" (Repeated Reading), özel öğrenme güçlüğü olan çocuklarda sıklıkla kullanılan bir yöntemdir. Bu yöntemde öğrenci kısa ve seviyesine uygun bir metni, belirli bir akıcılık ve doğruluk ölçütüne ulaşana kadar öğretmeniyle veya akranıyla defalarca sesli okur. Çağdaş okuma araştırmalarına göre \"tekrarlı okumanın\" öğrencinin okuduğunu anlama performansını dolaylı olarak artırmasının asıl bilişsel nedeni nedir?",
+    "options": [
+      {
+        "option_text": "Çocuğun kelimelerin sözlük anlamlarını ve morfolojik köklerini tek tek ezberlemesini sağlaması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Harf-ses ilişkisini ve kelime tanımayı (deşifre etmeyi) otomatikleştirerek, beynin anlama süreci için ayırdığı bilişsel kapasiteyi serbest bırakması.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sesli okuma sırasında çocuğun diyafram nefesini doğru kullanarak bedensel rahatlama sağlaması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun yazarın psikolojik durumunu empati yoluyla daha iyi analiz etmesi.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hızlı okunduğunda metnin ana fikrinin her zaman ilk cümlede yer aldığının keşfedilmesi.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-001",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özgül öğrenme güçlüğü olan çocukların eğitim ortamlarında desteklenmesi amacıyla öğretmenlerin alabileceği sınıf içi düzenleme önlemleriyle ilgili olarak aşağıdakilerden hangisi önerilmektedir?",
+    "options": [
+      {
+        "option_text": "Yönergelerin karmaşık, uzun ve çok aşamalı cümlelerle verilmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıfta kullanılan komutların basit, kısa ve net olması",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğrenciye verilen ev egzersizlerinin (ders tekrarı yapmasının) tamamen kaldırılması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğretimin sadece yazılı ve soyut materyaller üzerinden gerçekleştirilmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görsel algı problemi olan öğrencilerin tüm etkinliklerden muaf tutulması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-002",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Matematik öğrenme güçlüğü (diskalkuli) olan bir öğrenciyle \"bölme işlemi\"ne kavramsal düzeyde yeni giriş yapılacaktır. Uzmanlar, bölme işleminin ilk aşamada doğrudan \"÷\" sembolü ve soyut algoritmalarla öğretilmesini sakıncalı bulmaktadır.\nBuna göre, bölme işleminin mantığını öğrenciye kavratmak için kullanılması gereken en temel ve somut modelleme yaklaşımı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "İki basamaklı sayıları tek basamaklı sayılarla tamamen zihinden böldürmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çarpım tablosunu tersten (sondan başa doğru) ritmik olarak ezberletmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "\"Bölünen, bölen, bölüm\" terimlerinin sözlük anlamlarını bularak deftere on kez kopyalatmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Gerçek nesneleri belirli sayılara göre eş gruplara ayırma ve paylaştırma (ardışık çıkarma) eylemini uygulamalı olarak yaptırmak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sayı doğrusu üzerinde sadece ileriye doğru ritmik sayma egzersizleri yaptırmak.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-003",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Destek Eğitim Programı \"Sayılar\" alt modülüne göre rakamların öğretim sürecinde \"0\" (sıfır) rakamının öğretimi ne zaman yapılmalıdır?",
+    "options": [
+      {
+        "option_text": "Öğretime her zaman ilk olarak \"0\" rakamından başlanmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "1'den 5'e kadar olan rakamlardan hemen sonra araya eklenmelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece çift rakamların öğretimi sırasında gruplanarak verilmelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "1'den başlanarak 9'a kadar olan rakamların öğretimi tamamlandıktan sonra en son öğretilmelidir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sadece onluk bozarak çıkarma işlemine geçildiğinde tanıtılmalıdır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Motor Planlama ve Duyusal Algı modülü kapsamında, bir öğrencinin gözleri kapalıyken eline verilen farklı yapıdaki (sert, yumuşak, pürüzlü) nesneleri ayırt etmesi beklenmektedir. Bu etkinlik doğrudan hangi algısal alanı desteklemeye yöneliktir?",
+    "options": [
+      {
+        "option_text": "Görsel şekil-zemin algısı",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitsel ardışık bellek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dokunsal (Taktil) algı",
+        "is_correct": true
+      },
+      {
+        "option_text": "Kinestetik ve propriyoseptif denge",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uzamsal oryantasyon",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-005",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Destek Eğitim Programı'na göre, özel öğrenme güçlüğü olan bireylere \"çarpma işlemi\" ilk kez öğretilirken, bu işlemin kavramsal temeli öncelikle aşağıdakilerden hangisine dayandırılarak somutlaştırılmalıdır?",
+    "options": [
+      {
+        "option_text": "Ritmik geriye sayma işlemine",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tekrarlı toplama işlemine",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ardışık çıkarma işlemine",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kalanlı bölme algoritmasına",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kesirlerde payda eşitleme kuralına",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-006",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özgül öğrenme güçlüğü olan bireylere günlük yaşam becerilerinde \"Problem Çözme\" stratejisi öğretilirken belirli bir işlem sırası izlenir. Aşağıdakilerden hangisi bu stratejinin atılması gereken ilk basamağıdır?",
+    "options": [
+      {
+        "option_text": "Olası çözüm yollarını belirleyerek listelemek",
+        "is_correct": false
+      },
+      {
+        "option_text": "En iyi ve uygulanabilir çözümü seçmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Problemi tanımlamak (Sorunun ne olduğunu bulmak)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Seçilen çözümü uygulamaya koymak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uygulanan çözümün sonucunu değerlendirmek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-007",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Kelime dağarcığını geliştirmek ve okuduğunu anlamayı desteklemek için yeni öğrenilen bir sözcüğün sayfanın ortasına yazıldığı ve etrafına bu kelimeyle ilişkili diğer sözcüklerin, özelliklerin veya örneklerin çizilerek aralarındaki bağların görselleştirildiği öğretim yöntemi aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Doğrudan açık öğretim yöntemi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Şema (Anlamsal Ağ/Harita) yöntemi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Tekrarlı okuma ve deşifre yöntemi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tersine zincirleme yöntemi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Akran eşli koro okuması yöntemi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-008",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Parça-bütün ilişkisi ve kesirlerin öğretiminde somutlaştırma (modelleme) büyük önem taşır. Bir öğretmenin öğrencisine \"çeyrek\" kavramını öğretirken izlemesi gereken en uygun başlangıç adımı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Tahtaya 1/4 kesrini yazarak deftere kopyalamasını istemek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çeyrek saatlerin nasıl okunduğunu dijital saat üzerinden göstermek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Gerçek bir bütünü (örneğin bir elmayı) dört eş parçaya bölerek her bir parçanın çeyrek olduğunu modellemek.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Payın paydaya bölümünden elde edilen ondalık değeri formülize etmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İki yarımın bir araya gelerek bir çeyrek ettiğini sayı doğrusunda göstermek.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-009",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Okuduğunu/Dinlediğini anlama sürecinde cevabı metnin içinde açıkça (bir cümleyle) yer almayan; bireyin kendi bilgi ve deneyimleriyle metindeki olayları birleştirerek mantıksal bir sonuca ulaşmasını gerektiren soru türü aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Metinde açıkça bulunan sorular",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sözel işitsel ardıl bellek soruları",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bilgi ve deneyime dayanan (Çıkarımsal) sorular",
+        "is_correct": true
+      },
+      {
+        "option_text": "Kelime dağarcığı ve morfoloji soruları",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fonolojik kodlama soruları",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-010",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Yazılı anlatım sürecine başlayan bir öğrencinin, taslağını yazmaya geçmeden önce uyguladığı \"Planlama (Yazma Öncesi)\" aşamasında yapması beklenen temel etkinlik aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Metindeki imla ve noktalama hatalarını kırmızı kalemle düzeltmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yazdığı metnin tutarlılığını bozan fikirleri çıkarıp yerlerine yenilerini yazmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yazılacak konuyu, yazma amacını ve okuyucu kitlesini belirlemek",
+        "is_correct": true
+      },
+      {
+        "option_text": "Yazdığı metni sınıftaki arkadaşlarına yüksek sesle sunmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Metinde kullandığı bağlaçların (çünkü, ama, ancak) doğruluğunu kontrol etmek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-011",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Dil ve iletişim modülünde sözcük dağarcığını geliştirmek amacıyla kelimelerin zıt ve eş anlamlıları öğretilirken uzmanların \"Doğrudan Öğretim\" dışında sıklıkla tercih ettikleri strateji aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Metin içindeki ipuçlarını (bağlam ipuçlarını) kullanarak kelimenin anlamını tahmin etme",
+        "is_correct": true
+      },
+      {
+        "option_text": "Kelimeleri tek tek yapısal hecelerine bölerek anlamsız ses dizileri üretme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hedef sözcüğün harf sayısına göre soyut bir sınıflandırma yapma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin konuşması sırasında hata yaptığında sözünü keserek hemen müdahale etme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Soyut terimleri yalnızca sözlükteki tanımlarıyla sayfalarca deftere kopyalatma",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-012",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Müdahaleye Tepki Modeli'nin (RTI) \"İkinci Aşama (Düzey-II)\" müdahaleleriyle ilgili olarak aşağıda verilen bilgilerden hangisi doğrudur?",
+    "options": [
+      {
+        "option_text": "Sadece sınıf öğretmeni tarafından tüm sınıfa standart içerikle uygulanır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıf düzeyinin gerisinde kalan 4-5 kişilik küçük gruplara haftada 30-40 dakika ek/destekleyici yoğun öğretim sunulur.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğrenciler kalıcı olarak özel eğitim sınıflarına alınarak genel eğitimden tümüyle ayrılırlar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Değerlendirme yılda sadece bir kez standart genel başarı testleriyle yapılır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun akademik geriliğinin tıbbi bir ceza sistemine bağlanmasını içerir.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-013",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Görsel algı modülünde, \"k, t, c, p, b\" gibi bir harf dizisi verilerek öğrenciden \"p'den önce/sonra gelen harfi göstermesi veya söylemesi\" istenmektedir. Bu etkinlik, görsel algının hangi alt bileşenini desteklemek amacıyla yapılmaktadır?",
+    "options": [
+      {
+        "option_text": "Görsel şekil-zemin ilişkisini ayırt etme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Mekânsal konumlandırma ve harflerin birbirine göre ardışıklığı",
+        "is_correct": true
+      },
+      {
+        "option_text": "Görsel şekil değişmezliğini ve parça-bütün ilişkisini sağlama",
+        "is_correct": false
+      },
+      {
+        "option_text": "El-göz koordinasyonunu gerektiren serbest çizim becerileri",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitsel hafızayı görsel sembollerle eşleştirme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-014",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "9 yaşındaki Berk, teneffüste sıra beklerken önündeki arkadaşı yanlışlıkla geriye adım atıp ayağına bastığında, arkadaşının bunu bilerek yaptığını düşünmüş ve onu sertçe itmiştir. Arkadaşı özür dilemesine ve üzgün görünmesine rağmen Berk bu sözel olmayan işaretleri (yüz ifadelerini ve mimikleri) yanlış yorumlamıştır.\nBu durum göz önüne alındığında, Berk'in Destek Eğitim Programı'ndaki hangi alanda öncelikli olarak desteklenmesi gerekmektedir?",
+    "options": [
+      {
+        "option_text": "Fonolojik farkındalık, sesletim ve heceleme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sözel olmayan iletişim, niyet okuma ve sosyal durumları anlama",
+        "is_correct": true
+      },
+      {
+        "option_text": "İnce motor planlama, kaligrafi ve el-göz koordinasyonu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Erken matematik, onluk bozma ve mekânsal ilişkiler",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitsel ardışık bellek kapasitesi ve şemalandırma",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-015",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "3. sınıf öğrencisi Ayşe, \"sandalye\" sözcüğünü okurken ilk hecesine bakıp gerisini \"salıncak\" olarak uydurmakta, bazen kelime sonlarındaki ekleri (örneğin \"-lar, -da\") hiç okumadan yutmaktadır. Okuma hızı yavaş ve hatalı olduğu için metnin ana fikrini de bulamamaktadır.\nÇağdaş araştırmalara göre, Ayşe'nin bu tür okuma hatalarının (deşifre/kod çözme zorluğunun) temelinde yatan en güçlü nörobilişsel neden aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Görsel-mekânsal işlemleme zayıflığı ve yön (sağ-sol) algısının bozukluğu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dikkat eksikliği, hiperaktivite ve impulsiviteden kaynaklı ani tepki verme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fonolojik (sesbilgisel) işlemleme, harf-ses uyumunu geri çağırma ve ardıl bellek zayıflığı",
+        "is_correct": true
+      },
+      {
+        "option_text": "Soyut matematiksel kavramları şemalandırma kapasitesindeki anatomik eksiklik",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kaba motor koordinasyon eksikliği ve postür bozukluğu",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-016",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Öğrenme güçlüğü (diskalkuli) olan bir öğrenciyle çıkarma işlemi çalışan öğretmen, işlemi sadece sembollerle (5 - 2 = 3) yapmak yerine, 5 adet mandalinayı masaya koymuş ve 2 tanesini öğrencinin yemesini istemiştir. Ardından \"Mandalinaların sayısı ne oldu? Arttı mı, azaldı mı?\" diye sorarak eylemi tanımlatmıştır.\nÖğretmenin bu uygulamadaki temel pedagojik amacı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Çıkarma işleminin ritmik geriye saymadan ibaret anlamsız bir dizi olduğunu kanıtlamak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenciye onluk bozarak çıkarma işleminin teorik kuralını ezberletmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece ince motor becerileri kullanarak nesne taşıma pratiği yaptırmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çıkarma işleminin \"eksiltme, azalma, fark\" gibi kavramsal anlamlarını somut modellerle fark ettirmek.",
+        "is_correct": true
+      },
+      {
+        "option_text": "İşlem sonucunun sıfır (0) olduğu özel yutan eleman durumlarına ön hazırlık yapmak.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-017",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir sınıf öğretmeni okuma dersinde \"akran eşli okuma\" etkinliği planlamıştır. Sınıfı okuma performanslarına göre I. (ileri) ve II. (destek ihtiyacı olan) grup olarak ikiye ayırmış, I. gruptan bir öğrenciyi (Koç) II. gruptan bir öğrenciyle (Oyuncu) eşleştirmiştir.\nÖğretmen, bu gruplara okuma materyali dağıtırken nasıl bir yol izlemelidir?",
+    "options": [
+      {
+        "option_text": "Her gruba sınıf seviyesinin tam olarak aynı düzeyinde standart bir metin vermelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Koç rolündeki öğrencinin sıkılmaması için tüm gruplara lise seviyesinde zor metinler seçmelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Akran eşlerin okuma seviyeleri bilindiği için, gruplara kendi hazırbulunuşluk ve performans düzeylerine uygun farklı zorluklarda kitaplar vermelidir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Destek ihtiyacı olan (Oyuncu) öğrencilerin sadece resimli ve yazısız kitaplara bakmalarını sağlamalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Metin seçimi tamamen okul müdürünün inisiyatifine bırakılarak rekabetçi bir standartlaşma sağlanmalıdır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-018",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Dikkati çabuk dağılan ve derse odaklanamayan bir öğrenci için uzman, masasına \"Dikkatimi Veriyorum (+)\" ve \"Dikkatimi Vermiyorum (-)\" yazılı bir form yapıştırmıştır. Belirli aralıklarla (örneğin her 5 dakikada bir) bir zil sesi çaldığında öğrenci, o an ne yaptığını düşünüp forma işaret koymaktadır.\nBu yöntemle hedeflenen ve öğrencinin kendi dikkatinin sorumluluğunu almasını sağlayan üstbilişsel becerinin literatürdeki adı nedir?",
+    "options": [
+      {
+        "option_text": "Akran aracılı standart değerlendirme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kendi kendini izleme ve denetleme (Self-monitoring)",
+        "is_correct": true
+      },
+      {
+        "option_text": "İşitsel uyaranlara karşı bedensel duyarsızlaştırma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Gecikmeli yankılayıcı (eko) okuma stratejisi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Doğrudan anlatım ile tümevarımsal kural ezberleme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-019",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "2. sınıf öğrencisi Burak, uzunlukları standart ölçü birimleriyle (metre, santimetre) ölçmekte zorlanmaktadır. Uzman öğretici, doğrudan cetvel kullanmak yerine Burak'tan masanın boyunu önce \"kendi karışı\" ve \"silgisi\" ile ölçmesini istemiş, daha sonra öğretmenin karışı ile ölçülen sonuçları karşılaştırmıştır.\nÖzel eğitimde standart ölçü birimlerine geçmeden önce standart olmayan birimlerle (karış, silgi, adım) ölçme yapılmasının temel nedeni aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Standart birimlerin hiçbir zaman öğrenilmeyeceğini baştan kabul ederek konuyu atlamak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uzunluk ölçmenin sadece tahmin etmeye dayalı bir oyun olduğunu göstermek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Standart olmayan birimlerin (karışların) kişiden kişiye değiştiğini fark ettirerek standart birimlerin gerekliliğini somutlaştırmak ve ölçme mantığını kavratmak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğrencinin standart cetvel kullanarak yapacağı ölçüm hatalarını örtbas etmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İnce motor becerileri gelişmediği için cetvel tutmasının tehlikeli olduğunu varsaymak.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-020",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Vaka Analizi: 9 yaşındaki Ali, sınıf içindeki zorlayıcı veya karmaşık bir akademik görevle karşılaştığında (örneğin aşamalı bir matematik problemi çözerken) çabucak öfkelenmekte, defterini karalamakta ve \"Bunu asla yapamayacağım!\" diyerek ağlamaya başlamaktadır.\nDestek eğitim programının \"Duygu Düzenleme\" modülüne göre; Ali'nin hissettiği bu yoğun hayal kırıklığı ve öfke duygusunu düzenleyebilmesi için öğretmenin ona kazandırması gereken üstbilişsel / davranışçı strateji aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Ali her öfkelendiğinde ona mola verdirerek istediği bilgisayar oyunuyla oynamasına sınırsız izin vermek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ali'ye nefes alma, 10'a kadar sayma, su içme veya \"Bunu yapabilirim\" şeklinde içsel konuşma (kendini talimatlandırma) gibi kendini sakinleştirme tekniklerini modelleyerek öğretmek.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ali'nin zorlandığı tüm akademik görevleri ondan tamamen alıp, onu alt sınıfların seviyesine indirmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Arkadaşlarının önünde Ali'nin zayıf yönlerini eleştirerek onun inat edip problemi çözmesini sağlamak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ali'nin hissettiği bu yoğun duyguları tamamen görmezden gelerek sadece matematik formüllerini ezberlemesini emretmek.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  }
+]

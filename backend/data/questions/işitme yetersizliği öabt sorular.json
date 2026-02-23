@@ -1,0 +1,4754 @@
+[
+  {
+    "question_id": "Q-TEST01-001",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme kaybının derecesine göre yapılan tıbbi sınıflandırmada, bireyin konuşmaları anlamasının imkânsız olduğu, çevreden gelen sesleri ancak cihazla çok sınırlı duyabildiği veya hiç duyamadığı, 95 dB ve üzerindeki kayıpları ifade eden sınıflandırma aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Hafif düzeyde işitme kaybı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Orta düzeyde işitme kaybı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Orta-ileri düzeyde işitme kaybı",
+        "is_correct": false
+      },
+      {
+        "option_text": "İleri düzeyde işitme kaybı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çok ileri düzeyde işitme kaybı",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-002",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme sisteminin yapısı ve işleyişi dikkate alındığında; ses dalgalarını toplayarak dış kulak yoluna iletmek ve sesin yönünü belirlemeye yardımcı olmakla görevli olan yapı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Östaki borusu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kulak kepçesi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Kulak zarı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Salyangoz (Koklea)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yarım daire kanalları",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-003",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi işitme yetersizliğinin doğum öncesi (prenatal) nedenlerinden biri değildir?",
+    "options": [
+      {
+        "option_text": "Annenin hamilelikte kızamıkçık (rubella) geçirmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kan (Rh) uyuşmazlığı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Annenin hamilelikte ototoksik ilaç kullanması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bebeğin doğum sırasında oksijensiz kalması (anoksi)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Genetik faktörler ve akraba evliliği",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme yetersizliği olan çocukların eğitimi ve iletişiminde kullanılan; işaret dilinin \"birinci dil/anadil\", sözel dilin (özellikle okuma-yazma boyutunun) ise \"ikinci dil\" olarak öğretilmesini temel alan yaklaşım aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Doğal İşitsel Sözel Yöntem",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tüm (Total) İletişim Yöntemi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çift Dil (Bilingual) Yaklaşımı",
+        "is_correct": true
+      },
+      {
+        "option_text": "İşitsel Sözel Terapi (Auditory-Verbal)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Oral (Sözel) İletişim Yöntemi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-005",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Mehmet Öğretmen, sınıfındaki işitme yetersizliği olan öğrencisi Ali'nin arkası dönükken çaldığı davul ve zil seslerini dinletmekte, Ali'den duyduğu sesin hangisi olduğunu (davul mu, zil mi) resimli kartlarla göstermesini istemektedir. Mehmet Öğretmen'in bu etkinlikte hedeflediği işitsel beceri basamağı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Sesin farkına varma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sesi ayırt etme",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sesi anlamlandırma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sesin yönünü bulma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sesi taklit etme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-006",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme kaybının tanılanması sürecinde kullanılan, bebeğin veya çocuğun aktif katılımını gerektirmeyen, elektrotlar yardımıyla işitme siniri ve beyin sapı fonksiyonlarını ölçen objektif test aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Saf Ton Odyometrisi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Konuşma Odyometrisi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Oyun Odyometrisi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fısıltı Testi",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitsel Beyin Sapı Cevabı (ABR/BER",
+        "is_correct": true
+      },
+      {
+        "option_text": "",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-007",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Kaynaştırma sınıfında görev yapan bir okul öncesi öğretmeni, işitme yetersizliği olan öğrencisinin sınıftaki etkinlikleri takip etmekte zorlandığını ve dikkatinin çabuk dağıldığını gözlemlemiştir. Bu öğretmenin sınıfın fiziksel ortamında yapması gereken düzenlemelerden hangisi işitme yetersizliği olan öğrenci için en uygun davranıştır?",
+    "options": [
+      {
+        "option_text": "Öğrenciyi sınıfın en arkasına, gürültüden uzak bir köşeye oturtmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıftaki tüm halı ve perdeleri kaldırarak sesin daha çok yankılanmasını sağlamak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenciyi öğretmeni ve tahtayı rahatça görebileceği, ışığı arkasına almayan bir konuma yerleştirmek.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğrencinin dudak okumasını engellemek için ders anlatırken sürekli sınıf içinde dolaşmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenciyi pencere kenarına oturtarak dışarıyı görmesini sağlamak.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-008",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme yetersizliği olan çocukların dil gelişim özellikleri incelendiğinde, aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      {
+        "option_text": "Somut kelimeleri soyut kelimelere göre daha hızlı öğrenirler.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ekleri (çoğul, iyelik, zaman ekleri vb.) kullanmada ve anlamada güçlük yaşarlar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kelime dağarcıkları işiten akranlarına göre daha sınırlıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Doğuştan işitme kaybı olan bebekler, işiten bebekler gibi babıldama dönemine hiç girmezler.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Etken ve edilgen çatı gibi karmaşık cümle yapılarını anlamakta zorlanırlar.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-009",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Dış kulak veya orta kulaktaki bir sorun (kulak kiri, zar delinmesi, orta kulak iltihabı vb.) nedeniyle sesin iç kulağa iletilememesi sonucu oluşan ve genellikle tıbbi müdahale ile tedavi edilebilen işitme kaybı türü hangisidir?",
+    "options": [
+      {
+        "option_text": "Duyusal-sinirsel işitme kaybı",
+        "is_correct": false
+      },
+      {
+        "option_text": "İletim tipi işitme kaybı",
+        "is_correct": true
+      },
+      {
+        "option_text": "Merkezi işitme kaybı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Karışık tip işitme kaybı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fonksiyonel işitme kaybı",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-010",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "9 aylık bebeği olan bir anne, bebeğinin ilk aylarda sesler çıkardığını ancak son zamanlarda ses üretiminin azaldığını ve bebeğin sessizleştiğini fark ederek uzmana başvurmuştur. Uzmanın bu durumla ilgili yapacağı en olası değerlendirme aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Bebek otizm spektrum bozukluğu belirtileri göstermektedir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bebek \"seçici konuşmamazlık\" (mutizm) dönemi yaşamaktadır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitme kaybı olan bebekler de babıldar, ancak işitsel geri bildirim alamadıkları için bu sesler zamanla söner.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Bebek normal gelişim sürecindedir, 9. ayda bebeklerin sessizleşmesi beklenir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bebeğin dil bağı problemi olduğu için ses çıkaramamaktadır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-011",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel eğitim öğretmeni Sevgi Hanım, sınıfındaki işitme yetersizliği olan öğrencisi için bir \"FM Sistemi\" kullanmayı planlamaktadır. Aşağıdakilerden hangisi FM sisteminin sınıfta kullanılmasının temel amacıdır?",
+    "options": [
+      {
+        "option_text": "Öğrencinin konuşma seslerini kaydedip daha sonra dinlemesini sağlamak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıftaki tüm öğrencilerin seslerini yükselterek genel bir gürültü oluşturmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğretmenin sesini doğrudan öğrencinin cihazına ileterek, arka plan gürültüsü ve mesafe sorununu ortadan kaldırmak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğrencinin işaret dilini daha hızlı öğrenmesini sağlamak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıfın akustik yalıtımını sağlayarak yankıyı önlemek.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-012",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme yetersizliği olan bireylerin bilişsel gelişimleri ile ilgili yapılan araştırmalar dikkate alındığında, aşağıdakilerden hangisi söylenebilir?",
+    "options": [
+      {
+        "option_text": "İşitme yetersizliği olan bireylerin zeka düzeyleri her zaman işiten akranlarından düşüktür.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ek bir yetersizlik yoksa, sözel olmayan zeka testlerinde işiten akranlarıyla benzer performans gösterirler.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Soyut düşünme becerileri, dil gelişiminden bağımsız olarak kendiliğinden gelişir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitme kaybı derecesi arttıkça zeka puanında mutlaka düşüş gözlenir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görsel bellek kapasiteleri işiten akranlarına göre her zaman daha düşüktür.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-013",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Koklear implant (biyonik kulak) uygulaması ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      {
+        "option_text": "Dış kulak yolu kapalı olan bireylerde uygulanır ve sesi kemik yoluyla iletir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece hafif düzeyde işitme kaybı olan bireylere uygulanır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İç kulaktaki tüy hücrelerinin görevini üstlenerek sesleri elektrik sinyallerine çevirip doğrudan işitme sinirini uyarır.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ameliyat gerektirmez, kulak arkasına takılan basit bir ses yükselticisidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitme kaybını tamamen tedavi eder ve cihaz takıldığı anda birey mükemmel konuşmaya başlar.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-014",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Kaynaştırma öğrencisi Efe, işitme cihazı kullanmasına rağmen öğretmenin verdiği uzun ve karmaşık yönergeleri takip etmekte zorlanmakta, sık sık arkadaşlarına bakarak ne yapacağını anlamaya çalışmaktadır. Bu durumda öğretmenin alması gereken en etkili önlem aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Efe'ye yönergeleri vermekten vazgeçmek ve onu serbest bırakmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yönergeleri verirken ses tonunu aşırı derecede yükselterek bağırmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yönergeleri basitleştirmek, kısa cümleler kurmak ve görsel ipuçları (yazı, resim) ile desteklemek.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Efe'nin yerine ödevlerini yapması için bir arkadaşını görevlendirmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Efe'nin işitme cihazını çıkarıp sadece dudak okumasına odaklanmasını sağlamak.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-015",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme sisteminin değerlendirilmesinde, ses enerjisinin kulak zarından iç kulağa geçişini ve orta kulak kas reflekslerini ölçen, özellikle orta kulak problemlerinin (sıvı birikimi vb.) tespitinde kullanılan test aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "İmmitansmetrik (Timpanometrik) Ölçüm",
+        "is_correct": true
+      },
+      {
+        "option_text": "Saf Ton Odyometrisi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Konuşma Odyometrisi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Oyun Odyometrisi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Serbest Alan Odyometrisi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-016",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdaki durumların hangisinde \"Merkezi (Santral) İşitsel İşlemleme Bozukluğu\"ndan şüphelenilir?",
+    "options": [
+      {
+        "option_text": "Bireyin kulak kepçesinin doğuştan olmaması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Orta kulakta sıvı birikmesi sonucu sesin iletilememesi.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İç kulak ve işitme siniri sağlam olmasına rağmen, beyindeki işitme merkezinin sesi algılayamaması ve anlamlandıramaması.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Bireyin psikolojik nedenlerle duymuyormuş gibi davranması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yaşlılığa bağlı olarak işitme duyarlılığının azalması.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-017",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme yetersizliği olan çocukların motor gelişim özellikleri dikkate alındığında, en sık karşılaşılan problem alanı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Kas kuvvetinde aşırı zayıflık.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İnce motor becerilerin hiç gelişmemesi.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İç kulaktaki vestibüler sistemin etkilenmesine bağlı denge ve koordinasyon problemleri.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Yürüme becerisinin 5 yaşından sonra kazanılması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "El-göz koordinasyonunun işiten akranlarından daha ileri düzeyde olması.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-018",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme yetersizliği olan bireylerin eğitiminde kullanılan \"Tüm (Total) İletişim Yöntemi\"nin temel felsefesi nedir?",
+    "options": [
+      {
+        "option_text": "Sadece işaret dilinin kullanılması ve konuşmanın yasaklanmasıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun iletişim kurabilmesi için işitsel, sözel, işaret, dudak okuma gibi tüm yöntemlerin bir arada ve esnekçe kullanılmasıdır.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sadece işitme kalıntısının kullanılması ve görsel ipuçlarının engellenmesidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşaret dilinin ana dil, sözel dilin ikinci dil olarak öğretilmesidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun sadece yazılı materyallerle iletişim kurmasının sağlanmasıdır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-019",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Rehberlik ve Araştırma Merkezi (RAM) tarafından tanılanan ve kaynaştırma eğitimine yönlendirilen işitme yetersizliği olan bir öğrenci için okulda oluşturulan BEP birimi tarafından hazırlanması zorunlu olan belge hangisidir?",
+    "options": [
+      {
+        "option_text": "Tıbbi Tanı Raporu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Özürlü Sağlık Kurulu Raporu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sosyal İnceleme Raporu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Odyogram Test Sonucu",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-020",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme eğitimi çalışmalarında bir öğretmen; öğrencisinin gözlerini kapatmasını istemiş, ardından sınıfın sağ, sol, ön ve arka gibi farklı noktalarından zil sesi vererek öğrencisinden sesin geldiği tarafı eliyle işaret etmesini beklemiştir. Öğretmenin bu etkinlikte değerlendirmeyi ve geliştirmeyi hedeflediği, \"ses kaynağının yerini tayin etme\" olarak da tanımlanan işitsel beceri aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Diskriminasyon (Ayırt Etme)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Lokalizasyon (Yön Belirleme)",
+        "is_correct": true
+      },
+      {
+        "option_text": "İdentifikasyon (Tanımlama)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Komprehensiyon (Anlamlandırma)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dedeksiyon (Fark Etme)",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-001",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İç kulakta yer alan, içi sıvı dolu olan ve içinde bulunan tüy hücreleri sayesinde mekanik ses titreşimlerini elektrik sinyallerine dönüştürerek işitme sinirine iletmekle görevli olan \"işitmenin asıl organı\" aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Östaki Borusu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kulak Zarı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Korti Organı",
+        "is_correct": true
+      },
+      {
+        "option_text": "Yarım Daire Kanalları",
+        "is_correct": false
+      },
+      {
+        "option_text": "Örs Kemikçiği",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-002",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme yetersizliğinin sınıflandırılmasında, dil ve konuşma becerilerinin kazanılmasından önce (genellikle 0-3 yaş dönemi) meydana gelen işitme kayıplarına ne ad verilir?",
+    "options": [
+      {
+        "option_text": "Post-lingual işitme kaybı",
+        "is_correct": false
+      },
+      {
+        "option_text": "İletimsel işitme kaybı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Pre-lingual işitme kaybı",
+        "is_correct": true
+      },
+      {
+        "option_text": "Tek taraflı işitme kaybı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fonksiyonel işitme kaybı",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-003",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "6 ay ile 2,5 yaş arasındaki çocukların işitme eşiklerini belirlemek amacıyla kullanılan, çocuğun sese tepki verdiğinde ışıklı veya hareketli bir oyuncakla (pekiştireçle) ödüllendirildiği davranışsal odyometri testi hangisidir?",
+    "options": [
+      {
+        "option_text": "Saf Ton Odyometrisi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Oyun Odyometrisi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görsel Pekiştireçli Odyometri (VR",
+        "is_correct": true
+      },
+      {
+        "option_text": "",
+        "is_correct": false
+      },
+      {
+        "option_text": "Konuşma Odyometrisi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Beklenti Odyometrisi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme cihazı kullanan öğrencilerin, tiyatro, sinema veya sınıf ortamlarında, ortamdaki manyetik dalgaları alarak sesi doğrudan işitme cihazına ileten ve arka plan gürültüsünü engelleyen sistemden yararlanabilmeleri için cihazlarında hangi modun aktif olması gerekir?",
+    "options": [
+      {
+        "option_text": "M (Mikrofon) Modu",
+        "is_correct": false
+      },
+      {
+        "option_text": "T (Telecoil) Modu",
+        "is_correct": true
+      },
+      {
+        "option_text": "O (Off/Kapalı) Modu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bluetooth Modu",
+        "is_correct": false
+      },
+      {
+        "option_text": "FM Modu",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-005",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme yetersizliği olan çocukların bilişsel gelişimleri incelendiğinde; başkalarının niyetlerini, isteklerini ve inançlarını anlama becerisi olan \"Zihin Kuramı\" (Theory of Mind) becerilerinin gelişimi ile ilgili aşağıdakilerden hangisi söylenebilir?",
+    "options": [
+      {
+        "option_text": "İşitme yetersizliği, zihin kuramı gelişimini hiçbir şekilde etkilemez.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitme engelli çocuklar zihin kuramı becerilerini işiten akranlarından daha erken kazanırlar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dil gelişimindeki gecikme ve sohbete dayalı etkileşimlerin azlığı, zihin kuramı gelişiminde gecikmelere yol açabilir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Zihin kuramı sadece görme yetersizliği olan çocuklarda etkilenen bir alandır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşaret dili kullanan çocuklarda zihin kuramı gelişimi görülmez.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-006",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme engellilerin eğitiminde kullanılan, dudak okumayı desteklemek amacıyla konuşma sırasında ağız çevresinde yapılan ve sesleri (fonemleri) ayırt etmeyi sağlayan el işaretlerinin kullanıldığı yöntem aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "İşaret Dili (Tİ",
+        "is_correct": false
+      },
+      {
+        "option_text": "",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşaretli Konuşma (Cued Speech)",
+        "is_correct": true
+      },
+      {
+        "option_text": "İşitsel Sözel Yöntem",
+        "is_correct": false
+      },
+      {
+        "option_text": "Doğal Yöntem",
+        "is_correct": false
+      },
+      {
+        "option_text": "İki Dil Yöntemi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-007",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Okul öncesi dönemde işitme yetersizliği olan bir çocuğun, günlük yaşam deneyimleri sırasında (örneğin; yemek yerken, parkta oynarken) ilgilendiği nesne veya olaylar üzerinden yapılan, planlanmamış anlık öğretimlere ne ad verilir?",
+    "options": [
+      {
+        "option_text": "Basamaklandırılmış Öğretim",
+        "is_correct": false
+      },
+      {
+        "option_text": "Doğrudan Öğretim",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fırsat Eğitimi (Doğal Öğretim)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Tersine Kaynaştırma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Programlı Öğretim",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-008",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Kaynaştırma sınıfında görev yapan bir öğretmen, işitme yetersizliği olan öğrencisinin öğretmeni daha iyi duyabilmesi için \"Sinyal/Gürültü Oranı\"nı (SNR) artırmak istemektedir. Aşağıdakilerden hangisi bu amaca en çok hizmet eden uygulamadır?",
+    "options": [
+      {
+        "option_text": "Öğretmenin ses tonunu sürekli değiştirmesi.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıfın pencerelerinin açık tutulması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin öğretmene yakın oturtulması ve FM sistemi kullanılması.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğrencinin işitme cihazının ses ayarını sonuna kadar açması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıftaki diğer öğrencilerin fısıldayarak konuşması.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-009",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Kaynaştırma sınıfındaki bir öğretmen ders anlatırken sık sık tahtaya dönmekte ve konuşmaya tahtaya yazı yazarken devam etmektedir. Öğretmenin bu davranışı, işitme yetersizliği olan öğrenci için aşağıdaki problemlerden hangisine öncelikli olarak neden olur?",
+    "options": [
+      {
+        "option_text": "Öğrencinin işaret dilini unutmasına.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dudak okuma ve jest-mimik ipuçlarının kaybolması nedeniyle iletişimin kopmasına.",
+        "is_correct": true
+      },
+      {
+        "option_text": "İşitme cihazının frekans ayarlarının bozulmasına.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin görme yetisini az kullanmasına.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıftaki yankının artmasına.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-010",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Koklear implant (biyonik kulak) cihazının yapısı düşünüldüğünde, aşağıdakilerden hangisi cihazın vücut içine (deri altına/iç kulağa) yerleştirilen parçalarından biridir?",
+    "options": [
+      {
+        "option_text": "Mikrofon",
+        "is_correct": false
+      },
+      {
+        "option_text": "Konuşma işlemcisi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Pil yuvası",
+        "is_correct": false
+      },
+      {
+        "option_text": "Elektrot dizisi (taşıyıcı)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Aktarıcı bobin (coil)",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-011",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme yetersizliği olan çocukların dinleme becerilerini ve sesleri ayırt etme düzeylerini değerlendirmek amacıyla kullanılan, /a/, /u/, /i/, /s/, /ş/, /m/ seslerini içeren test aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Denver Gelişim Testi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ling 6 Ses Testi",
+        "is_correct": true
+      },
+      {
+        "option_text": "WISC-R Zeka Testi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Snellen Göz Tarama Testi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Peabody Resim Kelime Testi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-012",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme yetersizliği olan bir öğrencinin kaynaştırma sınıfına yerleştirilmesi sürecinde, sınıf arkadaşlarının (işiten akranların) hazırlanması için yapılması gereken en uygun davranış hangisidir?",
+    "options": [
+      {
+        "option_text": "İşitme engelli öğrencinin durumunu gizli tutmak ve kimseye söylememek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitme engelli öğrenci gelmeden önce sınıfa işitme cihazı, iletişim yolları ve nasıl yardımcı olabilecekleri hakkında bilgilendirme yapmak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "İşitme engelli öğrenciyi sınıftan ayrı bir sırada tek başına oturtmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece sınıf başkanına bilgi verip diğer öğrencileri süreç dışında bırakmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitme engelli öğrencinin tüm ödevlerini arkadaşlarının yapmasını istemek.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-013",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İç kulaktaki vestibüler sistemin (denge merkezi) hasar görmesi durumunda, işitme yetersizliği olan çocukların motor gelişimlerinde aşağıdaki becerilerden hangisinde gecikme yaşanması en olasıdır?",
+    "options": [
+      {
+        "option_text": "Nesneleri tutma ve bırakma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kalem tutma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yardımsız yürüme ve denge sağlama",
+        "is_correct": true
+      },
+      {
+        "option_text": "Makas kullanma",
+        "is_correct": false
+      },
+      {
+        "option_text": "İpe boncuk dizme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-014",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Türk İşaret Dili (TİD) ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      {
+        "option_text": "ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kendine özgü bir gramer yapısı vardır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "El hareketlerinin yanı sıra jest ve mimikler de anlamı etkiler.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Evrenseldir, tüm dünyada aynı işaretler kullanılır.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sözel dilden bağımsız bir dil sistemidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Soyut kavramlar ifade edilebilir.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-015",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme taramalarında kullanılan yöntemlerden; \"Otoakustik Emisyon (OAE)\" ile \"İşitsel Beyin Sapı Cevabı (ABR)\" testleri arasındaki temel fark aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "\" ile \"İşitsel Beyin Sapı Cevabı (ABR)\" testleri arasındaki temel fark aşağıdakilerden hangisidir?",
+        "is_correct": false
+      },
+      {
+        "option_text": "OAE sadece yetişkinlere yapılırken, ABR sadece bebeklere yapılır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "OAE sübjektif bir testtir, ABR objektif bir testtir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "OAE iç kulaktaki tüy hücrelerinin tepkisini ölçerken, ABR işitme siniri ve beyin sapı yollarını değerlendirir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "OAE için cerrahi müdahale gerekirken, ABR için gerekmez.",
+        "is_correct": false
+      },
+      {
+        "option_text": "OAE davranışsal bir testtir, ABR elektrofizyolojik bir testtir.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-016",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme sisteminin değerlendirilmesi sürecinde kullanılan temel akustik kavramlardan biri olan; sesin frekansından (tizliği/pesliği) farklı olarak, sesin şiddetini (yüksekliğini/gürlüğünü) ifade eden ölçü birimi aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Hertz (Hz)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Odyogram",
+        "is_correct": false
+      },
+      {
+        "option_text": "Desibel (d",
+        "is_correct": true
+      },
+      {
+        "option_text": "",
+        "is_correct": false
+      },
+      {
+        "option_text": "Timpanogram",
+        "is_correct": false
+      },
+      {
+        "option_text": "Koklea",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-017",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Hamilelik sırasında annenin geçirdiği enfeksiyonlar bebeğin işitme sistemine zarar verebilir. Tıp literatüründe \"TORCH\" grubu olarak adlandırılan bu enfeksiyonlardan hangisi işitme kaybına neden olan en yaygın viral enfeksiyonlardan biridir?",
+    "options": [
+      {
+        "option_text": "Grip (İnfluenza)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sitomegalovirüs (CMV)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Suçiçeği",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hepatit B",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tetanos",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-018",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Orta kulağın havalanmasını sağlayan ve dış basınç ile orta kulak basıncını dengeleyerek kulak zarının sağlıklı titreşmesini sağlayan yapı hangisidir?",
+    "options": [
+      {
+        "option_text": "Salyangoz",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dış kulak yolu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Östaki borusu",
+        "is_correct": true
+      },
+      {
+        "option_text": "Yarım daire kanalları",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitme siniri",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-019",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Ahmet Öğretmen, sınıfındaki işitme yetersizliği olan öğrencisine yeni bir kelime öğretirken; önce nesnenin kendisini gösteriyor, sonra resmini gösteriyor, en sonunda kelimenin yazılışını ve işaretini sunuyor. Ahmet Öğretmen'in kullandığı bu stratejinin temel amacı nedir?",
+    "options": [
+      {
+        "option_text": "Öğrencinin sadece görsel hafızasını kullanmasını sağlamak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğretimi somuttan soyuta doğru yapılandırarak kavram edinimini kolaylaştırmak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğrencinin ders süresince sıkılmasını engellemek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin dudak okuma becerisini test etmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıftaki diğer öğrencilerin dikkatini dağıtmak.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-020",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Orta kulak boşluğunun havalanmasını sağlayan ve dış basınç ile orta kulak basıncını eşitleyen \"Östaki Borusu\"nun işlevini yitirmesi durumunda en sık karşılaşılan kulak hastalığı hangisidir?",
+    "options": [
+      {
+        "option_text": "İç kulak kireçlenmesi (Otoskleroz).",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dış kulak yolu iltihabı.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Seröz Otitis Media (Orta kulakta sıvı birikmesi).",
+        "is_correct": true
+      },
+      {
+        "option_text": "İşitme siniri tümörü.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kulak kepçesi yokluğu.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-001",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Sesin dış kulaktan toplanıp iç kulağa iletilmesi sürecinde, orta kulakta bulunan kemikçik zincirinin (çekiç, örs, üzengi) temel görevi aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Sesin yönünü belirlemek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ses dalgalarını elektrik enerjisine dönüştürmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ses enerjisini yükselterek (amplifiye ederek) iç kulağa iletmek ve iç kulağı aşırı sesten korumak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Vücudun dengesini sağlamak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sesin frekansını analiz etmek.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-002",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdaki sendromlardan hangisi, işitme kaybı ile birlikte görme kaybına (Retinitis Pigmentosa) neden olan ve işitme-görme yetersizliğinin en yaygın kalıtsal nedenlerinden biri olarak kabul edilen sendromdur?",
+    "options": [
+      {
+        "option_text": "Down Sendromu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Waardenburg Sendromu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Usher Sendromu",
+        "is_correct": true
+      },
+      {
+        "option_text": "Treacher Collins Sendromu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Alport Sendromu",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-003",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Sınıfındaki işitme yetersizliği olan öğrencisinin iletişim becerilerini geliştirmek isteyen bir öğretmen, \"İşitsel Sözel Yöntem (Auditory-Verbal)\"i benimsemiştir. Bu öğretmenin aşağıdaki davranışlardan hangisini sergilemesi bu yöntemin ilkelerine TERS düşer?",
+    "options": [
+      {
+        "option_text": "Çocuğun işitme kalıntısını maksimum düzeyde kullanmasını sağlamak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun dudak okumasına fırsat vermeden, ağız hareketlerini göstermeden dinlemeyi teşvik etmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İletişimi desteklemek için işaret dilini ve doğal jestleri aktif olarak kullanmak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sınıfın akustik düzenlemelerine dikkat etmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun çıkardığı sesleri sözel olarak ödüllendirmek.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Okul öncesi dönemdeki çocuklara uygulanan, çocuğun bir sesi duyduğunda oyuncağı sepete atması veya halkayı çubuğa geçirmesi gibi bir oyun davranışıyla tepki vermesine dayalı odyolojik test yöntemi aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Görsel Pekiştireçli Odyometri (VR",
+        "is_correct": false
+      },
+      {
+        "option_text": "",
+        "is_correct": false
+      },
+      {
+        "option_text": "Oyun Odyometrisi (CP",
+        "is_correct": true
+      },
+      {
+        "option_text": "",
+        "is_correct": false
+      },
+      {
+        "option_text": "Saf Ton Odyometrisi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Timpanometri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Elektrokohleografi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-005",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme yetersizliği olan çocukların dil gelişiminde, özellikle \"ekleri\" (çekim ve yapım ekleri) kazanmakta zorlanmalarının temel fizyolojik nedeni aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Zihinsel kapasitelerinin bu ekleri işlemlemeye yetmemesi.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Eklerin genellikle cümlenin sonunda yer alması ve unutulması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Türkçedeki eklerin çoğunun sessiz harflerden oluşması, yüksek frekanslı ve düşük enerjili olmaları nedeniyle duyulmasının zor olması.",
+        "is_correct": true
+      },
+      {
+        "option_text": "İşaret dilinde eklerin bulunmaması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ailelerin çocuklarla konuşurken ekleri kullanmaması.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-006",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Kaynaştırma sınıfında bulunan işitme cihazlı bir öğrenci için sınıfın \"Sinyal-Gürültü Oranının (SNR)\" iyileştirilmesi gerekmektedir. İdeal bir sınıf ortamında Sinyal-Gürültü Oranı (SNR) en az kaç desibel (dB) olmalıdır?",
+    "options": [
+      {
+        "option_text": "olmalıdır?",
+        "is_correct": false
+      },
+      {
+        "option_text": "0 dB",
+        "is_correct": false
+      },
+      {
+        "option_text": "+5 dB",
+        "is_correct": false
+      },
+      {
+        "option_text": "+10 dB",
+        "is_correct": false
+      },
+      {
+        "option_text": "+15 dB",
+        "is_correct": true
+      },
+      {
+        "option_text": "-5 dB",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-007",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi \"Merkezi (Santral) İşitsel İşlemleme Bozukluğu\" olan bir öğrencinin özelliklerinden biri olamaz?",
+    "options": [
+      {
+        "option_text": "Saf ton odyometri testinde işitme eşiklerinin \"normal\" çıkması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Gürültülü ortamlarda konuşulanı anlamada ciddi güçlük yaşaması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sözel yönergeleri takip etmekte ve işitsel hafıza görevlerinde zorlanması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sesin geldiği yönü tayin etmekte sorun yaşaması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İç kulakta (koklea) ciddi yapısal bozuklukların bulunması.",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-008",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme yetersizliği olan çocukların eğitimi için hazırlanan bir Bireyselleştirilmiş Eğitim Programı'nda (BEP), \"İşitsel Ayırt Etme\" becerisine yönelik bir hedef aşağıdakilerden hangisi olabilir?",
+    "options": [
+      {
+        "option_text": "\"Öğrenci, ismi söylendiğinde bakar.\" (Fark etme)",
+        "is_correct": false
+      },
+      {
+        "option_text": "\"Öğrenci, köpek sesi ile kuş sesi dinletildiğinde, duyduğu sesin hangisi olduğunu resimli karttan gösterir.\"",
+        "is_correct": true
+      },
+      {
+        "option_text": "\"Öğrenci, kendisine anlatılan kısa bir hikayenin ana fikrini söyler.\" (Anlama)",
+        "is_correct": false
+      },
+      {
+        "option_text": "\"Öğrenci, /b/ sesi ile başlayan kelimeleri söyler.\"",
+        "is_correct": false
+      },
+      {
+        "option_text": "\"Öğrenci, ses duyduğunda elindeki küpü kutuya atar.\" (Dedeksiyon)",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-009",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Doğuştan işitme kaybı olan bebekler de işiten akranları gibi \"babıldama\" (cıvıldama) dönemine girerler. Ancak bir süre sonra bu ses üretimleri azalır ve kaybolur. Bu durumun temel nedeni aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Bebeklerin ses tellerinde oluşan deformasyon.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bebeğin kendi sesini duyamaması ve çevreden işitsel geri bildirim (pekiştireç) alamaması.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Bebeklerin zihinsel gelişiminin durması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ailenin bebekle ilgilenmemesi.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşaret dilini öğrenmeye başlamaları.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-010",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi işitme yetersizliği olan öğrencilerin okuma-yazma öğrenimi sürecinde yaşadıkları güçlüklerin nedenlerinden biri değildir?",
+    "options": [
+      {
+        "option_text": "Kelime dağarcıklarının sınırlı olması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Soyut kavramları ve mecazları anlamlandırmada zorlanmaları.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fonolojik (sesbilgisel) farkındalık becerilerinin zayıf olması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görsel algı becerilerinin işiten akranlarından daha düşük olması.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sözdizimi (gramer) kurallarını doğal yolla edinememiş olmaları.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-011",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Rehberlik ve Araştırma Merkezi (RAM) tarafından tanılanan bir öğrencinin raporunda \"Bilateral, çok ileri derecede sensörinöral işitme kaybı\" ifadesi yer almaktadır. Bu ifadeye göre öğrencinin işitme durumu nasıldır?",
+    "options": [
+      {
+        "option_text": "Tek kulağında hafif bir duyma sorunu vardır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Her iki kulağında da iç kulak kaynaklı, 90 dB üzeri ağır bir kayıp vardır.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Orta kulak iltihabına bağlı geçici bir kayıp yaşamaktadır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece tiz sesleri duyamamaktadır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Beyindeki işitme merkezi hasarlıdır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-012",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme yetersizliği olan bir öğrenci derste öğretmenini dinlerken sürekli olarak başını bir yöne çevirmekte veya elini kulağının arkasına koyarak \"kepçe\" yapmaktadır. Öğrencinin bu davranışı aşağıdakilerden hangisinin göstergesidir?",
+    "options": [
+      {
+        "option_text": "Öğrencinin dersi dinlemek istemediğinin.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin işitme cihazının bozuk olduğunun.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin sesi daha iyi toplayabilmek ve kaynağa odaklanabilmek için telafi edici bir strateji kullandığının.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğrencinin boyun kaslarında problem olduğunun.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin arkadaşlarıyla konuştuğunun.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-013",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi \"Koklear İmplant\" ile \"İşitme Cihazı\" arasındaki temel farklardan biridir?",
+    "options": [
+      {
+        "option_text": "İşitme cihazı sesi yükseltir (akustik); koklear implant sesi elektrik sinyallerine çevirerek doğrudan siniri uyarır.",
+        "is_correct": true
+      },
+      {
+        "option_text": "İşitme cihazı ameliyatla takılır; koklear implant kulak arkasına asılır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitme cihazı sadece ileri dereceli kayıplarda kullanılır; koklear implant hafif kayıplarda kullanılır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Koklear implant sesi tamamen doğal iletir; işitme cihazı yapay iletir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Aralarında çalışma prensibi açısından hiçbir fark yoktur.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-014",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Kaynaştırma sınıfında ders anlatan bir öğretmenin, işitme yetersizliği olan öğrencisinin dudak okumasını kolaylaştırmak için yapması gereken en doğru davranış hangisidir?",
+    "options": [
+      {
+        "option_text": "Kelimeleri heceleyerek ve abartılı ağız hareketleriyle söylemek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yüksek sesle bağırarak konuşmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Doğal, anlaşılır, normal hızda ve yüzü öğrenciye dönük konuşmak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Konuşurken sürekli sınıfın içinde dolaşmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Konuşurken sakız çiğnemek veya ağzını eliyle kapatmak.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-015",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme taramalarında kullanılan, iç kulaktaki tüy hücrelerinin sese verdiği tepkiyi (yankıyı) ölçen ve bebeğin uyumasına gerek kalmadan hızlıca yapılabilen test hangisidir?",
+    "options": [
+      {
+        "option_text": "ABR (İşitsel Beyin Sapı Cevabı)",
+        "is_correct": false
+      },
+      {
+        "option_text": "OAE (Otoakustik Emisyon)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Timpanometri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Saf Ton Odyometrisi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Konuşma Odyometrisi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-016",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi işitme yetersizliği olan bireylerin eğitiminde kullanılan \"İki Dil (Bilingual) Yaklaşımı\"nın temel varsayımıdır?",
+    "options": [
+      {
+        "option_text": "İşaret dili yasaklanmalı, sadece sözel dil öğretilmelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşaret dili çocuğun anadilidir ve ilk önce öğretilmelidir; sözel dil (yazı dili) ise ikinci dil olarak bunun üzerine inşa edilmelidir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuklara aynı anda hem işaret hem de konuşma ile hitap edilmelidir (Total İletişim).",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece yazılı iletişim araçları kullanılmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşaret dili öğrenilirse çocuk konuşmayı asla öğrenemez.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-017",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme yetersizliği olan çocukların bilişsel gelişimlerinde; nesne sürekliliği, eşleştirme ve gruplama gibi becerilerde işiten akranlarıyla benzer performans gösterdikleri, ancak \"soyut düşünme\" gerektiren becerilerde zorlandıkları görülmektedir. Soyut düşünmedeki bu zorluğun temel nedeni nedir?",
+    "options": [
+      {
+        "option_text": "Zeka geriliğine sahip olmaları.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dil gelişimindeki yetersizlik ve kavramların sembolik temsillerinin (kelimelerin) geç kazanılması.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Görsel algı problemlerinin olması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Beyinlerinin farklı çalışması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Eğitim ortamlarının yetersizliği.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-018",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Hamilelik sırasında annenin geçirdiği enfeksiyonlar (TORCH grubu) bebeğin işitme kaybı yaşamasına neden olabilir. Aşağıdakilerden hangisi bu grupta yer alan ve işitme kaybına yol açan hastalıklardan biridir?",
+    "options": [
+      {
+        "option_text": "Grip",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kızamıkçık (Rubella)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Anemi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tansiyon",
+        "is_correct": false
+      },
+      {
+        "option_text": "Migren",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-019",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Sınıf ortamında öğretmenin sesini bir mikrofon aracılığıyla toplayıp, radyo dalgaları ile doğrudan öğrencinin işitme cihazına veya koklear implantına ileten, böylece arka plan gürültüsünü ve mesafe sorununu ortadan kaldıran sistemin adı nedir?",
+    "options": [
+      {
+        "option_text": "İndüksiyon Döngü Sistemi (Loop)",
+        "is_correct": false
+      },
+      {
+        "option_text": "FM (Frekans Modülasyon) Sistemi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Bluetooth Sistemi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kızılötesi Sistem",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ses Yalıtım Sistemi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-020",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme yetersizliği olan çocukların ailelerinin, tanı aldıktan sonra yaşadıkları psikolojik süreçlerden biri olan \"İnkar\" aşamasında aşağıdaki tepkilerden hangisini vermeleri beklenir?",
+    "options": [
+      {
+        "option_text": "\"Neden bizim başımıza geldi, suçlu kim?\"",
+        "is_correct": false
+      },
+      {
+        "option_text": "\"Çocuğumuzun bir şeyi yok, o sadece inatçı, büyüyünce konuşacak.\"",
+        "is_correct": true
+      },
+      {
+        "option_text": "\"Çocuğumuz için en iyi eğitimi nerede bulabiliriz?\"",
+        "is_correct": false
+      },
+      {
+        "option_text": "\"Keşke hamilelikte daha dikkatli olsaydım.\"",
+        "is_correct": false
+      },
+      {
+        "option_text": "\"Bu durumu kabullenip önümüze bakmalıyız.\"",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-001",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme sisteminin anatomisi incelendiğinde; orta kulaktaki kemikçiklerin (çekiç, örs, üzengi) titreşimini iç kulağa aktaran ve iç kulağın giriş kapısı olarak kabul edilen yapı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Kulak zarı (Timpanik membran)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Oval pencere",
+        "is_correct": true
+      },
+      {
+        "option_text": "Östaki borusu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yarım daire kanalları",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dış kulak yolu",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-002",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme sisteminin anatomisi ve işleyişi dikkate alındığında; orta kulakta bulunan, kulak zarından aldığı titreşimleri yükselterek (amplifiye ederek) iç kulağın giriş kapısı olan oval pencereye iletmekle görevli kemikçik zinciri aşağıdakilerin hangisinde doğru sıralamayla (dıştan içe doğru) verilmiştir?",
+    "options": [
+      {
+        "option_text": "Örs - Üzengi - Çekiç",
+        "is_correct": false
+      },
+      {
+        "option_text": "Üzengi - Örs - Çekiç",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çekiç - Örs - Üzengi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çekiç - Üzengi - Örs",
+        "is_correct": false
+      },
+      {
+        "option_text": "Örs - Çekiç - Üzengi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-003",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme sisteminin anatomisinde; orta kulakta zincirleme bir yapı oluşturan ve dıştan içe doğru sıralanan Çekiç, Örs ve Üzengi kemikçiklerinin Latince (tıbbi) karşılıkları aşağıdakilerin hangisinde doğru sırayla verilmiştir?",
+    "options": [
+      {
+        "option_text": "Stapes - İncus - Malleus",
+        "is_correct": false
+      },
+      {
+        "option_text": "Malleus - İncus - Stapes",
+        "is_correct": true
+      },
+      {
+        "option_text": "İncus - Malleus - Stapes",
+        "is_correct": false
+      },
+      {
+        "option_text": "Koklea - Vestibül - Korti",
+        "is_correct": false
+      },
+      {
+        "option_text": "Timpan - Malleus - İncus",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Odyolojik değerlendirme yöntemlerinden biri olan ve genellikle 6 ay - 2,5 yaş arası bebeklerde kullanılan; bebeğin sese yönelmesi durumunda ışıklı veya hareketli bir oyuncakla ödüllendirilmesi esasına dayanan test yöntemi aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Saf Ton Odyometrisi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görsel Pekiştireçli Odyometri (VR",
+        "is_correct": true
+      },
+      {
+        "option_text": "",
+        "is_correct": false
+      },
+      {
+        "option_text": "Oyun Odyometrisi (CP",
+        "is_correct": false
+      },
+      {
+        "option_text": "",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fısıltı Testi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Timpanometri",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-005",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Kaynaştırma sınıfında işitme yetersizliği olan bir öğrencisi bulunan Merve Öğretmen, ders anlatımı sırasında sınıfın pencerelerini ve kapısını kapalı tutmaya özen göstermekte, sıraların ayaklarına gürültü önleyici keçeler taktırmaktadır. Merve Öğretmen'in bu düzenlemelerle öncelikli olarak ulaşmak istediği akustik hedef aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Sesin frekansını düşürmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Arka plan gürültüsünü azaltarak Sinyal/Gürültü oranını iyileştirmek.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sınıfın ısısını korumak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencilerin birbirleriyle konuşmasını engellemek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Işık yansımasını önlemek.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-006",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdaki durumların hangisinde bir öğrencinin işitme kaybının \"İletim Tipi\" olduğu söylenebilir?",
+    "options": [
+      {
+        "option_text": "İç kulaktaki tüy hücrelerinin hasar görmesi.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitme sinirinin beyne iletim yapamaması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Orta kulakta sıvı birikmesi (Seröz Otit) veya kulak zarının delinmesi.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Beyindeki işitme merkezinin gelişmemiş olması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hamilelikte annenin ototoksik ilaç kullanması.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-007",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme sisteminin işleyişinde; orta kulak kemikçikleri aracılığıyla mekanik titreşimler halinde iletilen ses enerjisinin, içindeki sıvıların hareketi ve tüy hücreleri (Korti Organı) sayesinde elektrik (sinir) sinyallerine dönüştürüldüğü, salyangoz kabuğu şeklindeki yapı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Vestibüler Sistem",
+        "is_correct": false
+      },
+      {
+        "option_text": "Koklea (Salyangoz)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Östaki Borusu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kulak Zarı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yarım Daire Kanalları",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-008",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme yetersizliği olan çocukların eğitimi için hazırlanan bir etkinlikte öğretmen; masanın üzerine kalem, silgi ve anahtar koyar. Çocuğun gözlerini kapatmasını ister ve bu nesnelerden birini yere düşürerek ses çıkarır. Çocuktan gözünü açıp hangi nesnenin düştüğünü tahmin etmesini ister. Bu etkinlik öncelikle hangi beceriyi geliştirmeye yöneliktir?",
+    "options": [
+      {
+        "option_text": "Görsel hafıza",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitsel hafıza ve ses kaynağını tanıma",
+        "is_correct": true
+      },
+      {
+        "option_text": "Dokunma duyusu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tat alma duyusu",
+        "is_correct": false
+      },
+      {
+        "option_text": "İnce motor beceriler",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-009",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme yetersizliği olan bireylerin eğitiminde kullanılan \"Doğal İşitsel Sözel Yöntem\"in en belirgin özelliği nedir?",
+    "options": [
+      {
+        "option_text": "İşaret dilinin yoğun olarak kullanılması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dudak okumanın temel alınması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitme kalıntısının teknoloji ile en üst düzeyde kullanılarak, doğal ortamlarda konuşma dilinin kazandırılması ve işaretin reddedilmesi.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Yazılı materyallerin konuşmadan önce öğretilmesi.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun sadece görsel uyaranlarla eğitilmesi.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-010",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir öğrencinin işitme kaybı derecesi 75 dB olarak ölçülmüştür. Bu öğrenci, işitme cihazı olmadan konuşma seslerini duyamamakta, sadece çevredeki çok şiddetli sesleri fark edebilmektedir. Bu öğrencinin işitme kaybı derecesi hangi sınıflamada yer alır?",
+    "options": [
+      {
+        "option_text": "Hafif",
+        "is_correct": false
+      },
+      {
+        "option_text": "Orta",
+        "is_correct": false
+      },
+      {
+        "option_text": "Orta-İleri",
+        "is_correct": false
+      },
+      {
+        "option_text": "İleri",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çok İleri",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-011",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Kaynaştırma öğrencisi olan Can, işitme cihazı kullanmaktadır. Sınıf öğretmeni, Can'ın derste anlatılanları daha iyi duyabilmesi için kendi yakasına taktığı bir mikrofon aracılığıyla sesini doğrudan Can'ın cihazına ileten bir sistem kullanmaktadır. Öğretmenin kullandığı bu teknolojik sistemin adı nedir?",
+    "options": [
+      {
+        "option_text": "İndüksiyon Döngü Sistemi (Loop)",
+        "is_correct": false
+      },
+      {
+        "option_text": "FM (Frekans Modülasyon) Sistemi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Bluetooth Sistemi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ses Yalıtım Sistemi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uyarıcı Işık Sistemi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-012",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme yetersizliği olan çocukların motor gelişimleri incelendiğinde, \"denge\" konusunda akranlarından daha fazla sorun yaşadıkları görülmektedir. Bu durumun temel fizyolojik nedeni aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Kas yapılarının zayıf olması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görme duyularını iyi kullanamamaları.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İç kulakta işitme organı ile komşu olan \"Vestibüler Sistem\"in (denge merkezi) de hasar görmüş olabilmesi.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ayak tabanlarının düz olması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İlaç kullanımlarının yan etkisi.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-013",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme yetersizliği olan öğrencilerin sınavlarında (merkezi sınavlar vb.) yapılan yasal düzenlemeler kapsamında aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      {
+        "option_text": "Ek süre verilir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yabancı dil dersinden muaf olabilirler.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitme cihazlarını sınavda çıkarmaları zorunludur.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Kodlayıcı/işaretleyici yardımı alabilirler.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tek kişilik salonlarda sınava alınabilirler.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-014",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi, işitme yetersizliği olan bir çocuğun konuşma eğitiminde öğretmenin dikkat etmesi gereken noktalardan biridir?",
+    "options": [
+      {
+        "option_text": "Çocuğun her hatasını anında düzeltmek ve sözünü kesmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Abartılı dudak hareketleri yaparak heceleyerek konuşmak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocukla konuşurken göz teması kurmak ve yüzünün aydınlıkta olmasını sağlamak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğun yerine cümleleri tamamlamak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece \"evet-hayır\" soruları sormak.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-015",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme taraması sonucunda \"şüpheli\" bulunan bir bebeğe kesin tanı koymak için uygulanan, bebeğin alnına ve kulak arkasına yerleştirilen elektrotlarla işitme sinirinin beyin sapındaki tepkilerini ölçen \"objektif\" test hangisidir?",
+    "options": [
+      {
+        "option_text": "OAE (Otoakustik Emisyon)",
+        "is_correct": false
+      },
+      {
+        "option_text": "ABR (İşitsel Beyin Sapı Cevabı)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Fısıltı Testi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Timpanometri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Oyun Odyometrisi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-016",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Saf ses odyogramı üzerinde; insan konuşma seslerinin (fonemlerin) frekans ve şiddet dağılımını gösteren, genellikle konuşma frekanslarını (250-8000 Hz) ve konuşma şiddetini (yaklaşık 20-60 dB) kapsayan, biçimsel benzerliği nedeniyle literatürde verilen ad aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "kapsayan, biçimsel benzerliği nedeniyle literatürde verilen ad aşağıdakilerden hangisidir?",
+        "is_correct": true
+      },
+      {
+        "option_text": "Timpanogram",
+        "is_correct": false
+      },
+      {
+        "option_text": "Konuşma Muzu (Speech Banana)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Hava-Kemik Yolu Aralığı (Gap)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rahatsız Olma Eşiği",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitsel Beyin Sapı Cevabı",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-017",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme yetersizliği olan bireylerin eğitiminde \"Tüm (Total) İletişim\" yaklaşımını benimseyen bir öğretmenin aşağıdakilerden hangisini yapması beklenir?",
+    "options": [
+      {
+        "option_text": "İşaret dilini yasaklaması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece işitme cihazına odaklanması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İletişimi sağlamak için hem konuşmayı, hem işareti, hem de dudak okumayı eş zamanlı ve esnek şekilde kullanması.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sadece yazılı materyal kullanması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğu sürekli konuşmaya zorlaması.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-018",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme yetersizliği olan çocuklarda, konuşma seslerinin frekanslarını (Ling sesleri: a, u, i, m, s, ş) kullanarak yapılan \"Ling 6 Ses Testi\"nin temel amacı nedir?",
+    "options": [
+      {
+        "option_text": "Çocuğun zeka düzeyini ölçmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun görme keskinliğini ölçmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun konuşma seslerini duyup duymadığını ve ayırt edip etmediğini hızlıca kontrol etmek.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğun kelime hazinesini ölçmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun okuma hızını ölçmek.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-019",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Dil ediniminde \"kritik dönem\" kavramı düşünüldüğünde, işitme yetersizliği olan bir çocuğun cihazlandırılması ve eğitime başlaması için en hayati önem taşıyan yaş aralığı hangisidir?",
+    "options": [
+      {
+        "option_text": "0 - 3 yaş",
+        "is_correct": true
+      },
+      {
+        "option_text": "6 - 9 yaş",
+        "is_correct": false
+      },
+      {
+        "option_text": "10 - 12 yaş",
+        "is_correct": false
+      },
+      {
+        "option_text": "15 - 18 yaş",
+        "is_correct": false
+      },
+      {
+        "option_text": "20 yaş sonrası",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-020",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme yetersizliği olan bir öğrenci, derste öğretmenin \"Defterini çantana koy\" yönergesini anlamakta zorlanırken, \"Defter\", \"Çanta\" gibi tek kelimelik etiketleri anlamaktadır. Bu durum öğrencinin hangi dil bileşeninde daha fazla desteğe ihtiyacı olduğunu gösterir?",
+    "options": [
+      {
+        "option_text": "Fonoloji (Ses bilgisi)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Morfoloji (Biçim bilgisi)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sentaks (Söz dizimi / Cümle yapısı)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Pragmatik (Kullanım bilgisi)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Artikülasyon",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-001",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme sisteminin fizyolojisi incelendiğinde; orta kulakta bulunan stapes (üzengi) kemikçiği ile iç kulak arasındaki bağlantıyı sağlayan ve mekanik titreşimlerin iç kulak sıvılarına aktarıldığı \"giriş kapısı\" niteliğindeki yapı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Kulak zarı (Timpanik membran)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Oval pencere",
+        "is_correct": true
+      },
+      {
+        "option_text": "Yuvarlak pencere",
+        "is_correct": false
+      },
+      {
+        "option_text": "Östaki borusu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Korti organı",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-002",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme yetersizliği olan bir öğrencinin odyolojik değerlendirme raporunda; hava yolu işitme eşiklerinin 65 dB, kemik yolu işitme eşiklerinin ise 10 dB olduğu görülmüştür. Raporda hava-kemik yolu aralığının (gap) anlamlı derecede açık olduğu belirtilmiştir. Bu tabloya göre öğrencinin işitme kaybı türü ve olası etkilenim yeri aşağıdakilerden hangisinde doğru eşleştirilmiştir?",
+    "options": [
+      {
+        "option_text": "Duyusal-Sinirsel Kayıp / İç Kulak",
+        "is_correct": false
+      },
+      {
+        "option_text": "İletim Tipi Kayıp / Dış veya Orta Kulak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Merkezi İşitme Kaybı / Beyin Sapı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Karışık Tip Kayıp / Hem Orta Hem İç Kulak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fonksiyonel Kayıp / İşitme Siniri",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-003",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Kaynaştırma sınıfında işitme cihazı kullanan bir öğrencinin, öğretmenin sesini net duyabilmesi için \"Sinyal/Gürültü Oranı\"nın (SNR) ayarlanması gerekmektedir. Literatüre göre, işitme yetersizliği olan bir öğrencinin konuşulanı en iyi şekilde anlayabilmesi için sınıf ortamındaki ideal Sinyal/Gürültü oranı (SNR) en az kaç olmalıdır?",
+    "options": [
+      {
+        "option_text": "+5 dB",
+        "is_correct": false
+      },
+      {
+        "option_text": "0 dB",
+        "is_correct": false
+      },
+      {
+        "option_text": "-5 dB",
+        "is_correct": false
+      },
+      {
+        "option_text": "+15 dB",
+        "is_correct": true
+      },
+      {
+        "option_text": "+30 dB",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi, işitme yetersizliği olan çocukların motor gelişim özelliklerinde görülen ve özellikle iç kulaktaki vestibüler sistemin etkilenmesine bağlı olarak ortaya çıkan en belirgin güçlük alanıdır?",
+    "options": [
+      {
+        "option_text": "İnce motor becerilerde (kalem tutma vb.) aşırı yetersizlik.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kas kuvvetinde genel bir zayıflık.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Statik ve dinamik dengeyi sağlama becerileri.",
+        "is_correct": true
+      },
+      {
+        "option_text": "El-göz koordinasyonu.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fiziksel büyüme (boy ve kilo) geriliği.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-005",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme yetersizliği olan çocukların bilişsel gelişimleri değerlendirilirken, sözel dil becerilerine dayalı zeka testleri (Örn: WISC-R Sözel Bölüm) yerine, sözel olmayan (performans) testlerin tercih edilmesinin temel nedeni nedir?",
+    "options": [
+      {
+        "option_text": "İşitme engelli çocukların zeka düzeylerinin düşük olması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitme engelli çocukların okuma yazma bilmemesi.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dil gelişimindeki gecikmenin, çocuğun gerçek bilişsel potansiyelini maskeleyerek düşük puan almasına neden olabilmesi.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Performans testlerinin daha kısa sürede uygulanması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sözel testlerin sadece yetişkinlere uygulanabilmesi.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-006",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme cihazı veya koklear implant kullanan öğrencilerin bulunduğu sınıflarda akustik düzenleme yapılırken \"yansıma (reverberasyon) süresini\" kısaltmak amaçlanır. Aşağıdaki sınıf düzenlemelerinden hangisi yansıma süresini kısaltarak işitme kalitesini ARTIRIR?",
+    "options": [
+      {
+        "option_text": "Sınıf duvarlarının sert fayanslarla kaplanması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Pencerelerdeki perdelerin kaldırılması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıf zeminine halı serilmesi ve duvarlara sesi emen paneller (mantar pano vb.) asılması.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sınıf tavanının mümkün olduğunca yüksek yapılması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıftaki eşyaların tamamen boşaltılması.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-007",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Odyolojik testler sırasında, kişiye \"kelime listeleri\" okunarak bu kelimelerin ne kadarını doğru tekrar ettiği belirlenmeye çalışılır. Bu işlemle elde edilen ve kişinin iletişim becerisi hakkında en net bilgiyi veren skor hangisidir?",
+    "options": [
+      {
+        "option_text": "Saf Ses Ortalaması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Konuşmayı Ayırt Etme Skoru (Speech Discrimination Score)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Timpanogram Tipi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rahatsız Olma Eşiği",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kemik Yolu Eşiği",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-008",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Orta kulakta sıvı birikmesi (Seröz Otitis Media) sonucu oluşan, genellikle geçici olan ve tıbbi tedavi ile düzelebilen, ancak tedavi edilmezse çocuğun dil gelişimini olumsuz etkileyen işitme kaybı türü ve derecesi genellikle nasıldır?",
+    "options": [
+      {
+        "option_text": "İletim tipi - Hafif/Orta derece",
+        "is_correct": true
+      },
+      {
+        "option_text": "Duyusal sinirsel - Çok ileri derece",
+        "is_correct": false
+      },
+      {
+        "option_text": "Merkezi tip - İleri derece",
+        "is_correct": false
+      },
+      {
+        "option_text": "Mikst tip - Çok ileri derece",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fonksiyonel tip - Derecesiz",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-009",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Koklear implant (biyonik kulak) ameliyatı olmuş bir öğrenci için aşağıdakilerden hangisi yanlış bir bilgidir?",
+    "options": [
+      {
+        "option_text": "İmplant, işitmeyi normale döndürmez ancak sesleri duymayı sağlar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İmplantın dış parçası (işlemci) çıkarıldığında (örneğin banyo yaparken veya uyurken) öğrenci tamamen duymaz hale gelir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İmplant takıldığı an öğrenci mükemmel konuşmaya başlar, eğitime gerek yoktur.",
+        "is_correct": true
+      },
+      {
+        "option_text": "İmplant, ses dalgalarini elektrik sinyallerine dönüştürerek doğrudan işitme sinirini uyarır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "MR (Manyetik Rezonans) çekimi öncesinde implantın durumu mutlaka doktora bildirilmelidir.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-010",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi işitme yetersizliği olan çocuklarda görülen \"pragmatik (kullanım bilgisi)\" sorunlarına bir örnektir?",
+    "options": [
+      {
+        "option_text": "\"Kapı\" yerine \"apı\" demesi.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Cümlelerinde \"-ler/-lar\" çoğul ekini kullanmaması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Konuşma sırasında sıra alma, konuyu sürdürme veya göz teması kurma kurallarını ihlal etmesi.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Kelime dağarcığının sınırlı olması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ses tonunun çok yüksek olması.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-011",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme yetersizliği olan çocukların eğitiminde kullanılan materyallerden hangisi, özellikle \"dokunma duyusunu\" geliştirmek ve kavram öğretimini desteklemek amacıyla en uygundur?",
+    "options": [
+      {
+        "option_text": "Bilgisayar ekranındaki görseller.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Farklı yüzey özelliklerine (sert, yumuşak, pürüzlü) sahip doku kartları ve doku torbaları.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sesli hikaye kitapları.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ayna karşısında dudak hareketleri.",
+        "is_correct": false
+      },
+      {
+        "option_text": "FM sistemi.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-012",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme yetersizliği olan bireylerin yasal hakları kapsamında, üniversite sınavlarında (YKS) sağlanan \"Ek Süre\" uygulaması genellikle sınav süresinin ne kadarı oranında verilmektedir?",
+    "options": [
+      {
+        "option_text": "Sınav süresinin tamamı kadar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınav süresinin yarısı kadar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece 15 dakika.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ortalama 30 dakika veya sınav süresinin belirli bir oranı (genellikle 1/3'ü veya 30 dk aralığında, engel grubuna göre değişmekle birlikte ek süre hakkı vardır).",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ek süre verilmez, sadece okuyucu verilir.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-013",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi orta kulağın görevlerinden biridir?",
+    "options": [
+      {
+        "option_text": "Sesin yönünü tayin etmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ses dalgalarını toplayıp kulak zarına iletmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ses enerjisini yükselterek (amplifiye ederek) iç kulağa iletmek ve akustik refleks ile iç kulağı korumak.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Dengeyi sağlamak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sesleri elektrik sinyaline çevirmek.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-014",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme engelli çocukların aileleri, çocuklarına tanı konulduktan sonra sırasıyla hangi psikolojik evrelerden geçerler? (Lutherman ve Kübler-Ross modellerine göre genel sıralama)",
+    "options": [
+      {
+        "option_text": "Kabullenme - Şok - İnkar - Depresyon",
+        "is_correct": false
+      },
+      {
+        "option_text": "Şok - İnkar - Kızgınlık/Depresyon - Pazarlık - Kabullenme",
+        "is_correct": true
+      },
+      {
+        "option_text": "İnkar - Kabullenme - Şok",
+        "is_correct": false
+      },
+      {
+        "option_text": "Mutluluk - Şaşkınlık - Kabullenme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Şok - Kabullenme - İnkar",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-015",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme yetersizliği olan öğrencilerin kaynaştırma eğitiminde başarılı olabilmeleri için hazırlanan Bireyselleştirilmiş Eğitim Programı (BEP) ekibinde aşağıdakilerden hangisinin bulunması zorunlu değildir?",
+    "options": [
+      {
+        "option_text": "Sınıf Öğretmeni",
+        "is_correct": false
+      },
+      {
+        "option_text": "Aile",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rehber Öğretmen",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okul Müdürü",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fizyoterapist (Sadece bedensel engeli varsa gerekir, işitme engeli için standart ekipte zorunlu değildir).",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-016",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdaki durumlardan hangisinde \"İşitme Cihazı\" kullanımı yerine doğrudan \"Koklear İmplant\" uygulaması tercih edilir veya zorunlu hale gelir?",
+    "options": [
+      {
+        "option_text": "Sadece tek kulakta hafif dereceli işitme kaybı varsa.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Orta kulak iltihabına bağlı geçici işitme kaybı varsa.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitme cihazından (3-6 ay denemesine rağmen) fayda görmeyen, çok ileri derecede (90+ d",
+        "is_correct": true
+      },
+      {
+        "option_text": "duyusal-sinirsel işitme kaybı varsa.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dış kulak yolu kapalıysa (Atrezi).",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun zeka düzeyi çok yüksekse.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-017",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme yetersizliği olan çocukların konuşma eğitiminde \"Ling 6 Ses Testi\" (/a/, /u/, /i/, /s/, /ş/, /m/) sıklıkla kullanılır. Bu testin temel amacı nedir?",
+    "options": [
+      {
+        "option_text": "Çocuğun okuma hızını ölçmek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun konuşma seslerinin frekans aralıklarını (alçak, orta, yüksek frekans) duyup duymadığını ve ayırt edip etmediğini hızlıca kontrol etmek.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğun kelime hazinesini belirlemek.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun zeka yaşını hesaplamak.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun işaret dili becerisini ölçmek.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-018",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme cihazı kullanan öğrencilerin bulunduğu sınıflarda, sert yüzeylerden (duvar, cam, tahta) çarparak geri dönen ses dalgalarının oluşturduğu \"yankılanma (reverberasyon)\" iletişimi bozan en önemli faktörlerden biridir. Buna göre, kaynaştırma sınıfında yankılanmayı azaltmak ve akustik yalıtımı sağlamak için alınması gereken fiziksel önlem aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Sınıfın pencerelerinin sürekli açık tutulması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıf zemininde halı, pencerelerde kalın perde ve duvarlarda sesi emen (akustik) panoların kullanılması.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sınıf duvarlarının sert fayans veya mermer ile kaplanması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıftaki eşya sayısının azaltılarak sınıfın boşaltılması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin sınıfın tam ortasına oturtulması.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-019",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme yetersizliği olan bir öğrencinin dudak okuma becerisinden en üst düzeyde yararlanabilmesi ve öğretmenin jest-mimiklerini net görebilmesi için sınıfın aydınlatma ve ışık düzeni nasıl olmalıdır?",
+    "options": [
+      {
+        "option_text": "Işık kaynağı öğretmenin arkasında olmalı, öğretmenin yüzü gölgede kalmalıdır (Ters ışık).",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıf mümkün olduğunca loş hale getirilmeli, sadece tahta aydınlatılmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Işık, konuşan kişinin (öğretmenin) yüzüne vuracak şekilde ayarlanmalı; öğretmenin yüzü aydınlık olmalı, arkası pencereye dönük olmamalıdır.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Dikkat dağılmaması için sınıf pencereleri tamamen kapatılarak sadece yapay sarı ışık kullanılmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin gözünü almaması için öğretmen karanlıkta durmalıdır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-020",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Kaynaştırma sınıfında işitme yetersizliği olan öğrencinin dikkatinin dağılmasını önlemek ve görsel/işitsel konforu sağlamak amacıyla yapılan aşağıdaki düzenlemelerden hangisi yanlıştır?",
+    "options": [
+      {
+        "option_text": "Sınıf duvarlarının dikkati dağıtmayan pastel ve açık renklerle boyanması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Duvardaki panoların ve görsellerin karmaşadan uzak ve düzenli olması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıf içi gürültüyü artıran klima, fan veya sesli çalışan kalorifer sistemlerinin mümkün olduğunca kullanılmaması veya sessiz olanlarla değiştirilmesi.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dışarıdan (koridor, bahçe) gelen gürültüyü engellemek için ders sırasında kapı ve pencerelerin kapalı tutulması.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin, öğretmeni duyamayacağı düşüncesiyle, öğretmenin dibinde olacak şekilde en ön sıraya ve duvara bitişik oturtulması.",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  }
+]

@@ -1,0 +1,4722 @@
+[
+  {
+    "question_id": "Q-TEST01-001",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İletişim, bilgi ve fikirlerin paylaşılması süreci olarak tanımlanırken, bu sürecin gerçekleşmesi için belirli bileşenlerin aktif olması gerekmektedir. Bir niyet içeren mesajın kodlanması, iletilmesi ve çözümlenmesi bu sürecin temelini oluşturur. Bu bağlamda, etkili bir iletişimin gerçekleşebilmesi için iletişim partnerleri arasında sağlanması gereken en temel koşul aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Mesajın karmaşık dilbilgisi kurallarına uygun olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "İletişim partnerlerinin aynı lehçeyi kullanması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Her bir partnerin diğerinin niyetini doğru anlaması",
+        "is_correct": true
+      },
+      {
+        "option_text": "Mesajın sadece sözel kanallar yoluyla iletilmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "İletişimin resmi bir ortamda gerçekleşmesi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-002",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Dilin bileşenleri biçim, içerik ve kullanım olmak üzere üç ana kategoride incelenmektedir. \"Sözcüklerin ve sözcük öbeklerinin anlamsal ilişkileri ve kendi anlamları ile ilgilenen, gerçekliği kategorilere ayıran sistem\" olarak tanımlanan dil bileşeni aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Fonoloji",
+        "is_correct": false
+      },
+      {
+        "option_text": "Morfoloji",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sentaks",
+        "is_correct": false
+      },
+      {
+        "option_text": "Semantik",
+        "is_correct": true
+      },
+      {
+        "option_text": "Pragmatik",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-003",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Geliştirilmiş Milieu Öğretimi (GMÖ), çocukların dil ve iletişim becerilerini desteklemek amacıyla doğal ortamları kullanan bir yaklaşımdır. GMÖ uygulanacak bir çocukta bulunması gereken ön koşul beceriler dikkate alındığında, aşağıdakilerden hangisi bu yöntemin uygulanabilirliği için en uygun adaydır?",
+    "options": [
+      {
+        "option_text": "Henüz hiç sözcük üretimi olmayan ve ortak dikkat becerisi geliştirmemiş bir bebek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sözel taklit yeteneği olan ve ortalama sözce uzunluğu 1.0-3.5 arasında değişen bir çocuk",
+        "is_correct": true
+      },
+      {
+        "option_text": "Yalnızca işaret dili ile iletişim kurabilen ve sesli uyaranlara tepki vermeyen bir çocuk",
+        "is_correct": false
+      },
+      {
+        "option_text": "İleri düzeyde karmaşık cümleler kurabilen ve okuma yazma öğrenmeye başlamış bir okul çağı çocuğu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sosyal etkileşimi tamamen reddeden ve yetişkin yönlendirmesine kapalı olan bir çocuk",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir okul öncesi öğretmeni, sınıfındaki bir çocuğun iletişim becerilerini desteklemek amacıyla \"Yanıtlayıcı Etkileşim Müdahalesi (YEM)\" stratejilerini kullanmaktadır. Öğretmen oyun sırasında sıra almayı desteklemekte, ancak çocuktan sözel bir ifade veya jest talep etmemektedir. Bu senaryoda öğretmenin benimsediği temel yaklaşım aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Çocuğun hatalı üretimlerini anında düzelterek doğru formu modellemek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun iletişimsel davranışları için herhangi bir talepte bulunmadan etkileşimi sürdürmek",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğa sürekli açık uçlu sorular sorarak konuşmasını teşvik etmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun ilgisinden bağımsız olarak yapılandırılmış bir öğretim sunmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Belirli hedef sözcükleri günde en az 15-20 kez tekrarlayarak ezberletmek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-005",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Erken okuryazarlık becerileri, kodla ilişkili ve anlamla ilişkili beceriler olarak ikiye ayrılmaktadır. Aşağıdaki becerilerden hangisi \"anlamla ilişkili\" erken okuryazarlık becerileri kapsamında değerlendirilir?",
+    "options": [
+      {
+        "option_text": "Harf bilgisi ve harf-ses ilişkilerini tanıma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yazının yönünü ve işlevini anlama",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sözcükleri oluşturan sesleri manipüle etme (fonolojik farkındalık)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Alıcı ve ifade edici sözcük dağarcığı gelişimi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sembolleri ve resimleri hızlıca isimlendirme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-006",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir dil ve konuşma terapisti, 3 yaşındaki bir çocuğun dil gelişimini değerlendirirken çocuğun kullandığı \"gelir, duyar\" gibi ifadelerdeki ünlü uyumlarını ve \"ya-tar\" şeklinde heceleme yapısını incelemektedir. Terapistin odaklandığı dil bileşeni aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Semantik",
+        "is_correct": false
+      },
+      {
+        "option_text": "Pragmatik",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fonoloji",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sentaks",
+        "is_correct": false
+      },
+      {
+        "option_text": "Morfoloji",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-007",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Doğal öğretim yöntemleri kullanılırken yetişkinin çocuğun ilgisini takip etmesi ve iletişim fırsatları yaratması esastır. Aşağıdakilerden hangisi \"iletişim için temel oluşturma\" aşamasında kullanılan \"farkına varma ve yanıt verme\" stratejisinin temel amacını en iyi açıklar?",
+    "options": [
+      {
+        "option_text": "Çocuğa iletişiminin yetişkin için önemli olduğunu öğretmek ve iletişimi güçlendirmek",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğun gramer hatalarını düzelterek akademik dile hazırlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğa nesnelerin isimlerini öğreterek sözcük dağarcığını artırmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun oyun becerilerini geliştirerek motor koordinasyonunu sağlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun yönergelere uyma becerisini artırarak sınıf disiplinini sağlamak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-008",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir ebeveyn, çocuğuyla oynarken çocuğun elindeki arabayı sürdüğünü görür ve çocuk sessiz kalmasına rağmen \"Araba gidiyor, düt düt!\" diyerek çocuğun eylemini sözelleştirir. Ebeveynin kullandığı bu dil destekleme stratejisi aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Genişletme (Expansion)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Paralel Konuşma",
+        "is_correct": true
+      },
+      {
+        "option_text": "Kendi Kendine Konuşma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Açık Uçlu Soru Sorma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Zorlayıcı Tepki İsteme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-009",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bebeklerin ses üretim gelişimi incelendiğinde, genellikle 10-12. aylar arasında ortaya çıkan ve yetişkin konuşmasına benzer entonasyon (tonlama ve vurgu) özelliklerini taşıyan, ancak anlamsız ses dizilerinden oluşan söz öncesi evre aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Refleksif sesler",
+        "is_correct": false
+      },
+      {
+        "option_text": "Gığıldama (Cooing)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Babıldama",
+        "is_correct": false
+      },
+      {
+        "option_text": "Jargon",
+        "is_correct": true
+      },
+      {
+        "option_text": "İlk sözcükler",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-010",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel eğitim öğretmeni Ali Bey, öğrencisinin \"araba\" demesi üzerine \"Evet, kırmızı araba hızlı gidiyor.\" diyerek çocuğun ifadesine yeni anlamsal ve dilbilgisel bilgiler eklemiştir. Ali Bey'in kullandığı bu teknik aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Haritalama",
+        "is_correct": false
+      },
+      {
+        "option_text": "Genişletme",
+        "is_correct": true
+      },
+      {
+        "option_text": "Model olma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yansıtma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Taklit etme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-011",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Dilin kullanım bileşeni olan pragmatik (edimbilim); dili sosyal bağlamda uygun şekilde kullanma becerisini ifade eder. Aşağıdaki davranışlardan hangisi pragmatik dil bozukluğu olan bir çocukta görülmesi beklenen temel sorunlardan biridir?",
+    "options": [
+      {
+        "option_text": "Sesleri doğru şekilde üretememe (Artikülasyon hatası)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kelime sonlarındaki ekleri yanlış kullanma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sohbet sırasında sıra alma ve konuyu sürdürmede güçlük yaşama",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sınırlı sözcük dağarcığına sahip olma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Karmaşık cümle yapılarını anlamada zorluk çekme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-012",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Erken müdahale programlarından biri olan Early Start Denver Modeli (ESDM), özellikle Otizm Spektrum Bozukluğu (OSB) olan küçük çocuklar için tasarlanmıştır. Bu modelin temel odak noktası ve uygulama biçimi ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      {
+        "option_text": "olan küçük çocuklar için tasarlanmıştır. Bu modelin temel odak noktası ve uygulama biçimi ile ilgili aşağıdakilerden hangisi doğrudur?",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sadece klinik ortamda uzmanlar tarafından uygulanır ve aile katılımını sınırlı tutar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Davranışsal stratejileri sosyal etkileşimci stratejilerle birleştirerek ebeveynleri doğal etkinliklerde uygulamak üzere eğitir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğun akademik becerilerini geliştirmeyi önceliklendirir ve oyun temelli öğretimi dışlar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Katı bir yapılandırılmış öğretim sunarak çocuğun doğal ilgilerini göz ardı eder.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece sözel dil becerisi gelişmiş çocuklara uygulanabilir.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-013",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir öğretmen, öğrencisinin iletişim başlatmasını teşvik etmek amacıyla, çocuğun çok sevdiği bir oyuncağı görebileceği ancak ulaşamayacağı bir yere koyar ve çocuğun tepki vermesini bekler. Öğretmenin kullandığı bu çevresel düzenleme stratejisi aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Seçenek sunma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rutinde duraklama",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yetersiz miktarda verme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yardım gerektiren durum yaratma",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ulaşılmazlık/Görünürde tutma (Zaman geciktirme bağlamında)",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-014",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Çocuğun dil ve iletişim becerilerini değerlendirirken \"dil örneği alma\" yöntemi sıklıkla kullanılmaktadır. Sağlıklı ve temsili bir dil örneği alabilmek için uyulması gereken ilkelerden biri aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Çocuğa sürekli \"Bu nedir?\", \"Bu ne renk?\" gibi, cevabı bilinen sorular sorulmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun ilgisinden bağımsız, standart bir resim kartı seti kullanılmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun liderliği izlenmeli, açık uçlu sorular sorulmalı ve doğal bir sohbet ortamı yaratılmalıdır.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Değerlendirmeyi hızlandırmak için çocuğun sözü kesilerek yönlendirme yapılmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Otoriteyi sağlamak için öğretmen/terapist sohbette baskın rol oynamalıdır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-015",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Fonolojik farkındalık, okuma yazma öğrenimi için kritik bir ön koşul beceridir. Aşağıdaki etkinliklerden hangisi fonolojik farkındalık becerisini desteklemeye yönelik değildir?",
+    "options": [
+      {
+        "option_text": "Cümleyi sözcüklerine ayırarak her sözcükte masaya vurma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sözcükleri hecelerine ayırarak söyleme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uyaklı sözcükleri bulma veya üretme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bir metni okurken parmakla takip etme ve harfleri tanıma",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sözcükten ilk veya son sesi atarak kalan kısmı söyleme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-016",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Erken okuryazarlık becerileri arasında yer alan \"hızlı isimlendirme\" (nesne, renk, harf vb. sembolleri hızlıca söyleme) becerisinin, ilerleyen yıllardaki akademik beceriler üzerinde doğrudan ve güçlü bir etkisi olduğu bilinmektedir. Boylamsal çalışmalara göre bu beceri temel olarak hangi alanın en önemli yordayıcısıdır?",
+    "options": [
+      {
+        "option_text": "Matematiksel problem çözme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yazılı anlatımda yaratıcılık",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okuma hızı ve akıcılığı",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sözcük dağarcığı genişliği",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dinlediğini anlama kapasitesi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-017",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Dilin \"biçim\" bileşeni içerisinde yer alan ve sözcüklerin cümle içindeki sıralanışını, cümle düzenini ve sözcükler arası ilişkileri düzenleyen kurallar sistemi aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Semantik (Anlambilim)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fonoloji (Sesbilim)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Morfoloji (Biçimbilim)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sentaks (Sözdizimi)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Pragmatik (Kullanım bilgisi)",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-018",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Konuşma, spesifik motor hareketlerin sonunda gerçekleşen nöro-motor bir süreçtir. Konuşmanın özelliklerinden biri olan ve dilin perde, ezgi, vurgu, tonlama ve ritim gibi bürünsel özelliklerini kapsayan kavram aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Rezonans",
+        "is_correct": false
+      },
+      {
+        "option_text": "Artikülasyon",
+        "is_correct": false
+      },
+      {
+        "option_text": "Prosodi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Fonasyon",
+        "is_correct": false
+      },
+      {
+        "option_text": "Respirasyon",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-019",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel eğitim öğretmeni, öğrencisi Elif'in oynamayı çok sevdiği oyuncak bebeği elinde tutmakta ancak bebeği Elif'e vermeden önce beklenti bildiren bir yüz ifadesiyle sessizce 5 saniye beklemektedir. Öğretmenin temel amacı, Elif'in kendiliğinden iletişim başlatması için ona fırsat tanımaktır. Bu senaryoda öğretmenin kullandığı Milieu Öğretimi tekniği aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Model olma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Zaman geciktirme (Time Delay)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Fırsat öğretimi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tepki isteme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Genişletme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-020",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Senaryo: 4 yaşındaki Can, anasınıfında arkadaşlarıyla oynarken \"Benim arabam kırmızı, seninki mavi.\" demiştir. Ancak öğretmeninin \"Arabalarla ne yapıyorsunuz?\" sorusuna, bağlama uygun olmayan şekilde \"Elma severim.\" yanıtını vermiştir. Can'ın cümle yapısı ve kelime bilgisi yaşına uygun görünse de, sorulan soruya alakasız yanıt vermesi dilin hangi bileşeninde sorun yaşayabileceğini düşündürmektedir?",
+    "options": [
+      {
+        "option_text": "Fonoloji",
+        "is_correct": false
+      },
+      {
+        "option_text": "Morfoloji",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sentaks",
+        "is_correct": false
+      },
+      {
+        "option_text": "Semantik",
+        "is_correct": false
+      },
+      {
+        "option_text": "Pragmatik",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-001",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Konuşma, iletişim ya da anlam iletmenin sözel bir biçimi olarak tanımlanır ve nöro-motor bir koordinasyon gerektirir. Bu süreçte yer alan en küçük birim aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Morfem",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fonem",
+        "is_correct": true
+      },
+      {
+        "option_text": "Grafem",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hece",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sözcük",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-002",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir dilin kullanıcısının o dilin kurallar sistemine ilişkin zihninde var olan, altta yatan örtük bilgisi aşağıdakilerden hangisi ile ifade edilir?",
+    "options": [
+      {
+        "option_text": "Dilsel performans",
+        "is_correct": false
+      },
+      {
+        "option_text": "İletişimsel edinim",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dilsel yeterlilik",
+        "is_correct": true
+      },
+      {
+        "option_text": "Pragmatik kullanım",
+        "is_correct": false
+      },
+      {
+        "option_text": "Alıcı dil",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-003",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdaki etkinliklerden hangisi erken okuryazarlık kapsamındaki \"sesbilgisel (fonolojik) farkındalık\" becerilerini desteklemeye yönelik bir uygulama değildir?",
+    "options": [
+      {
+        "option_text": "Cümleyi sözcüklerine ayırarak her sözcükte masaya vurma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sözcükleri hecelerine ayırarak ritmik biçimde söyleme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Söylenişi benzer olan uyaklı sözcükleri (kasa-masa) bulma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Söylenen sözcükten ilk sesi atarak kalan kısmı söyleme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görseldeki bir metni sessizce ve hızlıca okuma",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Erken okuryazarlık becerilerini desteklemek amacıyla yapılan bir kitap okuma etkinliğinde, öğretmenin çocuklara \"Sizce hikayenin sonunda ne olacak?\" veya \"Bu karakter neden üzülmüş olabilir?\" gibi sorular sormasının temel amacı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Çocuğun harf bilgisini ölçmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun sesbilgisel farkındalığını artırmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun olay örgüsü hakkında tahminde bulunmasını ve neden-sonuç ilişkisi kurmasını sağlamak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Kitaptaki resimleri saydırmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun okuma hızını artırmak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-005",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Milieu Öğretimi (MÖ), doğal davranışsal bir yöntem olup çeşitli teknikleri barındırır. Aşağıdakilerden hangisi Milieu Öğretimi'nin temel bileşenlerinden biri değildir?",
+    "options": [
+      {
+        "option_text": "Model olma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tepki isteme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Geciktirme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fırsat öğretimi",
+        "is_correct": false
+      },
+      {
+        "option_text": "İzole edilmiş (yapılandırılmış) masa başı öğretimi",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-006",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Geliştirilmiş Milieu Öğretimi (GMÖ) uygulanacak bir çocukta aranan ön koşul beceriler dikkate alındığında, aşağıdaki çocuklardan hangisi bu yöntem için en uygun adaydır?",
+    "options": [
+      {
+        "option_text": "Sözel taklit becerisi olmayan ve sadece jest kullanan çocuk",
+        "is_correct": false
+      },
+      {
+        "option_text": "En az 10 sözcüğü olan ve ortalama sözce uzunluğu 1.0-3.5 arasında değişen, sözel taklit yeteneğine sahip çocuk",
+        "is_correct": true
+      },
+      {
+        "option_text": "İleri düzeyde okuma yazma bilen 7 yaşındaki çocuk",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hiçbir iletişim girişimi olmayan ve sosyal ilgisi çok zayıf olan çocuk",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece ağlama ve gülme gibi refleksif sesler çıkaran 3 aylık bebek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-007",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Ebeveynlerin çocuklarıyla etkileşimini geliştirmeyi hedefleyen Hanen Programları'nda (örneğin; Konuşmak İçin İki Kişi Gerekir), ebeveynlere öğretilen temel stratejilerden biri olan \"Çocuğun liderliğini izle\" ilkesi, uygulamada aşağıdakilerden hangisini gerektirir?",
+    "options": [
+      {
+        "option_text": "Ebeveynin sürekli yeni oyunlar kurarak çocuğu yönlendirmesini",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun ilgilendiği oyuncak veya etkinliğe katılarak, çocuğun başlattığı etkileşimi sürdürmeyi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğun oyununu sık sık bölerek ona öğretici sorular sormayı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun tek başına oynamasına izin verip uzaktan izlemeyi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun elindeki oyuncağı alıp doğru oynama şeklini göstermeyi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-008",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir rehabilitasyon merkezinde görevli uzman, OSB tanılı küçük bir çocuğun ebeveynlerine, evdeki rutinler sırasında çocuğun iletişimini artırmak için çevresel düzenlemeler yapmalarını önermiştir. Uzman, ebeveynlere \"Çocuğun sevdiği bir yiyeceği, çocuğun görebileceği ama ulaşamayacağı şeffaf bir kavanoza koyun ve bekleyin\" demiştir. Uzmanın önerdiği bu strateji aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Yardım gerektiren durum yaratma",
+        "is_correct": true
+      },
+      {
+        "option_text": "Yetersiz miktarda verme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Seçenek sunma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rutinde duraklama",
+        "is_correct": false
+      },
+      {
+        "option_text": "Model olma",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-009",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Dil değerlendirmesi sürecinde ebeveynlerden alınan bilgiler büyük önem taşır. Aşağıdakilerden hangisi ebeveyn raporları ve görüşmelerinin, standart testlere göre sağladığı en önemli avantajlardan biridir?",
+    "options": [
+      {
+        "option_text": "Çocuğun dil yaşını sayısal olarak kesin bir şekilde vermesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Değerlendirme sırasında klinikte gözlenemeyen, çocuğun doğal ortamındaki ve farklı bağlamlardaki performansı hakkında bilgi sağlaması",
+        "is_correct": true
+      },
+      {
+        "option_text": "Uygulamasının standart testlerden daha kısa sürmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun gramer hatalarını %100 doğrulukla tespit etmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uzmanın çocuğun dilini hiç duymadan tanı koymasını sağlaması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-010",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Senaryo: 3 yaşındaki Efe ile oyun oynayan annesi, Efe'nin elindeki arabayı sürerken \"baba\" dediğini duyar. Annesi bunun üzerine Efe'ye dönerek \"Evet, araba. Kırmızı araba gidiyor.\" der. Annenin Efe'nin tek sözcüklü ifadesini alıp, ona anlamsal ve dilbilgisel eklemeler yaparak geri sunması hangi stratejiye örnektir?",
+    "options": [
+      {
+        "option_text": "Taklit",
+        "is_correct": false
+      },
+      {
+        "option_text": "Genişletme",
+        "is_correct": true
+      },
+      {
+        "option_text": "Yansıtma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Açık uçlu soru sorma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Düzeltme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-011",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Temel Tepki Öğretimi (TTÖ/PRT), özellikle OSB olan çocuklarda \"temel davranışları\" hedefleyerek gelişim sağlamayı amaçlar. Aşağıdakilerden hangisi TTÖ kapsamında hedeflenen bu \"temel davranışlardan\" biri değildir?",
+    "options": [
+      {
+        "option_text": "Sosyal ortaklarla iletişimi sürdürmeye yönelik motivasyon",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çevredeki birden çok ipucuna yanıt verme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öz-yönetim becerileri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sosyal ortaklarla etkileşim başlatma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece tek bir ipucuna (örneğin renge) odaklanma becerisi",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-012",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Dil ve iletişim becerilerine müdahale edilirken kullanılan \"zaman geciktirme\" (time delay) stratejisinin temel amacı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Çocuğun tepki vermesini engelleyerek sabrını ölçmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun hatalı üretim yapmasını bekleyip ceza vermek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğa, yetişkinin yardımına bağımlı olmadan kendiliğinden iletişim başlatması için fırsat ve zaman tanımak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Etkinlik süresini uzatarak çocuğun dikkatini dağıtmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun sadece işaret dili kullanmasını sağlamak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-013",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir dil ve konuşma terapisti, 4 yaşındaki bir çocuktan dil örneği alırken çocuğun konuşmaya isteksiz olduğunu fark eder. Terapistin çocuktan daha zengin bir dil örneği alabilmek için uygulaması gereken yaklaşım aşağıdakilerden hangisi olamaz?",
+    "options": [
+      {
+        "option_text": "Çocuğun ilgisini çeken materyaller kullanmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Arkadaşça bir tavırla, çocukla yaşıtmış gibi etkileşim kurmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun sessiz kaldığı anlarda sabırsızlanıp hemen yeni ve zorlayıcı sorular sormak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğun liderliğini izleyerek başlattığı konuya katılmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Açık uçlu sorularla (örn. \"Sonra ne oldu?\") anlatımı teşvik etmek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-014",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Erken okuryazarlık becerileri arasında yer alan ve sözcüklerin ses yapısını fark etme, sesleri manipüle edebilme (ayırt etme, ekleme, çıkarma vb.) becerisini ifade eden kavram aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Yazı farkındalığı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sesbilgisel (Fonolojik) farkındalık",
+        "is_correct": true
+      },
+      {
+        "option_text": "Kelime hazinesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hızlı isimlendirme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okuduğunu anlama",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-015",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Analiz: Bir çocuk, yetişkinin \"Kuş uçuyor\" ifadesini duyduktan sonra \"Kuş uçuyor\" diyerek aynı ifadeyi tekrar etmiştir. Ancak bu tekrarı, yetişkinin ifadesinden hemen sonra değil, 2 saat sonra oyun oynarken gerçekleştirmiştir. Çocuğun sergilediği bu taklit türü aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Anında taklit",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ekolali",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ertelenmiş taklit",
+        "is_correct": true
+      },
+      {
+        "option_text": "Refleksif sesletim",
+        "is_correct": false
+      },
+      {
+        "option_text": "Jargon konuşma",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-016",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Dilin bileşenlerinden morfoloji (biçimbilim) ve sentaks (sözdizimi) birlikte değerlendirildiğinde, Türkçe konuşan çocukların edinim sırasına göre aşağıdakilerden hangisi diğerlerinden daha sonra (yaklaşık 24 ay ve sonrası) kazanılan bir yapıdır?",
+    "options": [
+      {
+        "option_text": "Şimdiki zaman eki",
+        "is_correct": false
+      },
+      {
+        "option_text": "Olumsuzluk eki",
+        "is_correct": false
+      },
+      {
+        "option_text": "İyelik ve ad durum ekleri",
+        "is_correct": true
+      },
+      {
+        "option_text": "Tek sözcük kullanımı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Jest kullanımı",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-017",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Otizm Spektrum Bozukluğu (OSB) olan veya risk grubundaki küçük çocuklara yönelik geliştirilen, ebeveynlerin çocukla \"ortak dikkat\" (joint attention) kurmasını birincil hedef olarak belirleyen müdahale programı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "olan veya risk grubundaki küçük çocuklara yönelik geliştirilen, ebeveynlerin çocukla \"ortak dikkat\" (joint attention) kurmasını birincil hedef olarak belirleyen müdahale programı aşağıdakilerden hangisidir?",
+        "is_correct": false
+      },
+      {
+        "option_text": "JASPER (Ortak Dikkat ve Sembolik Oyuna Katılım ve Düzenleme)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Oral-Motor Terapi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Geleneksel Artikülasyon Terapisi",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitsel Sözel Terapi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Prompt Yöntemi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-018",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Risk grubundaki bir çocuğun dil gelişimini desteklemek için kullanılan \"Odaklanmış Uyarım\" (Focused Stimulation) tekniğinde uygulayıcının izlemesi gereken temel yol aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Çocuğa karmaşık bir hikaye okuyup özetlemesini istemek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğa uygun belirli hedef kelime veya yapıları seçip, bunları doğal bağlamda yoğun ve tekrarlı (günde 15-20 kez) şekilde modellemek",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğun her yanlış telaffuzunda onu durdurup doğrusunu 10 kez tekrar ettirmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğa resim kartları gösterip \"Bu ne?\" diye sorarak test etmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun konuşmasını beklemeden sürekli monolog şeklinde konuşmak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-019",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Dil örneği analizi yapılırken kullanılan \"Ortalama Sözce Uzunluğu\" (OSU) ölçümü ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      {
+        "option_text": "Çocuğun sadece kullandığı farklı sözcüklerin sayısını ifade eder.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun ne kadar hızlı konuştuğunun bir göstergesidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Toplam morfem sayısının toplam sözce sayısına bölünmesiyle elde edilen, sözdizimsel karmaşıklığı gösteren bir ölçümdür.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sadece 5 yaşından büyük çocuklara uygulanabilir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun sesletim hatalarını (artikülasyon) ölçer.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-020",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel eğitim öğretmeni Zeynep Hanım, öğrencisi Ali ile oynarken Ali'nin arabayı kutuya koyduğunu görür. Zeynep Hanım o sırada hiçbir şey söylemeden Ali'ye bakar ve Ali'nin kendisine bakmasını bekler (Zaman Geciktirme). Ali öğretmene bakıp \"araba\" der. Öğretmen bunun üzerine \"Evet, arabayı kutuya koydun.\" (Genişletme) diyerek kutuyu Ali'ye verir. Bu senaryoda öğretmenin, Ali'nin iletişim başlatmasını sağlamak için kullandığı \"bekleme\" stratejisi Milieu Öğretimi'nin hangi alt tekniğine örnektir?",
+    "options": [
+      {
+        "option_text": "Model Olma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Mand-Model (Tepki İsteme)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fırsat Öğretimi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Geciktirme (Time Delay)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Tesadüfi Öğretim",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-001",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Türkiye'de dil ve konuşma becerilerini değerlendirmek amacıyla kullanılan standardize testler incelendiğinde, çocukların \"artikülasyon (sesletim)\" ve \"fonolojik (sesbilgisel)\" hatalarını saptamak amacıyla geliştirilen araç aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Türkçe İfade Edici ve Alıcı Dil Testi (TİFALDİ)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Türkçe Erken Dil Gelişimi Testi (TEDİL)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ankara Artikülasyon Testi (AAT)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Peabody Resim Kelime Testi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Türkçe Okul Çağı Dil Gelişimi Testi (TODİL)",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-002",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir ebeveyn, çocuğuyla oyun oynarken çocuğunun liderliğini izlemekte, çocuğunun oyuncaklarla yaptığı eylemleri taklit etmekte ve iletişim girişimlerine yanıt vermektedir. Ancak ebeveyn, oyun sırasında çocuktan herhangi bir sözel ifade üretmesini ya da jest kullanmasını doğrudan talep etmemektedir. Ebeveynin uyguladığı bu sohbete dayalı stratejik yaklaşım aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Temel Tepki Öğretimi (TTÖ)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Early Start Denver Modeli (ESDM)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Geliştirilmiş Milieu Öğretimi (GMÖ)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yanıtlayıcı Etkileşim Müdahalesi (YEM)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Odaklanmış Uyarım",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-003",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Milieu Öğretimi stratejilerinden biri olan \"Tepki İsteme Modeli (Mand-Model)\" uygulanırken izlenen süreç düşünüldüğünde, yetişkinin çocuğun ilgisini çeken bir etkinliği veya rutini kesintiye uğratmasından hemen sonra atması gereken adım aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Doğrudan doğru cevabı modelleyerek söylemek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun tepki vermesi için belirli bir süre beklemek",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğa fiziksel ipucu vererek eylemi tamamlatmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Etkinliği tamamen sonlandırıp başka bir materyale geçmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğa \"Aferin\" diyerek pekiştireç vermek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Erken okuryazarlık becerilerinin desteklenmesi sürecinde, \"etkileşimli kitap okuma\" etkinlikleri önemli bir yer tutar. Aşağıdakilerden hangisi okuma sırasında çocuğun dil gelişimini ve metni anlamasını desteklemek için uygulanabilecek stratejilerden biri değildir?",
+    "options": [
+      {
+        "option_text": "Hedef sözcüklerin anlamlarının çocuk tarafından tekrar edilmesini istemek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öyküyü okurken zaman zaman durup çocuğun cümleyi tamamlamasını beklemek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun dikkatini sadece harflerin şekline verip hikayenin içeriğini göz ardı etmek",
+        "is_correct": true
+      },
+      {
+        "option_text": "\"Kim, ne, nerede, ne zaman\" gibi sorular sormak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öyküdeki karakterler ile çocuğun kendi yaşamı arasında bağlantı kurdurmak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-005",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Dil değerlendirmesi sürecinde çocuktan sağlıklı ve doğal bir \"dil örneği\" alabilmek için uzmanların dikkat etmesi gereken temel ilkeler bulunmaktadır. Aşağıdakilerden hangisi bu süreçte yapılmaması gereken bir davranıştır?",
+    "options": [
+      {
+        "option_text": "Çocuğun liderliğini izleyerek onun başlattığı konular üzerinden sohbeti sürdürmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğa, sohbeti genişletmesini sağlayacak \"Sonra ne oldu?\" gibi açık uçlu sorular sormak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun bilgisini test etmek amacıyla cevabı bilinen soruları (Bu ne renk? vb.) art arda sıralamak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocukla sohbet sırasında rahat davranıp doğal bir iletişim partneri rolü üstlenmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun anlattıkları üzerine yorumlar yaparak onu daha fazla konuşmaya teşvik etmek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-006",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Türkçe konuşan çocukların morfoloji (biçimbilim) gelişimi incelendiğinde, eklerin edinim sırasına göre aşağıdakilerden hangisi diğerlerinden daha erken (yaklaşık 15. ay civarında) kazanılan bir yapıdır?",
+    "options": [
+      {
+        "option_text": "Geniş zaman eki",
+        "is_correct": false
+      },
+      {
+        "option_text": "Şimdiki zaman eki",
+        "is_correct": true
+      },
+      {
+        "option_text": "Gelecek zaman eki",
+        "is_correct": false
+      },
+      {
+        "option_text": "Miş'li geçmiş zaman eki",
+        "is_correct": false
+      },
+      {
+        "option_text": "Eylemsi ekleri",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-007",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İletişim becerilerini değerlendirmek amacıyla ebeveynlerle yapılan görüşmeler ve kullanılan raporlar, uzmanlara önemli veriler sağlar. Aşağıdakilerden hangisi ebeveyn raporlarının sağladığı katkılardan biri değildir?",
+    "options": [
+      {
+        "option_text": "Değerlendirme sırasında klinikte gözlenemeyen bağlamlar hakkında bilgi vermesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun doğal ortamındaki performansını yansıtması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun dil becerilerinin standart normlara göre sayısal sapmasını (standart puanı) kesin olarak vermesi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğun evdeki iletişim rutinleri hakkında veri sağlaması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uzmanın çocuğu daha iyi tanımasına yardımcı olması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-008",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir özel eğitim öğretmeni, öğrencisinin \"su\" demek istediğini fark eder ancak su şişesinin kapağını sıkıca kapatarak çocuğun açamamasını sağlar. Çocuk şişeyi açamayınca öğretmene bakar ve yardım ister. Öğretmenin bu uygulamada kullandığı \"Çevresel Düzenleme\" stratejisi aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Seçenek sunma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yetersiz miktarda verme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rutinde duraklama",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yardım gerektiren durum yaratma",
+        "is_correct": true
+      },
+      {
+        "option_text": "Model olma",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-009",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Dil ve konuşma becerilerine giriş kapsamında yapılan tanımlara göre, \"dilsel yeterliliğin gerçek kullanıma dönüştürülmesi\" durumu aşağıdakilerden hangisi ile ifade edilir?",
+    "options": [
+      {
+        "option_text": "Dilsel performans",
+        "is_correct": true
+      },
+      {
+        "option_text": "Alıcı dil",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fonolojik farkındalık",
+        "is_correct": false
+      },
+      {
+        "option_text": "Pragmatik edinim",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bilişsel işlemleme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-010",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Risk grubundaki çocukların söz öncesi iletişimini desteklemek için kullanılan \"Doğal Öğretim Yöntemleri\"nin temel özellikleri dikkate alındığında, aşağıdakilerden hangisi bu yaklaşımın prensipleriyle örtüşmez?",
+    "options": [
+      {
+        "option_text": "Öğretim için çocuğun ilgisinin izlenmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Doğal olarak ortaya çıkan fırsatların kullanılması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun başlattığı etkinliklerin dil girdisi için kullanılması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Becerilerin sadece yapılandırılmış klinik ortamda, masa başında öğretilmesi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Etkileşimler sonucunda çocuğun doğal pekiştireçlerle ödüllendirilmesi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-011",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Konuşmanın en küçük birimi olan \"fonem\" ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      {
+        "option_text": "Tek başına bir anlam taşıyan en küçük sözcük parçasıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece ünlü harflerden oluşur.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Konuşma seslerinin en küçük yapı taşıdır ve anlam ayırt edici özelliğe sahiptir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sadece yazılı dilde kullanılan bir birimdir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Cümlenin ezgisini ve vurgusunu belirler.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-012",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Milieu Öğretimi (MÖ) kapsamında, özellikle etkileşimi başlatmayan veya sınırlı başlatan çocuklarda kullanılan, yetişkinin bir soru sorarak veya yönerge vererek başlattığı teknik aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Model Olma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tepki İsteme Modeli (Mand-Model)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Fırsat Öğretimi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bekleme Süreli Öğretim",
+        "is_correct": false
+      },
+      {
+        "option_text": "Serbest Oyun",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-013",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Hanen Programları'ndan biri olan \"Sözcüklerden Ötesi (More Than Words)\" programı, öncelikli olarak hangi gruptaki çocukların ebeveynleri için geliştirilmiştir?",
+    "options": [
+      {
+        "option_text": "İşitme engelli çocuklar",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece artikülasyon bozukluğu olan çocuklar",
+        "is_correct": false
+      },
+      {
+        "option_text": "Otizm Spektrum Bozukluğu (OS",
+        "is_correct": true
+      },
+      {
+        "option_text": "olan küçük çocuklar",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okuma güçlüğü çeken okul çağı çocukları",
+        "is_correct": false
+      },
+      {
+        "option_text": "Akıcı konuşma bozukluğu (kekemelik) olan yetişkinler",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-014",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir çocuk \"köpek\" kelimesini öğrendikten sonra, gördüğü tüm dört ayaklı hayvanlara (kedi, koyun, inek) \"köpek\" demeye başlamıştır. Dil gelişiminde, bir sözcüğün anlamının standart yetişkin kullanımından daha geniş bir alanı kapsaması durumuna ne ad verilir?",
+    "options": [
+      {
+        "option_text": "Anlam Daralması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Aşırı Kurallaştırma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Anlam Genişlemesi (Overextension)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Telgrafik Konuşma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ekolali",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-015",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Dil değerlendirmesi sırasında bir çocuktan \"dil örneği\" alınırken, çocuğun dil performansını en iyi şekilde yansıtabilmek için uzmanın dikkat etmesi gereken hususlardan biri aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Çocuğun konuşmasını sık sık keserek gramer hatalarını düzeltmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğa sürekli \"Bu ne?\", \"Bu ne renk?\" gibi tek cevaplı (kapalı uçlu) sorular sormak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Otoriter bir tavırla çocuğun sadece sorulanlara cevap vermesini sağlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun liderliğini izlemek ve ucu açık sorularla sohbeti genişletmek",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sadece yetişkinin belirlediği konularda konuşmak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-016",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Erken okuryazarlık becerileri ile ilgili yapılan araştırmalara göre, okuma hızında belirleyici olan ve görsel sembolleri/resimleri seri bir şekilde adlandırma yeteneğini ifade eden beceri aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Fonolojik farkındalık",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hızlı isimlendirme",
+        "is_correct": true
+      },
+      {
+        "option_text": "Yazı farkındalığı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sözcük dağarcığı",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitsel ayırt etme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-017",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Dilin bileşenlerinden biri olan ve sözcüklerin anlamları, sözcükler arası anlamsal ilişkiler (eş anlam, zıt anlam vb.) ve mecaz anlam gibi konuları inceleyen alan aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Fonoloji",
+        "is_correct": false
+      },
+      {
+        "option_text": "Morfoloji",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sentaks",
+        "is_correct": false
+      },
+      {
+        "option_text": "Pragmatik",
+        "is_correct": false
+      },
+      {
+        "option_text": "Semantik",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-018",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Geliştirilmiş Milieu Öğretimi (GMÖ) uygulanırken, yetişkinin çocuğun iletişimsel girişimini fark edip, çocuğun söylediği sözcüğe yeni bir bilgi veya gramer yapısı ekleyerek (Örn: Çocuk: \"Araba\", Yetişkin: \"Evet, mavi araba\") geri bildirim vermesi hangi stratejidir?",
+    "options": [
+      {
+        "option_text": "Taklit",
+        "is_correct": false
+      },
+      {
+        "option_text": "Genişletme (Expansion)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Yansıtma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yanıtsız bırakma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Doğrudan öğretim",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-019",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bebeklerin ses üretim gelişiminde, \"hece tekrarlarının (ba-ba-ba, ma-ma-ma) görüldüğü\" ve genellikle 7-9 aylar arasında ortaya çıkan evre aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Gığıldama (Cooing)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Refleksif sesler",
+        "is_correct": false
+      },
+      {
+        "option_text": "Babıldama (Mırıldanma tekrarı)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Jargon",
+        "is_correct": false
+      },
+      {
+        "option_text": "İlk sözcük",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-020",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Otizm Spektrum Bozukluğu (OSB) olan çocukların dil ve iletişim becerilerini geliştirmek için tasarlanan Temel Tepki Öğretimi (TTÖ), müdahalenin odağına \"temel davranışları\" alır. Aşağıdakilerden hangisi TTÖ'de hedeflenen bu temel davranışlardan biridir?",
+    "options": [
+      {
+        "option_text": "olan çocukların dil ve iletişim becerilerini geliştirmek için tasarlanan Temel Tepki Öğretimi (TTÖ), müdahalenin odağına \"temel davranışları\" alır. Aşağıdakilerden hangisi TTÖ'de hedeflenen bu temel davranışlardan biridir?",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sadece tek bir ipucuna tepki verme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sosyal ortaklarla iletişimi sürdürmeye yönelik motivasyon",
+        "is_correct": true
+      },
+      {
+        "option_text": "Pasif bekleme becerisi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yalnız oyun oynama süresini artırma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ekolalik konuşmayı pekiştirme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-001",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Türkiye'de kullanılan standardize dil testleri incelendiğinde, \"TİFALDİ (Türkçe İfade Edici ve Alıcı Dil Testi)\" ile ilgili aşağıdakilerden hangisi söylenebilir?",
+    "options": [
+      {
+        "option_text": "Sadece artikülasyon hatalarını ölçmek için tasarlanmıştır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hem alıcı dili hem de ifade edici sözcük dağarcığını değerlendiren bir araçtır.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sadece 0-2 yaş aralığındaki bebekler için kullanılır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ebeveynin doldurduğu bir kontrol listesinden ibarettir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun sadece okuma hızını ölçer.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-002",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Yirmi aydan küçük çocukların semantik (anlambilim) gelişimi bağlamında kullandıkları ilk sözcük dağarcığı incelendiğinde, aşağıdaki sözcük kategorilerinden hangisinin bu dönemde kullanılması beklenmez?",
+    "options": [
+      {
+        "option_text": "Soyut mantıksal kavramlar (ör. adalet, düşünce)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Hayvan isimleri (ör. kedi, kuş)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yiyecek ve içecekler (ör. elma, süt)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Oyun ve rutin ifadeleri (ör. cee, bitti)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ses efektleri (ör. hav hav, düt düt)",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-003",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Geliştirilmiş Milieu Öğretimi (GMÖ) stratejilerinden biri olan \"genişletme (expansion)\" tekniğinin temel amacı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Çocuğun söylediği ifadeyi aynen tekrar ederek onaylamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun ifadesine yeni kelimeler veya gramer yapıları ekleyerek daha karmaşık bir model sunmak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğun konuşmasını engelleyerek dinlemesini sağlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğa tamamen farklı bir konuda soru sormak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun yanlış telaffuzunu cezalandırmak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Çocukların semantik (anlambilim) gelişimi incelendiğinde, 20 aydan küçük çocukların ilk sözcüklerinin büyük bir çoğunluğunu aşağıdakilerden hangisi oluşturur?",
+    "options": [
+      {
+        "option_text": "Bağlaçlar (ve, ile)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Zaman zarfları (dün, yarın)",
+        "is_correct": false
+      },
+      {
+        "option_text": "İsimler (insanlar, nesneler, yiyecekler)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Soyut kavramlar (özgürlük, düşünce)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Derecelendirme sıfatları (en, daha)",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-005",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Erken okuryazarlık becerilerini desteklemek için yapılan \"etkileşimli kitap okuma\" sırasında, yetişkinin okumayı durdurup \"Cümle Tamamlama\" (Örn: \"Az gitmiş uz...\") stratejisini kullanması en çok hangi durumda uygundur?",
+    "options": [
+      {
+        "option_text": "Kitabın kapağını tanıtırken",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun kitaba hiç ilgisi yokken",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öyküde tekrarlı cümlelerin olduğu bölümlerde veya resmin güçlü ipucu verdiği yerlerde",
+        "is_correct": true
+      },
+      {
+        "option_text": "Kitap bittikten sonra özet çıkartırken",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yazarın hayatını anlatırken",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-006",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir okul öncesi öğretmeni, sınıfında \"etkileşimli kitap okuma\" etkinliği yapmaktadır. Öğretmen, öyküyü okurken tekrarlı bir cümlenin olduğu yere veya resmin güçlü bir ipucu sağladığı kısma geldiğinde okumayı durdurur ve çocuklara bakarak cümlenin geri kalanını onların söylemesini bekler. Öğretmenin kullandığı bu \"cümle tamamlama\" stratejisinin temel amacı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Çocukların bağımsız kitap okuma hızlarını test etmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocukların öyküye aktif katılımını artırmak ve dil üretimini teşvik etmek",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocukların kitaptaki görselleri sanatsal açıdan eleştirmelerini sağlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocukların ince motor becerilerini geliştirmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kitabın yazarını ve çizerini çocuklara tanıtmak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-007",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Temel Tepki Öğretimi (TTÖ), özellikle OSB olan çocukların iletişimsel ve sosyal davranışlarında paralel gelişmelere yol açacak \"temel davranışları\" hedefleyen karma bir müdahaledir. Aşağıdakilerden hangisi bu modelin hedeflediği temel davranışlardan biridir?",
+    "options": [
+      {
+        "option_text": "Yalnızca ebeveyne bağımlı hale gelme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tek bir renge veya sese odaklanma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Pasif bekleme süresini uzatma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ekolalik (yankısal) tekrarları artırma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çevredeki birden çok ipucuna yanıt verme",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-008",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir uzmanın çocuktan \"dil örneği\" alırken, çocuğun dil performansını en doğal haliyle görebilmek için yapması gereken ortam düzenlemesi aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Çocuğun hiç tanımadığı, steril ve boş bir oda seçmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun dikkatini dağıtmamak için hiç oyuncak bulundurmamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Olabildiğince tanıdık bir ortam yaratmak ve çocuğa ilginç gelebilecek materyaller kullanmak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğu sürekli masa başında oturmaya zorlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ortamda yüksek sesli müzik açarak dikkatini ölçmek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-009",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Early Start Denver Modeli (ESDM), özellikle OSB tanılı küçük çocukların iletişim, dil ve oyun becerilerini desteklemek üzere geliştirilmiş çok bileşenli bir programdır. Bu modelin iletişim bağlamındaki en belirgin odağı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Çocuğun sesbilgisel (artikülasyon) hatalarını klinik ortamda düzeltmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun edimbilim (pragmatik) becerilerini güçlendirmek",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğun yalnızca okuma yazma becerilerini ön plana almak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Aileyi dışarıda bırakarak sadece uzman kontrolünde çalışmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece standart testlerle çocuğun zeka puanını artırmak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-010",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Senaryo: Öğretmen, çocuğun sevdiği oyuncağı şeffaf bir kutuya koyar ve kapağını sıkıca kapatır. Kutuyu çocuğa verir ve hiçbir şey söylemeden çocuğun yardım istemesini (sözel veya jestle) bekler. Bu senaryoda öğretmenin kullandığı teknik aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Model Olma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yardım gerektiren durum yaratma (Çevresel Düzenleme)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Genişletme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Haritalama",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kendi kendine konuşma",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-011",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir uzman, çocuğun dil gelişimini değerlendirmek üzere doğal bir oyun ortamında çocukla karşılıklı sohbet ederek \"dil örneği\" almayı planlamaktadır. Alanyazına göre, güvenilir ve temsili bir analiz yapılabilmesi için bu dil örneği alım sürecinin ortalama ne kadar sürmesi önerilmektedir?",
+    "options": [
+      {
+        "option_text": "1-3 dakika",
+        "is_correct": false
+      },
+      {
+        "option_text": "3-5 dakika",
+        "is_correct": false
+      },
+      {
+        "option_text": "45-60 dakika",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kesintisiz en az 2 saat",
+        "is_correct": false
+      },
+      {
+        "option_text": "15-20 dakika",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-012",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "\"Odaklanmış Uyarım (Focused Stimulation)\" tekniği uygulanırken, çocuğa öğretilmek istenen hedef kelime veya yapının sunumuyla ilgili temel kural nedir?",
+    "options": [
+      {
+        "option_text": "Kelime sadece bir kez söylenir ve çocuğun bilmesi beklenir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kelime, gün içinde uygun bağlamlarda çok sayıda (15-20 kez) tekrarlanarak modellenir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğa kelimenin sözlük anlamı açıklanır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kelime tahtaya yazılarak çocuğa okutulur.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun kelimeyi yanlış söylemesi durumunda ceza verilir.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-013",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Dil değerlendirmesinde ebeveyn raporlarının kullanımına ilişkin aşağıdakilerden hangisi bir \"dezavantaj\" veya \"sınırlılık\" olarak değerlendirilebilir?",
+    "options": [
+      {
+        "option_text": "Çocuğun doğal ortamdaki becerileri hakkında bilgi vermesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Değerlendirme süresini kısaltması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ebeveynin yanlı davranma ihtimali nedeniyle güvenilirlik sorunu olabilmesi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğun evdeki rutinleri hakkında veri sağlaması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uzmanın çocuğu daha yakından tanımasını sağlaması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-014",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Erken okuryazarlık becerileri kapsamında; \"uyaklı sözcükleri bulma\", \"sözcükleri hecelerine ayırma\" ve \"sözcükteki sesleri fark etme\" gibi etkinlikler hangi beceri alanını destekler?",
+    "options": [
+      {
+        "option_text": "Yazı farkındalığı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sesbilgisel (Fonolojik) farkındalık",
+        "is_correct": true
+      },
+      {
+        "option_text": "Hızlı isimlendirme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yazı yönü bilgisi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görsel hafıza",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-015",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Türkçe konuşan çocukların morfoloji ediniminde, zaman eklerinin kazanılma sırası düşünüldüğünde, aşağıdakilerden hangisi en son (diğerlerine göre daha geç) tam olarak yetkinleşilen yapıdır?",
+    "options": [
+      {
+        "option_text": "Şimdiki zaman eki (-yor)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Di'li geçmiş zaman eki (-di)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Gelecek zaman eki (-ecek)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Geniş zaman eki (-r)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çokluk eki (-lar)",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-016",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Dil ve iletişim gelişiminde \"risk grubu\" olarak tanımlanan çocuklar arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      {
+        "option_text": "Zihin engeli olan çocuklar",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitme engeli olan çocuklar",
+        "is_correct": false
+      },
+      {
+        "option_text": "Otizm Spektrum Bozukluğu olan çocuklar",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yoksun sosyo-kültürel çevrede büyüyen çocuklar",
+        "is_correct": false
+      },
+      {
+        "option_text": "Standart dil gelişimi gösteren ve uyaran zenginliği olan çocuklar",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-017",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir özel eğitim öğretmeni, sınıfındaki oyun alanını düzenlerken aşırı uyaran kargaşasını engellemek amacıyla oyuncakların sadece bir kısmını rafta bırakmış, diğerlerini kaldırmıştır. Öğretmen, raftaki oyuncakları da çocukların ilgisini canlı tutmak ve yeni iletişim fırsatları yaratmak için her 2-3 haftada bir değiştirmektedir. Öğretmenin bu uygulaması, söz öncesi iletişimi destekleme stratejilerinden hangisinin kapsamındadır?",
+    "options": [
+      {
+        "option_text": "Rutinleri bozma ve sabır testi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sözel model olma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yetersiz miktarda verme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğretim ortamını düzenleme ve oyuncak rotasyonu",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğun liderliğini reddetme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-018",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Çevresel düzenleme stratejilerinden biri olan \"Sınırlı Miktarda Verme\" stratejisinin uygulanış biçimi aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Çocuğa istediği materyalin tamamını hemen vermek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun istediği yiyecek veya materyalin sadece küçük bir kısmını vererek daha fazlasını istemesi için fırsat yaratmak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğa hiç materyal vermemek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun önündeki tüm oyuncakları toplamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğa materyali verirken uzun uzun açıklama yapmak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-019",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Söz öncesi iletişim gelişimi evreleri tamamlanıp, sözel dilin (6. düzey) aktif kullanıma geçtiği dönem incelendiğinde; normal gelişim gösteren çocuklarda \"iki ya da üç sembolün gramer kurallarına göre birleştirilerek kullanıldığı\" dönem ortalama olarak kaçıncı ayda başlamaktadır?",
+    "options": [
+      {
+        "option_text": "24. ay",
+        "is_correct": true
+      },
+      {
+        "option_text": "12. ay",
+        "is_correct": false
+      },
+      {
+        "option_text": "10. ay",
+        "is_correct": false
+      },
+      {
+        "option_text": "36. ay",
+        "is_correct": false
+      },
+      {
+        "option_text": "48. ay",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-020",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": ": Oyun sırasında 2 yaşındaki Ali, elindeki kırık oyuncağı göstererek annesine \"Araba\" demiştir. Annesi ise Ali'nin yüzüne bakarak \"Evet, araba kırılmış.\" şeklinde yanıt vermiştir. Annenin, Ali'nin ürettiği tek kelimelik ifadeyi alıp, ona anlamsal veya uygun bir gramer yapısı ekleyerek çocuğa geri sunması aşağıdaki dil destekleme stratejilerinden hangisidir?",
+    "options": [
+      {
+        "option_text": "Kendi kendine konuşma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Zaman Geciktirme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Aynalama",
+        "is_correct": false
+      },
+      {
+        "option_text": "Genişletme (Expansion)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Düzeltme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-001",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Erken okuryazarlık becerileri üzerine yapılan boylamsal çalışmalar incelendiğinde, ilkokul dönemindeki okuma başarısını yordayan faktörler arasında ev ortamının niteliği de yer almaktadır. Araştırmalara göre, ev ortamında çocuğun okuryazarlık gelişimini destekleyen en belirgin değişkenlerden biri aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Evdeki televizyon sayısı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Evde bulunan çocuk kitaplarının sayısı",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ebeveynlerin eğitim düzeyi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun sahip olduğu oyuncak araba sayısı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Evin okula olan uzaklığı",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-002",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Milieu Öğretimi tekniklerinden biri olan \"model olma\" stratejisinin uygulanabilmesi için, hedef çocukta bulunması gereken en temel ön koşul beceri aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Okuma yazma bilmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Renkleri ayırt edebilmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sözel taklit yeteneğine sahip olmak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Tuvalet alışkanlığını kazanmış olmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Karmaşık yönergeleri takip edebilmek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-003",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Noam Chomsky'nin teorik çerçevesine göre, bir bireyin anadilinin kurallarına ilişkin zihninde var olan örtük bilgisi ile bu bilgiyi günlük yaşamda somut olarak kullanması arasında net bir ayrım vardır. Bireyin sahip olduğu bu dilbilgisel kuralları işe koşarak günlük yaşamda ürettiği somut konuşma eylemine ne ad verilmektedir?",
+    "options": [
+      {
+        "option_text": "Dilsel performans",
+        "is_correct": true
+      },
+      {
+        "option_text": "Dilsel yeterlilik",
+        "is_correct": false
+      },
+      {
+        "option_text": "İletişimsel niyet",
+        "is_correct": false
+      },
+      {
+        "option_text": "Pragmatik edinim",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sözdizimsel sarmal",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Temel Tepki Öğretimi (TTÖ/PRT), müdahalenin merkezine \"temel davranışları\" alır. Aşağıdakilerden hangisi TTÖ kapsamında hedeflenen ve gelişiminin diğer alanlarda da olumlu etki yaratacağı düşünülen bu temel davranışlardan biri değildir?",
+    "options": [
+      {
+        "option_text": "Sosyal ortaklarla iletişimi sürdürmeye yönelik motivasyon",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çevredeki birden çok ipucuna yanıt verme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öz-yönetim becerileri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sosyal etkileşim başlatma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece tek heceli sözcükleri tekrar etme",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-005",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Dil örneği alınırken uyulması gereken \"materyal seçimi\" ilkeleri düşünüldüğünde, aşağıdakilerden hangisi en uygun yaklaşımdır?",
+    "options": [
+      {
+        "option_text": "Çocuğun bilişsel gelişiminin çok üzerinde karmaşık materyaller seçmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun ilgisini çekmeyecek, nötr ve renksiz nesneler kullanmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun bilişsel seviyesine ve ilgisine uygun, tanıdık veya ilgi çekici oyuncaklar kullanmak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sadece kağıt ve kalem kullanarak materyalsiz bir ortam yaratmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun hiç görmediği korkutucu maskeler kullanmak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-006",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Semantik (anlambilim) gelişimi açısından 20 aydan küçük çocukların ilk sözcük dağarcığı incelendiğinde, aşağıdaki sözcük kategorilerinden hangisinin kullanım oranı diğerlerine göre daha azdır veya hiç yoktur?",
+    "options": [
+      {
+        "option_text": "Yiyecek ve içecek isimleri (elma, süt)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hayvan isimleri (kedi, köpek)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Soyut mantıksal bağlaçlar (ancak, mademki)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Vücut parçaları (göz, el)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rutin ifadeler (baybay, cee)",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-007",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Otizm spektrum bozukluğu (OSB) olan küçük çocuklarda dil gelişiminin önemli bir ön koşulunu desteklemeyi hedefleyen programlar bulunmaktadır. Alanyazında \"Ortak Dikkat ve Sembolik Oyuna Katılım ve Düzenleme (JASPER)\" olarak da bilinen bu müdahale yaklaşımının temel gelişimsel varsayımı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "olan küçük çocuklarda dil gelişiminin önemli bir ön koşulunu desteklemeyi hedefleyen programlar bulunmaktadır. Alanyazında \"Ortak Dikkat ve Sembolik Oyuna Katılım ve Düzenleme (JASPER)\" olarak da bilinen bu müdahale yaklaşımının temel gelişimsel varsayımı aşağıdakilerden hangisidir?",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocukların dil gelişiminde öncelikle bağımsız (yalnız) oyun oynama sürelerinin uzatılması hedeflenmelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun ince motor becerilerinin gelişimi, doğrudan doğruya sözel dil üretimini başlatmaktadır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun bir sosyal ortakla aynı nesneye veya olaya odaklanabilmesi sonraki dil gelişimi için kritik bir öncüldür.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yetişkinin tamamen pasif kalarak çocuğun kendi kendine konuşmasını beklemesi dil edinimini hızlandırır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sesbilgisel farkındalığın artırılması, OSB'de görülen erken dönem sosyal etkileşim eksikliklerini telafi eder.\n--------------------------------------------------------------------------------",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-008",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Erken okuryazarlık eğitimi kapsamında yapılan \"sesbilgisel farkındalık\" etkinliklerine aşağıdakilerden hangisi örnek gösterilemez?",
+    "options": [
+      {
+        "option_text": "Sözcüklerin ilk sesini bulma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uyaklı sözcükleri (masa-kasa) fark etme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Cümledeki kelimeleri sayma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Metni sessizce okuyup özet çıkarma",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sözcüğü hecelerine ayırma (el-ma)",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-009",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Dil değerlendirmesinde kullanılan \"öyküleme örneği alma\" yönteminde, çocuğun bir kitabı resimlerine bakarak anlatması veya başından geçen bir olayı sıralaması istenir. Bu yöntemle öncelikli olarak dilin hangi kullanım boyutu değerlendirilmiş olur?",
+    "options": [
+      {
+        "option_text": "Fonolojik farkındalık",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece artikülasyon",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öykü grameri ve olay örgüsü oluşturma becerisi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ses ayırt etme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okuma hızı",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-010",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel eğitim öğretmeni Ayşe Hanım, öğrencisiyle her sabah gerçekleştirdiği \"karşılıklı top yuvarlama\" rutinini uygulamaktadır. Oyunun en heyecanlı yerinde, Ayşe Hanım topu elinde tutar, öğrenciye beklenti bildiren bir yüz ifadesiyle bakar ve topu yuvarlamadan beş saniye boyunca sessizce bekler. Bu uygulamada Ayşe Hanım'ın kullandığı \"Çevresel Düzenleme/Zaman Geciktirme\" stratejisi ve temel amacı aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+    "options": [
+      {
+        "option_text": "Seçenek sunma / Çocuğun karar verme becerilerini geliştirmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yetersiz miktarda verme / Çocuğun materyali paylaşmayı öğrenmesini sağlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yardım gerektiren durum yaratma / Çocuğun ince motor becerilerini değerlendirmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rutinde duraklama / Çocuğun iletişim kurmak için niyetini belli etmesine ve kendiliğinden iletişim başlatmasına fırsat tanımak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Doğrudan model olma / Çocuğun hedef eylemi yetişkini izleyerek kusursuzca taklit etmesini sağlamak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-011",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İletişim becerilerini desteklemek için yapılan çevresel düzenlemelerden biri, çocuğun çok sevdiği bir nesneyi görebileceği ancak kendi başına alamayacağı bir yere koymaktır. Bu stratejinin (ulaşılmazlık/yardım gerektirme) temel amacı nedir?",
+    "options": [
+      {
+        "option_text": "Çocuğu sinirlendirip ağlamasını sağlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun fiziksel gücünü test etmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun o nesneden vazgeçmesini sağlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun yetişkinden yardım istemek için iletişim başlatmasını sağlamak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Odayı daha düzenli tutmak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-012",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir dil ve konuşma terapisti, 2.5 yaşındaki Mert ile çalışmaktadır. Yapılan değerlendirmede Mert'in ifade edici dilinde 50'den fazla sözcük (isimler ve eylemler dahil) olduğu tespit edilmiştir. Terapist, Geliştirilmiş Milieu Öğretimi (GMÖ) ilkelerini kullanarak Mert'in dil hedeflerini bir üst seviyeye taşımak istemektedir. Bu senaryoya göre, terapistin Mert için belirlemesi gereken en uygun \"iletişim/dil hedefi\" aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Tek sözcüklü ifade edici dili pekiştirmek için sadece anlamsız ses taklitleri yaptırmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Mert'in bildiği sözcükleri birleştirerek basit iki sözcüklü yapılar kurmasına model olmak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Dört ve beş sözcüklü karmaşık hikayeler anlatmasını talep ederek onu zorlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yalnızca jest ve mimik kullanımını artırmaya odaklanıp sözel dil beklentisini bırakmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun iletişim girişimlerini tamamen göz ardı edip pasif olarak izlemek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-013",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Early Start Denver Modeli (ESDM) ile ilgili aşağıdakilerden hangisi bu modelin ayırt edici özelliklerinden biridir?",
+    "options": [
+      {
+        "option_text": "Sadece 6 yaşından büyük çocuklara uygulanır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun edimbilim/pragmatik becerilerinin güçlendirilmesine güçlü bir vurgu yapar.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Aile katılımını tamamen reddeder.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece motor becerilere odaklanır, dili önemsemez.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Davranışsal yöntemleri kullanmaz, sadece medikal bir tedavidir.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-014",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir anne, iletişimsel geriliği olan 2 yaşındaki oğluyla yerde oynamaktadır. Çocuk arabaları sıraya dizerken anne de kendi arabalarını onunla aynı şekilde dizmekte ve çocuğun çıkardığı \"vınn\" sesini taklit etmektedir. Anne bu süreçte sürekli çocuğun hareketlerini izlemekte, onun eylemlerine uygun yorumlar yapmakta ancak çocuktan doğrudan bir sözcük üretmesini ya da jest kullanmasını talep etmemektedir. Annenin sergilediği bu sohbete dayalı yaklaşım, özellikle hangi müdahale modelinin temel prensiplerini yansıtmaktadır?",
+    "options": [
+      {
+        "option_text": "Yanıtlayıcı Etkileşim Müdahalesi (YEM)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Tepki İsteme Modeli (Mand-Model)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Geleneksel Artikülasyon Terapisi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ayrık Denemelerle Öğretim (DTT)",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitsel Sözel Terapi (AVT)",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-015",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Dil değerlendirmesi sürecinde ebeveyn görüşmelerinin sağladığı en önemli katkı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Çocuğun zeka puanını (IQ) net olarak belirlemesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Standart testlerde veya klinik ortamda gözlenemeyen bağlamlar ve beceriler hakkında bilgi sağlaması",
+        "is_correct": true
+      },
+      {
+        "option_text": "Terapistin iş yükünü tamamen ebeveyni devretmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun okuma hızını ölçmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tanı koyma sürecini gereksiz yere uzatması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-016",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Doğal dil öğretimi sırasında yetişkinin çocukla etkileşim kurarken kaçınması gereken davranış aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Çocuğun liderliğini izlemek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun sözlerini genişleterek tekrar etmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğa sürekli \"Bu ne?\", \"Rengi ne?\" gibi, cevabı bilinen test edici sorular sormak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Oyun sırasında sıra almak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun ilgilendiği nesneler hakkında yorum yapmak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-017",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Dil gelişimi açısından kritik bir öncül beceri olan ve \"iki kişinin aynı anda, aynı nesneye veya olaya odaklanması\" olarak tanımlanan beceri aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Ekolali",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ortak dikkat (Joint Attention)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Nesne sürekliliği",
+        "is_correct": false
+      },
+      {
+        "option_text": "Taklit",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sembolik oyun",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-018",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Temel Tepki Öğretimi (TTÖ/PRT), müdahalenin odağına alındığında çocuğun diğer sosyal ve iletişimsel alanlarında da paralel gelişmelere yol açacak \"temel davranışları\" hedeflemektedir. Aşağıdakilerden hangisi TTÖ kapsamında desteklenmesi hedeflenen bu temel davranışlardan biri değildir?",
+    "options": [
+      {
+        "option_text": "Sosyal ortaklarla iletişimi sürdürmeye yönelik motivasyon",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çevredeki birden çok ipucuna yanıt verme yeteneği",
+        "is_correct": false
+      },
+      {
+        "option_text": "İzole ortamlarda tekrarlanan yankısal (ekolalik) ses üretimleri",
+        "is_correct": true
+      },
+      {
+        "option_text": "Bireyin kendi davranışlarını düzenlediği öz-yönetim becerileri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sosyal ortaklarla artan şekilde etkileşim başlatma girişimleri",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-019",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Türkiye'de kullanılan dil testleri arasında, özellikle çocukların alıcı dil sözcük dağarcığını (resim gösterme yoluyla) ölçen test aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Ankara Artikülasyon Testi (AAT)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Peabody Resim Kelime Testi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Gelişimsel Dil Ölçeği",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fonolojik Farkındalık Testi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okuma Hızı Testi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-020",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Dil ve iletişim becerilerinin değerlendirilmesi, özel eğitim ve dil ve konuşma terapisi süreçlerinin temelini oluşturur. Uzmanlar çocukları farklı amaçlarla ve çeşitli periyotlarda değerlendirirler. Aşağıdakilerden hangisi bu değerlendirme sürecinin temel amaçlarından biri değildir?",
+    "options": [
+      {
+        "option_text": "Dil gelişimi açısından risk grubunda yer alan çocukları genel popülasyonda taramak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Müdahale sürecinin en başında çocuğun mevcut performans düzeyini belirlemek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uygulanan öğretim yönteminin ne derece etkili olduğunu süreç boyunca izlemek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun sosyal çevresini kısıtlayarak aileyi eğitim ortamından tamamen uzaklaştırmak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Uzmanlar tarafından uygun araçlarla çocuğun dil güçlüğünü tanımak (tanılamak)",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  }
+]

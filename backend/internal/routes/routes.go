@@ -41,9 +41,10 @@ func RegisterRoutes() *http.ServeMux {
 	mux.HandleFunc("/api/v1/user/reward", wrap(middleware.AuthMiddleware(handlers.RewardHandler)))
 	mux.HandleFunc("/api/v1/user/spend-tokens", wrap(middleware.AuthMiddleware(handlers.SpendTokensHandler)))
 
-	// Admin Routes
-	mux.HandleFunc("/api/v1/admin/questions", wrap(handlers.CreateQuestionHandler))
-	mux.HandleFunc("/api/v1/admin/questions/", wrap(func(w http.ResponseWriter, r *http.Request) {
+	// Admin Routes (Protected)
+	mux.HandleFunc("/api/v1/admin/questions", wrap(middleware.AuthMiddleware(middleware.RequireAdmin(handlers.CreateQuestionHandler))))
+	mux.HandleFunc("/api/v1/admin/questions/bulk", wrap(middleware.AuthMiddleware(middleware.RequireAdmin(handlers.BulkCreateQuestionsHandler))))
+	mux.HandleFunc("/api/v1/admin/questions/", wrap(middleware.AuthMiddleware(middleware.RequireAdmin(func(w http.ResponseWriter, r *http.Request) {
 		if r.Method == http.MethodPut {
 			handlers.UpdateQuestionHandler(w, r)
 		} else if r.Method == http.MethodDelete {
@@ -51,8 +52,8 @@ func RegisterRoutes() *http.ServeMux {
 		} else {
 			http.Error(w, "Method not allowed", http.StatusMethodNotAllowed)
 		}
-	}))
-	mux.HandleFunc("/api/v1/admin/sync", wrap(handlers.SyncQuestionsHandler))
+	}))))
+	mux.HandleFunc("/api/v1/admin/sync", wrap(middleware.AuthMiddleware(middleware.RequireAdmin(handlers.SyncQuestionsHandler))))
 
 	return mux
 }

@@ -1,0 +1,4718 @@
+[
+  {
+    "question_id": "Q-TEST01-001",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "DSM-5 tanı kriterlerine göre, Otizm Spektrum Bozukluğu (OSB) tanısı konulabilmesi için belirtilerin bireyin yaşamında hangi dönemde ortaya çıkmış olması gerekmektedir?",
+    "options": [
+      {
+        "option_text": "tanısı konulabilmesi için belirtilerin bireyin yaşamında hangi dönemde ortaya çıkmış olması gerekmektedir?",
+        "is_correct": false
+      },
+      {
+        "option_text": "Erken gelişim evresinde",
+        "is_correct": true
+      },
+      {
+        "option_text": "İlkokul çağının başlamasıyla birlikte",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ergenlik döneminde",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yetişkinlik döneminde",
+        "is_correct": false
+      },
+      {
+        "option_text": "12 yaşından sonra",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-002",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "DSM-5 tanı kriterlerine göre Otizm Spektrum Bozukluğu tanısı alan bireylerin, sosyal iletişim ve etkileşim alanındaki yetersizliklerine ek olarak, tanı için mutlaka göstermesi gereken diğer temel davranışsal özellik aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Zeka puanının 70’in altında olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Konuşma becerisinin hiç gelişmemiş olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınırlı, tekrarlayıcı davranışlar, ilgi alanları veya etkinlikler sergilemesi",
+        "is_correct": true
+      },
+      {
+        "option_text": "İnce motor becerilerde ağır düzeyde gerilik olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitsel halüsinasyonlar görmesi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-003",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi OSB’li bireylerde görülen \"ekolali\" davranışının en doğru tanımıdır?",
+    "options": [
+      {
+        "option_text": "Kelimelerin ritmik ve melodik söylenmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Başkalarının söylediği sözcük veya cümlelerin anında ya da gecikmeli olarak tekrarlanması",
+        "is_correct": true
+      },
+      {
+        "option_text": "Hiç konuşmama (mutizm) durumu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yeni sözcükler türetme (neolojizm)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Zamirlerin ters kullanılması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "DSM-5 sınıflandırma sisteminde OSB tanısı için belirtiler hangi iki temel kategori altında toplanmıştır?",
+    "options": [
+      {
+        "option_text": "Dil gelişimi – Zihinsel gelişim",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sosyal iletişim/etkileşim – Sınırlı/yineleyici davranışlar",
+        "is_correct": true
+      },
+      {
+        "option_text": "Motor beceriler – Öz bakım becerileri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Duyusal hassasiyet – Akademik başarısızlık",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dikkat eksikliği – Hiperaktivite",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-005",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Türkiye’de özel eğitim hizmetleri kapsamında, OSB tanısı almış bir çocuğun eğitsel değerlendirmesini ve tanılamasını yaparak uygun eğitim ortamına yönlendiren kurum aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Çocuk Psikiyatri Klinikleri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Aile Sağlığı Merkezleri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rehberlik ve Araştırma Merkezleri (RAM)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Özel Eğitim ve Rehabilitasyon Merkezleri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuk Nöroloji Servisleri",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-006",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Otizm Spektrum Bozukluğu olan çocuklarda görülen \"ortak dikkat\" becerisindeki yetersizlik, aşağıdaki durumlardan hangisinde en belirgin şekilde gözlemlenir?",
+    "options": [
+      {
+        "option_text": "Çocuğun sevdiği bir oyuncağı tek başına oynaması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun bir nesneye, olaya veya kişiye ilgisini başkasıyla paylaşmak için işaret etmemesi veya bakışlarını yönlendirmemesi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğun yüksek sese tepki vererek kulaklarını kapatması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun dönen nesnelere uzun süre odaklanması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun acıkan karnını doyurmak için yiyeceğe uzanması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-007",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi OSB’nin nörobiyolojik nedenleri arasında gösterilen ve ikiz çalışmalarıyla desteklenen en güçlü faktördür?",
+    "options": [
+      {
+        "option_text": "Aşılar (özellikle karma aşılar)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ebeveynlerin sosyo-ekonomik düzeyi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Genetik faktörler",
+        "is_correct": true
+      },
+      {
+        "option_text": "Beslenme alışkanlıkları (gluten tüketimi)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Televizyon izleme süresi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-008",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Otizm Spektrum Bozukluğu olan çocukların eğitiminde kullanılan \"Etkinlik Çizelgeleri\"nin temel amacı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Çocuğun okuma hızını artırmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun resim yeteneğini geliştirmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun bir dizi etkinliği yetişkin yönergesi olmadan bağımsız olarak yerine getirmesini sağlamak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğun sadece akademik başarısını ölçmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun konuşma becerilerini tamamen sözel yolla geliştirmek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-009",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Otizm Spektrum Bozukluğu olan bireylerin mecaz anlamları, şakaları veya deyimleri anlamakta güçlük çekmeleri dilin hangi bileşeniyle ilgilidir?",
+    "options": [
+      {
+        "option_text": "Fonoloji (Ses bilgisi)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Morfoloji (Biçim bilgisi)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sentaks (Söz dizimi)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Pragmatik (Kullanım bilgisi)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Artikülasyon (Sesletim)",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-010",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi OSB’li çocuklarda görülen \"stereotipik (tekrarlayıcı) motor davranışlara\" örnektir?",
+    "options": [
+      {
+        "option_text": "Arkadaşıyla top oynamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "El çırpma veya sallanma",
+        "is_correct": true
+      },
+      {
+        "option_text": "Bir resme bakıp ismini söyleme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Acıktığında annesinden yemek isteme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Lego parçalarını birleştirip ev yapma",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-011",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB tanısı almış 4 yaşındaki bir çocuğun, kendisine \"Nasılsın?\" diye sorulduğunda cevap vermek yerine \"Nasılsın?\" diyerek soruyu aynen tekrar etmesi durumuna ne ad verilir?",
+    "options": [
+      {
+        "option_text": "Gecikmiş Ekolali",
+        "is_correct": false
+      },
+      {
+        "option_text": "Anında Ekolali",
+        "is_correct": true
+      },
+      {
+        "option_text": "Alıcı Dil Yetersizliği",
+        "is_correct": false
+      },
+      {
+        "option_text": "İfade Edici Dil Yetersizliği",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fonolojik Bozukluk",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-012",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "\"Zihin Kuramı\" (Theory of Mind) becerisindeki yetersizlik, OSB’li bireylerin aşağıdaki alanlardan hangisinde en çok zorlanmasına neden olur?",
+    "options": [
+      {
+        "option_text": "Matematiksel işlemleri yapma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Renkleri ve şekilleri ayırt etme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Başkalarının duygu, düşünce ve niyetlerini anlama",
+        "is_correct": true
+      },
+      {
+        "option_text": "Nesneleri işlevine uygun kullanma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kaba motor hareketleri sergileme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-013",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi OSB’li çocukların erken çocukluk döneminde (0-3 yaş) gösterdiği \"kırmızı bayrak\" (risk) belirtilerinden biri değildir?",
+    "options": [
+      {
+        "option_text": "İsmi söylendiğinde bakmamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Göz teması kuramamak veya sınırlı kurmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "12. ayda babıldamanın (hecelemenin) olmaması",
+        "is_correct": false
+      },
+      {
+        "option_text": "6. ayda desteksiz oturamamak",
+        "is_correct": true
+      },
+      {
+        "option_text": "İşaret parmağıyla bir nesneyi göstermemek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-014",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB’li çocukların eğitiminde yaygın olarak kullanılan ve davranışçı yaklaşıma dayalı olan, davranışları küçük basamaklara ayırarak öğretmeyi hedefleyen yöntem hangisidir?",
+    "options": [
+      {
+        "option_text": "Duyu Bütünleme Terapisi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uygulamalı Davranış Analizi (UDA/AB",
+        "is_correct": true
+      },
+      {
+        "option_text": "",
+        "is_correct": false
+      },
+      {
+        "option_text": "Oyun Terapisi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Müzik Terapisi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Floortime Yaklaşımı",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-015",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Rehberlik ve Araştırma Merkezlerinde (RAM) yapılan eğitsel değerlendirme sonucunda OSB tanısı alan bir öğrenci için hazırlanan ve öğrencinin ihtiyaçlarına göre hedeflerin belirlendiği planın adı nedir?",
+    "options": [
+      {
+        "option_text": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Gelişim Raporu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sağlık Kurulu Raporu",
+        "is_correct": false
+      },
+      {
+        "option_text": "RAM Raporu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Performans Kayıt Tablosu",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-016",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB’li bireylerin görsel uyaranlara karşı işitsel uyaranlardan daha duyarlı oldukları ve görsel bilgiyi daha iyi işledikleri bilinmektedir. Bu özellik, eğitim ortamlarında aşağıdakilerden hangisinin kullanımını önemli kılar?",
+    "options": [
+      {
+        "option_text": "Sadece sözel anlatım yapılması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görsel desteklerin (resimli çizelgeler, kartlar) kullanılması",
+        "is_correct": true
+      },
+      {
+        "option_text": "Derslerin karanlık bir odada yapılması",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitsel kayıt cihazlarının sürekli kullanılması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dokunsal materyallere ağırlık verilmemesi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-017",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi OSB’li çocuklarda görülen duyusal farklılıklardan biri olan \"hipersensitivite\" (aşırı duyarlılık) örneğidir?",
+    "options": [
+      {
+        "option_text": "Yüksek sese karşı kulaklarını kapatma ve ağlama",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sürekli kendi etrafında dönme isteği",
+        "is_correct": false
+      },
+      {
+        "option_text": "Düşüp yaralandığında acı hissetmiyor gibi davranma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çok sıcak yiyecekleri bile tepkisizce yeme",
+        "is_correct": false
+      },
+      {
+        "option_text": "İsmi söylendiğinde duymuyor gibi davranma",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-018",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "DSM-IV'te yer alan ancak DSM-5 ile birlikte \"Otizm Spektrum Bozukluğu\" çatısı altına alınarak ayrı bir tanı kategorisi olmaktan çıkarılan bozukluk hangisidir?",
+    "options": [
+      {
+        "option_text": "Rett Sendromu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Asperger Sendromu",
+        "is_correct": true
+      },
+      {
+        "option_text": "Down Sendromu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Williams Sendromu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Frajil X Sendromu",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-019",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB’li çocukların iletişim becerilerini desteklemek amacıyla kullanılan, resim değiş tokuşuna dayalı alternatif iletişim sistemi aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "TEACCH",
+        "is_correct": false
+      },
+      {
+        "option_text": "PECS (Picture Exchange Communication System)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Lovaas Yöntemi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Etkinlik Çizelgeleri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sosyal Öyküler",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-020",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "3 yaşındaki bir çocuğun kreşte diğer çocuklarla oynamak yerine sürekli arabaları renklerine göre sıraya dizmesi ve bu düzen bozulduğunda aşırı tepki vermesi, DSM-5’in hangi tanı kriteriyle ilişkilidir?",
+    "options": [
+      {
+        "option_text": "Sosyal iletişimde yetersizlik",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınırlı, tekrarlayıcı davranışlar ve ilgiler",
+        "is_correct": true
+      },
+      {
+        "option_text": "Dil gelişiminde gecikme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Zihinsel yetersizlik",
+        "is_correct": false
+      },
+      {
+        "option_text": "Motor beceri eksikliği",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-001",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi OSB’nin yaygınlığı (prevalansı) ile ilgili doğru bir bilgidir?",
+    "options": [
+      {
+        "option_text": "Kızlarda erkeklere göre 4-5 kat daha fazla görülür.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece gelişmiş ülkelerde görülür.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Erkeklerde kızlara göre 4-5 kat daha fazla görülür.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Son yıllarda görülme sıklığında azalma vardır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Gelir düzeyi yüksek ailelerde daha az görülür.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-002",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB tanılama sürecinde kullanılan ve çocuklardaki otizm riskini belirlemeye yarayan tarama araçlarından biri aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "WISC-R",
+        "is_correct": false
+      },
+      {
+        "option_text": "M-CHAT (Değiştirilmiş Erken Çocukluk Dönemi Otizm Tarama Ölçeği)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Stanford-Binet",
+        "is_correct": false
+      },
+      {
+        "option_text": "Peabody Resim Kelime Testi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bender-Gestalt Görsel Motor Algı Testi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-003",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB’li bir öğrencinin sınıfta sürekli sallanması veya ses çıkarması gibi davranışların işlevi (nedeni) aşağıdakilerden hangisi olabilir?",
+    "options": [
+      {
+        "option_text": "Sadece dikkat çekmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Duyusal uyaran elde etmek (kendini regüle etmek)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Arkadaşlarına zarar vermek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğretmeni kızdırmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okuma yazma öğrenmek istememek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "\"Sosyal Öyküler\" yöntemi, OSB’li çocuklara hangi becerilerin öğretiminde daha çok tercih edilir?",
+    "options": [
+      {
+        "option_text": "Matematiksel işlemler",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sosyal durumların anlaşılması ve uygun tepki verilmesi",
+        "is_correct": true
+      },
+      {
+        "option_text": "İnce motor beceriler",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fiziksel güç gerektiren aktiviteler",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece okuma yazma öğretimi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-005",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB ile birlikte en sık görülen (eşlik eden) diğer bozukluk aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Görme Yetersizliği",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitme Yetersizliği",
+        "is_correct": false
+      },
+      {
+        "option_text": "Zihinsel Yetersizlik",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ortopedik Yetersizlik",
+        "is_correct": false
+      },
+      {
+        "option_text": "Üstün Yetenek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-006",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir öğretmen, OSB’li öğrencisinin ders geçişlerinde yaşadığı kaygıyı ve problem davranışları azaltmak için gün içinde yapılacakları sırasıyla gösteren görsel bir araç hazırlamıştır. Bu aracın adı nedir?",
+    "options": [
+      {
+        "option_text": "Kavram Haritası",
+        "is_correct": false
+      },
+      {
+        "option_text": "Etkinlik Çizelgesi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ödül Tablosu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Davranış Sözleşmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Zihin Haritası",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-007",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB’li bireylerin mecazi ifadeleri (örneğin; \"etekleri zil çalmak\") anlamakta zorlanıp, duyduklarını gerçek anlamlarıyla (kelimesi kelimesine) algılamalarına ne ad verilir?",
+    "options": [
+      {
+        "option_text": "Ekolali",
+        "is_correct": false
+      },
+      {
+        "option_text": "Disleksi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Literatür (Gerçek) Anlama / Somut Düşünme",
+        "is_correct": true
+      },
+      {
+        "option_text": "Afazi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Mutizm",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-008",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "\"Ayrık Denemelerle Öğretim\" (Discrete Trial Teaching) yönteminde, öğretim sürecinin en başında çocuğa sunulan ve tepki vermesini bekleyen unsur nedir?",
+    "options": [
+      {
+        "option_text": "İpucu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Davranış Sonrası Uyaran (Pekiştireç)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hedef Uyaran (Ayırt Edici Uyaran - Yönerge)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Denemeler Arası Süre",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kayıt Formu",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-009",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi OSB’nin erken çocukluk dönemindeki sosyal belirtilerinden değildir?",
+    "options": [
+      {
+        "option_text": "Kucağa alınmaya direnç gösterme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sosyal gülümsemenin olmaması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yabancıları yadırgamama",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yürüme becerisinin gecikmesi",
+        "is_correct": true
+      },
+      {
+        "option_text": "\"Ce-e\" gibi sosyal oyunlara ilgi duymama",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-010",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB’li bir çocuğun sürekli olarak aynı çizgi filmi izlemek istemesi ve başka bir etkinlik yapmaya zorlandığında öfke nöbeti geçirmesi, hangi özellik ile açıklanır?",
+    "options": [
+      {
+        "option_text": "Rutinlere aşırı bağlılık ve aynılıkta ısrar",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sosyal iletişim eksikliği",
+        "is_correct": false
+      },
+      {
+        "option_text": "Duyusal hassasiyet",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dikkat dağınıklığı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Motor beceri yetersizliği",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-011",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB’li bireylerin zamirleri kullanırken yaşadıkları \"zamir tersi\" (pronominal reversal) sorunu aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Hiç zamir kullanmamaları",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece \"o\" zamirini kullanmaları",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kendilerinden bahsederken \"ben\" yerine \"sen\" veya kendi isimlerini kullanmaları",
+        "is_correct": true
+      },
+      {
+        "option_text": "Cümle kuramamaları",
+        "is_correct": false
+      },
+      {
+        "option_text": "Zamirleri çoğul kullanmaları",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-012",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Leo Kanner, 1943 yılında yayınladığı makalede tanımladığı sendrom için hangi terimi kullanmıştır?",
+    "options": [
+      {
+        "option_text": "Asperger Sendromu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Erken Çocukluk Otizmi (İnfantil Otizm)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Yaygın Gelişimsel Bozukluk",
+        "is_correct": false
+      },
+      {
+        "option_text": "Şizofreni",
+        "is_correct": false
+      },
+      {
+        "option_text": "Zihinsel Yetersizlik",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-013",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Öğretmen, OSB’li öğrencisine \"Elmayı göster\" dediğinde öğrenci doğru tepki vermezse, hemen ardından fiziksel yardımla çocuğun elini elma resmine götürmüştür. Öğretmenin sunduğu bu desteğe ne ad verilir?",
+    "options": [
+      {
+        "option_text": "Pekiştirme",
+        "is_correct": false
+      },
+      {
+        "option_text": "İpucu",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ceza",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sönme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Genelleme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-014",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB’li çocukların oyun becerilerindeki en belirgin sınırlılık aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Nesneleri ağzına götürme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yap-boz yapamama",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sembolik (hayali/–mış gibi) oyun oynayamama",
+        "is_correct": true
+      },
+      {
+        "option_text": "Koşma ve zıplama",
+        "is_correct": false
+      },
+      {
+        "option_text": "Top atma",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-015",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi OSB tanısı olan bir öğrencinin kaynaştırma sınıfında başarılı olmasını destekleyen uyarlamalardan değildir?",
+    "options": [
+      {
+        "option_text": "Yönergelerin kısa ve net verilmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görsel desteklerin kullanılması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıf kurallarının somutlaştırılması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin sürekli en arka sırada tek başına oturtulması",
+        "is_correct": true
+      },
+      {
+        "option_text": "Akran desteğinin sağlanması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-016",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB’de \"savant\" sendromu neyi ifade eder?",
+    "options": [
+      {
+        "option_text": "Ağır zihinsel yetersizliği",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hiç konuşamama durumunu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Belli bir alanda (müzik, hafıza, matematik vb.) görülen sıra dışı/üstün yeteneği",
+        "is_correct": true
+      },
+      {
+        "option_text": "Saldırgan davranışları",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uyku bozukluklarını",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-017",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Ülkemizde ve dünyada OSB tanısı genellikle en erken kaçıncı aydan itibaren güvenilir bir şekilde konulabilmektedir?",
+    "options": [
+      {
+        "option_text": "1. ay",
+        "is_correct": false
+      },
+      {
+        "option_text": "6. ay",
+        "is_correct": false
+      },
+      {
+        "option_text": "18-24. ay",
+        "is_correct": true
+      },
+      {
+        "option_text": "5 yaş",
+        "is_correct": false
+      },
+      {
+        "option_text": "7 yaş",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-018",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi OSB’li bireylerin sosyal etkileşim sorunları arasında yer almaz?",
+    "options": [
+      {
+        "option_text": "Göz temasından kaçınma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Akran ilişkileri geliştirmede güçlük",
+        "is_correct": false
+      },
+      {
+        "option_text": "Karşılıklı duygusal paylaşımda yetersizlik",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rutinlere aşırı bağlılık (Bu davranışsal bir özelliktir)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sosyal/duygusal karşılık vermeme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-019",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB tanısı olan bir çocuk, annesi odaya girdiğinde ona bakmıyor ve tepki vermiyorsa, bu durum hangi alandaki yetersizliğe işarettir?",
+    "options": [
+      {
+        "option_text": "Sosyal yönelim ve etkileşim",
+        "is_correct": true
+      },
+      {
+        "option_text": "Motor gelişim",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öz bakım",
+        "is_correct": false
+      },
+      {
+        "option_text": "Akademik beceri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rutinlere bağlılık",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-020",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bilimsel araştırmalara göre, OSB'nin oluşumunda aşağıdakilerden hangisinin etkisi kanıtlanmıştır?",
+    "options": [
+      {
+        "option_text": "Soğuk ebeveyn tutumları",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocukluk çağı aşıları",
+        "is_correct": false
+      },
+      {
+        "option_text": "Genetik yatkınlık ve çevresel tetikleyiciler",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sadece beslenme bozuklukları",
+        "is_correct": false
+      },
+      {
+        "option_text": "Aşırı televizyon izleme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-001",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "6 yaşındaki Ali, sınıfındaki oyuncak arabaları sürekli ters çevirip tekerleklerini döndürmekte ve saatlerce bu hareketi izlemektedir. Bu davranış DSM-5'e göre hangi belirti kümesine girer?",
+    "options": [
+      {
+        "option_text": "Sosyal duygusal karşılıklılıkta eksiklik",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sözel olmayan iletişimde eksiklik",
+        "is_correct": false
+      },
+      {
+        "option_text": "İlişki kurma ve sürdürmede güçlük",
+        "is_correct": false
+      },
+      {
+        "option_text": "Nesnelerin parçalarıyla sürekli uğraşma (Tekrarlayıcı davranışlar)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Duyusal az duyarlılık",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-002",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB'li bireylerin eğitiminde \"En Az Kısıtlayıcı Ortam\" ilkesi neyi gerektirir?",
+    "options": [
+      {
+        "option_text": "Çocuğun her zaman ayrı bir sınıfta eğitim almasını",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun sadece evde eğitim almasını",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun, yetersizliği olmayan akranlarıyla mümkün olduğunca bir arada eğitim almasını",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğun hastanede eğitim almasını",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun eğitimden muaf tutulmasını",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-003",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi OSB’li bireylerin problem davranışlarını azaltmak için kullanılan \"önleyici\" bir stratejidir?",
+    "options": [
+      {
+        "option_text": "Problem davranıştan sonra ceza vermek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Problem davranışı görmezden gelmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çevresel düzenlemeler yaparak problem davranışın ortaya çıkmasını engellemek",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğu sınıftan atmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Aileyi okula çağırmak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB’li bir öğrenciye \"Diş Fırçalama\" becerisi öğretilirken, becerinin küçük basamaklara bölünerek analiz edilmesine ne ad verilir?",
+    "options": [
+      {
+        "option_text": "Kavram Analizi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Beceri Analizi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Görev Analizi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Davranış Değiştirme",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşlevsel Analiz",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-005",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi OSB'de görülen \"hiposensitivite\" (duyusal az duyarlılık) örneğidir?",
+    "options": [
+      {
+        "option_text": "Hafif bir dokunuştan irkilme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kısık seslerden rahatsız olma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Düşüp yaralanmasına rağmen ağlamama veya acı belirtisi göstermeme",
+        "is_correct": true
+      },
+      {
+        "option_text": "Işıktan rahatsız olup gözlerini kapatma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yemek kokularından midesinin bulanması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-006",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İlkokul 1. sınıfa başlayan OSB’li Efe, teneffüs zilinin çalmasıyla birlikte elleriyle kulaklarını kapatıp sıranın altına saklanmaktadır. Efe’nin bu davranışı en çok ne ile ilişkilendirilebilir?",
+    "options": [
+      {
+        "option_text": "Okuldan kaçma isteği",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitsel uyaranlara karşı aşırı duyarlılık",
+        "is_correct": true
+      },
+      {
+        "option_text": "Arkadaşlarıyla oynamak istememesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ders başarısızlığı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğretmeni sevmemesi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-007",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB’li bireylerin yüz ifadelerini (mutlu, üzgün, kızgın) anlamakta zorlanmaları hangi gelişim alanındaki sınırlılıkla doğrudan ilgilidir?",
+    "options": [
+      {
+        "option_text": "Motor Gelişim",
+        "is_correct": false
+      },
+      {
+        "option_text": "Duygusal Gelişim ve Sosyal İletişim",
+        "is_correct": true
+      },
+      {
+        "option_text": "Fiziksel Gelişim",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öz Bakım Becerileri",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitsel Algı",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-008",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Öğretmen, OSB’li öğrencisine \"Kırmızı\" rengini öğretirken masanın üzerine sadece kırmızı legoyu koymuş, diğer renkleri kaldırmıştır. Öğretmenin bu uygulaması hangi öğretimsel stratejidir?",
+    "options": [
+      {
+        "option_text": "İpucunu silikleştirme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yanlışsız öğretim",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uyaran kontrolü (Ayırt edici uyaranı belirginleştirme)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ceza",
+        "is_correct": false
+      },
+      {
+        "option_text": "Pekiştirme tarifesi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-009",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir okul öncesi öğretmeni, sınıfındaki OSB tanılı öğrencinin oyun becerilerini gözlemlemektedir. Öğrenci, eline aldığı oyuncak bir tarağı saçını taramak için kullanmak yerine, tarağı sürekli olarak masaya vurup çıkan sesi dinlemektedir. Bu öğrencinin oyun davranışı, oyun gelişim basamaklarından hangisinde takılı kaldığını göstermektedir?",
+    "options": [
+      {
+        "option_text": "Sembolik oyun",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşlevsel oyun",
+        "is_correct": true
+      },
+      {
+        "option_text": "Kurallı oyun",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşbirlikçi oyun",
+        "is_correct": false
+      },
+      {
+        "option_text": "Paralel oyun",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi OSB’li bireylerin eğitiminde kullanılan ve \"bilimsel dayanaklı (kanıta dayalı) uygulamalar\" kategorisinde yer almayan, etkisi kanıtlanmamış yöntemlerden biridir?",
+    "options": [
+      {
+        "option_text": "Uygulamalı Davranış Analizi (UD",
+        "is_correct": false
+      },
+      {
+        "option_text": "",
+        "is_correct": false
+      },
+      {
+        "option_text": "Video Model ile Öğretim",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kolaylaştırılmış İletişim (Facilitated Communication)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Etkinlik Çizelgeleri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sosyal Öyküler",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-011",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB'li çocukların \"–mış gibi yapma\" (örneğin, muzu telefon gibi kullanma) becerisindeki eksiklik, hangi oyun türünde yetersizlik olduğunu gösterir?",
+    "options": [
+      {
+        "option_text": "Paralel Oyun",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sembolik Oyun",
+        "is_correct": true
+      },
+      {
+        "option_text": "Fiziksel Oyun",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşbirlikçi Oyun",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kurallı Oyun",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-012",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB’li bireylerin eğitiminde kullanılan \"Sosyal Öyküler\" tekniği ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      {
+        "option_text": "Çocuğun sosyal durumları anlamasına yardımcı olur.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öyküler çocuğun bakış açısına göre (birinci tekil şahıs) yazılır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öykülerde sadece çocuğun yapması gereken davranışlar emir kipiyle yazılır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görsel desteklerle (resim, fotoğraf) zenginleştirilir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Beklenen davranışın ne olduğu ve başkalarının ne düşündüğü açıklanır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-013",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB’li bir öğrencinin kazandığı bir beceriyi (örn. renkleri tanıma) farklı ortamlarda, farklı materyallerle ve farklı kişilerle de sergileyebilmesine ne ad verilir?",
+    "options": [
+      {
+        "option_text": "Kalıcılık",
+        "is_correct": false
+      },
+      {
+        "option_text": "Akıcılık",
+        "is_correct": false
+      },
+      {
+        "option_text": "Genelleme",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ayırt Etme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Eşleme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-014",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi OSB’de kullanılan \"bilimsel dayanaklı\" uygulamalardan biri değildir?",
+    "options": [
+      {
+        "option_text": "Uygulamalı Davranış Analizi (UD",
+        "is_correct": false
+      },
+      {
+        "option_text": "",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yunus Terapisi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Etkinlik Çizelgeleri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Video Model ile Öğretim",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sosyal Öyküler",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-015",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir çocuk, annesi parmağıyla uçan bir uçağı gösterdiğinde uçağa bakmıyor, sadece annesinin parmağına bakıyorsa, bu çocukta hangi becerinin eksikliğinden söz edilir?",
+    "options": [
+      {
+        "option_text": "Taklit",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ortak Dikkat (İşaret edilen yere bakma)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ekolali",
+        "is_correct": false
+      },
+      {
+        "option_text": "Nesne Sürekliliği",
+        "is_correct": false
+      },
+      {
+        "option_text": "İnce Motor Beceri",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-016",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB’li bireylerin eğitiminde kullanılan \"Fırsat Öğretimi\"nin temel özelliği nedir?",
+    "options": [
+      {
+        "option_text": "Tamamen yapılandırılmış bir sınıf ortamında yapılması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğretmenin liderliğinde ve kontrolünde olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Doğal ortamda, çocuğun ilgisi ve girişimiyle başlayan öğretim fırsatlarının değerlendirilmesi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sadece masa başında yapılması",
+        "is_correct": false
+      },
+      {
+        "option_text": "İpucu kullanılmaması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-017",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "3 yaşındaki Can, konuşmak yerine isteklerini annesinin elini tutarak ve onu istediği nesneye götürerek (annesinin elini bir araç gibi kullanarak) ifade etmektedir. Bu durum neyin göstergesidir?",
+    "options": [
+      {
+        "option_text": "Gelişmiş sözel iletişim",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşaret etme jestinin eksikliği ve araç kullanım sorunu",
+        "is_correct": true
+      },
+      {
+        "option_text": "Üstün zeka",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görme problemi",
+        "is_correct": false
+      },
+      {
+        "option_text": "İnatçılık",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-018",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB’li çocuklarda görülen \"prosodi\" (konuşmanın ritmi, vurgusu ve tonlaması) sorunlarına örnek olarak hangisi verilebilir?",
+    "options": [
+      {
+        "option_text": "Çok hızlı konuşma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Robotik, monoton veya şarkı söyler gibi konuşma",
+        "is_correct": true
+      },
+      {
+        "option_text": "Kekeleme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Harfleri yutma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sessiz konuşma",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-019",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir özel eğitim öğretmeni, OSB tanılı öğrencisine \"Kırmızı\" kavramını öğretirken, masanın üzerine sadece kırmızı bir küp koymuş ve \"Kırmızıyı göster\" demiştir. Öğrenci doğru tepki verdikten sonra pekiştirmiştir. İlerleyen aşamalarda masaya kırmızı küpün yanına mavi küpü de koyarak ayırt etmesini istemiştir. Öğretmenin öğretim sürecinin başında sadece hedef uyaranı (kırmızı küp) kullanıp çeldirici koymaması hangi öğretimsel stratejiye örnektir?",
+    "options": [
+      {
+        "option_text": "Yanlışsız öğretim (Uyaran kontrolü transferi)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sabit bekleme süreli öğretim",
+        "is_correct": false
+      },
+      {
+        "option_text": "Eş zamanlı ipucuyla öğretim",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fırsat öğretimi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Akran aracılı öğretim",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-020",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "\"Ekran karşısında geçirilen sürenin artması otizme neden olur mu?\" sorusuna verilecek en bilimsel ve doğru yanıt aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Evet, televizyon izlemek otizmin tek nedenidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hayır, ekran maruziyeti otizmin doğrudan nedeni değildir; ancak var olan sosyal-iletişimsel belirtileri şiddetlendirebilir veya gelişimsel gecikmeye yol açabilir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ekran kullanımı otizmi tedavi eder.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece tablet kullanımı otizme neden olur, televizyon olmaz.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ekran süresinin otizmle hiçbir ilişkisi yoktur.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-001",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Rehberlik ve Araştırma Merkezi (RAM) tarafından verilen \"Özel Eğitim Değerlendirme Kurulu Raporu\"nun temel işlevi nedir?",
+    "options": [
+      {
+        "option_text": "Tıbbi tedavi sürecini başlatmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "İlaç kullanımını düzenlemek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun eğitsel ihtiyaçlarını belirleyerek uygun eğitim ortamına ve destek eğitim hizmetine yönlendirmek",
+        "is_correct": true
+      },
+      {
+        "option_text": "Aileye maddi yardım sağlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun zeka puanını belirlemek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-002",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB’li bir çocuğun sürekli dönen bir pervaneyi izlemesi, \"kendini uyarıcı\" (stimming) davranış olarak kabul edilir. Bu davranışın temel amacı genellikle nedir?",
+    "options": [
+      {
+        "option_text": "Dikkat çekmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sinir sistemini düzenlemek (duyusal regülasyon) veya haz almak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Annesini kızdırmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Pervanenin markasını öğrenmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sosyal iletişim kurmak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-003",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi OSB'li çocukların akran ilişkilerinde yaşadığı temel sorundur?",
+    "options": [
+      {
+        "option_text": "Akranlarıyla çok fazla kavga etmeleri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Akranlarına aşırı ilgi göstermeleri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Akranlarıyla karşılıklı etkileşim başlatma ve sürdürmede yetersizlik",
+        "is_correct": true
+      },
+      {
+        "option_text": "Akranlarını sürekli taklit etmeleri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Akranlarından daha hızlı koşmaları",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB tanısı almış bir bireyin, belirli bir konuya (örneğin; tren saatleri, dinozor türleri) aşırı ve sınırlı ilgi duyması DSM-5'te hangi kategori altındadır?",
+    "options": [
+      {
+        "option_text": "Sosyal iletişim eksikliği",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınırlı, tekrarlayıcı davranış ve ilgiler",
+        "is_correct": true
+      },
+      {
+        "option_text": "Dil bozukluğu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dürtü kontrol bozukluğu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenme güçlüğü",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-005",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "\"Atipik Otizm\" terimi DSM-5 öncesi sınıflandırmada (DSM-IV) hangi durumlar için kullanılırdı?",
+    "options": [
+      {
+        "option_text": "Otizmin tüm belirtilerini tam olarak karşılamayan veya belirtileri geç başlayan durumlar",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sadece zihinsel yetersizliği olanlar",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece fiziksel engeli olanlar",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rett sendromu olanlar",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çok ağır otizm vakaları",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-006",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB'li çocukların beslenme ile ilgili yaşadıkları en yaygın sorun hangisidir?",
+    "options": [
+      {
+        "option_text": "Aşırı iştah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yiyecek seçiciliği (doku, renk veya koku hassasiyeti nedeniyle)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sürekli sıvı tüketme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yemek yemeyi unutma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Her şeyi yeme (Pika)",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-007",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir öğretmen, OSB’li öğrencisinin derste parmak kaldırma davranışını artırmak için, öğrenci her parmak kaldırdığında ona \"Aferin\" diyerek yıldız vermektedir. Öğretmenin kullandığı bu teknik nedir?",
+    "options": [
+      {
+        "option_text": "Olumlu Pekiştirme",
+        "is_correct": true
+      },
+      {
+        "option_text": "Olumsuz Pekiştirme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ceza",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sönme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Şekillendirme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-008",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB’li bireylerin eğitiminde \"model olma\" (video veya canlı model) yönteminin temel aldığı öğrenme kuramı kime aittir?",
+    "options": [
+      {
+        "option_text": "Skinner (Edimsel Koşullanma)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Piaget (Bilişsel Gelişim)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bandura (Sosyal Öğrenme / Gözlem Yoluyla Öğrenme)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Freud (Psikanalitik Kuram)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Vygotsky (Sosyo-kültürel Kuram)",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-009",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB'li bireylerde görülen \"nesne sürekliliği\" ile ilgili takıntılar (örneğin, bir eşyanın yerinin değiştirilmesine aşırı tepki verme) hangi bilişsel özellikle ilişkilidir?",
+    "options": [
+      {
+        "option_text": "Esneklik eksikliği / Zihinsel katılık",
+        "is_correct": true
+      },
+      {
+        "option_text": "Güçlü hafıza",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yüksek zeka",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dikkat dağınıklığı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sosyal ilgi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-010",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel eğitimde \"Bireyselleştirilmiş Eğitim Programı\"nı (BEP) kim hazırlar?",
+    "options": [
+      {
+        "option_text": "Sadece sınıf öğretmeni",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece rehber öğretmen",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece okul müdürü",
+        "is_correct": false
+      },
+      {
+        "option_text": "BEP Geliştirme Birimi (Öğretmenler, aile, uzmanlar ve mümkünse öğrenci)",
+        "is_correct": true
+      },
+      {
+        "option_text": "RAM personeli",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-011",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB'li bir çocuğun konuşurken \"Ben acıktım\" yerine \"Sen acıktın\" veya \"Ahmet acıktı\" (kendi ismini söyleyerek) demesi neye örnektir?",
+    "options": [
+      {
+        "option_text": "Ekolali",
+        "is_correct": false
+      },
+      {
+        "option_text": "Zamir Karışıklığı (Zamir Tersi)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Mutizm",
+        "is_correct": false
+      },
+      {
+        "option_text": "Afazi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Artikülasyon hatası",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-012",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi OSB'li çocukların kaba motor becerilerinde görülen yaygın bir sorundur?",
+    "options": [
+      {
+        "option_text": "Çok hızlı koşma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Denge ve koordinasyon sorunları (Sakarlık)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Aşırı güç kullanımı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hiç hareket etmeme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Mükemmel top oynama",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-013",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB'li çocukların eğitiminde kullanılan \"Zincirleme\" yöntemi ne işe yarar?",
+    "options": [
+      {
+        "option_text": "Çocuğu sandalyeye bağlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Karmaşık bir beceriyi (örn: diş fırçalama) küçük basamaklara ayırıp sırayla öğretmek",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğun dikkatini dağıtmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğa ceza vermek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Aileyi eğitmek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-014",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Kaynaştırma sınıfındaki OSB’li bir öğrenci, ders zili çaldığında sınıfa girmekte zorlanmakta ve koridorda beklemektedir. Öğretmen, bu sorunu çözmek için zilden hemen önce öğrenciye bir sonraki etkinliğin resmini göstererek hazırlık yapmasını sağlamıştır. Öğretmenin kullandığı bu strateji aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Ceza verme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Geçişleri kolaylaştırıcı görsel destek/ipucu kullanma",
+        "is_correct": true
+      },
+      {
+        "option_text": "Fiziksel yardım",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görmezden gelme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Mola (Time-out)",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-015",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB'li bireylerin eğitiminde \"görsel ipuçlarının\" (resimler, semboller) kullanılmasının temel gerekçesi nedir?",
+    "options": [
+      {
+        "option_text": "Resimlerin renkli olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocukların resim yapmayı sevmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görsel işleme becerilerinin işitsel işleme becerilerine göre genellikle daha güçlü olması",
+        "is_correct": true
+      },
+      {
+        "option_text": "Resimlerin ucuz olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğretmenin işini kolaylaştırması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-016",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB'de \"regresyon\" (gerileme) ne anlama gelir?",
+    "options": [
+      {
+        "option_text": "Çocuğun sürekli ileri gitmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun daha önce kazandığı becerileri (örn: konuşma, göz teması) kaybetmesi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğun yerinde sayması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun saldırganlaşması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun uyuyamaması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-017",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "5 yaşındaki bir OSB'li çocuk, oyuncak telefonla konuşuyormuş gibi yapamıyorsa, bu çocukta hangi becerinin eksikliğinden söz edilir?",
+    "options": [
+      {
+        "option_text": "Taklit",
+        "is_correct": false
+      },
+      {
+        "option_text": "Motor beceri",
+        "is_correct": false
+      },
+      {
+        "option_text": "-Mış gibi yapma (Sembolik oyun)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Nesne eşleme",
+        "is_correct": false
+      },
+      {
+        "option_text": "İnce motor",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-018",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi OSB'li çocukların sosyal etkileşimde yaşadığı \"Zihin Kuramı\" (Theory of Mind) eksikliğinin bir sonucudur?",
+    "options": [
+      {
+        "option_text": "Okuma yazma öğrenememe",
+        "is_correct": false
+      },
+      {
+        "option_text": "Başkalarının kendisininkinden farklı düşüncelere sahip olabileceğini anlayamama",
+        "is_correct": true
+      },
+      {
+        "option_text": "Renkleri ayırt edememe",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sesleri duyamama",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yürüyememe",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-019",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB'li bireylerin eğitiminde kullanılan ve çocuğun iletişim başlatmasını hedefleyen \"Çevre Düzenlemesi\" stratejisi nasıldır?",
+    "options": [
+      {
+        "option_text": "Çocuğun sevdiği nesneyi ulaşamayacağı ama görebileceği bir yere koyarak istemesini beklemek",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğa her şeyi hazır sunmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun etrafındaki tüm oyuncakları kaldırmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğu boş bir odada tutmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğa sürekli yönerge vermek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-020",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB'li bireylerin yetişkinlik dönemindeki en temel hedeflerinden biri ne olmalıdır?",
+    "options": [
+      {
+        "option_text": "Üniversite bitirmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bağımsız yaşam becerilerini kazanarak topluma katılım sağlamak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sadece evde oturmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sürekli tedavi görmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hiçbir şey yapmamak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-001",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi OSB'de görülen \"basmakalıp ve tekrarlayıcı (stereotipik) davranışlar\" kategorisine girmez?",
+    "options": [
+      {
+        "option_text": "Kendi etrafında dönme",
+        "is_correct": false
+      },
+      {
+        "option_text": "El çırpma veya kanat çırpma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Nesneleri sıraya dizme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Arkadaşıyla karşılıklı top oynama",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ekolali (konuşulanları tekrarlama)",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-002",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB'li bir çocuğun sürekli aynı kıyafetleri giymek istemesi hangi davranışsal özellikle açıklanır?",
+    "options": [
+      {
+        "option_text": "Duyusal hassasiyet (kumaş dokusu) veya aynılıkta ısrar",
+        "is_correct": true
+      },
+      {
+        "option_text": "Moda takibi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ekonomik nedenler",
+        "is_correct": false
+      },
+      {
+        "option_text": "Renk körlüğü",
+        "is_correct": false
+      },
+      {
+        "option_text": "İnatçılık (Sadece kişilik özelliği olarak)",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-003",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Erken müdahale programlarının OSB'li çocuklar üzerindeki en önemli etkisi nedir?",
+    "options": [
+      {
+        "option_text": "Otizmi tamamen ortadan kaldırması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun boyunun uzaması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Gelişimsel sapmaları en aza indirerek çocuğun potansiyelini en üst düzeye çıkarması",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ailenin daha çok para kazanması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun hemen okuma öğrenmesi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB tanılı bireylerin eğitiminde \"model olma\" (video modeling) yönteminin etkili olmasının temel nörobiyolojik ve bilişsel dayanağı nedir?",
+    "options": [
+      {
+        "option_text": "İşitsel algılarının çok güçlü olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görsel işleme becerilerinin genellikle işitsel becerilere göre daha güçlü olması ve görsel dikkatinin yüksek olması",
+        "is_correct": true
+      },
+      {
+        "option_text": "Dokunsal hassasiyetlerinin olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sosyal etkileşimi çok sevmeleri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dikkat sürelerinin çok kısa olması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-005",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi OSB'li bireylerin \"yürütücü işlevler\" (executive functions) alanındaki yetersizliklerine örnektir?",
+    "options": [
+      {
+        "option_text": "Planlama ve organize etme güçlüğü",
+        "is_correct": true
+      },
+      {
+        "option_text": "Hızlı koşamama",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görememe",
+        "is_correct": false
+      },
+      {
+        "option_text": "Duyamama",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tat alamama",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-006",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "\"Sabit Bekleme Süreli Öğretim\" yönteminde, ipucu ne zaman sunulur?",
+    "options": [
+      {
+        "option_text": "Çocuk yanlış cevap verdikten sonra",
+        "is_correct": false
+      },
+      {
+        "option_text": "Belirlenen süre (örn: 0 sn veya 4 sn) dolduktan sonra çocuk tepki vermezse",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuk istediğinde",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dersin sonunda",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hiç sunulmaz",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-007",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB'li bireylerin sosyal kuralları (örn: sıraya girmek, selamlaşmak) öğrenmeleri için yazılan kısa hikayelere ne ad verilir?",
+    "options": [
+      {
+        "option_text": "Masallar",
+        "is_correct": false
+      },
+      {
+        "option_text": "Romanlar",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sosyal Öyküler",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çizgi Romanlar",
+        "is_correct": false
+      },
+      {
+        "option_text": "Şiirler",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-008",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi OSB ile Serebral Palsi (SP) arasındaki temel farklardan biridir?",
+    "options": [
+      {
+        "option_text": "OSB bir kas hastalığıdır, SP zihinsel bir hastalıktır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "OSB temel olarak sosyal iletişim ve etkileşim yetersizliği ile karakterizedir; SP ise temel olarak motor (hareket ve duruş) bozukluğudur.",
+        "is_correct": true
+      },
+      {
+        "option_text": "SP ilerleyici bir hastalıktır, OSB değildir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "OSB ilaçla tamamen iyileşir, SP iyileşmez.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İkisi de sadece yetişkinlikte ortaya çıkar.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-009",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB'li çocukların eğitiminde \"Video Modelleme\" yönteminin en büyük avantajı nedir?",
+    "options": [
+      {
+        "option_text": "Çocuğun televizyon izlemeyi sevmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sosyal becerilerin görsel olarak sunulması ve tekrar edilebilir olması",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğretmenin dinlenmesini sağlaması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ucuz olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Her yerde bulunması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-010",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir çocuk, öğretmeninin \"Otur\" komutunu yerine getiriyor ancak \"Otur\" kelimesinin anlamını tam olarak bilmiyor, sadece o ses duyulunca oturması gerektiğini şartlanmışsa, bu durum neyin eksikliğini gösterir?",
+    "options": [
+      {
+        "option_text": "İfade edici dil",
+        "is_correct": false
+      },
+      {
+        "option_text": "Alıcı dil (Kavramsal anlama)",
+        "is_correct": true
+      },
+      {
+        "option_text": "İşitme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Motor beceri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bellek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-011",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Ahmet, OSB tanısı almış bir öğrencidir. Sınıfta floresan lamba cızırtısı olduğunda kulaklarını kapatıp masanın altına girmektedir. Öğretmen bu durumu fark edip floresanı tamir ettirmiştir. Öğretmenin bu müdahalesi hangi stratejiye örnektir?",
+    "options": [
+      {
+        "option_text": "Beceri öğretimi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Önleyici sınıf yönetimi / Çevresel düzenleme",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ceza verme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görmezden gelme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Mola (Time-out)",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-012",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Ayşe Öğretmen, OSB’li öğrencisi Can’a \"Kırmızı\" rengini öğretirken önce sadece kırmızı kartı göstermiş (yanlışsız öğretim), Can öğrendikçe yavaş yavaş mavi kartı da masaya koyarak ayırt etmesini istemiştir. Bu süreç neyi ifade eder?",
+    "options": [
+      {
+        "option_text": "Genelleme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ayırt Etme Öğretimi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Zincirleme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Şekillendirme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Model Olma",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-013",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Mehmet, 10 yaşında OSB’li bir çocuktur. Okulda öğrendiği \"Merhaba\" deme becerisini sadece öğretmenine karşı sergilemekte, bakkala veya komşusuna \"Merhaba\" dememektedir. Mehmet’in hangi beceride sorunu vardır?",
+    "options": [
+      {
+        "option_text": "Edinim",
+        "is_correct": false
+      },
+      {
+        "option_text": "Akıcılık",
+        "is_correct": false
+      },
+      {
+        "option_text": "Genelleme",
+        "is_correct": true
+      },
+      {
+        "option_text": "Kalıcılık",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dikkat",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-014",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zeynep, OSB tanısı olan bir öğrencidir. İletişim kurmak için kelimeler yerine resimli kartları kullanmaktadır. Zeynep, su içmek istediğinde \"Su\" resmini alıp annesine vermektedir. Zeynep’in kullandığı bu sistem nedir?",
+    "options": [
+      {
+        "option_text": "İşaret Dili",
+        "is_correct": false
+      },
+      {
+        "option_text": "PECS (Resim Değiş Tokuşuna Dayalı İletişim Sistemi)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Doğal Dil Öğretimi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ekolali",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sosyal Öykü",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-015",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir özel eğitim öğretmeni, OSB'li öğrencisi Efe'nin öfke nöbetleri geçirdiğini gözlemlemiştir. Öğretmen, Efe'nin öfke nöbetinden hemen önce ne olduğunu (öncül), davranışın nasıl gerçekleştiğini ve sonucunda ne olduğunu (sonuç) not etmiştir. Öğretmenin yaptığı bu işlem nedir?",
+    "options": [
+      {
+        "option_text": "Zeka testi uygulamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşlevsel Davranış Analizi (ABC Kaydı) yapmak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ceza vermek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Aile görüşmesi yapmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tıbbi muayene",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-016",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Sınıf öğretmeni, kaynaştırma öğrencisi olan OSB’li Ali’nin ders sırasında sürekli yerinden kalktığını fark etmiştir. Öğretmen, Ali’nin masasına ne kadar süre oturması gerektiğini gösteren bir \"kum saati\" koymuştur. Bu uygulama hangi amaca hizmet eder?",
+    "options": [
+      {
+        "option_text": "Zamanı öğretmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Süreyi somutlaştırarak görsel destek sağlamak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ali'yi cezalandırmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Oyun oynamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ali'nin dikkatini dağıtmak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-017",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Kerem, yüksek işlevli otizm (eski adıyla Asperger) tanısı olan bir öğrencidir. Arkadaşları futbol hakkında konuşurken Kerem sürekli araya girip dinozorların latince isimlerini saymaktadır. Kerem’in bu davranışı sosyal iletişimin hangi kuralını ihlal etmektedir?",
+    "options": [
+      {
+        "option_text": "Göz teması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sıra alma ve konu sürdürme (Pragmatik dil becerisi)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Artikülasyon",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ses tonu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kelime dağarcığı",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-018",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Merve, OSB tanılı bir öğrencidir. Öğretmeni Merve'ye \"Diş Fırçalama\" becerisini öğretirken önce fırçayı eline almasını pekiştirmiş, sonra macunu sürmesini, sonra ağzına götürmesini pekiştirmiştir. Öğretmen her adımda bir sonrakini ekleyerek ilerlemiştir. Bu yöntem nedir?",
+    "options": [
+      {
+        "option_text": "İleri Zincirleme",
+        "is_correct": true
+      },
+      {
+        "option_text": "Tersine Zincirleme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tüm Beceri Öğretimi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ayrık Deneme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fırsat Öğretimi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-019",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "OSB’li bir çocuğun annesi, \"Çocuğum evde çok güzel konuşuyor ama okulda hiç konuşmuyor\" diyorsa, bu çocukta öncelikle hangi durumdan şüphelenilmelidir?",
+    "options": [
+      {
+        "option_text": "Seçici Konuşmazlık (Selektif Mutizm)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Zeka Geriliği",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitme Kaybı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görme Kaybı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fiziksel Yetersizlik",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-020",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir öğretmen, OSB’li öğrencisinin problem davranışını azaltmak için davranışın hemen ardından çocuğun hoşuna giden bir etkinliği sonlandırmıştır (örn. tableti elinden almıştır). Öğretmenin uyguladığı bu davranış değiştirme tekniği nedir?",
+    "options": [
+      {
+        "option_text": "Olumlu Pekiştirme",
+        "is_correct": false
+      },
+      {
+        "option_text": "İkinci Tip Ceza (Mahrum bırakma)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sönme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ayrımlı Pekiştirme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Şekillendirme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  }
+]

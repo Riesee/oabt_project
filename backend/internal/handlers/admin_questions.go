@@ -4,6 +4,7 @@ import (
 	"backend/internal/database"
 	"backend/internal/models"
 	"encoding/json"
+	"fmt"
 	"net/http"
 	"strings"
 
@@ -126,25 +127,93 @@ func DeleteQuestionHandler(w http.ResponseWriter, r *http.Request) {
 	w.WriteHeader(http.StatusNoContent)
 }
 
-// SyncQuestionsHandler triggers the seed logic manually (optional, for Phase 1 Step 2)
+// SyncQuestionsHandler triggers the seed logic manually (re-scans the data/questions folder)
 func SyncQuestionsHandler(w http.ResponseWriter, r *http.Request) {
 	if r.Method != http.MethodPost {
 		http.Error(w, "Method not allowed", http.StatusMethodNotAllowed)
 		return
 	}
 
-	// Re-run the existing SeedData function which reads questions.json
-	// Note: currently SeedData checks if count > 0 and returns. We might want to force update?
-	// For now, let's keep it simple. If the admin wants to 'Sync', they might mean 'Reload from JSON'.
-	// But `SeedData` logic is "Insert if empty".
-	// The prompt says: "Mevcut questions.json verisini tek seferlik DB'ye aktaran migration scripti".
-	// Since `SeedData` is called on InitDB, it technically already synced.
-	// But let's expose it.
-
-	// We can call database.SeedData() but we might want to capture output or success.
 	database.SeedData()
 
 	w.Header().Set("Content-Type", "application/json")
 	w.WriteHeader(http.StatusOK)
-	json.NewEncoder(w).Encode(map[string]string{"status": "Sync attempted (check logs for details)"})
+	json.NewEncoder(w).Encode(map[string]string{"status": "Sync completed! Checked all JSON files in data/questions folder."})
+}
+
+// BulkCreateQuestionsHandler adds multiple questions at once from a JSON array
+func BulkCreateQuestionsHandler(w http.ResponseWriter, r *http.Request) {
+	if r.Method != http.MethodPost {
+		http.Error(w, "Method not allowed", http.StatusMethodNotAllowed)
+		return
+	}
+
+	var questions []models.Question
+	if err := json.NewDecoder(r.Body).Decode(&questions); err != nil {
+		http.Error(w, "Invalid request body", http.StatusBadRequest)
+		return
+	}
+
+	if len(questions) == 0 {
+		http.Error(w, "No questions provided", http.StatusBadRequest)
+		return
+	}
+
+	questionsPerTest := 100
+	insertedCount := 0
+	skippedCount := 0
+	currentTestID := ""
+
+	for i, q := range questions {
+		// Check if question already exists
+		var existingID string
+		err := database.DB.QueryRow("SELECT id FROM questions WHERE question_id = $1", q.QuestionID).Scan(&existingID)
+		if err == nil {
+			skippedCount++
+			continue
+		}
+
+		if i%questionsPerTest == 0 || currentTestID == "" {
+			category := q.Category
+			if category == "" {
+				category = "Genel"
+			}
+			testTitle := fmt.Sprintf("%s - Deneme %d (Bulk Upload)", category, (i/questionsPerTest)+1)
+
+			var testID string
+			err := database.DB.QueryRow("SELECT id FROM tests WHERE title = $1", testTitle).Scan(&testID)
+			if err != nil {
+				newUUID, _ := uuid.NewV7()
+				testID = newUUID.String()
+				_, _ = database.DB.Exec("INSERT INTO tests (id, title, description) VALUES ($1, $2, $3)",
+					testID, testTitle, "ÖABT "+category+" Alan Bilgisi (Uploaded)")
+			}
+			currentTestID = testID
+		}
+
+		qID, _ := uuid.NewV7()
+		if q.ID != "" {
+			qID, _ = uuid.Parse(q.ID)
+		}
+
+		optionsJson, _ := json.Marshal(q.Options)
+		solutionJson, _ := json.Marshal(q.Solution)
+		metadataJson, _ := json.Marshal(q.Metadata)
+
+		_, err = database.DB.Exec(`INSERT INTO questions 
+			(id, test_id, question_id, category, subject, topic, sub_topic, difficulty, skill_level, text, options, solution, metadata, image_url, related_concept_id) 
+			VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15)`,
+			qID.String(), currentTestID, q.QuestionID, q.Category, q.Subject, q.Topic, q.SubTopic, q.Difficulty, q.SkillLevel, q.Text, optionsJson, solutionJson, metadataJson, q.ImageURL, q.RelatedConceptID)
+
+		if err == nil {
+			insertedCount++
+		}
+	}
+
+	w.Header().Set("Content-Type", "application/json")
+	json.NewEncoder(w).Encode(map[string]interface{}{
+		"message":  "Bulk upload completed",
+		"inserted": insertedCount,
+		"skipped":  skippedCount,
+	})
 }

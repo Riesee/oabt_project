@@ -1,0 +1,4710 @@
+[
+  {
+    "question_id": "Q-TEST01-001",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Amerikan Zihinsel ve Gelişimsel Yetersizlikler Birliği (AAIDD) ve Türkiye’deki mevcut yasal düzenlemelere göre, bir bireye zihin yetersizliği tanısı konulabilmesi için yetersizlik durumunun en geç hangi yaş sınırından önce ortaya çıkması gerekmektedir?",
+    "options": [
+      {
+        "option_text": "ve Türkiye’deki mevcut yasal düzenlemelere göre, bir bireye zihin yetersizliği tanısı konulabilmesi için yetersizlik durumunun en geç hangi yaş sınırından önce ortaya çıkması gerekmektedir?",
+        "is_correct": false
+      },
+      {
+        "option_text": "6 yaş",
+        "is_correct": false
+      },
+      {
+        "option_text": "12 yaş",
+        "is_correct": false
+      },
+      {
+        "option_text": "18 yaş",
+        "is_correct": true
+      },
+      {
+        "option_text": "21 yaş",
+        "is_correct": false
+      },
+      {
+        "option_text": "25 yaş",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-002",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği tanımında yer alan \"uyumsal davranışlar\" kavramı, bireyin günlük yaşamını sürdürebilmesi için gerekli olan becerileri kapsamaktadır. Aşağıdakilerden hangisi AAIDD (2002) tanımına göre belirlenen kavramsal uyumsal becerilerden biridir?",
+    "options": [
+      {
+        "option_text": "Yemek yeme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okuma ve yazma",
+        "is_correct": true
+      },
+      {
+        "option_text": "Kurallara uyma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Toplu taşıma araçlarını kullanma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Giyinme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-003",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zeka Bölümü (IQ) puanlarına dayalı psikolojik sınıflandırmaya göre, IQ puanı 50-55 ile 70 arasında olan ve eğitim ortamlarında genellikle \"eğitilebilir\" olarak nitelendirilen grup aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Sınır zeka",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hafif düzeyde zihin yetersizliği",
+        "is_correct": true
+      },
+      {
+        "option_text": "Orta düzeyde zihin yetersizliği",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ağır düzeyde zihin yetersizliği",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çok ağır düzeyde zihin yetersizliği",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi zihin yetersizliği olan bireylerin bilişsel gelişim özelliklerinden biri olan \"dikkat\" ile ilgili yaşadıkları temel sorundur?",
+    "options": [
+      {
+        "option_text": "Çok sayıda uyarana aynı anda odaklanabilirler.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dikkat süreleri uzundur ancak odaklanma sorunları yoktur.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Seçici dikkatleri sınırlıdır ve dikkati ilgili uyarana odaklamada güçlük çekerler.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ek uyaranlar dikkat performanslarını artırır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dikkat toplama hızları akranlarından daha yüksektir.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-005",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan öğrencilerin, birçok başarısızlık yaşantısı sonucunda, bir işi başarabilecek yeteneğe sahip olsalar bile \"Ben bunu yapamam\" düşüncesiyle çaba harcamaktan vazgeçmeleri durumu literatürde hangi kavramla ifade edilir?",
+    "options": [
+      {
+        "option_text": "Dışsal denetim odağı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenilmiş çaresizlik",
+        "is_correct": true
+      },
+      {
+        "option_text": "Genelleme yetersizliği",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kısa süreli bellek sorunu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Motivasyon eksikliği",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-006",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi zihin yetersizliğinin doğum öncesi (prenatal) nedenlerinden biri olan kromozom anomalilerine örnektir?",
+    "options": [
+      {
+        "option_text": "Fenilketonüri (PKU)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Down Sendromu",
+        "is_correct": true
+      },
+      {
+        "option_text": "Menenjit",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hidrosefali",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kurşun zehirlenmesi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-007",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bireylerin öğrendikleri bir beceriyi (örneğin; okulda öğrendiği renk kavramını) farklı ortamlarda, farklı materyallerle veya farklı kişilerle sergilemekte güçlük yaşamaları, hangi bilişsel özelliklerindeki sınırlılıkla açıklanır?",
+    "options": [
+      {
+        "option_text": "Genelleme",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ayırt etme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Eşleme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sıralama",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kodlama",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-008",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Türkiye’de özel eğitim hizmetleri kapsamında, zihin yetersizliği olan bir öğrencinin tıbbi tanısını koyma yetkisi aşağıdakilerden hangisine aittir?",
+    "options": [
+      {
+        "option_text": "Rehberlik ve Araştırma Merkezleri (RAM)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okul Rehberlik Servisleri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hastaneler (Sağlık Kurulu Raporu ile)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Özel Eğitim ve Rehabilitasyon Merkezleri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıf Öğretmenleri",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-009",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Milli Eğitim Bakanlığı Özel Eğitim Hizmetleri Yönetmeliği’ne göre, zihinsel yetersizliği olan bireylerin eğitiminde temel alınan ve çocuğun akranlarıyla en fazla bir arada olduğu ortamı ifade eden ilke nedir?",
+    "options": [
+      {
+        "option_text": "Ayrıştırılmış eğitim",
+        "is_correct": false
+      },
+      {
+        "option_text": "En az kısıtlayıcı ortam",
+        "is_correct": true
+      },
+      {
+        "option_text": "Hastane okulları",
+        "is_correct": false
+      },
+      {
+        "option_text": "Evde eğitim",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tam zamanlı kaynaştırma",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-010",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan çocukların kısa süreli bellek sorunlarını en aza indirmek ve bilgiyi uzun süreli belleğe aktarmalarını sağlamak için öğretim sürecinde yapılması gereken en uygun düzenleme aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Konuları karmaşık hale getirmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bilgiyi sadece sözel olarak sunmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tekrar ve alıştırmalara sıkça yer vermek, bilgiyi küçük basamaklara bölmek",
+        "is_correct": true
+      },
+      {
+        "option_text": "Soyut kavramlara ağırlık vermek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğretim hızını çok yüksek tutmak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-011",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi zihin yetersizliği olan bireylerde görülen dil ve konuşma özelliklerinden biri değildir?",
+    "options": [
+      {
+        "option_text": "Dil gelişim basamaklarını normal gelişim gösteren çocuklarla aynı sırayla izlerler.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dil edinim hızları normal gelişim gösteren akranlarına göre yavaştır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Alıcı dil becerileri genellikle ifade edici dil becerilerinden daha iyidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Soyut kavramları ve mecazları anlamada güçlük yaşarlar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dil gelişimleri bilişsel gelişimlerinden tamamen bağımsız ilerler.",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-012",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir öğretmen, zihin yetersizliği olan öğrencisine \"Diş Fırçalama\" becerisini öğretmek istemektedir. Beceriyi \"fırçayı eline alma\", \"macunu sıkma\", \"fırçayı ağzına götürme\" gibi küçük alt basamaklara ayırmıştır. Öğretmenin kullandığı bu teknik nedir?",
+    "options": [
+      {
+        "option_text": "Beceri Analizi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Kavram Analizi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Davranış Değiştirme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fırsat Öğretimi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Model Olma",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-013",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bireylerin sosyal becerilerdeki yetersizliklerinin temel nedenlerinden biri olan \"dışsal denetim odağı\" (dışsal yönelim) neyi ifade eder?",
+    "options": [
+      {
+        "option_text": "Bireyin kendi davranışlarının sorumluluğunu alması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Problem çözme durumlarında kendi yeteneklerine güvenmeyip dışarıdan ipucu ve yönlendirme beklemesi",
+        "is_correct": true
+      },
+      {
+        "option_text": "İçsel motivasyonunun çok yüksek olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Liderlik özelliklerinin gelişmiş olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Karar verme becerilerinin çok hızlı olması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-014",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliğinin nedenleri arasında yer alan ve protein metabolizmasındaki bir bozukluk sonucu ortaya çıkan, erken tanı ve diyetle önlenebilen metabolik hastalık hangisidir?",
+    "options": [
+      {
+        "option_text": "Down Sendromu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Frajil X Sendromu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fenilketonüri (PKU)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Mikrosefali",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hidrosefali",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-015",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "\"Yanlışsız Öğretim Yöntemleri\"nin zihin yetersizliği olan bireylerin eğitiminde tercih edilmesinin temel gerekçesi nedir?",
+    "options": [
+      {
+        "option_text": "Öğrencinin hata yaparak öğrenmesini sağlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğretim sırasında ipuçları sunarak hata yapma olasılığını en aza indirmek ve doğru tepkiyi pekiştirmek",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğretmenin rolünü azaltmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece akademik becerileri öğretmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenciyi cezalandırmak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-016",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi zihin yetersizliği olan bireylerin eğitiminde kullanılan \"Doğrudan Öğretim\" yönteminin özelliklerinden biridir?",
+    "options": [
+      {
+        "option_text": "Öğretimin tamamen öğrenci tarafından yönetilmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Açık, net yönergeler ve yapılandırılmış bir öğretim sunulması",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sadece doğal ortamlarda yapılması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hata düzeltmesi yapılmaması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Konu seçiminin öğrenciye bırakılması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-017",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bireylerin yetişkinlik dönemine hazırlanması sürecinde, okuldan iş hayatına ve toplumsal yaşama uyum sağlamalarını hedefleyen planlama sürecine ne ad verilir?",
+    "options": [
+      {
+        "option_text": "Kaynaştırma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Erken Müdahale",
+        "is_correct": false
+      },
+      {
+        "option_text": "Geçiş Planlaması",
+        "is_correct": true
+      },
+      {
+        "option_text": "Fizik Tedavi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tıbbi Tanılama",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-018",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bireylerde soyut kavramların öğretiminde yaşanan güçlükleri aşmak için hangi öğretim ilkesi öncelikli olarak uygulanmalıdır?",
+    "options": [
+      {
+        "option_text": "Bilinmeyenden bilinene",
+        "is_correct": false
+      },
+      {
+        "option_text": "Somuttan soyuta",
+        "is_correct": true
+      },
+      {
+        "option_text": "Karmaşıktan basite",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hızlıdan yavaşa",
+        "is_correct": false
+      },
+      {
+        "option_text": "Soyuttan somuta",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-019",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi zihin yetersizliği olan çocuklarda görülen sosyal özelliklerden biridir?",
+    "options": [
+      {
+        "option_text": "Sosyal ipuçlarını yanlış yorumlama veya anlamama",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çok güçlü liderlik vasıfları gösterme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Karmaşık sosyal kuralları hemen öğrenme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Empati yeteneklerinin aşırı gelişmiş olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Herkesle kolayca ve uygun şekilde arkadaşlık kurabilme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST01-020",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 1",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Rehberlik ve Araştırma Merkezlerinde (RAM) eğitsel tanılama yapılırken kullanılan, bireyin yapabildiklerini ve yapamadıklarını belirlemeye yarayan değerlendirme türü hangisidir?",
+    "options": [
+      {
+        "option_text": "Tıbbi Değerlendirme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Norm Bağımlı Değerlendirme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Performans Belirleme / Eğitsel Değerlendirme",
+        "is_correct": true
+      },
+      {
+        "option_text": "Psikiyatrik Muayene",
+        "is_correct": false
+      },
+      {
+        "option_text": "Genetik Tarama",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 1"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-001",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan 10 yaşındaki Ali, sınıfta öğretmeni soru sorduğunda cevabı bilmesine rağmen parmak kaldırmamakta ve arkadaşlarına bakarak onların ne yaptığını izlemektedir. Ali’nin bu davranışı zihin yetersizliğinin hangi özelliği ile açıklanabilir?",
+    "options": [
+      {
+        "option_text": "Öğrenilmiş güçlülük",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dışsal denetim odağı / Başkalarına bağımlılık",
+        "is_correct": true
+      },
+      {
+        "option_text": "Yüksek motivasyon",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kısa süreli bellek sorunu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hiperaktivite",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-002",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan çocukların eğitiminde kullanılan \"Zincirleme\" (Chaining) yöntemi ne tür becerilerin öğretiminde etkilidir?",
+    "options": [
+      {
+        "option_text": "Tek basamaklı basit beceriler (örn. ismini söyleme)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Birden fazla basamaktan oluşan karmaşık beceriler (örn. yatak toplama, giyinme)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sadece akademik kavramlar",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece soyut kavramlar",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hiçbir beceride etkili değildir",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-003",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bireylerin eğitiminde hazırlanan \"Bireyselleştirilmiş Eğitim Programı\"nın (BEP) yasal dayanağı Türkiye'de hangi mevzuattır?",
+    "options": [
+      {
+        "option_text": "657 Sayılı Devlet Memurları Kanunu",
+        "is_correct": false
+      },
+      {
+        "option_text": "573 Sayılı Özel Eğitim Hakkında Kanun Hükmünde Kararname",
+        "is_correct": true
+      },
+      {
+        "option_text": "Türk Medeni Kanunu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ceza Kanunu",
+        "is_correct": false
+      },
+      {
+        "option_text": "İş Kanunu",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi ağır düzeyde zihin yetersizliği olan bireylerin özelliklerinden biridir?",
+    "options": [
+      {
+        "option_text": "Akademik becerilerde 6. sınıf düzeyine kadar gelebilirler.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yaşam boyu yoğun bakım ve gözetim desteğine ihtiyaç duyarlar.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Bağımsız olarak toplumsal yaşama tam uyum sağlarlar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Genellikle ilkokul çağında fark edilirler.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece hafif düzeyde destekle çalışabilirler.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-005",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan çocukların öz bakım becerileri (giyinme, yemek yeme, tuvalet vb.) ile ilgili olarak aşağıdakilerden hangisi söylenebilir?",
+    "options": [
+      {
+        "option_text": "Bu becerileri öğretim almadan kendiliğinden öğrenirler.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bu becerilerin öğretimi eğitim programlarının öncelikli hedefleri arasındadır.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Bu becerileri asla öğrenemezler.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bu beceriler sadece aile tarafından öğretilmelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Akademik becerilerden daha az önemlidir.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-006",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "\"Sabit Bekleme Süreli Öğretim\" yönteminde, \"0 saniye denemeleri\"nin (ipucunun hedef uyaranla eş zamanlı sunulması) temel amacı nedir?",
+    "options": [
+      {
+        "option_text": "Çocuğun hata yapmasını sağlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğa beceriyi tanıtmak ve doğru tepkiyi garantilemek (hata yapmayı önlemek)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğun dikkatini dağıtmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğretimi zorlaştırmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun ipucuna bağımlı olmasını sağlamak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-007",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi zihin yetersizliğine neden olabilen doğum sırası (perinatal) faktörlerden biridir?",
+    "options": [
+      {
+        "option_text": "Annenin hamilelikte alkol kullanması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Doğum anında bebeğin oksijensiz kalması (Anoksi)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocukluk çağında geçirilen ateşli hastalıklar",
+        "is_correct": false
+      },
+      {
+        "option_text": "Akraba evliliği",
+        "is_correct": false
+      },
+      {
+        "option_text": "Annenin yetersiz beslenmesi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-008",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan öğrencilerin kaynaştırma uygulamaları kapsamında genel eğitim sınıflarında eğitim alırken, yetersiz kaldıkları derslerde bireysel destek aldıkları birimin adı nedir?",
+    "options": [
+      {
+        "option_text": "Rehberlik Servisi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Destek Eğitim Odası",
+        "is_correct": true
+      },
+      {
+        "option_text": "Müdür Odası",
+        "is_correct": false
+      },
+      {
+        "option_text": "Spor Salonu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kütüphane",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-009",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi zihin yetersizliği olan bireylerin işlevsel akademik beceriler kapsamında öğrenmesi hedeflenen bir beceridir?",
+    "options": [
+      {
+        "option_text": "Türev ve integral hesaplamaları",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bir mağaza tabelasını okuma veya para üstü hesaplama",
+        "is_correct": true
+      },
+      {
+        "option_text": "Atomun yapısını inceleme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Divan edebiyatı şiirlerini ezberleme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yabancı dilde makale yazma",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-010",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliğinin tanılanmasında kullanılan \"Vineland Uyumsal Davranış Ölçeği\" neyi ölçmeyi hedefler?",
+    "options": [
+      {
+        "option_text": "Sadece sözel zeka puanını",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bireyin günlük yaşamdaki (iletişim, öz bakım, sosyalleşme vb.) bağımsızlık düzeyini",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sadece matematik başarısını",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun resim yeteneğini",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun işitme seviyesini",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-011",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bireylerde görülen \"stereotipik davranışlar\" (sallanma, el çırpma vb.) genellikle hangi durumda artış gösterir?",
+    "options": [
+      {
+        "option_text": "Yoğun bir etkinlikle meşgulken",
+        "is_correct": false
+      },
+      {
+        "option_text": "Boş kaldıklarında, kaygılandıklarında veya heyecanlandıklarında",
+        "is_correct": true
+      },
+      {
+        "option_text": "Uykudayken",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yemek yerken",
+        "is_correct": false
+      },
+      {
+        "option_text": "Oyun oynarken",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-012",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "\"Akran Aracılı Öğretim\" yönteminin zihin yetersizliği olan öğrenciler üzerindeki en önemli sosyal faydası nedir?",
+    "options": [
+      {
+        "option_text": "Öğretmenin yükünü tamamen ortadan kaldırması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Zihin yetersizliği olan öğrencinin normal gelişim gösteren akranlarıyla etkileşimini ve sosyal kabulünü artırması",
+        "is_correct": true
+      },
+      {
+        "option_text": "Akranların derslerinden geri kalmasını sağlaması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin sadece akademik başarısını artırması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin yalnız kalmasını sağlaması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-013",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Milli Eğitim Bakanlığı'na bağlı \"Özel Eğitim Uygulama Okulları\" (I., II. ve III. Kademe) hangi düzeydeki zihin yetersizliği olan öğrenciler için açılmıştır?",
+    "options": [
+      {
+        "option_text": "Sadece hafif düzeyde",
+        "is_correct": false
+      },
+      {
+        "option_text": "Genel eğitim programını takip edemeyecek durumdaki orta veya ağır düzeyde",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sadece üstün yetenekli",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece işitme engelli",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece fiziksel engelli",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-014",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bir çocuğun annesi hamileliği sırasında kızamıkçık (rubella) geçirmiştir. Bu durum zihin yetersizliğinin hangi nedenler grubuna girer?",
+    "options": [
+      {
+        "option_text": "Doğum sonrası nedenler",
+        "is_correct": false
+      },
+      {
+        "option_text": "Doğum anı nedenler",
+        "is_correct": false
+      },
+      {
+        "option_text": "Enfeksiyonlara bağlı doğum öncesi nedenler",
+        "is_correct": true
+      },
+      {
+        "option_text": "Kromozom anomalisine bağlı nedenler",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çevresel nedenler",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-015",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi zihin yetersizliği olan çocukların eğitiminde ailenin katılımının önemini en iyi açıklar?",
+    "options": [
+      {
+        "option_text": "Aileler sadece maddi destek sağlamalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Eğitim okulda biter, evde devam etmemelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Aile katılımı, öğretilen becerilerin ev ortamına genellenmesini ve kalıcılığını sağlar.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Aileler öğretim yöntemlerini bilemez.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ailelerin okula gelmesi yasaktır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-016",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Fetal Alkol Sendromu (FAS), zihin yetersizliğinin hangi tür nedenleri arasında yer alır ve önlenebilir mi?",
+    "options": [
+      {
+        "option_text": "Genetik nedenler - Önlenemez",
+        "is_correct": false
+      },
+      {
+        "option_text": "Doğum öncesi çevresel/toksik nedenler - Annenin alkol almamasıyla %100 önlenebilir",
+        "is_correct": true
+      },
+      {
+        "option_text": "Doğum travması - Önlenemez",
+        "is_correct": false
+      },
+      {
+        "option_text": "Doğum sonrası enfeksiyon - Kısmen önlenebilir",
+        "is_correct": false
+      },
+      {
+        "option_text": "Metabolik hastalık - Diyetle önlenir",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-017",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bireylerde \"bellek\" ile ilgili yaşanan en belirgin sorun hangisidir?",
+    "options": [
+      {
+        "option_text": "Bilgiyi kısa süreli bellekten uzun süreli belleğe aktarmada ve geri çağırmada güçlük",
+        "is_correct": true
+      },
+      {
+        "option_text": "Hiçbir şeyi unutmamaları",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fotografik hafızaya sahip olmaları",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece yüzleri hatırlayamamaları",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uzun süreli belleklerinin hiç olmaması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-018",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi zihin yetersizliği olan bireylerin sergilediği problem davranışların temel işlevlerinden (nedenlerinden) biri değildir?",
+    "options": [
+      {
+        "option_text": "Dikkat çekmek / İlgi elde etmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Nesne veya etkinlik elde etmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "İstemediği bir durumdan kaçmak / kaçınmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Duyusal uyaran elde etmek (kendini rahatlatmak)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Doğuştan gelen kötü huylu olmak",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-019",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bireylerin eğitiminde \"model olma\" stratejisi kullanılırken dikkat edilmesi gereken en önemli nokta nedir?",
+    "options": [
+      {
+        "option_text": "Modelin davranışının çok karmaşık olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Model olunan davranışın açık, net olması ve öğrencinin dikkatinin modele yöneltilmesi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Modelin öğrenciyle konuşmaması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Modelin davranışı gizli yapması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Modelin öğrenciyi cezalandırması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST02-020",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 2",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Hafif düzeyde zihin yetersizliği olan bireyler yetişkinlik döneminde genellikle nasıl bir yaşam sürerler?",
+    "options": [
+      {
+        "option_text": "Tamamen bakıma muhtaçtırlar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınırlı düzeyde destekle, yarı bağımsız veya bağımsız olarak toplumsal yaşama katılabilir ve bir işte çalışabilirler.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Hastanede yaşamak zorundadırlar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hiçbir iş becerisi kazanamazlar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okuma yazma öğrenemezler.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 2"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-001",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir öğretim yönteminde; öğretmen önce hedef davranışı kendisi yaparak gösterir (model olma), sonra öğrenciyle birlikte yapar (rehberli uygulama), en sonunda öğrencinin tek başına yapmasını ister (bağımsız uygulama). Bu süreç hangi öğretim yöntemine aittir?",
+    "options": [
+      {
+        "option_text": "Doğrudan Öğretim",
+        "is_correct": true
+      },
+      {
+        "option_text": "Keşuş yoluyla öğrenme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Buluş yoluyla öğrenme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Proje tabanlı öğrenme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tartışma yöntemi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-002",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan çocukların fiziksel özellikleri ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      {
+        "option_text": "Hepsinin fiziksel görünümü normal gelişim gösterenlerden çok farklıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Özellikle hafif düzeyde olanların fiziksel görünümleri akranlarına benzerdir, ayırt edilmeyebilirler.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Hepsi tekerlekli sandalye kullanır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fiziksel gelişimleri bilişsel gelişimlerinden daha geridedir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Asla spor yapamazlar.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-003",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Fragile X (Kırılgan X) Sendromu ile ilgili aşağıdaki bilgilerden hangisi doğrudur?",
+    "options": [
+      {
+        "option_text": "Sadece kızlarda görülür.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kalıtsal (genetik) nedenli zihin yetersizliğinin en yaygın sebeplerinden biridir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Bir kazadan sonra oluşur.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bulaşıcı bir hastalıktır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tedavisi tamamen mümkündür.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bireylerin eğitiminde \"İpuçlarının Silikleştirilmesi\" ne anlama gelir?",
+    "options": [
+      {
+        "option_text": "İpucunun aniden kesilmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenci beceriyi kazandıkça sunulan yardımın (ipucunun) sistematik olarak azaltılması",
+        "is_correct": true
+      },
+      {
+        "option_text": "İpucunun şiddetinin artırılması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenciye hiç ipucu verilmemesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin cezalandırılması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-005",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Okul öncesi dönemde (0-6 yaş) zihin yetersizliği olan çocuklara yönelik sunulan eğitim hizmetlerine ne ad verilir?",
+    "options": [
+      {
+        "option_text": "Yükseköğretim",
+        "is_correct": false
+      },
+      {
+        "option_text": "Erken Çocukluk Özel Eğitimi / Erken Müdahale",
+        "is_correct": true
+      },
+      {
+        "option_text": "Mesleki Eğitim",
+        "is_correct": false
+      },
+      {
+        "option_text": "Halk Eğitim",
+        "is_correct": false
+      },
+      {
+        "option_text": "Açık Öğretim",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-006",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bir öğrenci, matematik dersinde \"tane hesabı\" yapmayı öğrenmiştir (örn. 3 elma). Ancak pazarda \"3 kilo elma\" dendiğinde bunu anlamamaktadır. Bu durum öğrencinin hangi beceride sorun yaşadığını gösterir?",
+    "options": [
+      {
+        "option_text": "Ezberleme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okuma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kavramı Genelleme ve Transfer Etme",
+        "is_correct": true
+      },
+      {
+        "option_text": "Yazma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Toplama",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-007",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bireylerin toplumsal kabulünü artırmak için aşağıdakilerden hangisi yapılmamalıdır?",
+    "options": [
+      {
+        "option_text": "Onlara acıyarak yaklaşmak ve her işlerini yapmak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Bağımsızlıklarını desteklemek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Toplumsal etkinliklere katılımlarını sağlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Haklarına saygı duymak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yeteneklerine odaklanmak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-008",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "573 Sayılı KHK'ya göre, özel eğitim gerektiren bireylerin eğitsel değerlendirilmesi, tanılanması ve yerleştirilmesi ile ilgili kararların periyodik olarak gözden geçirilmesi esastır. Bu gözden geçirme işlemi genellikle ne sıklıkla yapılır?",
+    "options": [
+      {
+        "option_text": "10 yılda bir",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece ilkokul bitince",
+        "is_correct": false
+      },
+      {
+        "option_text": "Her yıl (yıllık)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Hiç yapılmaz",
+        "is_correct": false
+      },
+      {
+        "option_text": "Her ay",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-009",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "\"Gelişimsel Gerilik\" terimi genellikle hangi yaş grubu için kullanılır?",
+    "options": [
+      {
+        "option_text": "18 yaş üstü",
+        "is_correct": false
+      },
+      {
+        "option_text": "0-8 yaş (özellikle okul öncesi dönem)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sadece ergenlik dönemi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yaşlılık dönemi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece lise dönemi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-010",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bir çocuğa \"kırmızı\" rengi öğretilirken, masada sadece kırmızı kartın bulunması, diğer renklerin (çeldiricilerin) olmaması hangi öğretimsel uyarlamaya örnektir?",
+    "options": [
+      {
+        "option_text": "Pekiştirme",
+        "is_correct": false
+      },
+      {
+        "option_text": "İpucu verme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uyaran kontrolü / Ayırt edici uyaranı belirginleştirme",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ceza",
+        "is_correct": false
+      },
+      {
+        "option_text": "Genelleme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-011",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bireylerin eğitiminde kullanılan pekiştireçlerin etkili olabilmesi için en önemli kural nedir?",
+    "options": [
+      {
+        "option_text": "Pekiştirecin pahalı olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Pekiştirecin davranıştan hemen sonra (anında) sunulması",
+        "is_correct": true
+      },
+      {
+        "option_text": "Pekiştirecin sadece yıl sonunda verilmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Pekiştirecin herkese aynı verilmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Pekiştirecin rastgele verilmesi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-012",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bireylerde görülen \"Pika\" davranışı nedir?",
+    "options": [
+      {
+        "option_text": "Aşırı konuşma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Besin değeri olmayan maddeleri (toprak, kağıt vb.) yeme",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sürekli uyuma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Saldırganlık",
+        "is_correct": false
+      },
+      {
+        "option_text": "İnsanlardan kaçma",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-013",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi zihin yetersizliği olan çocukların oyun becerilerinde görülen özelliklerden biridir?",
+    "options": [
+      {
+        "option_text": "Kurallı oyunları hemen anlarlar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sembolik (–mış gibi) oyun oynama becerileri sınırlıdır veya geç gelişir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Oyun oynamayı sevmezler.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Karmaşık strateji oyunlarını tercih ederler.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Her zaman oyunun lideri olurlar.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-014",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Hidrosefali durumunda beyinde biriken sıvı hangisidir ve neye yol açar?",
+    "options": [
+      {
+        "option_text": "Kan - Beyin kanamasına",
+        "is_correct": false
+      },
+      {
+        "option_text": "Beyin Omurilik Sıvısı (BOS) - Kafa içi basıncın artmasına ve beyin hasarına",
+        "is_correct": true
+      },
+      {
+        "option_text": "Su - Dehidrasyona",
+        "is_correct": false
+      },
+      {
+        "option_text": "İltihap - Enfeksiyona",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yağ - Obeziteye",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-015",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bireylerin yasal haklarının korunması ve savunulması (advocacy) neden önemlidir?",
+    "options": [
+      {
+        "option_text": "Çünkü kendilerini savunmakta ve haklarını aramakta yetersiz kalabilirler.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çünkü yasalar onları kapsamaz.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çünkü aileleri istemez.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çünkü hakları yoktur.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çünkü çok zengindirler.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-016",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir becerinin öğretimi tamamlandıktan sonra, öğretim koşulları ortadan kalktığında da bireyin o beceriyi sergilemeye devam etmesine ne ad verilir?",
+    "options": [
+      {
+        "option_text": "Edinim",
+        "is_correct": false
+      },
+      {
+        "option_text": "Akıcılık",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kalıcılık (Maintenance)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Genelleme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uyarlama",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-017",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan öğrencilerin akranları tarafından dışlanmasını önlemek için öğretmenin yapması gereken en uygun davranış hangisidir?",
+    "options": [
+      {
+        "option_text": "Öğrenciyi sınıftan çıkarmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenciyi en arka sıraya oturtmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıfta farklılıklara saygı ve kabul ortamı oluşturmak, sosyal etkileşimi destekleyici etkinlikler yapmak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğrenciyi sürekli uyarmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenciyi görmezden gelmek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-018",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bireylerin cinsel eğitimi ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      {
+        "option_text": "Cinsel eğitim verilmemelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Cinsel gelişimleri yoktur.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Gelişim düzeylerine uygun olarak, özel ve kamusal alan ayrımı, beden güvenliği gibi konular öğretilmelidir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Cinsel konuları kendiliğinden öğrenirler.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece evlendikleri zaman öğrenmelidirler.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-019",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi zihin yetersizliği olan bireylere yönelik olumsuz bir tutum ifadesidir?",
+    "options": [
+      {
+        "option_text": "Öğrenme hızları farklıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Destekle başarabilirler.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Onlar da toplumun bir parçasıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Onlar ebedi çocuktur, hiç büyümezler.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Bireysel farklılıkları vardır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST03-020",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 3",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bir öğrenci okuma-yazma öğrenmekte çok zorlanıyorsa, öğretmenin yapacağı uyarlama aşağıdakilerden hangisi olabilir?",
+    "options": [
+      {
+        "option_text": "Öğrenciyi okuldan göndermek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenciye sürekli ceza vermek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görsel destekler kullanmak, metinleri basitleştirmek ve daha fazla süre tanımak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğrenciye hiç ödev vermemek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenciyi sınıf tekrarına bırakmak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 3"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-001",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "AAIDD’ye göre zihin yetersizliği tanısı için zeka puanı sınırı (kesme noktası) yaklaşık kaçtır?",
+    "options": [
+      {
+        "option_text": "100",
+        "is_correct": false
+      },
+      {
+        "option_text": "90",
+        "is_correct": false
+      },
+      {
+        "option_text": "85",
+        "is_correct": false
+      },
+      {
+        "option_text": "70-75",
+        "is_correct": true
+      },
+      {
+        "option_text": "50",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-002",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliğinin sınıflandırılmasında \"destek düzeyleri\" yaklaşımına göre, bireyin yaşamı boyunca sürekli ve yoğun bir desteğe ihtiyaç duyması durumu hangi düzeyle ifade edilir?",
+    "options": [
+      {
+        "option_text": "Aralıklı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınırlı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yoğun",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yaygın (Pervasive)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Geçici",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-003",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi mikrosefalinin tanımıdır?",
+    "options": [
+      {
+        "option_text": "Baş çevresinin standartlara göre normalden küçük olması",
+        "is_correct": true
+      },
+      {
+        "option_text": "Baş çevresinin normalden büyük olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Beyin omurilik sıvısının artması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Omurganın açık kalması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kasların zayıf olması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bireylerde \"akıcılık\" (fluency) aşamasındaki bir öğretimin amacı nedir?",
+    "options": [
+      {
+        "option_text": "Beceriyi ilk kez doğru yapmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Beceriyi hatasız ve yeterli hızda (seri bir şekilde) yapmak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Beceriyi farklı ortamda yapmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Beceriyi unutmamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Beceriyi hiç yapmamak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-005",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan çocukların eğitiminde \"Somutlaştırma\" neden önemlidir?",
+    "options": [
+      {
+        "option_text": "Çünkü soyut düşünme becerileri sınırlıdır.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çünkü materyal kullanmayı severler.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çünkü öğretmen için daha kolaydır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çünkü sınıflar çok kalabalıktır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çünkü müfredat bunu gerektirir.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-006",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi zihin yetersizliği olan bireylerin toplumsal uyum becerilerini geliştirmeyi hedefleyen bir etkinliktir?",
+    "options": [
+      {
+        "option_text": "Sınıfta tek başına test çözmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Markete gidip alışveriş yapmak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Televizyon izlemek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uyumak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ezber yapmak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-007",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bireylerin mesleki eğitimi ve istihdamı ile ilgili \"Korumalı İşyeri\" ne demektir?",
+    "options": [
+      {
+        "option_text": "Sadece engelli bireylerin çalıştığı, özel düzenlemelerin yapıldığı işyerleri",
+        "is_correct": true
+      },
+      {
+        "option_text": "Normal fabrikalar",
+        "is_correct": false
+      },
+      {
+        "option_text": "Devlet daireleri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Evde oturmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okul kantini",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-008",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "BEP (Bireyselleştirilmiş Eğitim Programı) hazırlama ekibinde aşağıdakilerden hangisinin bulunması zorunlu değildir?",
+    "options": [
+      {
+        "option_text": "Sınıf öğretmeni",
+        "is_correct": false
+      },
+      {
+        "option_text": "Aile",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rehber öğretmen",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okul müdürü veya yardımcısı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okul aile birliği başkanı",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-009",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bir çocuğun konuşurken \"ben\" yerine kendi ismini kullanması (örn. \"Ayşe su istiyor\") dil gelişiminin hangi dönemiyle ilişkilendirilebilir?",
+    "options": [
+      {
+        "option_text": "Babıldama",
+        "is_correct": false
+      },
+      {
+        "option_text": "Telgrafik konuşma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Üçüncü şahıs ağzından konuşma (Benmerkezci dönem özelliği)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ekolali",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kekemelik",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-010",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bireylerin eğitiminde \"Ayrımlı Pekiştirme\" (Differential Reinforcement) ne amaçla kullanılır?",
+    "options": [
+      {
+        "option_text": "Her davranışı pekiştirmek için",
+        "is_correct": false
+      },
+      {
+        "option_text": "İstenmeyen davranışları azaltmak, istenen davranışları artırmak için",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sadece ceza vermek için",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğretimi sonlandırmak için",
+        "is_correct": false
+      },
+      {
+        "option_text": "Aileyi eğitmek için",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-011",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi zihin yetersizliği olan bireylerde görülen duygusal özelliklerden biridir?",
+    "options": [
+      {
+        "option_text": "Duygularını ifade etmede ve kontrol etmede güçlük yaşama",
+        "is_correct": true
+      },
+      {
+        "option_text": "Hiçbir şeye üzülmeme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sürekli mutlu olma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Duygusal tepkilerinin her zaman duruma uygun olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Empati becerisinin çok yüksek olması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-012",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Öğretmen, zihin yetersizliği olan öğrencisine bir beceriyi öğretirken fiziksel yardım sunmuş, daha sonra bu yardımı azaltarak sadece sözel ipucuna dönüştürmüştür. Bu sürece ne ad verilir?",
+    "options": [
+      {
+        "option_text": "İpucunun geri çekilmesi / Silikleştirme",
+        "is_correct": true
+      },
+      {
+        "option_text": "İpucu sunma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Model olma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Şekillendirme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Zincirleme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-013",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan çocukların erken tanılanmasında ailenin rolü nedir?",
+    "options": [
+      {
+        "option_text": "Önemsizdir, doktorlar anlar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun gelişimindeki farklılıkları ilk fark eden ve sağlık kuruluşlarına başvuran genellikle ailedir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Aile tanı koyar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Aile tedaviyi yapar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Aile çocuğu saklar.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-014",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi zihin yetersizliği olan bireylerin bağımsız yaşam becerilerini destekleyen teknolojik bir araç olabilir?",
+    "options": [
+      {
+        "option_text": "Sadece oyun oynanan tablet",
+        "is_correct": false
+      },
+      {
+        "option_text": "Resimli ve sesli iletişim cihazları veya günlük planlayıcı uygulamalar",
+        "is_correct": true
+      },
+      {
+        "option_text": "Hesap makinesi (karmaşık işlemler için)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Televizyon",
+        "is_correct": false
+      },
+      {
+        "option_text": "MP3 çalar",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-015",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "\"Özel Öğrenme Güçlüğü\" (Disleksi vb.) ile \"Zihin Yetersizliği\" arasındaki temel fark nedir?",
+    "options": [
+      {
+        "option_text": "Fark yoktur, aynıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Özel öğrenme güçlüğünde zeka normal veya normalin üzerindedir; zihin yetersizliğinde ise zeka puanı 70'in altındadır.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Özel öğrenme güçlüğü daha ağırdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Zihin yetersizliği ilaçla geçer.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Özel öğrenme güçlüğü bedensel bir engeldir.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-016",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bireylerin eğitiminde \"Genelleme\" sorununu aşmak için, öğretilen becerinin öğretim oturumları dışında, doğal ortamlarda ve zamanlarda da çalışılmasına ne ad verilir?",
+    "options": [
+      {
+        "option_text": "Fırsat Öğretimi / Doğal Öğretim",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ayrık Denemelerle Öğretim",
+        "is_correct": false
+      },
+      {
+        "option_text": "Doğrudan Öğretim",
+        "is_correct": false
+      },
+      {
+        "option_text": "Geleneksel Öğretim",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yapılandırılmış Öğretim",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-017",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan öğrencilerin derse aktif katılımını sağlamak için öğretmenin yapması gereken davranış hangisidir?",
+    "options": [
+      {
+        "option_text": "Sadece anlatım yöntemini kullanmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenciye soru sormamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin seviyesine uygun sorular sormak ve başarıyı pekiştirmek",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğrenciyi tahtaya kaldırmamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenciye zor görevler vermek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-018",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi zihin yetersizliği olan bireylerin serbest zaman becerilerini geliştirmeyi amaçlar?",
+    "options": [
+      {
+        "option_text": "Matematik problemi çözmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hobi edinmek, spor veya sanatla uğraşmak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Evi temizlemek",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşe gitmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uyku uyumak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-019",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bireylerin yasal ehliyeti (fiil ehliyeti) ile ilgili durum nasıldır?",
+    "options": [
+      {
+        "option_text": "Tam ehliyetlidirler.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hiçbir hakları yoktur.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yetersizliğin derecesine göre kısıtlanabilirler ve kendilerine vasi atanabilir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sadece oy kullanabilirler.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Evlenemezler.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST04-020",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 4",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Öğretmen, zihin yetersizliği olan öğrencisinin sınıfta sürekli ayağa kalkmasını engellemek için, öğrenci 5 dakika boyunca yerinde oturduğunda ona bir yıldız vermektedir. Bu yöntem nedir?",
+    "options": [
+      {
+        "option_text": "Sönme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ceza",
+        "is_correct": false
+      },
+      {
+        "option_text": "Olumlu Pekiştirme",
+        "is_correct": true
+      },
+      {
+        "option_text": "Mola",
+        "is_correct": false
+      },
+      {
+        "option_text": "Şekillendirme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 4"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-001",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bireylerin eğitiminde \"Görev Analizi\" (Task Analysis) yapılırken aşağıdakilerden hangisi dikkate alınmaz?",
+    "options": [
+      {
+        "option_text": "Becerinin işlem basamakları",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin sahip olduğu ön koşul beceriler",
+        "is_correct": false
+      },
+      {
+        "option_text": "Becerinin karmaşıklığı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin ekonomik durumu",
+        "is_correct": true
+      },
+      {
+        "option_text": "Becerinin öğretileceği ortam",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-002",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "\"Eş Zamanlı İpucuyla Öğretim\" yönteminde, deneme oturumlarında ipucu ne zaman sunulur?",
+    "options": [
+      {
+        "option_text": "Öğrenci yanlış cevap verince",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hedef uyaranla (yönergeyle) aynı anda",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğrenci cevap vermeyince",
+        "is_correct": false
+      },
+      {
+        "option_text": "5 saniye sonra",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dersin sonunda",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-003",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bireylerin toplum içinde \"etiketlenmesi\" (labelling) ne tür sonuçlar doğurur?",
+    "options": [
+      {
+        "option_text": "Özgüvenlerini artırır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Düşük beklenti oluşmasına ve sosyal dışlanmaya neden olabilir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Eğitimlerini kolaylaştırır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ailelerini mutlu eder.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hiçbir etkisi yoktur.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-004",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bir öğrenciye \"Kırmızı\" rengi öğretilirken, önce \"Kırmızı\" kavramı öğretilir, sonra \"Mavi\" kavramı öğretilir, en sonunda iki renk bir arada sunularak \"Kırmızıyı göster\" denir. Bu son aşama ne öğretimidir?",
+    "options": [
+      {
+        "option_text": "Eşleme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ayırt Etme",
+        "is_correct": true
+      },
+      {
+        "option_text": "Genelleme",
+        "is_correct": false
+      },
+      {
+        "option_text": "İsimlendirme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Taklit",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-005",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Hafif düzeyde zihin yetersizliği olan bireylerin eğitim programlarında ağırlık verilen alan hangisidir?",
+    "options": [
+      {
+        "option_text": "Sadece bakım becerileri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Akademik beceriler (Okuma-yazma, matematik) ve mesleki eğitim",
+        "is_correct": true
+      },
+      {
+        "option_text": "Fizik tedavi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Müzik eğitimi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yabancı dil",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-006",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan çocukların eğitiminde \"bireysel farklılıklar\" neden önemlidir?",
+    "options": [
+      {
+        "option_text": "Çünkü her çocuğun öğrenme hızı, stili ve ilgileri farklıdır.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Önemli değildir, hepsi aynı öğrenir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece yaşları farklıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece fiziksel özellikleri farklıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğretmen zorlanmasın diye.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-007",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bir öğrenci için hazırlanan BEP'te yer alan \"Uzun Dönemli Amaç\" (UD",
+    "options": [
+      {
+        "option_text": "neyi ifade eder?",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bir ders saatinde öğrenilecek davranışı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bir öğretim yılı veya dönemi sonunda öğrencinin kazanması hedeflenen genel davranışı",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğretmenin yapacağı işleri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ailenin beklentilerini",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okulun fiziksel koşullarını",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-008",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi zihin yetersizliği olan bireylerin kendini yönetme (self-determination) becerilerinden biridir?",
+    "options": [
+      {
+        "option_text": "Kendi kıyafetini seçme",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğretmenin dediğini yapma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Annesinin seçtiğini yeme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sessiz durma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Başkalarını izleme",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-009",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bireylerin eğitiminde \"Görsel Çizelgeler\" (Etkinlik Çizelgeleri) kullanmanın temel amacı nedir?",
+    "options": [
+      {
+        "option_text": "Sınıfı süslemek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun resim yapmasını sağlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun bağımsızlığını artırmak ve bir sonraki etkinliği öngörmesini sağlamak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğu oyalamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Aileye bilgi vermek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-010",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bireylerin motor gelişimlerini desteklemek için hangi ders veya etkinlik önemlidir?",
+    "options": [
+      {
+        "option_text": "Matematik",
+        "is_correct": false
+      },
+      {
+        "option_text": "Beden Eğitimi ve Spor",
+        "is_correct": true
+      },
+      {
+        "option_text": "Tarih",
+        "is_correct": false
+      },
+      {
+        "option_text": "Coğrafya",
+        "is_correct": false
+      },
+      {
+        "option_text": "Türkçe",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-011",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir öğretmen, zihin yetersizliği olan öğrencisine toplama işlemini öğretirken, önce gerçek nesnelerle (elma, boncuk), sonra resimlerle, en son rakamlarla çalışma yapmıştır. Bu sıralama hangi ilkeye uygundur?",
+    "options": [
+      {
+        "option_text": "Somuttan soyuta",
+        "is_correct": true
+      },
+      {
+        "option_text": "Basitten karmaşığa",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bilinenden bilinmeyene",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yakından uzağa",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ekonomiklik",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-012",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bireylerde \"sosyal beceri yetersizliği\" en çok hangi alanda soruna yol açar?",
+    "options": [
+      {
+        "option_text": "Yemek yeme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Akran ilişkileri ve arkadaşlık kurma",
+        "is_correct": true
+      },
+      {
+        "option_text": "Yürüme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yazı yazma",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-013",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "\"Tersine Zincirleme\" (Backward Chaining) yönteminde öğretim hangi basamaktan başlar?",
+    "options": [
+      {
+        "option_text": "İlk basamaktan",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ortadaki basamaktan",
+        "is_correct": false
+      },
+      {
+        "option_text": "Becerinin son basamağından",
+        "is_correct": true
+      },
+      {
+        "option_text": "En zor basamaktan",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rastgele bir basamaktan",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-014",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bireylerin eğitiminde \"bilgisayar destekli öğretim\"in faydası nedir?",
+    "options": [
+      {
+        "option_text": "Çocuğun gözlerini bozar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Görsel ve işitsel uyaranları birlikte sunarak dikkati ve motivasyonu artırır.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sosyal etkileşimi tamamen keser.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çok pahalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğretmeni gereksiz kılar.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-015",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi zihin yetersizliği olan bireylerin güvenlik becerileri kapsamında öğrenmesi gereken bir davranıştır?",
+    "options": [
+      {
+        "option_text": "Yabancılarla gitmemek",
+        "is_correct": true
+      },
+      {
+        "option_text": "Hızlı koşmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Şarkı söylemek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Resim yapmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Top oynamak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-016",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bir bireyin, bir mağazada kasiyere para verip para üstünü beklemesi hangi uyumsal beceri alanına girer?",
+    "options": [
+      {
+        "option_text": "Öz bakım",
+        "is_correct": false
+      },
+      {
+        "option_text": "Toplumsal kaynakları kullanma / İşlevsel akademik",
+        "is_correct": true
+      },
+      {
+        "option_text": "İletişim",
+        "is_correct": false
+      },
+      {
+        "option_text": "Motor beceri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ev yaşamı",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-017",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan öğrencilerin değerlendirilmesinde \"Portfolyo\" (Ürün Dosyası) kullanımı neyi sağlar?",
+    "options": [
+      {
+        "option_text": "Öğrencinin gelişimini süreç içinde ve bütüncül olarak görmeyi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sadece sınav notunu öğrenmeyi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenciyi diğerleriyle kıyaslamayı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dosya masrafı çıkarmayı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğretmeni denetlemeyi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-018",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "\"Williams Sendromu\" olan bireylerin belirgin özelliği nedir?",
+    "options": [
+      {
+        "option_text": "Aşırı içe kapanıklık",
+        "is_correct": false
+      },
+      {
+        "option_text": "Aşırı sosyal, konuşkan ve müzik yeteneğine sahip olma (\"Kokteyl parti kişiliği\")",
+        "is_correct": true
+      },
+      {
+        "option_text": "Hiç konuşamama",
+        "is_correct": false
+      },
+      {
+        "option_text": "Saldırganlık",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bedensel engel",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-019",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bireylerin eğitiminde \"Drama\" yönteminin katkısı nedir?",
+    "options": [
+      {
+        "option_text": "Sadece eğlenmelerini sağlar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sosyal becerileri, duyguları ifade etmeyi ve empatiyi yaşayarak öğrenmelerini sağlar.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ezber yeteneklerini geliştirir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Matematik öğretir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Zaman geçirir.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  },
+  {
+    "question_id": "Q-TEST05-020",
+    "category": "Zihin Yetersizliği",
+    "subject": "Alan Bilgisi",
+    "topic": "Deneme Sınavı Test 5",
+    "sub_topic": "",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Zihin yetersizliği olan bir öğrenci, öğrendiği \"merhaba\" deme becerisini sadece öğretmenine değil, okul müdürüne, kantinciye ve servisteki şoföre de söylüyorsa, bu durum neyin gerçekleştiğini gösterir?",
+    "options": [
+      {
+        "option_text": "Ayırt etme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Genelleme (Kişiler arası genelleme)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Unutma",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yanlış öğrenme",
+        "is_correct": false
+      },
+      {
+        "option_text": "Taklit",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Zihin Yetersizliği Deneme Sınavı",
+      "page_number": null,
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "Zihin Yetersizliği",
+        "Test 5"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": null
+  }
+]
