@@ -1,6 +1,7 @@
 package routes
 
 import (
+	"backend/internal/database"
 	"backend/internal/handlers"
 	"backend/internal/middleware"
 	"fmt"
@@ -24,7 +25,10 @@ func RegisterRoutes() *http.ServeMux {
 	}
 
 	mux.HandleFunc("/", wrap(func(w http.ResponseWriter, r *http.Request) {
-		fmt.Fprintf(w, "OABT Backend Running (UUID v7)")
+		var testCount, questionCount int
+		database.DB.QueryRow("SELECT COUNT(*) FROM tests").Scan(&testCount)
+		database.DB.QueryRow("SELECT COUNT(*) FROM questions").Scan(&questionCount)
+		fmt.Fprintf(w, "OABT Backend Running (UUID v7)\nDatabase Stats:\n- Total Tests: %d\n- Total Questions: %d\n\nTo perform a fresh sync, visit /api/v1/debug/sync-public?clean=true", testCount, questionCount)
 	}))
 
 	mux.HandleFunc("/register", wrap(handlers.RegisterHandler))
@@ -55,6 +59,7 @@ func RegisterRoutes() *http.ServeMux {
 	}))))
 	mux.HandleFunc("/api/v1/admin/sync", wrap(middleware.AuthMiddleware(middleware.RequireAdmin(handlers.SyncQuestionsHandler))))
 	mux.HandleFunc("/api/v1/debug/db-stats", wrap(handlers.DBStatsHandler))
+	mux.HandleFunc("/api/v1/debug/sync-public", wrap(handlers.SyncQuestionsHandler))
 
 	return mux
 }
