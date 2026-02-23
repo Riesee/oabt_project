@@ -46,7 +46,9 @@ func SeedData() {
 				continue
 			}
 
-			questionsPerTest := 100
+			fmt.Printf("File %s: Found %d questions in JSON\n", file.Name(), len(fileQuestions))
+
+			questionsPerTest := 20
 			currentTestID := ""
 			newQuestionsInFile := 0
 			for _, q := range fileQuestions {
@@ -63,22 +65,16 @@ func SeedData() {
 					continue
 				}
 
-				// Switch to a new test ID every 100 NEW questions, or if we don't have one yet
+				// Switch to a new test ID every 20 questions
 				if currentTestID == "" || newQuestionsInFile%questionsPerTest == 0 {
 					var category string
-					// Clean filename for the category
 					fname := file.Name()
 					nameWithoutExt := strings.TrimSuffix(fname, filepath.Ext(fname))
-					// Remove common suffixes to get a clean category name
-					cleanName := nameWithoutExt
-					cleanName = strings.ReplaceAll(cleanName, " öabt sorular", "")
+					cleanName := strings.ReplaceAll(nameWithoutExt, " öabt sorular", "")
 					cleanName = strings.ReplaceAll(cleanName, " ÖABT sorular", "")
 					cleanName = strings.ReplaceAll(cleanName, " sorular", "")
-
-					// ALWAYS use the filename as the primary category for tests to separate files
 					category = strings.Title(strings.TrimSpace(cleanName))
 
-					// Determine test number based on ne kadar yeni soru ekledik
 					testNum := (newQuestionsInFile / questionsPerTest) + 1
 					testTitle := fmt.Sprintf("%s - Deneme %d", category, testNum)
 
@@ -91,7 +87,6 @@ func SeedData() {
 							testID, testTitle, "ÖABT "+category+" Alan Bilgisi")
 						if err != nil {
 							log.Printf("Error creating test %s: %v", testTitle, err)
-							// Double check if it was created by another process/turn
 							_ = DB.QueryRow("SELECT id FROM tests WHERE title = $1", testTitle).Scan(&testID)
 						}
 					}
