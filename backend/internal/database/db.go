@@ -87,6 +87,17 @@ func CreateTables() {
             image_url TEXT,
             related_concept_id TEXT
         )`,
+		`ALTER TABLE questions ADD COLUMN IF NOT EXISTS question_id TEXT`,
+		`ALTER TABLE questions ADD COLUMN IF NOT EXISTS category TEXT`,
+		`ALTER TABLE questions ADD COLUMN IF NOT EXISTS subject TEXT`,
+		`ALTER TABLE questions ADD COLUMN IF NOT EXISTS topic TEXT`,
+		`ALTER TABLE questions ADD COLUMN IF NOT EXISTS sub_topic TEXT`,
+		`ALTER TABLE questions ADD COLUMN IF NOT EXISTS difficulty TEXT`,
+		`ALTER TABLE questions ADD COLUMN IF NOT EXISTS skill_level TEXT`,
+		`ALTER TABLE questions ADD COLUMN IF NOT EXISTS solution JSONB`,
+		`ALTER TABLE questions ADD COLUMN IF NOT EXISTS metadata JSONB`,
+		`ALTER TABLE questions ADD COLUMN IF NOT EXISTS image_url TEXT`,
+		`ALTER TABLE questions ADD COLUMN IF NOT EXISTS related_concept_id TEXT`,
 		`CREATE TABLE IF NOT EXISTS test_results (
 			id UUID PRIMARY KEY,
 			user_id UUID REFERENCES users(id),
