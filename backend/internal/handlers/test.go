@@ -4,6 +4,7 @@ import (
 	"backend/internal/database"
 	"backend/internal/middleware"
 	"backend/internal/models"
+	"database/sql"
 	"encoding/json"
 	"log"
 	"net/http"
@@ -15,7 +16,20 @@ import (
 
 func GetTestsHandler(w http.ResponseWriter, r *http.Request) {
 	middleware.EnableCors(&w)
-	rows, err := database.DB.Query("SELECT id, title, description FROM tests ORDER BY title")
+	userID := r.URL.Query().Get("userId")
+
+	var rows *sql.Rows
+	var err error
+
+	if userID != "" {
+		rows, err = database.DB.Query(`
+			SELECT t.id, t.title, t.description, 
+			EXISTS(SELECT 1 FROM test_results r WHERE r.test_id = t.id AND r.user_id = $1) as completed
+			FROM tests t ORDER BY t.title`, userID)
+	} else {
+		rows, err = database.DB.Query("SELECT id, title, description, false as completed FROM tests ORDER BY title")
+	}
+
 	if err != nil {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
 		return
@@ -25,7 +39,7 @@ func GetTestsHandler(w http.ResponseWriter, r *http.Request) {
 	tests := []models.Test{}
 	for rows.Next() {
 		var t models.Test
-		rows.Scan(&t.ID, &t.Title, &t.Description)
+		rows.Scan(&t.ID, &t.Title, &t.Description, &t.Completed)
 		tests = append(tests, t)
 	}
 	json.NewEncoder(w).Encode(tests)

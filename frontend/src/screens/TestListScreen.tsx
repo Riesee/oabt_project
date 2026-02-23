@@ -1,10 +1,11 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useCallback } from 'react';
 import { View, Text, StyleSheet, FlatList, TouchableOpacity, ActivityIndicator, Platform } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import AdBanner from '../components/AdBanner';
 import RewardedAdButton from '../components/RewardedAdButton';
+import { useFocusEffect } from '@react-navigation/native';
 
 const COLORS = {
     primary: '#FF6B6B',
@@ -13,6 +14,8 @@ const COLORS = {
     background: '#F7F9FC',
     text: '#2C3E50',
     white: '#FFFFFF',
+    success: '#27AE60',
+    successLight: '#E8F5E9',
 };
 
 import { API_URL } from '../config';
@@ -23,25 +26,21 @@ export default function TestListScreen({ navigation }: any) {
     const [isPremium, setIsPremium] = useState(false);
     const [userTokens, setUserTokens] = useState(0);
 
-    useEffect(() => {
-        const fetchTests = async () => {
-            try {
-                const baseUrl = API_URL;
-
-                const res = await fetch(`${baseUrl}/tests`);
-                if (res.ok) {
-                    const data = await res.json();
-                    setTests(Array.isArray(data) ? data : []);
-                }
-            } catch (e) {
-                console.error(e);
-            } finally {
-                setLoading(false);
+    const fetchTests = async () => {
+        try {
+            const baseUrl = API_URL;
+            const userId = await AsyncStorage.getItem('USER_ID');
+            const res = await fetch(`${baseUrl}/tests?userId=${userId || ''}`);
+            if (res.ok) {
+                const data = await res.json();
+                setTests(Array.isArray(data) ? data : []);
             }
-        };
-        fetchTests();
-        fetchUserData();
-    }, []);
+        } catch (e) {
+            console.error(e);
+        } finally {
+            setLoading(false);
+        }
+    };
 
     const fetchUserData = async () => {
         try {
@@ -62,29 +61,57 @@ export default function TestListScreen({ navigation }: any) {
         }
     };
 
+    useFocusEffect(
+        useCallback(() => {
+            fetchTests();
+            fetchUserData();
+        }, [])
+    );
+
     const handleTestPress = (test: any) => {
         navigation.navigate('TestScreen', { testId: test.id, testTitle: test.title });
     };
 
-    const renderItem = ({ item, index }: any) => (
-        <TouchableOpacity
-            style={styles.testCard}
-            onPress={() => handleTestPress(item)}
-        >
-            <View style={[styles.iconBox, { backgroundColor: index % 2 === 0 ? '#E8F6F3' : '#FFF5F5' }]}>
+    const renderItem = ({ item, index }: any) => {
+        const isCompleted = item.completed;
+
+        return (
+            <TouchableOpacity
+                style={[
+                    styles.testCard,
+                    isCompleted && styles.testCardCompleted
+                ]}
+                onPress={() => handleTestPress(item)}
+            >
+                <View style={[
+                    styles.iconBox,
+                    { backgroundColor: isCompleted ? '#C8E6C9' : (index % 2 === 0 ? '#E8F6F3' : '#FFF5F5') }
+                ]}>
+                    <Ionicons
+                        name={isCompleted ? "checkmark-circle" : "document-text"}
+                        size={24}
+                        color={isCompleted ? COLORS.success : (index % 2 === 0 ? COLORS.secondary : COLORS.primary)}
+                    />
+                </View>
+                <View style={styles.testInfo}>
+                    <Text style={styles.testTitle}>{item.title}</Text>
+                    <View style={styles.descRow}>
+                        <Text style={styles.testDesc}>{item.description || '20 Soru • Alan Bilgisi'}</Text>
+                        {isCompleted && (
+                            <View style={styles.completedBadge}>
+                                <Text style={styles.completedText}>Çözüldü</Text>
+                            </View>
+                        )}
+                    </View>
+                </View>
                 <Ionicons
-                    name="document-text"
+                    name={isCompleted ? "checkmark-done" : "chevron-forward"}
                     size={24}
-                    color={index % 2 === 0 ? COLORS.secondary : COLORS.primary}
+                    color={isCompleted ? COLORS.success : "#BDC3C7"}
                 />
-            </View>
-            <View style={styles.testInfo}>
-                <Text style={styles.testTitle}>{item.title}</Text>
-                <Text style={styles.testDesc}>{item.description || '20 Soru • Genel Yetenek'}</Text>
-            </View>
-            <Ionicons name="chevron-forward" size={24} color="#BDC3C7" />
-        </TouchableOpacity>
-    );
+            </TouchableOpacity>
+        );
+    };
 
     return (
         <SafeAreaView style={styles.container}>
@@ -178,6 +205,12 @@ const styles = StyleSheet.create({
         shadowOpacity: 0.05,
         shadowRadius: 5,
         elevation: 2,
+        borderWidth: 1,
+        borderColor: 'transparent',
+    },
+    testCardCompleted: {
+        backgroundColor: COLORS.successLight,
+        borderColor: '#C8E6C9',
     },
     iconBox: {
         width: 50,
@@ -196,9 +229,25 @@ const styles = StyleSheet.create({
         color: COLORS.text,
         marginBottom: 4,
     },
+    descRow: {
+        flexDirection: 'row',
+        alignItems: 'center',
+        gap: 8,
+    },
     testDesc: {
         fontSize: 12,
         color: '#7F8C8D',
+    },
+    completedBadge: {
+        backgroundColor: COLORS.success,
+        paddingHorizontal: 8,
+        paddingVertical: 2,
+        borderRadius: 10,
+    },
+    completedText: {
+        fontSize: 10,
+        color: COLORS.white,
+        fontWeight: 'bold',
     },
     emptyText: {
         textAlign: 'center',
