@@ -10,6 +10,7 @@ import (
 
 // Build Version: 1.0.2
 func main() {
+	fmt.Println("DEBUG: Backend starting... v1.0.3")
 	// Initialize Database
 	database.InitDB()
 	defer database.DB.Close()
