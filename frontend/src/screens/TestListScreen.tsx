@@ -21,7 +21,7 @@ const COLORS = {
 import { API_URL } from '../config';
 
 export default function TestListScreen({ navigation }: any) {
-    const [categories, setCategories] = useState<string[]>([]);
+    const [categories, setCategories] = useState<any[]>([]);
     const [tests, setTests] = useState<any[]>([]);
     const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
     const [loading, setLoading] = useState(true);
@@ -31,7 +31,8 @@ export default function TestListScreen({ navigation }: any) {
     const fetchCategories = async () => {
         try {
             setLoading(true);
-            const res = await fetch(`${API_URL}/tests/categories`);
+            const userId = await AsyncStorage.getItem('USER_ID');
+            const res = await fetch(`${API_URL}/tests/categories?userId=${userId || ''}`);
             if (res.ok) {
                 const data = await res.json();
                 setCategories(Array.isArray(data) ? data : []);
@@ -93,29 +94,50 @@ export default function TestListScreen({ navigation }: any) {
         navigation.navigate('TestScreen', { testId: test.id, testTitle: test.title });
     };
 
-    const handleCategoryPress = (category: string) => {
-        setSelectedCategory(category);
+    const handleCategoryPress = (category: any) => {
+        setSelectedCategory(category.name || category);
     };
 
-    const renderCategoryItem = ({ item, index }: any) => (
-        <TouchableOpacity
-            style={styles.testCard}
-            onPress={() => handleCategoryPress(item)}
-        >
-            <View style={[styles.iconBox, { backgroundColor: index % 2 === 0 ? '#E8F6F3' : '#FFF5F5' }]}>
+    const renderCategoryItem = ({ item, index }: any) => {
+        const isAllRead = item.completedTests !== undefined && item.completedTests === item.totalTests && item.totalTests > 0;
+
+        return (
+            <TouchableOpacity
+                style={[
+                    styles.testCard,
+                    isAllRead && styles.testCardCompleted
+                ]}
+                onPress={() => handleCategoryPress(item)}
+            >
+                <View style={[
+                    styles.iconBox,
+                    { backgroundColor: isAllRead ? '#C8E6C9' : (index % 2 === 0 ? '#E8F6F3' : '#FFF5F5') }
+                ]}>
+                    <Ionicons
+                        name={isAllRead ? "checkmark-circle" : "folder-open"}
+                        size={24}
+                        color={isAllRead ? COLORS.success : (index % 2 === 0 ? COLORS.secondary : COLORS.primary)}
+                    />
+                </View>
+                <View style={styles.testInfo}>
+                    <Text style={styles.testTitle}>{item.name || item}</Text>
+                    <View style={styles.descRow}>
+                        <Text style={styles.testDesc}>Alan Bilgisi Denemeleri</Text>
+                        {item.completedTests !== undefined && (
+                            <View style={isAllRead ? styles.completedBadge : styles.progressBadge}>
+                                <Text style={isAllRead ? styles.completedText : styles.progressText}>{item.completedTests}/{item.totalTests} Okundu</Text>
+                            </View>
+                        )}
+                    </View>
+                </View>
                 <Ionicons
-                    name="folder-open"
+                    name={isAllRead ? "checkmark-done" : "chevron-forward"}
                     size={24}
-                    color={index % 2 === 0 ? COLORS.secondary : COLORS.primary}
+                    color={isAllRead ? COLORS.success : "#BDC3C7"}
                 />
-            </View>
-            <View style={styles.testInfo}>
-                <Text style={styles.testTitle}>{item}</Text>
-                <Text style={styles.testDesc}>Alan Bilgisi Denemeleri</Text>
-            </View>
-            <Ionicons name="chevron-forward" size={24} color="#BDC3C7" />
-        </TouchableOpacity>
-    );
+            </TouchableOpacity>
+        );
+    };
 
     const renderTestItem = ({ item, index }: any) => {
         const isCompleted = item.completed;
@@ -144,7 +166,7 @@ export default function TestListScreen({ navigation }: any) {
                         <Text style={styles.testDesc}>{item.description || '20 Soru • Alan Bilgisi'}</Text>
                         {isCompleted && (
                             <View style={styles.completedBadge}>
-                                <Text style={styles.completedText}>Çözüldü</Text>
+                                <Text style={styles.completedText}>Okundu</Text>
                             </View>
                         )}
                     </View>
@@ -297,6 +319,17 @@ const styles = StyleSheet.create({
     completedText: {
         fontSize: 10,
         color: COLORS.white,
+        fontWeight: 'bold',
+    },
+    progressBadge: {
+        backgroundColor: '#F0F2F5',
+        paddingHorizontal: 8,
+        paddingVertical: 2,
+        borderRadius: 10,
+    },
+    progressText: {
+        fontSize: 10,
+        color: '#7F8C8D',
         fontWeight: 'bold',
     },
     emptyText: {
