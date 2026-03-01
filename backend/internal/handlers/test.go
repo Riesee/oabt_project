@@ -49,37 +49,17 @@ func GetTestsHandler(w http.ResponseWriter, r *http.Request) {
 
 func GetCategoriesHandler(w http.ResponseWriter, r *http.Request) {
 	middleware.EnableCors(&w)
-	userID := r.URL.Query().Get("userId")
-
-	query := `
-		SELECT 
-			t.category as name,
-			COUNT(DISTINCT t.id) as total_tests,
-			COUNT(DISTINCT tr.test_id) as completed_tests
-		FROM tests t
-		LEFT JOIN test_results tr ON tr.test_id = t.id AND tr.user_id = $1
-		WHERE t.category IS NOT NULL AND t.category != ''
-		GROUP BY t.category
-		ORDER BY t.category
-	`
-
-	rows, err := database.DB.Query(query, userID)
+	rows, err := database.DB.Query("SELECT DISTINCT category FROM tests WHERE category IS NOT NULL AND category != '' ORDER BY category")
 	if err != nil {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
 		return
 	}
 	defer rows.Close()
 
-	type CategoryStat struct {
-		Name           string `json:"name"`
-		TotalTests     int    `json:"totalTests"`
-		CompletedTests int    `json:"completedTests"`
-	}
-
-	categories := []CategoryStat{}
+	categories := []string{}
 	for rows.Next() {
-		var c CategoryStat
-		rows.Scan(&c.Name, &c.TotalTests, &c.CompletedTests)
+		var c string
+		rows.Scan(&c)
 		categories = append(categories, c)
 	}
 	json.NewEncoder(w).Encode(categories)
