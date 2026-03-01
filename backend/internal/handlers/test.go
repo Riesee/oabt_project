@@ -192,16 +192,21 @@ func SubmitTestHandler(w http.ResponseWriter, r *http.Request) {
 	}
 	var res models.TestResult
 	if err := json.NewDecoder(r.Body).Decode(&res); err != nil {
+		log.Printf("SubmitTest: JSON decode error: %v", err)
 		http.Error(w, err.Error(), http.StatusBadRequest)
 		return
 	}
 
 	// Use authenticated UserID
 	res.UserID, _ = r.Context().Value("userID").(string)
+	log.Printf("SubmitTest: UserID from context: %s", res.UserID)
 	if res.UserID == "" {
+		log.Printf("SubmitTest: No userID in context, unauthorized")
 		http.Error(w, "Unauthorized", http.StatusUnauthorized)
 		return
 	}
+
+	log.Printf("SubmitTest: User %s submitting test %s with score %d", res.UserID, res.TestID, res.Score)
 
 	var existingScore int
 	err := database.DB.QueryRow("SELECT score FROM test_results WHERE user_id=$1 AND test_id=$2", res.UserID, res.TestID).Scan(&existingScore)
@@ -210,13 +215,20 @@ func SubmitTestHandler(w http.ResponseWriter, r *http.Request) {
 	resultID, _ := uuid.NewV7()
 
 	if alreadyTaken {
-		_, _ = database.DB.Exec("INSERT INTO test_results (id, user_id, test_id, score, completed_at) VALUES ($1, $2, $3, $4, NOW())",
+		log.Printf("SubmitTest: User %s retaking test %s", res.UserID, res.TestID)
+		_, err = database.DB.Exec("INSERT INTO test_results (id, user_id, test_id, score, completed_at) VALUES ($1, $2, $3, $4, NOW())",
 			resultID.String(), res.UserID, res.TestID, res.Score)
-		// No total_score increase for retakes (or maybe half? let's keep it 0 for now)
+		if err != nil {
+			log.Printf("SubmitTest: Error inserting retake result: %v", err)
+		}
 		scoreDiff = 0
 	} else {
-		_, _ = database.DB.Exec("INSERT INTO test_results (id, user_id, test_id, score, completed_at) VALUES ($1, $2, $3, $4, NOW())",
+		log.Printf("SubmitTest: User %s taking test %s for first time", res.UserID, res.TestID)
+		_, err = database.DB.Exec("INSERT INTO test_results (id, user_id, test_id, score, completed_at) VALUES ($1, $2, $3, $4, NOW())",
 			resultID.String(), res.UserID, res.TestID, res.Score)
+		if err != nil {
+			log.Printf("SubmitTest: Error inserting new result: %v", err)
+		}
 		scoreDiff = res.Score
 	}
 

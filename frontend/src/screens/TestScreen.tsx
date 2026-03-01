@@ -210,6 +210,7 @@ export default function TestScreen({ route, navigation }: any) {
     const submitExam = async () => {
         try {
             const token = await AsyncStorage.getItem('AUTH_TOKEN');
+            console.log('Submitting test with token:', token ? 'Token exists' : 'No token'); // Debug
 
             const res = await fetch(`${API_URL}/submit-test`, {
                 method: 'POST',
@@ -223,12 +224,17 @@ export default function TestScreen({ route, navigation }: any) {
                 })
             });
 
+            console.log('Submit test response status:', res.status); // Debug
             if (res.ok) {
                 const data = await res.json();
+                console.log('Submit test response data:', data); // Debug
                 setSubmitResult(data);
                 if (data.leveled_up) {
                     Alert.alert('TEBRİKLER! 🎉', `Seviye Atladın! Yeni Seviyen: ${data.new_level}`);
                 }
+            } else {
+                const errorText = await res.text();
+                console.error('Submit test error:', res.status, errorText); // Debug
             }
         } catch (e) {
             console.error('Error submitting exam:', e);
