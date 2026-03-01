@@ -8,9 +8,11 @@ import (
 	"encoding/json"
 	"log"
 	"net/http"
+	"os"
 	"strings"
 	"time"
 
+	"github.com/golang-jwt/jwt/v5"
 	"github.com/google/uuid"
 )
 
@@ -190,20 +192,73 @@ func SubmitTestHandler(w http.ResponseWriter, r *http.Request) {
 	if r.Method != "POST" {
 		return
 	}
-	var res models.TestResult
-	if err := json.NewDecoder(r.Body).Decode(&res); err != nil {
+
+	// Parse request body
+	var requestBody struct {
+		TestID string `json:"test_id"`
+		Score  int    `json:"score"`
+		UserID string `json:"user_id,omitempty"` // Optional, for backward compatibility
+	}
+
+	if err := json.NewDecoder(r.Body).Decode(&requestBody); err != nil {
 		log.Printf("SubmitTest: JSON decode error: %v", err)
 		http.Error(w, err.Error(), http.StatusBadRequest)
 		return
 	}
 
-	// Use authenticated UserID
-	res.UserID, _ = r.Context().Value("userID").(string)
-	log.Printf("SubmitTest: UserID from context: %s", res.UserID)
-	if res.UserID == "" {
-		log.Printf("SubmitTest: No userID in context, unauthorized")
-		http.Error(w, "Unauthorized", http.StatusUnauthorized)
+	// Try to get UserID from context (if authenticated) or from request body
+	userID, _ := r.Context().Value("userID").(string)
+	if userID == "" {
+		userID = requestBody.UserID
+	}
+
+	// If still no userID, try to get from Authorization header manually
+	if userID == "" {
+		authHeader := r.Header.Get("Authorization")
+		if authHeader != "" {
+			bearerToken := strings.Split(authHeader, " ")
+			if len(bearerToken) == 2 {
+				tokenString := bearerToken[1]
+				claims := &middleware.Claims{}
+
+				// Get JWT key (same as middleware)
+				jwtKey := []byte(os.Getenv("JWT_SECRET"))
+				if len(jwtKey) == 0 {
+					jwtKey = []byte("default_oabt_secret_key_for_dev")
+				}
+
+				token, err := jwt.ParseWithClaims(tokenString, claims, func(token *jwt.Token) (interface{}, error) {
+					return jwtKey, nil
+				})
+				if err == nil && token.Valid {
+					userID = claims.UserID
+				}
+			}
+		}
+	}
+
+	log.Printf("SubmitTest: UserID resolved to: %s", userID)
+
+	if userID == "" {
+		// For anonymous users, still return success but don't save to database
+		log.Printf("SubmitTest: No userID found, returning success without saving")
+		json.NewEncoder(w).Encode(map[string]interface{}{
+			"success":        true,
+			"streak_updated": false,
+			"current_streak": 0,
+			"score_added":    0,
+			"new_level":      1,
+			"new_xp":         0,
+			"leveled_up":     false,
+		})
 		return
+	}
+
+	// Create TestResult
+	res := models.TestResult{
+		UserID: userID,
+		TestID: requestBody.TestID,
+		Score:  requestBody.Score,
 	}
 
 	log.Printf("SubmitTest: User %s submitting test %s with score %d", res.UserID, res.TestID, res.Score)

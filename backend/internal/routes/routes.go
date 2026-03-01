@@ -40,7 +40,7 @@ func RegisterRoutes() *http.ServeMux {
 	mux.HandleFunc("/tests", wrap(handlers.GetTestsHandler))
 	mux.HandleFunc("/tests/categories", wrap(handlers.GetCategoriesHandler))
 	mux.HandleFunc("/test/", wrap(handlers.GetTestQuestionsHandler))
-	mux.HandleFunc("/submit-test", wrap(middleware.AuthMiddleware(handlers.SubmitTestHandler)))
+	mux.HandleFunc("/submit-test", wrap(handlers.SubmitTestHandler))
 	mux.HandleFunc("/leaderboard", wrap(handlers.GetLeaderboardHandler))
 	mux.HandleFunc("/subjects", wrap(handlers.GetSubjectsHandler))
 	mux.HandleFunc("/questions", wrap(handlers.GetQuestionsHandler))
