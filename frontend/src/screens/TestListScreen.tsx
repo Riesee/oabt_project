@@ -38,7 +38,23 @@ export default function TestListScreen({ navigation }: any) {
         try {
             setLoading(true);
             const userId = await AsyncStorage.getItem('USER_ID');
-            const res = await fetch(`${API_URL}/tests/categories?userId=${userId || ''}`);
+            
+            if (!userId) {
+                const res = await fetch(`${API_URL}/tests/categories`);
+                if (res.ok) {
+                    const data = await res.json();
+                    // Convert string array to CategoryProgress array
+                    const categoryProgress = data.map((category: string) => ({
+                        category,
+                        total_tests: 0,
+                        completed_tests: 0
+                    }));
+                    setCategories(categoryProgress);
+                }
+                return;
+            }
+            
+            const res = await fetch(`${API_URL}/tests/categories?userId=${userId}`);
             if (res.ok) {
                 const data = await res.json();
                 setCategories(Array.isArray(data) ? data : []);

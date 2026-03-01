@@ -4,6 +4,7 @@ import (
 	"backend/internal/database"
 	"backend/internal/handlers"
 	"backend/internal/middleware"
+	"encoding/json"
 	"fmt"
 	"net/http"
 )
@@ -60,6 +61,38 @@ func RegisterRoutes() *http.ServeMux {
 	}))))
 	mux.HandleFunc("/api/v1/admin/sync", wrap(middleware.AuthMiddleware(middleware.RequireAdmin(handlers.SyncQuestionsHandler))))
 	mux.HandleFunc("/api/v1/debug/db-stats", wrap(handlers.DBStatsHandler))
+	mux.HandleFunc("/api/v1/debug/categories", wrap(func(w http.ResponseWriter, r *http.Request) {
+		middleware.EnableCors(&w)
+
+		// Get all categories with test counts
+		rows, err := database.DB.Query(`
+			SELECT category, COUNT(*) as test_count 
+			FROM tests 
+			WHERE category IS NOT NULL AND category != '' 
+			GROUP BY category 
+			ORDER BY category
+		`)
+		if err != nil {
+			http.Error(w, err.Error(), http.StatusInternalServerError)
+			return
+		}
+		defer rows.Close()
+
+		categories := []map[string]interface{}{}
+		for rows.Next() {
+			var category string
+			var count int
+			rows.Scan(&category, &count)
+			categories = append(categories, map[string]interface{}{
+				"category":   category,
+				"test_count": count,
+			})
+		}
+
+		json.NewEncoder(w).Encode(map[string]interface{}{
+			"categories": categories,
+		})
+	}))
 	mux.HandleFunc("/api/v1/debug/sync-public", wrap(handlers.SyncQuestionsHandler))
 	mux.HandleFunc("/api/v1/test/random-unsolved", wrap(handlers.GetRandomUnsolvedTestHandler))
 

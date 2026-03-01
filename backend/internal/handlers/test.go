@@ -98,9 +98,13 @@ func GetCategoriesHandler(w http.ResponseWriter, r *http.Request) {
 	categories := []CategoryProgress{}
 	for rows.Next() {
 		var cp CategoryProgress
-		rows.Scan(&cp.Category, &cp.TotalTests, &cp.CompletedTests)
+		err := rows.Scan(&cp.Category, &cp.TotalTests, &cp.CompletedTests)
+		if err != nil {
+			continue
+		}
 		categories = append(categories, cp)
 	}
+
 	json.NewEncoder(w).Encode(categories)
 }
 
@@ -265,14 +269,52 @@ func SubmitTestHandler(w http.ResponseWriter, r *http.Request) {
 
 func DBStatsHandler(w http.ResponseWriter, r *http.Request) {
 	middleware.EnableCors(&w)
-	var testCount, questionCount int
+	userID := r.URL.Query().Get("userId")
+
+	var testCount, questionCount, testResultsCount int
 	database.DB.QueryRow("SELECT COUNT(*) FROM tests").Scan(&testCount)
 	database.DB.QueryRow("SELECT COUNT(*) FROM questions").Scan(&questionCount)
+	database.DB.QueryRow("SELECT COUNT(*) FROM test_results").Scan(&testResultsCount)
 
-	json.NewEncoder(w).Encode(map[string]interface{}{
-		"tests_count":     testCount,
-		"questions_count": questionCount,
-	})
+	result := map[string]interface{}{
+		"tests_count":        testCount,
+		"questions_count":    questionCount,
+		"test_results_count": testResultsCount,
+	}
+
+	if userID != "" {
+		var userTestResults int
+		database.DB.QueryRow("SELECT COUNT(*) FROM test_results WHERE user_id = $1", userID).Scan(&userTestResults)
+		result["user_test_results"] = userTestResults
+
+		// Debug: Show some sample data
+		rows, err := database.DB.Query(`
+			SELECT t.category, COUNT(DISTINCT t.id) as total, COUNT(DISTINCT tr.test_id) as completed
+			FROM tests t 
+			LEFT JOIN test_results tr ON t.id = tr.test_id AND tr.user_id = $1
+			WHERE t.category IS NOT NULL AND t.category != ''
+			GROUP BY t.category
+			ORDER BY t.category
+		`, userID)
+
+		if err == nil {
+			defer rows.Close()
+			categories := []map[string]interface{}{}
+			for rows.Next() {
+				var category string
+				var total, completed int
+				rows.Scan(&category, &total, &completed)
+				categories = append(categories, map[string]interface{}{
+					"category":  category,
+					"total":     total,
+					"completed": completed,
+				})
+			}
+			result["debug_categories"] = categories
+		}
+	}
+
+	json.NewEncoder(w).Encode(result)
 }
 
 func GetRandomUnsolvedTestHandler(w http.ResponseWriter, r *http.Request) {

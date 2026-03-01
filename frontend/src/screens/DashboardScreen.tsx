@@ -93,10 +93,12 @@ export default function DashboardScreen({ navigation, onLogout }: any) {
             }
 
             // Fetch Category Progress
-            const cpRes = await fetch(`${baseUrl}/tests/categories?userId=${userId}&t=${timestamp}`);
-            if (cpRes.ok) {
-                const cpData = await cpRes.json();
-                setCategoryProgress(cpData || []);
+            if (userId) {
+                const cpRes = await fetch(`${baseUrl}/tests/categories?userId=${userId}&t=${timestamp}`);
+                if (cpRes.ok) {
+                    const cpData = await cpRes.json();
+                    setCategoryProgress(cpData || []);
+                }
             }
         } catch (e) {
             console.error('Fetch error:', e);
