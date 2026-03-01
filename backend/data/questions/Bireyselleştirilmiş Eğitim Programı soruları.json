@@ -1,0 +1,4770 @@
+[
+  {
+    "question_id": "Q-BEP-001",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Millî Eğitim Bakanlığı mevzuatına göre, tam zamanlı kaynaştırma/bütünleştirme yoluyla eğitimlerine devam eden özel eğitim ihtiyacı olan öğrenciler için Bireyselleştirilmiş Eğitim Programı (BEP) hazırlanmasıyla ilgili aşağıdaki ifadelerden hangisi yasal bir zorunluluğu ifade eder?",
+    "options": [
+      {
+        "option_text": "Kayıtlı bulundukları okulda uygulanan eğitim programı temel alınarak hazırlanması esastır.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Yalnızca okul rehberlik servisinin inisiyatifi ve değerlendirmesiyle şekillendirilmelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece akademik başarısı düşük olan öğrencilerin eksiklerini gidermek amacıyla yazılır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıf öğretmeninin bireysel kararıyla öğretim yılının herhangi bir döneminde oluşturulur.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İlçe millî eğitim müdürlükleri tarafından standart olarak gönderilen şablonlar uygulanır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-001"
+  },
+  {
+    "question_id": "Q-BEP-002",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel Eğitim Hizmetleri Yönetmeliği'ne göre, Bireyselleştirilmiş Eğitim Programı (BEP) Geliştirme Birimi toplantılarına başkanlık etme görevi aşağıdakilerden hangisine aittir?",
+    "options": [
+      {
+        "option_text": "Okulun bağlı bulunduğu bölgedeki rehberlik ve araştırma merkezi müdürüne",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin öğrenim gördüğü okulun müdürüne veya görevlendireceği müdür yardımcısına",
+        "is_correct": true
+      },
+      {
+        "option_text": "Okulda görev yapan ve alanında en kıdemli olan rehber öğretmen/psikolojik danışmana",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin derslerine giren ve sınıf rehberliğini yürüten ilgili sınıf öğretmenine",
+        "is_correct": false
+      },
+      {
+        "option_text": "İl veya ilçe özel eğitim hizmetleri kurulu tarafından özel olarak atanan koordinatöre",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-002"
+  },
+  {
+    "question_id": "Q-BEP-003",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bireyselleştirilmiş Eğitim Programı (BEP) hazırlama sürecinin ilk aşaması olan \"öğrenci hakkında bilgi ve veri toplama\" adımında, öğrenciyle ilgili çeşitli kaynaklardan bilgiler edinilir. Aşağıdakilerden hangisi bu aşamada toplanması gereken öncelikli bilgiler arasında yer almaz?",
+    "options": [
+      {
+        "option_text": "Öğrencinin daha önce aldığı özel eğitim tanısı ve mevcut genel sağlık durumu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin temel iletişim becerileri, sosyal davranışları ve akademik başarısı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okulun bir sonraki eğitim yılında açmayı planladığı destek eğitim odalarının fiziki kapasitesi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğrencinin kendi yetenekleri, bireysel ilgileri ve eğitimsel öğrenme biçimleri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ailesi ile ilgili arka plan bilgileri ve öğrencinin kişisel gelişim öyküsüne dair veriler",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-003"
+  },
+  {
+    "question_id": "Q-BEP-004",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "BEP hazırlanırken öğrencinin eğitsel performansının belirlenmesi büyük önem taşır. Eğitsel performans düzeyini belirleyen ifadelerin ölçülebilir ve gözlenebilir olması gerekmektedir. Buna göre, aşağıdaki performans ifadelerinden hangisi bu kurala uygun bir örnek oluşturur?",
+    "options": [
+      {
+        "option_text": "Verilen okuma metninin ana fikrini kendi iç dünyasında derinlemesine kavrar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Günlük yaşam becerilerini kimsenin yardımı olmadan kendi kendine içselleştirir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İki basamaklı sayılarla yapılan toplama işlemlerinin mantığını bütünüyle anlar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kimseden yardım almadan, kendi başına günlük kıyafetlerini değiştirir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Dinlediği bir hikayedeki karakterlerin duygularını empati kurarak hisseder.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-004"
+  },
+  {
+    "question_id": "Q-BEP-005",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Ailelerin Bireyselleştirilmiş Eğitim Programı (BEP) sürecindeki rolüyle ilgili olarak aşağıda verilen ifadelerden hangisi yanlıştır?",
+    "options": [
+      {
+        "option_text": "Aileler, BEP geliştirme biriminin doğal ve ayrılmaz bir üyesi olarak toplantılara katılmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun ihtiyaçlarının belirlenmesinde ailenin sunduğu gözlem ve bilgiler son derece kritiktir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Toplantıya katılamadıkları durumlarda, alınan kararlar ailenin görüşüne ve onayına sunulmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ailelerin, çocukları hakkında sağladığı veriler doğrultusunda eğitimsel amaçlar şekillendirilebilir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ailelerin eğitim düzeyleri yetersiz görüldüğünde, BEP onay süreci yalnızca öğretmenlerce yürütülür.",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-005"
+  },
+  {
+    "question_id": "Q-BEP-006",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Sınıf öğretmeni Ayşe Hanım, kaynaştırma öğrencisi Ali için hazırlanan BEP'teki kısa dönemli amaçların gerçekleşme düzeyini dönem ortasında değerlendirmiş ve Ali'nin \"iki basamaklı sayılarla eldeli toplama işlemi yapma\" amacına ulaşamadığını tespit etmiştir. Öğretimin etkililiğini artırmak isteyen Ayşe Hanım'ın mevzuata ve BEP ilkelerine göre atması gereken en uygun adım aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Öğrenci düzeyine uygun olmadığı görülen bu amaca yönelik öğretim yöntemlerini, materyalleri veya hedefi birim içerisinde güncelleyip sürece devam etmek",
+        "is_correct": true
+      },
+      {
+        "option_text": "İlgili amacı tamamen BEP'ten çıkararak, öğrencinin yalnızca başarılı olduğu sözel derslerin amaçları üzerinde durulmasını sağlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin zihinsel kapasitesinin bu amaç için yetersiz olduğuna karar verip, özel eğitim değerlendirme kurulundan yeni tanı talep etmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dönem sonuna kadar aynı yöntemle öğretimi sürdürmek ve yıl sonunda amacın gerçekleşip gerçekleşmediğini genel BEP raporuna bağlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Aileyi okula çağırarak öğrencinin evdeki çalışma eksikliklerini dile getirmek ve toplama işlemi sorumluluğunu tamamen aileye devretmek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-006"
+  },
+  {
+    "question_id": "Q-BEP-007",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Aşağıdakilerden hangisi Özel Eğitim Hizmetleri Yönetmeliği'ne göre Bireyselleştirilmiş Eğitim Programı (BEP) Geliştirme Biriminin görevleri arasında yer almaz?",
+    "options": [
+      {
+        "option_text": "Kaynaştırma/bütünleştirme yoluyla eğitimlerine devam eden öğrencilerden destek eğitim odasında eğitim alacakları belirlemek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin eğitsel değerlendirme haricindeki tıbbi tanısını doğrudan koymak ve psikiyatrik durumunu raporlamak",
+        "is_correct": true
+      },
+      {
+        "option_text": "BEP'in hazırlanması, uygulanması, izlenmesi ve değerlendirilmesi ile ilgili çalışmalarda okul içi koordinasyonu sağlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğretim ve değerlendirmede kullanılacak yöntem ve teknikler ile ihtiyaç duyulan öğretim materyallerini belirlemek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Velinin yazılı talebi üzerine, ilkokulda öğrencilerin bir defaya mahsus olmak üzere sınıf tekrarı yapmasına karar vermek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-007"
+  },
+  {
+    "question_id": "Q-BEP-008",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bireyselleştirilmiş Eğitim Programlarının (BEP) hazırlanma ve geçerlilik süreleriyle ilgili genel yaklaşım değerlendirildiğinde, aşağıdaki ifadelerden hangisi BEP'in zaman çizelgesine ilişkin doğru bir bilgiyi yansıtır?",
+    "options": [
+      {
+        "option_text": "Öğrencinin tüm eğitim kademesi (örneğin 4 yıllık ilkokul süreci) için tek bir kez ve değiştirilemez biçimde hazırlanır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Her akademik ayın başında sıfırdan oluşturulur ve ay sonunda tamamen iptal edilerek yeni amaçlara geçilir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Genellikle bir eğitim-öğretim yılı için hazırlanır ve geçerliliği eğitim-öğretim yılının başında başlayıp sonunda sona erer.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Yalnızca öğrenci destek eğitim odasına yönlendirildiğinde hazırlanır, normal sınıfta ise daima standart plan uygulanır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Eğitsel değerlendirme sonucunun okula ulaştığı gün başlar ve öğrencinin o okuldan tamamen mezun olduğu güne kadar geçerli kalır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-008"
+  },
+  {
+    "question_id": "Q-BEP-009",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "BEP hazırlanırken uzun dönemli amaçlara ulaşmak için daha özel ve ayrıntılı olan kısa dönemli amaçlar belirlenir. Amacın ölçülebilir ve gözlenebilir bir eylem içermesi kritik bir kuraldır. Buna göre, aşağıdaki kısa dönemli amaç yazımlarından hangisi BEP kriterlerine en uygun şekilde ifade edilmiştir?",
+    "options": [
+      {
+        "option_text": "Elif, matematik dersinde kendisine verilen doğal sayılarla bölme işlemlerini kolaylıkla kavrar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Mehmet, Türkçe dersindeki metinleri okurken noktalama işaretlerinin öneminin farkına varır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Zeynep, bedensel koordinasyon gerektiren oyunlarda arkadaşlarıyla uyum içinde oynamayı öğrenir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Özge, dört denemenin üçünde 50’den 100’e kadar olan doğal sayılarla eldeli toplama işlemi yapar.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Can, fen bilimleri dersinde anlatılan canlıların sınıflandırılması konusunu içselleştirir ve bilir.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-009"
+  },
+  {
+    "question_id": "Q-BEP-010",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Doğuştan serebral palsi tanısı bulunan ve tam zamanlı kaynaştırma yoluyla 2. sınıfa devam eden Ahmet için fiziksel çevre düzenlemeleri yapılması gerekmektedir. BEP geliştirme birimi, Ahmet'in bağımsız hareket edebilmesini desteklemek amacıyla çeşitli kararlar alacaktır. Bu bağlamda, alınacak aşağıdaki kararlardan hangisinin Ahmet'in BEP eğitim ortamı düzenlemeleri kapsamındaki fiziksel destek hedefleriyle uyuştuğu söylenemez?",
+    "options": [
+      {
+        "option_text": "Sınıf içerisindeki oturma düzeninin Ahmet'in destek cihazlarıyla rahat hareket edebileceği genişlikte planlanması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ahmet'in kayıtlı olduğu sınıfın okulun giriş katında ve çıkış kapısına en yakın konumda bulunan derslik olarak belirlenmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ahmet'in ders esnasında fiziksel yorgunluk yaşamaması için kullanacağı sıra ve masanın onun ergonomik ölçülerine uygun hale getirilmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okul bahçesi ve ortak kullanım alanlarında Ahmet'in takılabileceği engellerin kaldırılarak erişilebilirliğin artırılması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fiziksel hareketliliğini kısıtlamamak adına Ahmet'in tamamen bireysel bir odaya alınarak akranlarından yalıtılmış bir ortamda eğitilmesi",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-010"
+  },
+  {
+    "question_id": "Q-BEP-011",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "BEP hazırlama sürecinin ikinci aşamasında, öğrencinin eğitsel performansının değerlendirilmesi ve mevcut beceri düzeyinin belirlenmesi gerekmektedir. Öğrencinin performansının saptanmasında kullanılabilecek informal araçlar mevzuatta belirtilmiştir. Aşağıdakilerden hangisi bu süreçte öğretmenin öğrenci performansını belirlerken doğrudan başvuracağı informal değerlendirme araçları arasında yer almaz?",
+    "options": [
+      {
+        "option_text": "Rehberlik ve Araştırma Merkezi tarafından uygulanan standart zeka ve psikometrik test bataryaları",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sınıf içinde gerçekleştirilen yapılandırılmamış veya yarı yapılandırılmış doğal gözlem kayıtları",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin akademik performansını yansıtan ev ödevleri, çalışma kâğıtları ve ürün dosyası analizleri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Aileyle, öğrenciyle ve destek alınan uzmanlarla gerçekleştirilen yüz yüze görüşme formları",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğretmen tarafından öğrencinin program düzeyine göre hazırlanan ölçüt bağımlı ölçü araçları",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-011"
+  },
+  {
+    "question_id": "Q-BEP-012",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Etkili bir BEP süreci; öğrencinin güçlü yanlarının belirlenmesi (Hazırlama), amaçların ve öğretimin öğrenci merkeze alınarak kurgulanması (Planlama), öğretimin gerçekleştirilmesi (Öğretim) ve ilerlemenin kontrol edilmesi (Değerlendirme) olmak üzere birbirini besleyen döngüsel aşamalardan oluşur. Bu süreçte, \"düzenli aralıklarla amaçları inceleyip öğrencinin ne düzeyde ulaştığını belirlemek\" hangi aşamanın temel eylemidir?",
+    "options": [
+      {
+        "option_text": "Hazırlama aşaması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Değerlendirme aşaması",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğretim aşaması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Planlama aşaması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tanılama aşaması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-012"
+  },
+  {
+    "question_id": "Q-BEP-013",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Öğretmen Kemal Bey, kaynaştırma öğrencisi olan Hasan'ın BEP'inde yer alan \"1'den 20'ye kadar ritmik sayar\" hedefine beklendiğinden çok daha kısa sürede, birinci ayın sonunda ulaştığını fark etmiştir. Hasan'ın bu beceriyi kalıcı olarak edindiği değerlendirmelerle de kanıtlanmıştır. Bu durumda Kemal Bey'in BEP sürecinin dinamik ve esnek yapısına uygun olarak yapması gereken mesleki uygulama aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Dönem sonuna kadar Hasan'a bu beceriyi tekrar ettirerek fazladan bir hedef belirlemekten kaçınmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıftaki diğer öğrenciler ritmik sayma konusunu bitirene kadar Hasan'ı tamamen serbest etkinliklere yönlendirmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "BEP geliştirme birimiyle durumu paylaşarak, Hasan'ın güncel performansına uygun yeni amaçlar planlamak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Hasan'ın ritmik sayma becerisini kendi başına öğrenmeye devam etmesi için BEP uygulamalarını sonlandırmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Aileye Hasan'ın sınıf atlaması gerektiğini bildirerek ilçe milli eğitim müdürlüğünden derhal yasal izin talep etmek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-013"
+  },
+  {
+    "question_id": "Q-BEP-014",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel öğrenme güçlüğü tanısı bulunan 10. sınıf öğrencisi Ayşe’nin BEP dosyasında, \"Fizik dersinde kütle ve hacim birim dönüşümlerini yapar.\" kısa dönemli amacı yer almaktadır. Sınıf öğretmeni, Ayşe’nin yazılı metinler üzerinden dönüşümleri yapamadığını ancak laboratuvar ortamında somut nesnelerle (dereceli silindir, terazi vb.) ölçüm yaparak dönüşümleri başarıyla hesapladığını gözlemlemiştir. Bu analizden hareketle BEP geliştirme biriminin alacağı kararlardan hangisi, \"Öğrenci merkezli ve erişilebilir BEP\" anlayışını en güçlü şekilde yansıtır?",
+    "options": [
+      {
+        "option_text": "Ayşe'nin soyut düşünme becerisinin gelişmediği sonucuna varılarak fizik dersi amaçlarının tamamını BEP'ten çıkarmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dönüşüm kurallarını ezberlemesi için Ayşe'ye verilen yazılı ev ödevi ve okuma metni miktarını iki katına çıkarmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ayşe'nin dikkatinin laboratuvar ortamında dağıldığını varsayarak laboratuvar etkinliklerinden uzaklaştırıp sadece test çözmesini sağlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ayşe'nin öğrenme profiline uygun olarak değerlendirme süreçlerinde somut materyallerin kullanımına dayalı uygulamalı sınavları tercih etmek",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğrenme güçlüğü tanısı nedeniyle lise akademik hedeflerine ulaşamayacağı öngörülerek yalnızca iletişim becerilerine odaklanan bir plan revizyonu yapmak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-014"
+  },
+  {
+    "question_id": "Q-BEP-015",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir ortaokulda yeni göreve başlayan Okul Müdürü Selim Bey, geçmiş yıllara ait dosyaları incelerken BEP toplantılarının oldukça düzensiz yapıldığını, kararların sadece sınıf öğretmenleri tarafından alındığını ve ailenin sürece dahil edilmediğini tespit etmiştir. Özel Eğitim Hizmetleri Yönetmeliği'ne göre okul yönetiminin BEP sürecindeki sorumlulukları dikkate alındığında, Selim Bey'in kurumda yasal ve eğitsel standart oluşturmak için yapacağı eylem aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Rehber öğretmene tüm öğrencilerin BEP'lerini tek başına yazması ve koordine etmesi için doğrudan yazılı talimat vermek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ailelerin katılımını zorunlu tutmadan, sınıf öğretmenlerinden mevcut BEP'leri hızla yenileyip veliye sadece imzalatmalarını istemek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece akademik olarak çok geride kalan öğrenciler için öğretmenlerden dar kapsamlı, genel bir komisyon raporu talep etmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "BEP sürecinin yönetimini tamamen rehberlik ve araştırma merkezinin (RAM) inisiyatifine bırakarak okuldaki komisyonu fesh etmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kendi başkanlığında, ailenin ve ilgili tüm personelin katılımıyla BEP geliştirme birimini mevzuata uygun biçimde toplayıp çalışma esaslarını belirlemek",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-015"
+  },
+  {
+    "question_id": "Q-BEP-016",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "BEP sürecinde uzun dönemli amaçlar (UD",
+    "options": [
+      {
+        "option_text": "ve kısa dönemli amaçlar (KD",
+        "is_correct": true
+      },
+      {
+        "option_text": "arasındaki ilişkinin doğru kurgulanması, programın etkililiği açısından zorunludur. UDA öğrencinin bir eğitim-öğretim yılı sonunda kazanması beklenen hedefleri kapsarken, KDA bu hedeflere giden yoldaki ölçülebilir basamaklardır. Bu kavramsal ayrıma göre, aşağıda verilen UDA ve KDA eşleştirmelerinden hangisi hiyerarşik yapı ve ölçülebilirlik açısından en tutarlıdır?",
+        "is_correct": true
+      },
+      {
+        "option_text": "UDA: Öğrenci 100’e kadar olan doğal sayılarla eldeli toplama işlemini yapar. KDA: Öğrenci dört denemenin üçünde 1’den 50’ye kadar olan sayılarla eldeli toplama işlemini bağımsız yapar.",
+        "is_correct": true
+      },
+      {
+        "option_text": "UDA: Öğrenci sosyal becerilerini ve kişiler arası iletişimini eğitim yılı boyunca geliştirir. KDA: Öğrenci okul sınırları içindeki tüm kurallara her zaman kusursuz bir şekilde uyar ve sorun çıkarmaz.",
+        "is_correct": false
+      },
+      {
+        "option_text": "UDA: Öğrenci Türkçe dersinde akranları gibi başarılı bir okur yazar kimliğine sahip olur. KDA: Öğrenci her gün kendi belirlediği bir sürede okuma yapar ve kelime dağarcığını düzenli olarak zenginleştirir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "UDA: Öğrenci kişisel bakım ve temizlik becerilerinin tamamını okulda yardımsız bir şekilde yerine getirir. KDA: Öğrenci kişisel sağlığın ve hijyenik olmanın temel felsefesini sınıf içi serbest tartışmalarda iyi derecede kavrar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "UDA: Öğrenci temel geometrik şekillerin (kare, dikdörtgen, üçgen) kavramsal isimlerini doğru bir şekilde bilir. KDA: Öğrenci defterine kurşun kalemle rastgele çeşitli büyüklüklerde düz çizgiler ve karalamalar çizer.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-016"
+  },
+  {
+    "question_id": "Q-BEP-017",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Sınıf içi etkinlikler sırasında hafif düzeyde otizm spektrum bozukluğu olan 5 yaşındaki Refik, etkinlik geçişlerinde zorlanmakta ve uygun olmayan zamanlarda eşofmanını çıkarma davranışı sergilemektedir. Refik için BEP hazırlayan okul öncesi öğretmeni ve BEP birimi üyelerinin, bu durum karşısında alacağı kararların eğitsel doğruluğu analiz edildiğinde en işlevsel ve bütüncül yaklaşım aşağıdakilerden hangisi olur?",
+    "options": [
+      {
+        "option_text": "Gelişimsel gerilikten kaynaklandığı varsayılarak bu davranışı tamamen görmezden gelmek ve sadece dil becerilerinin öğretimine yoğunlaşmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "BEP içeriğine akademik hedeflerin yanı sıra, davranışı azaltmaya ve olumlu davranış kazandırmaya yönelik bir \"davranış değiştirme programı\" eklemek",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğun bu davranışının diğer çocuklara kötü örnek olacağı gerekçesiyle tam zamanlı kaynaştırma eğitiminden çıkarıp aileyi evde eğitime yönlendirmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Davranışın tamamen bittiği gözlenene kadar Refik'in velisini sınıf içinde oturtarak, velinin fiziksel müdahale ile çocuğu engellemesini şart koşmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bilişsel hedeflere ulaşılmadan davranış değiştirmenin anlamsız olduğu ilkesiyle öncelikle matematik amaçlarını kısa dönemli amaç listesinin başına almak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-017"
+  },
+  {
+    "question_id": "Q-BEP-018",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir işitme yetersizliği öğrencisi olan Emre’nin BEP'i hazırlanırken, iletişim alanında \"Göz kontağı kurma\" genel amacı belirlenmiştir. Bu amaca ulaşılması için belirlenen öğretim yöntemleri arasında \"Eş zamanlı ipucuyla öğretim, İpucunun giderek azaltılmasıyla öğretim ve Video modelle öğretim\" tekniklerine yer verilmiş, ölçüt olarak ise \"%80 (4/5) başarılı olması\" hedeflenmiştir. Uygulayıcı öğretmenin plandaki bu verilere dayanarak süreç boyunca izlemesi gereken en tutarlı analitik yol haritası aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Sadece video model izletmek ve öğrenci izlerken göz teması kuruyorsa diğer teknikleri hiç kullanmadan doğrudan %100 başarıyı raporlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sürecin en başında doğrudan tüm öğretimsel ipuçlarını keserek öğrencinin kendi kendine göz teması kurmasını ardışık 5 deneme boyunca beklemek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Davranış kayıt formlarına her denemedeki tepkiyi işleyerek, başarılı denemelerin oranı %80’e ulaştığında sunulan fiziksel/sözel ipucunu sistematik şekilde azaltmak",
+        "is_correct": true
+      },
+      {
+        "option_text": "%80 başarı ölçütünü beklemeden, bir kere dahi olsa göz teması hedefine ulaşıldığında beklemeden diğer ileri düzey iletişim becerilerine geçiş yapmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "İletişim amaçlarının ölçülemez olduğunu iddia edip, genel değerlendirme formuna öğrencinin niyetinin iyi olduğunu betimsel bir not olarak düşmek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-018"
+  },
+  {
+    "question_id": "Q-BEP-019",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bedensel yetersizliği olan (monoparezi) 2. sınıf öğrencisi Ahmet'in, Türkçe ve Matematik derslerindeki bilişsel performansı yaşamsal düzeyde akranlarıyla eştir. Ancak ince motor becerilerindeki zorluklardan dolayı yazma hızı oldukça düşüktür ve uzun metinleri yazarken fiziksel olarak yorulmaktadır. Bu veri doğrultusunda BEP Geliştirme Birimi, Ahmet'in ölçme-değerlendirme sürecine ilişkin analitik bir karar almalıdır. Aşağıdaki kararlardan hangisi, Ahmet’in akademik potansiyelini fiziksel yetersizliği nedeniyle gölgelemeyecek en kapsayıcı düzenlemedir?",
+    "options": [
+      {
+        "option_text": "Ahmet'in tüm zorlayıcı akademik değerlendirmelerden muaf tutulmasına ve formal sınav yapılmadan bir üst sınıfa geçmesine karar vermek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınavlarda kendisine yasal olarak tanınan ek süreyi vermekle yetinip, tüm detaylı soruları yine de kendi el yazısıyla bitirmesini beklemek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Diğer öğrencilerle eşitlik sağlaması adına hiçbir özel düzenleme yapmadan sınıftaki standart sınav prosedürünü tavizsiz uygulamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uzun yazılı yanıt gerektiren sınavlardan muaf tutarak sözlü değerlendirme yapılmasına veya ders sırasında cevaplarını ses kaydına almasına olanak tanımak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ahmet'in fiziksel yorgunluğunu önlemek adına sınav sorularını sınıf seviyesinin çok altına çekerek, sadece temel düzeyde zihinsel sorular sormak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-019"
+  },
+  {
+    "question_id": "Q-BEP-020",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İlköğretim okulunda görevli sınıf öğretmeni Derya Hanım, sınıfındaki kaynaştırma öğrencisi Mert'in dikkat eksikliği ve hiperaktivite bozukluğu (DEH",
+    "options": [
+      {
+        "option_text": "tanısı almasının ardından, BEP hazırlıklarına başlamıştır. Ancak Derya Hanım, Mert'in derslerine giren diğer branş öğretmenlerinin (İngilizce, Beden Eğitimi vb.) bu sürece dahil olmak istemediğini, \"BEP’in sadece sınıf öğretmeninin sorumluluğunda olduğunu\" savunduklarını okul idaresine iletmiştir. Eğitsel mevzuat ve takım çalışması prensipleri çerçevesinde değerlendirildiğinde, bu durumu çözümleyecek en yetkin hukuki ve mesleki dayanak aşağıdakilerden hangisidir?",
+        "is_correct": false
+      },
+      {
+        "option_text": "BEP'in sadece ana akademik dersleri kapsadığı kuralı gereğince, branş öğretmenlerinin haklı olduğu kabul edilerek Derya Hanım'ın programı tek başına yazması",
+        "is_correct": false
+      },
+      {
+        "option_text": "BEP'i takip etme sorumluluğunun sadece ailede olduğu gerekçesiyle okul içindeki tüm akademik formasyon yükümlülüğünün veliye devredilmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Özel eğitim ihtiyacı olan öğrencinin planının, okul normları gereği yalnızca rehberlik servisindeki psikolojik danışman tarafından onaylanıp uygulanması",
+        "is_correct": false
+      },
+      {
+        "option_text": "BEP sürecinde branş öğretmenlerinin planlama yapmadan sadece dönem sonu notlarını vererek dolaylı yoldan katılım sağlamalarının yeterli olacağı gerçeği",
+        "is_correct": false
+      },
+      {
+        "option_text": "BEP'in hazırlanmasında sorumluluğun tek bir öğretmene ait olmadığı, öğrenciyle çalışan tüm öğretmenlerin BEP biriminin doğal üyesi olarak sürece dahil olmaları gerektiği kuralı",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-020"
+  },
+  {
+    "question_id": "Q-BEP-021",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Türkiye'de Bireyselleştirilmiş Eğitim Programı (BEP) hazırlanmasını ve uygulanmasını ilk kez yasal bir zorunluluk hâline getiren mevzuat aşağıdakilerden hangisidir?,",
+    "options": [
+      {
+        "option_text": "573 sayılı Özel Eğitim Hakkında Kanun Hükmünde Kararname",
+        "is_correct": true
+      },
+      {
+        "option_text": "222 sayılı İlköğretim ve Eğitim Kanunu",
+        "is_correct": false
+      },
+      {
+        "option_text": "1739 sayılı Millî Eğitim Temel Kanunu",
+        "is_correct": false
+      },
+      {
+        "option_text": "652 sayılı Millî Eğitim Bakanlığının Teşkilat ve Görevleri Hakkında KHK",
+        "is_correct": false
+      },
+      {
+        "option_text": "5378 sayılı Engelliler Hakkında Kanun",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-021"
+  },
+  {
+    "question_id": "Q-BEP-022",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bireyselleştirilmiş Eğitim Programının (BEP) işlevleri ve yararları göz önüne alındığında, aşağıdaki ifadelerden hangisi BEP'in sağladığı avantajlardan biri olarak değerlendirilemez?,,",
+    "options": [
+      {
+        "option_text": "Çocuğun engelinden kaynaklanan farklı gereksinimlerinin net bir biçimde belirlenmesini sağlar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Aile ve okul personeli arasında, çocuğun gelişimiyle ilgili etkili bir iletişim aracı olarak görev yapar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin eğitim sürecinde yaşayabileceği sorunlar hakkında tüm paydaşlara eşit söz hakkı tanır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin tıbbi tanısının konulması sürecinde kullanılabilecek kesin bir klinik teşhis aracı işlevi görür.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Özel eğitim gerektiren öğrencinin gelişimini izlemek için öğretmenlere kılavuzluk eden bir yol haritasıdır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-022"
+  },
+  {
+    "question_id": "Q-BEP-023",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir ortaokulda tam zamanlı kaynaştırma öğrencisi olarak öğrenim gören Can için Bireyselleştirilmiş Eğitim Programı (BEP) Geliştirme Birimi toplantısı planlanmaktadır. İlgili özel eğitim mevzuatına göre, aşağıdakilerden hangisinin bu toplantıya birim üyesi sıfatıyla katılması beklenmez?,,,",
+    "options": [
+      {
+        "option_text": "Can'ın eğitim sürecinden doğrudan sorumlu olan sınıf veya şube rehber öğretmeni",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okul müdürü veya müdürün BEP birimi için özel olarak görevlendireceği müdür yardımcısı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Can'ın öğrenim gördüğü okulda kadrolu olarak görev yapan rehber öğretmen/psikolojik danışman",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin eğitimsel ihtiyaçları hakkında bilgi vermek üzere toplantıya katılan velisi (anne/baba/vasi)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okulun bulunduğu ilçedeki özel eğitim süreçlerini denetleyen ilçe millî eğitim şube müdürü",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-023"
+  },
+  {
+    "question_id": "Q-BEP-024",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bireyselleştirilmiş Eğitim Programının (BEP) hazırlanması ve geçerlilik süresiyle ilgili olarak mevzuatta ve özel eğitim uygulamalarında genel kabul gören temel yaklaşım aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Öğrenci kayıtlı olduğu eğitim kademesinden mezun olana kadar tek bir plan geçerliliğini korur.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Genellikle bir eğitim-öğretim yılı için hazırlanır ve eğitim-öğretim yılının sonunda geçerliliği sona erer.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Her akademik dönemin (sömestir) başında sıfırdan yazılır ve dönem bitiminde tamamen iptal edilir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin özel eğitime duyduğu ihtiyaç tamamen ortadan kalkana kadar süresiz olarak uygulanır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yalnızca öğrenci okul değiştirdiği ya da sınıf tekrarına kaldığı zamanlarda güncellenmek üzere hazırlanır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-024"
+  },
+  {
+    "question_id": "Q-BEP-025",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bireyselleştirilmiş Eğitim Programı (BEP) hazırlanırken öğrencinin mevcut eğitsel performansının doğru bir şekilde ifade edilmesi amaçların belirlenmesi için temel oluşturur. Buna göre, eğitsel performans ifadelerinin yazımıyla ilgili aşağıdaki kurallardan hangisi kesinlikle gözetilmelidir?,,,",
+    "options": [
+      {
+        "option_text": "Sadece öğrencinin yetersiz olduğu, başaramadığı ve eksik kaldığı akademik beceriler listelenmelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin gelecekte kazanması umulan hedefleri geniş zaman kipiyle ve soyut biçimde kurgulanmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "İfadeler tamamen ölçülebilir, gözlenebilir ve öğrencinin mevcut yapabildiklerini betimleyen nitelikte olmalıdır.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Tıbbi jargon ağırlıklı kullanılarak karmaşık, soyut ve yalnızca uzmanların anlayabileceği akademik terimlerle yazılmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıftaki diğer akranlarının başarı ortalamaları baz alınarak öğrenci hakkında göreceli bir derecelendirme yapılmalıdır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-025"
+  },
+  {
+    "question_id": "Q-BEP-026",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Sınıf öğretmeni Burak Bey, kaynaştırma öğrencisi Deniz için hazırladığı BEP'te şu kısa dönemli amaca yer vermiştir: \"Deniz, hayat bilgisi dersindeki çevresini tanıma konularını iyice kavrar ve özümser.\" BEP geliştirme birimi toplantısında bu amacın özel eğitim ilkelerine uygun olmadığı belirtilmiştir. Bu amacın temel eksikliği veya hatası aşağıdakilerden hangisiyle en doğru şekilde açıklanır?,,",
+    "options": [
+      {
+        "option_text": "Amacın, öğrencinin akademik potansiyelinin çok altında ve basit bir dil kurgusuyla yazılmış olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Eylem bildiren ifadelerin (kavrar, özümser) ölçülemez, gözlenemez ve tamamen soyut nitelikte yazılmış olması",
+        "is_correct": true
+      },
+      {
+        "option_text": "Hayat bilgisi dersi için kısa dönemli değil, yalnızca uzun dönemli ve genel amaç yazılabilecek olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin hangi eğitim ortamında (sınıf veya destek eğitim odası) ders göreceğine dair fiziksel bir detay içermemesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Amacın olumsuz bir dil ifadesi taşıması ve öğrenciyi akademik beklentiler açısından sınırlandırması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-026"
+  },
+  {
+    "question_id": "Q-BEP-027",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bireyselleştirilmiş Eğitim Programı (BEP) hazırlama süreci belirli ardışık aşamalardan oluşmaktadır. Bu sürecin ilk aşaması olan \"öğrenci hakkında bilgi ve veri toplama\" adımından hemen sonra gerçekleştirilmesi gereken yasal ve eğitsel aşama aşağıdakilerden hangisidir?,",
+    "options": [
+      {
+        "option_text": "Öğrencinin mevcut eğitsel performansının detaylı olarak değerlendirilmesi ve raporlanması",
+        "is_correct": true
+      },
+      {
+        "option_text": "Yıl sonunda ulaşılması planlanan uzun ve kısa dönemli akademik amaçların listelenmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğretim sürecinde doğrudan kullanılacak fiziksel araç-gereç ve öğretim yöntemlerinin karara bağlanması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bireyin bir sonraki eğitim kademesine (örneğin ortaokula) geçişi için yönlendirme formlarının doldurulması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Aileye yönelik hazırlanacak ev temelli eğitim programlarının ve psikolojik destek planlarının oluşturulması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-027"
+  },
+  {
+    "question_id": "Q-BEP-028",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Tam zamanlı kaynaştırma yoluyla eğitimine devam eden 4. sınıf öğrencisi Elif'in, Türkçe ve Matematik derslerinden okul içindeki destek eğitim odasında eğitim almasına ihtiyaç duyulmuştur. Elif'in hangi derslerden, haftada kaç saat destek eğitim alacağına karar verme yasal yetkisi aşağıdakilerden hangisine aittir?,",
+    "options": [
+      {
+        "option_text": "Okulun bağlı bulunduğu bölgedeki rehberlik ve araştırma merkezi (RAM) müdürlüğüne",
+        "is_correct": false
+      },
+      {
+        "option_text": "İl veya ilçe millî eğitim müdürlüğü bünyesinde faaliyet gösteren özel eğitim hizmetleri kuruluna",
+        "is_correct": false
+      },
+      {
+        "option_text": "Elif'in öğrenim gördüğü okuldaki Bireyselleştirilmiş Eğitim Programı (BEP) Geliştirme Birimine",
+        "is_correct": true
+      },
+      {
+        "option_text": "Yalnızca okul müdürü ve Elif'in sınıf öğretmeninden oluşan dar kapsamlı ikili idari komisyona",
+        "is_correct": false
+      },
+      {
+        "option_text": "Elif'in takibini yapan çocuk ve ergen ruh sağlığı uzmanı ile fizyoterapistten oluşan tıbbi kurula",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-028"
+  },
+  {
+    "question_id": "Q-BEP-029",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Öğretmen Selma Hanım, otizm spektrum bozukluğu tanısı olan öğrencisi Efe'nin BEP'inde yer alan \"Efe, dört farklı renkteki küpler arasından 'kırmızı olanı göster' denildiğinde kırmızı küpü gösterir.\" kısa dönemli amacı için \"%80 (4/5) başarılı olma\" ölçütünü belirlemiştir. Selma Hanım'ın öğretim sürecinde Efe'nin bu amaca tam olarak ulaştığına karar verebilmesi için aşağıdakilerden hangisi gerçekleşmelidir?,,,",
+    "options": [
+      {
+        "option_text": "Efe'nin sadece bir kez kırmızı küpü bağımsız olarak ve tesadüfen göstermesi yeterli bir ölçüt kabul edilmelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yapılan ardışık beş değerlendirme denemesinin en az dördünde Efe'nin kırmızı küpü bağımsız ve doğru göstermesi gerekmektedir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Efe'nin öğretmenin güçlü fiziksel yardımıyla da olsa ardışık beş denemenin dördünü mutlaka tamamlaması beklenmelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Efe'nin kırmızı rengin ismini önce sözlü olarak söyleyerek ardından yazarak en az dört kez doğrulaması istenmelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıftaki diğer öğrencilerin de kırmızı rengi tanımada %80 başarı oranına ulaşmasıyla Efe'nin ölçütü karşıladığı onaylanmalıdır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-029"
+  },
+  {
+    "question_id": "Q-BEP-030",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Eğitim-öğretim yılının başında BEP Geliştirme Birimi tarafından hazırlanmış olan bir Bireyselleştirilmiş Eğitim Programı (BEP) ile ilgili olarak süreç içerisinde yapılan değişikliklere dair aşağıdaki ifadelerden hangisi mevzuata uygundur?",
+    "options": [
+      {
+        "option_text": "BEP, yasal ve resmî bir evrak niteliği taşıdığı için onaylandıktan sonra yıl sonuna kadar hiçbir şekilde esnetilemez ve değiştirilemez.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenci hedeflere ulaşmakta büyük zorluk çekse bile, okuldaki genel programın standart yapısını korumak adına aynı planla devam edilir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Planda değişiklik yapma yetkisi yalnızca okul müdürüne aittir ve diğer kurul üyelerinin veya ailenin onayı olmadan doğrudan revize edilebilir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uygulama sırasında yapılan değerlendirmelerde öğrenci düzeyine uygun olmadığı görülen amaçlar veya yöntemler yıl içerisinde güncellenebilir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Yapılacak en ufak eğitimsel güncellemeler için bile öğrencinin rehberlik ve araştırma merkezinden (RAM) yeniden eğitsel tanı alması zorunludur.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-030"
+  },
+  {
+    "question_id": "Q-BEP-031",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bireyselleştirilmiş Eğitim Programı (BEP) geliştirme sürecinde ailenin aktif katılımı yasal bir zorunluluk ve eğitsel bir gerekliliktir. Ancak ailenin, yapılan davetlere rağmen BEP Geliştirme Birimi toplantılarına mazereti nedeniyle katılamadığı durumlarda komisyonun izlemesi gereken resmi yol aşağıdakilerden hangisidir?,",
+    "options": [
+      {
+        "option_text": "Toplantı derhal iptal edilerek ailenin fiziksel olarak okula gelebileceği bir sonraki döneme kadar BEP hazırlıkları tamamen durdurulmalıdır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Alınan tüm eğitsel kararlar ailenin katılımı olmaksızın komisyonca kesinleştirilerek doğrudan uygulamaya konulmalı ve aile bilgilendirilmemelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenci için yeni bir BEP hazırlamak yerine, okuldaki standart genel eğitim programının eksiksiz olarak çocuğa uygulanmasına karar verilmelidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Toplantıda alınan tüm kararlar daha sonra ailenin görüşlerine sunularak paylaşılmalı ve ailenin onaylaması durumunda evrak imza altına alınmalıdır.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ailenin çocuğun eğitim sürecine ilgisiz olduğu varsayılarak rehberlik servisi tarafından okul idaresine yasal soruşturma başlatılması için tutanak tutulmalıdır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-031"
+  },
+  {
+    "question_id": "Q-BEP-032",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel eğitim öğretmeni Merve Hanım, ilkokul 3. sınıfa devam eden hafif düzey zihinsel yetersizliği olan öğrencisi için öğretim yılı başında \"Kaba Değerlendirme Formu\" uygulamaktadır. Merve Hanım, Türkçe dersine yönelik bu formu doldururken öğrencinin bağımsız olarak yapabildiği becerilere (+), yapamadığı becerilere ise (-) işareti koymaktadır. Merve Hanım'ın bu uygulamayı yapmasındaki temel eğitsel amaç aşağıdakilerden hangisidir?,,,,",
+    "options": [
+      {
+        "option_text": "Öğrencinin eğitimsel olarak güçlü ve desteklenmesi gereken yönlerini net biçimde saptayarak BEP'te yer alacak amaçlara zemin hazırlamak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sınıf içerisindeki diğer normal gelişim gösteren akranlarıyla olan kavramsal ve zihinsel başarı farkını resmî olarak raporlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin genel sınıf içindeki akademik başarı sıralamasını saptamak ve dönem sonu verilecek karne notunu şimdiden hesaplamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin zekâ bölümünü (IQ) rakamsal testler aracılığıyla belirleyip kurulda alacağı özel eğitim kategorisini kesinleştirmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin tam zamanlı kaynaştırma eğitiminden çıkarılıp özel eğitim sınıfına alınması için RAM'a yeterli somut kanıt sunmak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-032"
+  },
+  {
+    "question_id": "Q-BEP-033",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bireyselleştirilmiş Eğitim Programı (BEP) kapsamında sadece akademik beceriler değil, gerektiğinde problem davranışları azaltmaya yönelik \"Davranış Değiştirme Programları\" da hazırlanır. Bir öğrenci için problem davranışın azaltılmasına ve yerine yeni bir davranış konulmasına yönelik hedef davranış belirlenirken, bu davranışın aşağıdaki özelliklerden hangisini taşıması yasal ve pedagojik olarak öncelikli hedeflerden biri değildir?,,,",
+    "options": [
+      {
+        "option_text": "Öğrencinin gelecekteki bağımsız yaşamsal pratiklerine doğrudan ve olumlu bir katkı sağlaması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin sosyal çevresiyle ve akranlarıyla olan kişiler arası ilişkilerinde kolaylık sağlaması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Seçilen hedefin öğrencinin mevcut kronolojik yaşına, ilgi alanlarına ve gelişim düzeyine uygun olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Davranış hedefinin tamamen ailenin okul dışındaki konforunu sağlamaya ve aileyi rahatlatmaya yönelik tasarlanması",
+        "is_correct": true
+      },
+      {
+        "option_text": "Kazandırılacak yeni davranışın öğrencinin başka sosyal ortamlara ve sınıf içi etkinliklere girmesini kolaylaştırması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-033"
+  },
+  {
+    "question_id": "Q-BEP-034",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel Eğitim Hizmetleri Yönetmeliği'ne göre hazırlanan Bireyselleştirilmiş Eğitim Programının (BEP) içeriğinde çeşitli temel ögeler yer almaktadır. Öğrencinin takibi ve eğitimin niteliği açısından aşağıdakilerden hangisi BEP dokümanının zorunlu içeriklerinden biri değildir?,",
+    "options": [
+      {
+        "option_text": "Öğrencinin temel demografik bilgileri, sağlık durumu ve daha önce aldığı eğitimlere dair kişisel geçmişi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğretim sürecinde ve başarı değerlendirmesinde öğretmenler tarafından kullanılacak yöntem, teknik ve özel materyaller",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenciye okul içinde sağlanacak destek eğitim hizmetinin spesifik türü, haftalık süresi ve hizmeti kimlerin sunacağı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yıllık bazda belirlenmiş uzun dönemli amaçlar ve bu amaçlara ulaşılmasını sağlayacak ölçülebilir kısa dönemli amaçlar",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin temel eğitim kademesinden (örneğin ilkokul) mezun olduktan sonra lisede yerleşeceği okulun kesin kayıt tercihleri",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-034"
+  },
+  {
+    "question_id": "Q-BEP-035",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "BEP hazırlama sürecinde eğitim planlaması yapılırken öğretmenlerin izlemesi gereken mantıksal ve pedagojik sıralama aşağıdakilerin hangisinde doğru olarak verilmiştir?",
+    "options": [
+      {
+        "option_text": "Amaçların Belirlenmesi → Öğretimin Planlanması → Eğitsel Performansın Belirlenmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Eğitsel Performansın Belirlenmesi → Amaçların Belirlenmesi → Öğretimin Planlanması",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğretimin Planlanması → Eğitsel Performansın Belirlenmesi → Amaçların Belirlenmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Eğitsel Performansın Belirlenmesi → Öğretimin Planlanması → Amaçların Belirlenmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğretimin Planlanması → Amaçların Belirlenmesi → Eğitsel Performansın Belirlenmesi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-035"
+  },
+  {
+    "question_id": "Q-BEP-036",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Yeni atandığı eğitim kurumunda özel eğitim hizmetlerinin aksadığını fark eden Okul Müdürü Hakan Bey, Özel Eğitim Hizmetleri Yönetmeliği doğrultusunda okulda BEP geliştirme birimini toplamaya karar vermiştir. Ancak okuldaki yoğun idari toplantıları ve resmi yazışmaları nedeniyle bu kurula her zaman bizzat başkanlık edemeyeceğini öngörmektedir. İdari mevzuata göre Hakan Bey'in bu durum karşısında yetki devri için atacağı en uygun yasal adım aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "BEP kurul başkanlığını, okulda özel eğitim konusunda akademik olarak en donanımlı kabul edilen rehber öğretmene tamamen devretmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sürecin aksamaması ve aileleri mağdur etmemek adına kurul başkanlığını doğrudan özel eğitim ihtiyacı olan öğrencinin sınıf öğretmenine bırakmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "BEP birimi toplantılarına idare adına başkanlık etmesi ve eğitim sürecini okuldaki diğer birimlerle koordine etmesi için bir müdür yardımcısını görevlendirmek",
+        "is_correct": true
+      },
+      {
+        "option_text": "Toplantıların yasal bir başkan olmadan da resmiyet kazanabileceğini belirterek kurul üyelerinin istedikleri zaman kendi aralarında toplanmasını sağlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kendi idari yoğunluğu gerekçesiyle okulda BEP kurulamayacağını belirterek tüm dosyaların bağlı bulunulan RAM (Rehberlik Araştırma Merkezi) tarafından hazırlanmasını yazılı olarak talep etmek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-036"
+  },
+  {
+    "question_id": "Q-BEP-037",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Okul rehberlik ve psikolojik danışma servislerinde görev yapan rehber öğretmen/psikolojik danışmanların Bireyselleştirilmiş Eğitim Programı (BEP) sürecindeki yasal sorumlulukları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      {
+        "option_text": "BEP Geliştirme Biriminin doğal bir üyesi sıfatıyla planlanan birim toplantılarına aktif olarak katılım sağlarlar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kendi mesleki görev alanlarıyla ilgili olarak öğrencinin psiko-sosyal gelişimini izler ve gerektiğinde birime rapor sunarlar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kaynaştırma öğrencilerinin tüm branş derslerine ait yıllık akademik amaçları tek başlarına yazarak e-Okul sistemine yüklerler.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Okuldaki Rehberlik ve Psikolojik Danışma Servisi ile BEP birimi arasındaki kurumsal iletişimi ve koordinasyonu tesis ederler.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin veya ailenin ihtiyaç duyması hâlinde, birim kararlarına uygun olarak psikolojik yönlendirme ve izleme çalışmalarına destek verirler.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-037"
+  },
+  {
+    "question_id": "Q-BEP-038",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İlkokul 1. sınıf öğrencisi Zeynep için öğretmeni ve BEP Geliştirme Birimi tarafından hazırlanan taslak plan toplantıda ailesine sunulmuştur. Ancak Zeynep'in babası, kızının potansiyelinin çok daha yüksek olduğunu savunarak belirlenen bazı matematik kısa dönemli amaçlarını akademik olarak çok düşük seviyede bulmuş ve BEP belgesini bu hâliyle imzalamak istememiştir. Bu durum karşısında BEP Geliştirme Biriminin atması gereken en doğru pedagojik adım aşağıdakilerden hangisidir?,",
+    "options": [
+      {
+        "option_text": "Babanın özel eğitimci olmadığı gerekçesiyle teknik itirazını reddedip, hazırlanan taslağı ailenin onayı olmadan doğrudan ilçe millî eğitim müdürlüğüne onaylatmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ailenin itirazını dikkate alarak eğitsel performans verilerini aileyle şeffaf bir biçimde yeniden gözden geçirmek ve gerekirse öğretimsel amaçları ortak kararla güncellemek",
+        "is_correct": true
+      },
+      {
+        "option_text": "Aile ile uzlaşılamadığı için Zeynep'in okuldaki eğitimini resmi olarak askıya alarak aileyi zorunlu psikiyatrik danışmanlığa yönlendirmek ve süreci RAM'a devretmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "BEP dosyasını tamamen iptal edip, Zeynep'in yıl sonuna kadar herhangi bir bireysel planı olmadan, sadece dinleyici olarak derslere katılmasına göz yummak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Babanın ısrarlı talebi üzerine, Zeynep'in mevcut performansına uygun olmasa dahi, standart 1. sınıf matematik müfredatını BEP hedefleri olarak aynen dosyaya kopyalamak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-038"
+  },
+  {
+    "question_id": "Q-BEP-039",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Millî Eğitim Bakanlığı kılavuzlarına göre, hazırlanan bir Bireyselleştirilmiş Eğitim Programının (BEP) \"etkili\" olarak kabul edilebilmesi için taşıması gereken temel ilkeler (anahtar ögeler) bulunmaktadır. Aşağıdakilerden hangisi etkili bir BEP'in taşıması gereken bu temel felsefi ve eğitsel ilkelerden biri değildir?",
+    "options": [
+      {
+        "option_text": "Okuldaki öğretmenlerin evrak iş yükünü azaltmak amacıyla öğrencinin bireysel farklılıklarını göz ardı eden standartlaştırılmış tek tip kalıplara dayanması",
+        "is_correct": true
+      },
+      {
+        "option_text": "Bireyin yalnızca yapamadıklarına veya yetersizliklerine değil, güçlü olduğu tüm gelişimsel özelliklerine odaklanan bütüncül bir yapıda olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıf öğretmenleri, branş öğretmenleri, aile, uzmanlar ve okul yönetiminin eş güdümlü katkısıyla, sağlam bir iş birliği içinde hazırlanmış olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Belirlenen tüm uzun ve kısa dönemli amaçların ile fiziksel ortam düzenlemelerinin doğrudan öğrenciyi merkeze alarak kurgulanması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Toplantılarda ve yazılı belgelerde kullanılan akademik dilin ailenin ve diğer tüm paydaşların rahatça anlayabileceği erişilebilirlikte ve açıklıkta olması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-039"
+  },
+  {
+    "question_id": "Q-BEP-040",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bireyselleştirilmiş Eğitim Programında (BEP) kısa dönemli amaçlar (KD",
+    "options": [
+      {
+        "option_text": "yazılırken kullanılan eylemlerin mutlaka \"ölçülebilir ve gözlenebilir\" davranışlar içermesi gereklidir. Buna göre, aşağıdaki eylem bildiren kelimelerden hangisinin kısa dönemli amaçların yazımında kullanılması \"ölçülebilirlik ve gözlenebilirlik\" ilkesine en uygundur?,",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sayıların onluk ve birlik kavramlarını kendi içinde derinlemesine içselleştirir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sosyal kuralların öneminin ve uygulanış mantığının bütünüyle farkına varır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okuduğu metindeki ana karakterin yaşadığı hüznü empati kurarak hisseder.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Önüne konulan dört farklı renkteki kart arasından kırmızı olanı parmağıyla işaret eder.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Fen bilimleri dersinde anlatılan dünyanın şekli konusundaki teorileri zihnen idrak eder.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-040"
+  },
+  {
+    "question_id": "Q-BEP-041",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bireyselleştirilmiş Eğitim Programının (BEP) okul ortamındaki temel eğitsel amacı aşağıdakilerden hangisiyle en doğru biçimde açıklanabilir?",
+    "options": [
+      {
+        "option_text": "Öğrencilerin tümünü standart bir akademik başarı testinde aynı yüksek puana ulaştırmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıf öğretmeninin yıllık ve günlük ders planı hazırlama süreçlerindeki bürokratik yükünü tamamen hafifletmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Özel eğitim ihtiyacı olan öğrencileri, akranlarından izole edilmiş destek eğitim odalarında sürekli tutmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Eğitim kurumunun il genelindeki başarı sıralamasını sadece yetenekli öğrencilerle üst sıralara taşımak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Özel eğitim ihtiyacı olan öğrenciye, potansiyelinden en üst düzeyde yararlanabileceği bireysel eğitim fırsatları sunmak",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-041"
+  },
+  {
+    "question_id": "Q-BEP-042",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel Eğitim Hizmetleri Yönetmeliği'ne göre, Bireyselleştirilmiş Eğitim Programı (BEP) Geliştirme Birimi toplantılarına aşağıdaki kişilerden hangisinin doğrudan katılımı yasal olarak zorunlu tutulmamakla birlikte eğitsel olarak teşvik edilmektedir?",
+    "options": [
+      {
+        "option_text": "Öğrencinin kayıtlı olduğu okulun müdürü veya görevlendireceği müdür yardımcısı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin eğitim sürecini doğrudan yürüten ilgili sınıf öğretmeni",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin eğitimsel ihtiyaçları hakkında bilgi vermek üzere toplantıya katılan velisi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Alınacak kararların merkezinde yer alan özel eğitim ihtiyacı olan öğrencinin kendisi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Okulda görev yapmakta olan rehber öğretmen/psikolojik danışman",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-042"
+  },
+  {
+    "question_id": "Q-BEP-043",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İlkokul 3. sınıf kaynaştırma öğrencisi olan Mert'in okuma yazma becerilerine yönelik informal değerlendirmesi yapılmıştır. Değerlendirmede Mert'in \"Sesleri tanıma\" ve \"Heceleri birleştirme\" becerilerinde başarılı (+), \"Basit cümleleri akıcı okuma\" ve \"Okuduğunu anlama\" becerilerinde ise başarısız (-) olduğu görülmüştür. Bu performans verisinden hareketle BEP Geliştirme Biriminin Mert için belirleyeceği en uygun öncelikli eğitsel gereksinim ve uzun dönemli amaç eşleştirmesi aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Gereksinim: Sesleri tanıma / Amaç: Yıl sonunda tüm harfleri eksiksiz olarak ezbere sayar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Gereksinim: İleri düzey dilbilgisi / Amaç: Yıl sonunda karmaşık metinlerdeki dilbilgisi kurallarını analiz eder.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Gereksinim: Heceleri birleştirme / Amaç: Yıl sonunda heceleri heceleme kurallarına uygun olarak birleştirir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Gereksinim: Akıcı okuma / Amaç: Yıl sonunda basit cümlelerden oluşan metinleri akıcı biçimde okur.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Gereksinim: Yazılı anlatım / Amaç: Yıl sonunda dinlediği bir hikayeyi dikte kurallarına uyarak hatasız yazar.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-043"
+  },
+  {
+    "question_id": "Q-BEP-044",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "BEP kapsamında yer alan kısa dönemli amaçlar yazılırken kullanılan eylemlerin ölçülebilir ve gözlenebilir olması, hedefe ulaşılıp ulaşılmadığının net bir şekilde kanıtlanması açısından zorunludur. Aşağıdaki amaç cümlelerinden hangisi bu \"ölçülebilirlik ve gözlenebilirlik\" kuralını doğrudan ihlal etmektedir?",
+    "options": [
+      {
+        "option_text": "Verilen iki basamaklı iki doğal sayıyı alt alta yazarak toplama işlemi yapar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sosyal bilgiler dersinde anlatılan kültürel mirasımızın önemini zihnen derinlemesine kavrar.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Kendi başına kıyafetlerinin düğmelerini uygun deliklerden geçirerek eksiksiz ilikler.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dinlediği kısa bir masalın ana karakterlerini sırasıyla ve eksiksiz olarak sözlü biçimde sayar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kendisine gösterilen üç farklı renkteki top arasından mavi renkli olanı parmağıyla işaret eder.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-044"
+  },
+  {
+    "question_id": "Q-BEP-045",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bireyselleştirilmiş Eğitim Programlarının (BEP) hazırlanma süreci ve planın geçerlilik süresiyle ilgili olarak Millî Eğitim Bakanlığı kılavuzlarında belirtilen genel zaman çizelgesi aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Yalnızca bir akademik yarıyıl (dönem) için kurgulanıp yarıyıl bitiminde tamamen iptal edilir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin o okuldan mezun olacağı tarihe kadar tek bir standart plan çerçevesinde ilerler.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Genellikle bir eğitim-öğretim yılı için hazırlanıp geçerliliği yılın başında başlayıp sonunda biter.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Her ayın ilk haftasında kurullar yeniden toplanarak eski plan rafa kaldırılır ve yenisi yazılır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece öğrencinin notları düşmeye başladığında veya sınıf tekrarı yaptığında devreye sokulur.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-045"
+  },
+  {
+    "question_id": "Q-BEP-046",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bireyselleştirilmiş Eğitim Programı (BEP) hazırlama süreci mantıksal ve hiyerarşik adımları takip eder. Bu süreçte yer alan \"Öğrencinin eğitsel performansının değerlendirilmesi\" aşaması tamamlandıktan hemen sonra geçilmesi gereken pedagojik adım aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Öğrencinin performansına göre öncelikli olarak öğrenme ihtiyacı duyduğu alanların belirlenmesi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğrencinin tıbbi öz geçmişi hakkında kişisel, ailevi ve klinik bilgi ve verilerin toplanması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Belirlenen uzun ve kısa dönemli amaçlara yönelik kullanılacak fiziksel materyallerin satın alınması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Aileye tatillerde evde yapmaları gereken özel eğitim uygulamaları için zorunlu sorumluluklar verilmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Eğitim yılı sonu yapılacak olan genel BEP değerlendirme toplantısı için kesin bir saat saptanması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-046"
+  },
+  {
+    "question_id": "Q-BEP-047",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme yetersizliği tanısı olan 2. sınıf öğrencisi Emre için BEP hazırlanırken, cihaz kullanımından maksimum fayda sağlaması amacıyla fiziksel ortam düzenlemelerine karar verilecektir. BEP Geliştirme Biriminin Emre'nin eğitim ortamına ilişkin alacağı aşağıdaki kararlardan hangisi, kaynaştırma prensipleri ve öğrencinin erişilebilirliği açısından en kapsayıcı uygulamadır?",
+    "options": [
+      {
+        "option_text": "Dikkatinin sınıf dışındaki etkenlere kaymaması için sınıfın en arka köşesinde tek başına bir sıraya oturtulması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğretmenin dersi sınıfın tam ortasından sürekli yüksek sesle ve abartılı jestler kullanarak anlatması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ses yankısını azaltmak için sınıf perdelerinin çekilmesi ve öğretmeninin dudaklarını görebileceği ön sıraya oturtulması",
+        "is_correct": true
+      },
+      {
+        "option_text": "İşitme cihazının yüksek ses seviyesinin diğer öğrencileri rahatsız etmesini önlemek için ders sırasında cihazın kapatılması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Akranlarıyla iletişim kurmakta zorlanacağı varsayılarak eğitiminin tamamını destek eğitim odasında yalıtılmış halde alması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-047"
+  },
+  {
+    "question_id": "Q-BEP-048",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel eğitim ihtiyacı olan bireylerin gelişim özellikleri, gereksinimleri, ilgileri ve mevcut performansları doğrultusunda aile, öğretmen ve ilgili uzmanların eş güdümlü çalışmasıyla şekillendirilen yazılı eğitim dokümanına ne ad verilir?",
+    "options": [
+      {
+        "option_text": "Özel Eğitim Rehabilitasyon Destek Planı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bütünleştirilmiş Yıllık Akademik Gelişim Dosyası",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+        "is_correct": true
+      },
+      {
+        "option_text": "Rehberlik ve Araştırma Merkezi Yöneltme Raporu",
+        "is_correct": false
+      },
+      {
+        "option_text": "Özel Eğitim İhtiyacı Tamamlayıcı Etkinlik Formu",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-048"
+  },
+  {
+    "question_id": "Q-BEP-049",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Tam zamanlı kaynaştırma yoluyla eğitim alan bir öğrencinin BEP süreci planlanırken, bazı eğitimcilerin \"Öğrenci mevcut sınıf müfredatının çok gerisinde, o yüzden ona okul programından bağımsız, kendi zeka seviyesine uygun tamamen ayrı bir ders içeriği oluşturmalıyız\" diyerek planı standart müfredattan kopuk hazırladıkları görülmektedir. Bu uygulama, BEP hazırlanma mevzuatının hangi temel prensibine açıkça aykırılık teşkil eder?",
+    "options": [
+      {
+        "option_text": "BEP'in, öğrencinin destek eğitim odasında göreceği sadece kısıtlı seçmeli derslerden oluşması zorunluluğuyla",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kaynaştırma öğrencilerinin yalnızca resim, müzik ve beden eğitimi gibi uygulamalı derslerde akranlarıyla bir arada olması gerektiğiyle",
+        "is_correct": false
+      },
+      {
+        "option_text": "Eğitsel planlamalarda okul müdürünün inisiyatifi dışında hiçbir akademik branş öğretmeninin karar alamayacağı yönergesiyle",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin akademik hedeflerinin belirlenmesinde sadece okul rehberlik servisinin uyguladığı zeka testlerinin belirleyici olması durumuyla",
+        "is_correct": false
+      },
+      {
+        "option_text": "BEP'in, öğrencinin kayıtlı bulunduğu okulda tüm öğrenciler için uygulanan genel eğitim programı temel alınarak hazırlanması esasıyla",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-049"
+  },
+  {
+    "question_id": "Q-BEP-050",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "BEP dosyasında amaçların belirlenmesi aşamasında \"Uzun Dönemli Amaçlar (UD",
+    "options": [
+      {
+        "option_text": "\" ve \"Kısa Dönemli Amaçlar (KD",
+        "is_correct": true
+      },
+      {
+        "option_text": "\" olmak üzere hiyerarşik bir yapı kurgulanır. Bu iki kavram arasındaki hiyerarşik ve işlevsel ilişkiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+        "is_correct": true
+      },
+      {
+        "option_text": "KDA'lar, yıl sonunda ulaşılması beklenen UDA'ları gerçekleştirmek için basamaklandırılmış, daha özel ve ayrıntılı alt hedeflerdir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "UDA'lar sadece öğrencinin sosyal becerileri için kaleme alınırken, KDA'lar müfredattaki zorunlu akademik becerileri kapsar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bir BEP yılı boyunca ulaşılması en zor olan hedeflere KDA denirken, öğrencinin hemen yapabildiği basit işlere UDA adı verilir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "UDA'lar sınıf öğretmeni tarafından tek başına yazılırken, KDA'ların belirlenmesi tamamen tıbbi tedavi uygulayan doktorlara bırakılır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "KDA'lara öğretim yılı içerisinde ulaşılamasa dahi, öğretmen doğrudan öğrenciyi UDA'yı başarmış olarak resmi sisteme kaydetmelidir.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-050"
+  },
+  {
+    "question_id": "Q-BEP-051",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Öğretmen Cengiz Bey, BEP hazırladığı kaynaştırma öğrencisi için matematik dersinde \"Dört farklı geometrik şekil arasından kare olanı gösterir.\" şeklinde bir kısa dönemli amaç belirlemiş ve bu amacın gerçekleşmesi için \"%80 (4/5)\" başarı ölçütünü koymuştur. Cengiz Bey'in, öğrencisinin bu amaca tam anlamıyla ulaştığına karar verebilmesi için aşağıdakilerden hangisinin gerçekleşmesi beklenir?",
+    "options": [
+      {
+        "option_text": "Öğrencinin girdiği ilk ve tek denemede kare olan şekli, öğretmenin fiziksel yardımıyla doğru olarak göstermesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıftaki diğer arkadaşlarıyla birlikte grup halinde yapılan etkinliklerde öğrencinin kareye bakarak sessiz kalması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kare ile birlikte diğer tüm karmaşık geometrik şekillerin (altıgen, prizma vb.) adlarını sözlü olarak hatasız telaffuz etmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin art arda girdiği beş farklı değerlendirme denemesinin dördünde kareyi bağımsız ve doğru şekilde göstermesi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Beş farklı etkinlik kâğıdı üzerine sadece cetvel kullanarak ölçülü bir biçimde hatasız kare çizimlerini kendi kendine yapması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-051"
+  },
+  {
+    "question_id": "Q-BEP-052",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Sınıf içi etkinlikler sırasında özel öğrenme güçlüğü olan 4. sınıf öğrencisi Burak, okuma saatlerinde sık sık sırasında ayağa kalkarak sınıf içerisinde dolaşmakta ve diğer arkadaşlarının etkinlik materyallerine dokunmaktadır. Bu durumun kronikleşmesini önlemek isteyen BEP geliştirme birimi, Burak için bir \"Davranış Değiştirme Programı\" hazırlamaya karar vermiştir. Eğitsel yaklaşımlara göre hazırlanacak bu programın etkinliği açısından atılması gereken ilk sistematik adım aşağıdakilerden hangisi olmalıdır?",
+    "options": [
+      {
+        "option_text": "Davranışın sıklığını, süresini ve hangi öncüllerle ortaya çıktığını belirlemek amacıyla \"Anekdot Kaydı\" veya \"A-B-C Betimsel Analiz\" formları ile veri toplamak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Burak'ı bu problem davranışından dolayı uyarmak amacıyla sınıftan dışarı çıkarmak ve aileyi okula çağırarak öğrencinin eve gönderilmesini sağlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun ailesine okul idaresi aracılığıyla Burak'ın bu davranışı bir daha asla yapmayacağına dair resmi bir taahhütname evrakı imzalatmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Akademik okuma etkinliklerinin tamamını iptal ederek sınıfın tüm dikkatini doğrudan Burak'ın ilgi duyduğu serbest oyun saatlerine yönlendirmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Burak'ın bulunduğu sınıf şubesini idari kararla derhal değiştirmek ve uyum problemi olduğunu Rehberlik Araştırma Merkezine resmi yazıyla bildirmek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-052"
+  },
+  {
+    "question_id": "Q-BEP-053",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Eğitim-öğretim yılının başında hazırlanmış ve onaya sunulmuş olan bir BEP'te süreç içerisinde esneklik sağlanıp sağlanamayacağına dair aşağıdaki uygulamalardan hangisi yasal ve pedagojik olarak yanlıştır?",
+    "options": [
+      {
+        "option_text": "Uygulama sırasında mevcut amaçların öğrencinin düzeyine ağır geldiği görülürse plan yıl içerisinde güncellenebilir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Eğitsel planın içerisindeki akademik kapsam, öğrencinin öğrenme hızına ve ilerlemesine bağlı olarak daraltılabilir veya genişletilebilir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin gelişimine uygun olmadığı fark edilen bir amaç tamamen öğretim hedeflerinden çıkarılarak yerine yenisi eklenebilir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bireyselleştirilmiş eğitim programında yapılan bu güncellemelerin veya değişikliklerin mutlaka öğrencinin ailesine bildirilmesi gerekir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yıl başında onaylanan planda en ufak bir yöntem değişikliği yapmak için dahi öğrencinin yeniden hastaneye sevk edilerek güncel tıbbi tanı alması zorunludur.",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-053"
+  },
+  {
+    "question_id": "Q-BEP-054",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Okullarda kaynaştırma/bütünleştirme uygulamaları kapsamında eğitimlerine devam eden özel eğitim ihtiyacı olan öğrencilerden kimlerin destek eğitim odasında eğitim alacağını, bu hizmetin hangi dersler için sunulacağını ve haftalık kaç ders saati olacağını belirleme yetkisi mevzuat gereği aşağıdakilerden hangisine aittir?",
+    "options": [
+      {
+        "option_text": "Öğrencinin öğrenim gördüğü okuldaki Bireyselleştirilmiş Eğitim Programı (BEP) Geliştirme Birimine",
+        "is_correct": true
+      },
+      {
+        "option_text": "İl veya İlçe Millî Eğitim Müdürlükleri bünyesinde kurulan Özel Eğitim Hizmetleri Kuruluna",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin ikametgahının bulunduğu bölgedeki Rehberlik ve Araştırma Merkezi (RAM) Müdürlüğüne",
+        "is_correct": false
+      },
+      {
+        "option_text": "Özel eğitim uygulamalarını genel olarak yürüten Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğüne",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin tıbbi takibini ve tedavi süreçlerini yürüten ilgili hastanedeki Çocuk Psikiyatrisi Anabilim Dalına",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-054"
+  },
+  {
+    "question_id": "Q-BEP-055",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Etkili bir Bireyselleştirilmiş Eğitim Programının (BEP) taşıması gereken anahtar özellikler (ilkeler) bulunmaktadır. Bu ilkeler; öğrenci merkezli olma, iş birliğiyle hazırlanma, bütüncül olma, kapsayıcı ve erişilebilir olma gibi felsefi temellere dayanır. Buna göre aşağıdakilerden hangisi BEP'in \"öğrenci merkezli, bütüncül ve bireysel olma\" ilkesine aykırı bir yaklaşımdır?",
+    "options": [
+      {
+        "option_text": "Çocuğun sadece akademik yetersizliklerine odaklanmak yerine, ilgi duyduğu sanat veya spor alanlarındaki güçlü yönlerine de planda yer verilmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin tıbbi engel grubuna bakılarak, çocuğa özgü hiçbir eğitsel performans değerlendirmesi yapılmadan o grup için üretilmiş hazır kalıp standart bir planın aynen uygulanması",
+        "is_correct": true
+      },
+      {
+        "option_text": "Bireyin okuldaki gelişiminin sadece ders saatleriyle sınırlandırılmayıp, teneffüs, yemekhane ve okul servisi gibi sosyal kullanım alanlarını da kapsaması",
+        "is_correct": false
+      },
+      {
+        "option_text": "BEP kapsamında kurgulanan amaçların sadece okul ortamında kalmaması ve ev ortamında da desteklenmesi için etkili bir aile eğitimi sürecine yer verilmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin dersine giren branş öğretmenlerinin, öğrencinin destek eğitim ihtiyacını belirlerken o derse özgü kaba değerlendirme formları ile birime somut veri sunması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-055"
+  },
+  {
+    "question_id": "Q-BEP-056",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel Eğitim Hizmetleri Yönetmeliği'ne göre, Bireyselleştirilmiş Eğitim Programı (BEP) Geliştirme Birimi içerisinde okul idaresi, öğretmenler, aile ve uzmanlar yer alır. Bu bağlamda, kurulda yer alan rehber öğretmen/psikolojik danışmanın BEP sürecindeki temel işlevi aşağıdakilerden hangisinde doğru ifade edilmiştir?",
+    "options": [
+      {
+        "option_text": "Tüm özel eğitim ihtiyacı olan kaynaştırma öğrencilerine ait branşların uzun ve kısa dönemli amaçlarını yazıp resmi e-Okul sistemine tek başına işlemek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kaynaştırma öğrencilerinin özel tıbbi tanılamalarını bizzat psikometrik testlerle yaparak kullanacakları dikkati artırıcı ilaçların okul içi dozlarını ayarlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kendi mesleki görev alanıyla ilgili olarak öğrencinin psiko-sosyal gelişimini yakından izlemek ve rehberlik servisi ile BEP birimi arasındaki kurumsal koordinasyonu sağlamak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Destek eğitim odalarında haftada kaç saat ders verileceğini tek başına belirleyip branş öğretmenlerine bizzat maaş karşılığı ek ders görev dağılımı yapmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Toplantılara çeşitli mazeretlerle katılamayan velilerin yerine resmi vekaletname olmadan imza atarak BEP evraklarının yasal işleyiş sürecini okul idaresi adına hızlandırmak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-056"
+  },
+  {
+    "question_id": "Q-BEP-057",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bireyselleştirilmiş Eğitim Programında (BEP) yer alan uzun ve kısa dönemli amaçlara öğrencinin ne düzeyde ulaştığının resmi olarak belirlenmesi ve planın geçerliliğinin ölçülmesi amacıyla \"Genel BEP Değerlendirmesi\" yapılır. Millî Eğitim Bakanlığı özel eğitim kılavuzlarına göre bu \"Genel BEP Değerlendirmesi\"nin yapılması gereken temel zaman dilimi aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Planın uygulandığı mevcut eğitim-öğretim yılının sonunda",
+        "is_correct": true
+      },
+      {
+        "option_text": "BEP içerisindeki her bir ders saatinin bitiminde anlık olarak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun okula yeni kayıt yaptırdığı eylül ayının ilk gününde",
+        "is_correct": false
+      },
+      {
+        "option_text": "İlçe özel eğitim kurulunun rutin olarak toplandığı her ayın ilk haftasında",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin bulunduğu okul kademesinden (örneğin liseden) tamamen mezun olduğu gün",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-057"
+  },
+  {
+    "question_id": "Q-BEP-058",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Orta düzey zihinsel yetersizliği olan 6. sınıf öğrencisi Can’ın kişisel bakım ve günlük yaşam becerilerine yönelik kaba değerlendirmesinde; \"Ellerini kendi başına yıkar, dişlerini macunla fırçalar ancak ayakkabı bağcıklarını bağlamada ve kıyafetlerinin düğmelerini iliklemede bağımsız hareket edemez.\" performans verisine ulaşılmıştır. Bu veriye dayalı olarak Can'ın BEP'i için yazılacak olan aşağıdaki kısa dönemli amaçlardan hangisi, öncelikli öğrenme ihtiyacı ve becerilerin hiyerarşik sıralaması bağlamında pedagojik olarak en mantıklı hedeftir?",
+    "options": [
+      {
+        "option_text": "Can, her sabah uyandığında saçlarını briyantinle şekillendirerek taramayı alışkanlık haline getirir ve okula öyle gelir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Can, okulda izci kulübü tarafından düzenlenen karmaşık ip düğümleme yarışmalarına katılarak birinci sırayı alır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Can, kendisine model olma şeklinde sözel ipucu verildiğinde kazağının en üstteki geniş düğmesini iliğinden geçirerek hatasız ilikler.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Can, diş fırçalama becerisini BEP'ten tamamen çıkararak yıl boyunca sadece zorlu giyinme becerilerine odaklanır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Can, bir hafta sonu alışveriş merkezinde beğendiği karmaşık bağcıklı spor ayakkabıyı ailesinden kendi başına nakit ödeme yaparak satın alır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-058"
+  },
+  {
+    "question_id": "Q-BEP-059",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Eğitim-öğretim yılı sonunda yapılan Genel BEP değerlendirmesi toplantısında, öğrencinin bazı kısa dönemli amaçlara henüz ulaşamadığı, ancak bazılarında dikkate değer bir ilerleme kaydettiği görülmüştür. Bu değerlendirme sonucunun öğrencinin bir sonraki yıl eğitim planlamasına (yeni BEP'ine) yansıması gereken temel yasal/pedagojik yaklaşım aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Öğrencinin akademik başarısızlığına kesin hükmedilerek tam zamanlı kaynaştırma eğitiminden alınıp derhal özel eğitim okullarına yönlendirilmesi için acil rapor yazılması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin o dersi başaramayacağı kesinleştiği ve yeteneksiz olduğu kabul edildiği için bir sonraki yıl o branşın öğrencinin BEP kapsamından tamamen çıkarılması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Başarılamayan veya devam eden amaçların, öğrencinin performans durumu yeniden gözden geçirilerek öğretim yöntemleri farklılaştırılıp yeni plana aktarılıp aktarılmayacağına karar verilmesi",
+        "is_correct": true
+      },
+      {
+        "option_text": "İlgili branş öğretmenlerinin performans düşüklüğü gerekçesiyle başarısız amaçların tamamından dolayı okul idaresine yazılı savunma vermek zorunda bırakılması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Çocuğun sadece başarılı olduğu derslerden üst sınıfa geçmesine izin verilip, başarısız olduğu amaçlar için bir yıl boyunca aynı sınıfı tekrar etmesinin yasal olarak zorunlu kılınması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-059"
+  },
+  {
+    "question_id": "Q-BEP-060",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İlkokul 1. sınıfa yeni başlayan ve hafif düzeyde otizm spektrum bozukluğu olan Ece için sınıf öğretmeni eğitim-öğretim yılının başında bir BEP hazırlayacaktır. Öğretmenin hedefleri belirlemeden önce Ece'nin mevcut durumunda harfleri tanıma, ritmik sayıları ayırt etme ve yönerge alma gibi özelliklerini doğru biçimde belirlemesi gerekmektedir. Öğretmenin \"Eğitsel Performans\" aşamasında Ece için kullanacağı en uygun veri toplama süreci aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Türkiye genelinde norm kadrosu oluşturulmuş çoktan seçmeli standart ulusal sınavları Ece'ye uygulayarak zeka yüzdelik dilimini çıkarmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kaba değerlendirme formları, öğrencinin çalışma örneği analizleri ve sınıf içi doğal gözlem kayıtları gibi okul tabanlı informal değerlendirme araçlarını kullanmak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ece'nin hastaneden almış olduğu tıbbi sağlık kurulu raporundaki teşhis kodlarına ve ilaç reçetelerine bakarak onun okuma yazma becerilerini tahmin etmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okul müdürü ve müdür yardımcılarından oluşan geniş bir heyetin çocuğu bir saat boyunca mülakata alarak tüm derslere ait sözlü başlangıç notunu vermesini sağlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "İnternetten standart olarak indirdiği ileri düzey uluslararası zeka testlerini bizzat Ece'ye kendi sınıf ortamında uygulayarak klinik IQ puanını hesaplamak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-060"
+  },
+  {
+    "question_id": "Q-BEP-061",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "1997 yılında yürürlüğe giren ve Türkiye'de özel eğitim ihtiyacı olan bireyler için Bireyselleştirilmiş Eğitim Programı (BEP) geliştirilmesini ve uygulanmasını ilk kez yasal bir zorunluluk hâline getiren mevzuat aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "222 sayılı İlköğretim ve Eğitim Kanunu",
+        "is_correct": false
+      },
+      {
+        "option_text": "1739 sayılı Millî Eğitim Temel Kanunu",
+        "is_correct": false
+      },
+      {
+        "option_text": "5378 sayılı Engelliler Hakkında Kanun",
+        "is_correct": false
+      },
+      {
+        "option_text": "652 sayılı Millî Eğitim Bakanlığının Teşkilat ve Görevleri Hakkında KHK",
+        "is_correct": false
+      },
+      {
+        "option_text": "573 sayılı Özel Eğitim Hakkında Kanun Hükmünde Kararname",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-061"
+  },
+  {
+    "question_id": "Q-BEP-062",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bireyselleştirilmiş Eğitim Programının (BEP) işlevleri ve yararları değerlendirildiğinde, aşağıdakilerden hangisi BEP'in sağladığı eğitsel avantajlar arasında gösterilemez?",
+    "options": [
+      {
+        "option_text": "Aile ve okul personeli arasında, öğrencinin gelişimiyle ilgili etkili bir iletişim aracı olarak işlev görmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin bilgi ve beceri eksiklerinin sınıf içinde hangi yöntemlerle giderileceğine dair öğretmene yol göstermesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Özel eğitim gerektiren öğrencinin gelişimini nesnel ölçütlerle izlemek için öğretmene yardımcı olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin okuldaki akademik başarısını standart eğitim normlarına göre diğer öğrencilerle kıyaslama imkânı sunması",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çocuğun engel türünden veya gelişiminden kaynaklanan farklı bireysel gereksinimlerini açıkça belirlemesi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-062"
+  },
+  {
+    "question_id": "Q-BEP-063",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel öğrenme güçlüğü tanısı olan ve kaynaştırma eğitimine devam eden 3. sınıf öğrencisi Can için sınıf öğretmeni, \"Kaba Değerlendirme Formu\" kullanarak informal bir değerlendirme yapmıştır. Değerlendirme sonucunda Can'ın \"10'dan geriye doğru sayma\" becerisinde zorlandığı görülmüştür. Bu performans verisine dayanarak BEP geliştirme biriminin Can için belirleyeceği \"Uzun Dönemli Amaç (UD",
+    "options": [
+      {
+        "option_text": "\" ve bu amaca hizmet eden \"Kısa Dönemli Amaç (KD",
+        "is_correct": false
+      },
+      {
+        "option_text": "\" hiyerarşisi aşağıdakilerin hangisinde en doğru şekilde kurgulanmıştır?",
+        "is_correct": false
+      },
+      {
+        "option_text": "UDA: Can, 100'e kadar olan sayılarla eldesiz toplama işlemi yapar. KDA: Can, 1'den 10'a kadar olan rakamları defterine yazar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "UDA: Can, matematik dersinde yıl sonunda 1'den 50'ye kadar ileriye ve geriye ritmik sayar. KDA: Can, öğretmeni sorduğunda 10'dan 1'e doğru ardışık olarak bağımsız geriye sayar.",
+        "is_correct": true
+      },
+      {
+        "option_text": "UDA: Can, ilkokul matematik dersindeki tüm doğal sayıları eksiksiz tanır. KDA: Can, tahtaya yazılan iki basamaklı sayıları arkadaşlarına yüksek sesle okur.",
+        "is_correct": false
+      },
+      {
+        "option_text": "UDA: Can, onluk bozarak çıkarma işlemlerini kendi kendine yapar. KDA: Can, derste 20'den geriye doğru ritmik sayma egzersizlerine katılır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "UDA: Can, sayı basamaklarının mantığını bütünüyle kavrar. KDA: Can, 10'dan geriye doğru sayma kuralını içselleştirir.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-063"
+  },
+  {
+    "question_id": "Q-BEP-064",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "BEP hazırlanırken belirlenen kısa dönemli amaçların gözlenebilir ve ölçülebilir nitelikte eylemler içermesi gerekmektedir. Buna göre aşağıdaki amaç ifadelerinde kullanılan eylemlerden hangisi bu kurala uygun, ölçülebilir bir örnek oluşturur?",
+    "options": [
+      {
+        "option_text": "Sosyal bilgiler dersinde anlatılanları dikkatlice dinleyerek konunun özünü anlar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Arkadaşlarıyla oyun oynarken sırasını beklemesi gerektiğinin farkına varır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Toplama ve çıkarma işlemleri arasındaki temel mantıksal ilişkiyi bütünüyle bilir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kendisine verilen iki basamaklı iki doğal sayıyı alt alta yazarak doğru şekilde toplar.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Çevresindeki tüm canlıların yaşam haklarına saygı duymayı duygusal olarak içselleştirir.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-064"
+  },
+  {
+    "question_id": "Q-BEP-065",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel Eğitim Hizmetleri Yönetmeliği'ne göre okullarda oluşturulan Bireyselleştirilmiş Eğitim Programı (BEP) Geliştirme Birimine mevzuat gereği aşağıdakilerden hangisi başkanlık eder?",
+    "options": [
+      {
+        "option_text": "Öğrencinin eğitiminden sorumlu sınıf öğretmeni",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okul rehber öğretmeni veya psikolojik danışmanı",
+        "is_correct": false
+      },
+      {
+        "option_text": "İl/İlçe özel eğitim hizmetleri kurulu temsilcisi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okul müdürü veya görevlendireceği bir müdür yardımcısı",
+        "is_correct": true
+      },
+      {
+        "option_text": "Bölgedeki rehberlik ve araştırma merkezi (RAM) müdürü",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-065"
+  },
+  {
+    "question_id": "Q-BEP-066",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bireyselleştirilmiş Eğitim Programı (BEP) hazırlama sürecinin aşamaları belirli bir mantıksal sıralama izler. Bu sürece göre, \"öğrenci hakkında kişisel ve sağlık bilgilerinin toplanması\" şeklindeki ilk adımdan hemen sonra gerçekleştirilmesi gereken basamak aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Öğrencinin mevcut eğitsel performansının detaylı biçimde değerlendirilmesi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Yıl sonunda ulaşılması beklenen uzun dönemli amaçların kesin olarak netleştirilmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Belirlenen amaçlara ulaşmak için kullanılacak spesifik öğretim yöntemlerinin seçilmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin eğitim ortamında ihtiyaç duyacağı fiziksel erişim düzenlemelerinin yapılması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öncelikli öğrenme ihtiyaçlarının belirlenerek kısa dönemli amaçların tek tek yazılması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-066"
+  },
+  {
+    "question_id": "Q-BEP-067",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Hafif düzeyde zihinsel yetersizliği olan 5. sınıf öğrencisi Ayşe'nin BEP toplantısı için velisine davetiye gönderilmiş, ancak veli mazereti nedeniyle toplantıya katılamamıştır. BEP Geliştirme Birimi, Ayşe'nin mevcut performansına göre eğitim hedeflerini belirlemiş ve taslak planı oluşturmuştur. Ailenin BEP sürecindeki yasal ve eğitsel rolü dikkate alındığında, birimin bu noktada atması gereken yasal ve pedagojik adım aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Veli toplantıya katılmadığı için taslak planı derhal iptal ederek standart okul müfredatını uygulamaya koymak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Toplantıda alınan eğitsel kararları ailenin görüşüne sunarak paylaşmak ve ailenin onayı alındıktan sonra planı imzalatıp uygulamak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ailenin sürece ilgisiz olduğu kanaatine vararak çocuğun tüm eğitimini rehberlik ve araştırma merkezinin inisiyatifine bırakmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin okul içindeki özel eğitim hizmetlerini durdurarak aileyi yazılı olarak ilçe millî eğitim müdürlüğüne şikâyet etmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Velinin onayına hiçbir şekilde gerek duymadan sadece öğretmenlerin imzasıyla planı kesinleştirip doğrudan e-Okul'a işlemek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-067"
+  },
+  {
+    "question_id": "Q-BEP-068",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Millî Eğitim Bakanlığı kılavuzlarına göre etkili bir Bireyselleştirilmiş Eğitim Programının (BEP) öğrenci merkezli, kapsayıcı ve iş birliğiyle hazırlanmış olması beklenir. Aşağıdakilerden hangisi etkili bir BEP'in taşıması gereken temel özelliklerden biri değildir?",
+    "options": [
+      {
+        "option_text": "Çocuğun sadece akademik yetersizliklerine değil, güçlü olduğu gelişim alanlarına da odaklanması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Planda belirlenen eğitim hedeflerinin öğrencinin kendi ihtiyaçlarına özgü ve işlevsel olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Aile ve okul personeli arasındaki iletişim bağını sürekli ve eş güdümlü kılan bir araç olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kısa, öz ifadelerle ve tüm paydaşların rahatça anlayabileceği erişilebilir bir dille yazılması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bütün yetersizlik türleri için standartlaştırılmış, kalıplaşmış ve tek tip hedeflerden oluşması",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-068"
+  },
+  {
+    "question_id": "Q-BEP-069",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel eğitim ihtiyacı olan öğrencinin genellikle bir eğitim-öğretim yılı gibi geniş bir zaman dilimi içerisinde kazanması beklenen genel, kapsayıcı ve temel öğretimsel hedefleri ifade eden BEP kavramı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Kısa Dönemli Amaç (KD",
+        "is_correct": false
+      },
+      {
+        "option_text": "",
+        "is_correct": false
+      },
+      {
+        "option_text": "Eğitsel Performans",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uzun Dönemli Amaç (UD",
+        "is_correct": true
+      },
+      {
+        "option_text": "",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bireyselleştirilmiş Geçiş Planı",
+        "is_correct": false
+      },
+      {
+        "option_text": "Davranış Değiştirme Programı",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-069"
+  },
+  {
+    "question_id": "Q-BEP-070",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Sınıf öğretmeni Mehmet Bey, kaynaştırma öğrencisi Elif için dönem başında BEP hazırlamış ve matematik dersinde \"Eldeli toplama işlemini bağımsız yapar\" hedefini koymuştur. Ancak uygulama sürecindeki ilk aylarda Elif'in eldesiz toplama işlemlerinde bile zorlandığı, konuyu kavrayamadığı görülmüştür. BEP'in esnek yapısı ve değerlendirme ilkeleri göz önüne alındığında, Mehmet Bey'in bu durumda sergilemesi gereken en doğru yaklaşım aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Belirlenen iddialı amaca ulaşana kadar hiçbir değişiklik yapmadan aynı öğretim yöntemini ısrarla uygulamaya devam etmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Elif'in matematik dersindeki başarısızlığını kabul edip, yıl sonuna kadar bu dersin etkinliklerinden onu tamamen muaf tutmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Mevcut amacı öğrencinin güncel düzeyine uygun olacak şekilde daraltmak veya tamamen değiştirip eldesiz toplama üzerinden planı revize etmek",
+        "is_correct": true
+      },
+      {
+        "option_text": "Planda değişiklik yapmak için zorunlu olarak dönem sonunu beklemek ve yıl sonu BEP değerlendirme raporuna hedefe ulaşılamadığını yazmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Planın mühürlü yasal bir evrak olduğunu ve onaylandıktan sonra yıl içinde kesinlikle esnetilemeyeceğini savunarak standart uygulamayı sürdürmek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-070"
+  },
+  {
+    "question_id": "Q-BEP-071",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "BEP'te yer alan kısa dönemli amaçlara (KD",
+    "options": [
+      {
+        "option_text": "ulaşılıp ulaşılmadığını somut biçimde test edebilmek için bir \"ölçüt\" (gerçekleşme düzeyi) belirlenmesi zorunludur. Aşağıdaki ifadelerden hangisi, bir amacın tam olarak gerçekleştiğine karar vermek için doğru ve pedagojik bir ölçüt kullanımını yansıtır?",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin verilen okuma görevini büyük bir hevesle ve istekli bir tutumla yapması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin sınıf arkadaşlarına bakarak görevi kendi başına yapıyormuş gibi görünmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin art arda yapılan 5 yapılandırılmış değerlendirme denemesinin 4'ünde (%80) bağımsız başarılı olması",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğretmenin yoğun fiziksel ve sözel yardımını aralıksız alarak etkinlik kâğıdını tamamlayabilmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin bir eğitim yılı boyunca en az bir defa tesadüfen de olsa öğretmenin sorusuna doğru cevabı vermesi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-071"
+  },
+  {
+    "question_id": "Q-BEP-072",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Öğrencinin gelişim veya disiplin alanlarındaki mevcut durumunu özetleyen, hangi konularda akranlarına göre güçlü olduğunu ve hangi alanlarda öğretimsel olarak desteklenmesi gerektiğini informal değerlendirme sonuçlarına dayalı biçimde belirten BEP ögesi aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Eğitsel Performans",
+        "is_correct": true
+      },
+      {
+        "option_text": "Özel Öğretim Yöntemleri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fiziksel Çevre Düzenlemesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uzun Dönemli Amaç",
+        "is_correct": false
+      },
+      {
+        "option_text": "Başarı ve Gerçekleşme Ölçütü",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-072"
+  },
+  {
+    "question_id": "Q-BEP-073",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Otizm spektrum bozukluğu olan 7. sınıf öğrencisi Kerem, ders sırasında sık sık sırasından kalkarak ellerini çırpmakta ve uygun olmayan yüksek sesler çıkarmaktadır. Okuldaki BEP geliştirme birimi, bu duruma müdahale etmek üzere Kerem için bir \"Davranış Değiştirme Programı\" uygulamaya karar vermiştir. Bu programın ilk hazırlık aşamasında, davranışın öncesini (öncül), davranışın kendisini ve sonrasını saptayarak problemin temel kaynağını analiz etmek amacıyla hangi veri toplama aracının kullanılması en uygundur?",
+    "options": [
+      {
+        "option_text": "Gelişimsel Kontrol ve Takip Listesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "A-B-C Betimsel Analiz Kayıt Formu",
+        "is_correct": true
+      },
+      {
+        "option_text": "Standart Zeka (IQ) Testi Bataryası",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenci Ürün Dosyası (Portfolyo)",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okuma Yazma Kaba Değerlendirme Formu",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-073"
+  },
+  {
+    "question_id": "Q-BEP-074",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel eğitim ihtiyacı olan bir öğrencinin BEP geliştirme süreci birbirini besleyen döngüsel aşamalardan oluşur. Hazırlama, planlama, öğretim ve değerlendirme olarak sıralanan bu çerçevede, \"Öğrencinin güçlü yanlarını ve eğitimsel ihtiyaçlarını doğrudan merkeze alarak, belirlenen uygun yöntem ve materyallerle eğitimi bizzat gerçekleştirme\" adımı bu sürecin hangi aşamasına denk gelir?",
+    "options": [
+      {
+        "option_text": "Hazırlama aşaması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Planlama aşaması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Değerlendirme aşaması",
+        "is_correct": false
+      },
+      {
+        "option_text": "İzleme ve Karar aşaması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğretim aşaması",
+        "is_correct": true
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-074"
+  },
+  {
+    "question_id": "Q-BEP-075",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Eğitim-öğretim yılı başında hazırlanmış olan BEP'in, sene boyunca uygulanan amaçlara ne düzeyde ulaşıldığını belirlemek, hedeflerin etkililiğini ölçmek ve bir sonraki yılın eğitim planlamasına temel teşkil edecek verileri sağlamak amacıyla yapılan \"Genel BEP Değerlendirmesi\" düzenli olarak ne zaman gerçekleştirilir?",
+    "options": [
+      {
+        "option_text": "BEP içerisindeki her bir ders saatinin veya etkinliğin bitiminde",
+        "is_correct": false
+      },
+      {
+        "option_text": "İlgili planın uygulandığı mevcut eğitim-öğretim yılının sonunda",
+        "is_correct": true
+      },
+      {
+        "option_text": "Rehberlik ve araştırma merkezinin ilçeden talep ettiği herhangi bir günde",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenci bulunduğu okuldan (örneğin ilkokuldan) mezun olduğu zaman",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadece öğrenci hastaneden yeni bir tıbbi rapor aldığı haftada",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-075"
+  },
+  {
+    "question_id": "Q-BEP-076",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel Eğitim Hizmetleri Yönetmeliği'ne göre, Bireyselleştirilmiş Eğitim Programı (BEP) Geliştirme Birimi toplantılarına ilgili üye sıfatıyla katılan okul rehber öğretmeni/psikolojik danışmanının belirli yasal ve pedagojik sorumlulukları bulunmaktadır. Aşağıdakilerden hangisi bu sorumluluklar kapsamında değerlendirilemez?",
+    "options": [
+      {
+        "option_text": "Planlanan BEP Geliştirme Birimi toplantılarına aktif üye sıfatıyla katılmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kendi mesleki görev alanıyla ilgili olarak öğrencinin psiko-sosyal gelişimini izlemek",
+        "is_correct": false
+      },
+      {
+        "option_text": "BEP birimi ile Rehberlik ve Psikolojik Danışma Servisi arasındaki koordinasyonu sağlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenci için gereken tüm akademik branş derslerine ait yıllık amaçları tek başına oluşturmak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Gerekli ve ihtiyaç duyulan durumlarda öğrencinin gelişimi hakkında birime rapor/bilgi vermek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-076"
+  },
+  {
+    "question_id": "Q-BEP-077",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Kaynaştırma uygulamaları kapsamında eğitim gören öğrenci Burak'ın akademik geriliğini gidermek amacıyla okul bünyesinde açılan \"destek eğitim odası\" hizmetinden yararlanmasına karar verilmiştir. Ancak Burak'ın hangi branş derslerinden destek eğitimi alacağı ve haftalık toplam kaç saat bu odada eğitim göreceği konusunda zümreler arası bir planlama gerekmektedir. Mevzuata göre bu detaylı planlamayı yapma yasal yetkisi ve görevi aşağıdaki kurullardan veya kişilerden hangisine aittir?",
+    "options": [
+      {
+        "option_text": "Yalnızca öğrencinin şube rehber/sınıf öğretmenine",
+        "is_correct": false
+      },
+      {
+        "option_text": "İl/İlçe Özel Eğitim Hizmetleri Kuruluna",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okuldaki BEP Geliştirme Birimine",
+        "is_correct": true
+      },
+      {
+        "option_text": "Okulun rehberlik ve psikolojik danışma servisine",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bölgedeki rehberlik ve araştırma merkezine (RAM)",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-077"
+  },
+  {
+    "question_id": "Q-BEP-078",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "BEP hazırlama sürecinde öğretmenler, öğrencinin akademik ve gelişimsel eğitsel performansını belirleyebilmek için genellikle standart testler yerine kendi geliştirdikleri veya uyarladıkları \"informal\" (biçimsel olmayan) ölçme araçlarını tercih ederler. Aşağıdakilerden hangisi bu amaçla bir sınıf öğretmeni tarafından performans alımı sırasında doğrudan kullanılabilecek informal araçlar arasında yer alır?",
+    "options": [
+      {
+        "option_text": "Ulusal çapta uygulanan standart liselere veya üniversiteye giriş testleri",
+        "is_correct": false
+      },
+      {
+        "option_text": "Konulara özgü hazırlanmış kaba değerlendirme formları ve çalışma örneği analizleri",
+        "is_correct": true
+      },
+      {
+        "option_text": "Tam teşekküllü devlet hastanelerinden alınan klinik psikiyatrik sağlık raporları",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yalnızca uzman psikologlar tarafından uygulanan yaşa bağlı zeka (IQ) ve zihinsel batarya testleri",
+        "is_correct": false
+      },
+      {
+        "option_text": "İlçe millî eğitim müdürlüğü tarafından tüm okullarda eş zamanlı yapılan deneme sınavları",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-078"
+  },
+  {
+    "question_id": "Q-BEP-079",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "BEP dosyasında amaçlar belirlenirken Uzun Dönemli Amaçlar (UD",
+    "options": [
+      {
+        "option_text": "ve Kısa Dönemli Amaçlar (KD",
+        "is_correct": false
+      },
+      {
+        "option_text": "olmak üzere hiyerarşik bir yapı kurgulanır. Bu iki kavram arasındaki ilişkinin mantıksal, basamaklandırılmış ve ölçülebilir olması BEP'in uygulanabilirliği için kritiktir. Buna göre, aşağıdaki \"UDA - KDA\" eşleştirmelerinden hangisi bu pedagojik ilkelere en uygun biçimde kurgulanmıştır?",
+        "is_correct": false
+      },
+      {
+        "option_text": "UDA: Öğrenci, hayat bilgisi dersinde anlatılan kuralları tamamen özümser. KDA: Öğrenci, okul kurallarına her zaman koşulsuz ve sorunsuz bir şekilde uyar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "UDA: Öğrenci, toplamları 50'ye kadar olan doğal sayılarla eldesiz toplama işlemi yapar. KDA: Öğrenci, ardışık 5 denemenin 4'ünde 1'den 20'ye kadar olan doğal sayılarla eldesiz toplama yapar.",
+        "is_correct": true
+      },
+      {
+        "option_text": "UDA: Öğrenci, ilkokul Türkçe dersindeki okuma yazma kurallarını en iyi şekilde bilir. KDA: Öğrenci, her gün düzenli olarak okuma alışkanlığı kazanır ve kitap okumayı sever.",
+        "is_correct": false
+      },
+      {
+        "option_text": "UDA: Öğrenci, sosyal iletişim becerilerinde arkadaşlarıyla sağlam bir empati kurar. KDA: Öğrenci, sinirlendiğinde veya üzüldüğünde duygularını kendi içinde bastırmayı öğrenir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "UDA: Öğrenci, fizik dersindeki kütle ve hacim formüllerini felsefi olarak idrak eder. KDA: Öğrenci, kütle birimlerini sezgisel olarak birbirinden kolayca ayırt eder.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-079"
+  },
+  {
+    "question_id": "Q-BEP-080",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bir ortaokulda Bilişim Teknolojileri öğretmeni olarak görev yapan Hakan Bey, sınıfındaki özel öğrenme güçlüğü olan öğrenci için kendisinden BEP taslağı istendiğinde; \"Benim dersim bilgisayar laboratuvarında geçen uygulamalı bir ders, ben özel eğitim öğretmeni veya sınıf öğretmeni değilim, dolayısıyla BEP hazırlamak benim görev ve sorumluluğumda değildir.\" diyerek sürece katılmayı reddetmiştir. Hakan Bey'in bu yaklaşımı BEP mevzuatının hangi temel prensibiyle doğrudan çelişmektedir?",
+    "options": [
+      {
+        "option_text": "BEP'in, yalnızca öğrencinin zayıf olduğu temel akademik dersler (Türkçe, Matematik gibi) için hazırlanmasının yeterli olduğu ilkesiyle",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uygulamalı ve yetenek gerektiren branş derslerinde kaynaştırma öğrencilerinin standart müfredattan ve değerlendirmeden tamamen muaf tutulması kuralıyla",
+        "is_correct": false
+      },
+      {
+        "option_text": "Özel eğitim ihtiyacı olan öğrenciyle derse giren okuldaki tüm branş öğretmenlerinin BEP biriminin doğal üyesi olduğu ve plandan sorumlu tutulduğu ilkesiyle",
+        "is_correct": true
+      },
+      {
+        "option_text": "BEP'in sadece okuldaki rehberlik servisi uzmanları tarafından tek elden yazılıp sene başında diğer branş öğretmenlerine dağıtıldığı resmi yönergesiyle",
+        "is_correct": false
+      },
+      {
+        "option_text": "Branş öğretmenlerinin sınıf içindeki kaynaştırma öğrencilerinden ziyade, yalnızca derse ilgi duyan yetenekli öğrencilerle ilgilenmesi gerektiği yönündeki idari esneklikle",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-080"
+  },
+  {
+    "question_id": "Q-BEP-081",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel eğitim kılavuzlarına göre, özel eğitim ihtiyacı olan bir öğrenci için Bireyselleştirilmiş Eğitim Programı (BEP) hazırlanmasının en temel eğitsel amacı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Sınıf öğretmeninin resmi evrak yükünü hafifleterek idari süreçleri hızlandırmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenciye potansiyelinden en üst düzeyde yararlanabileceği bireysel eğitim fırsatları sunmak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Okuldaki tüm öğrencileri tek tip bir standart başarı testine tabi tutmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin tıbbi teşhisini koyarak hastane randevularını okul üzerinden planlamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kaynaştırma öğrencilerini akranlarından ayırarak sadece özel eğitim sınıflarında tutmak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-081"
+  },
+  {
+    "question_id": "Q-BEP-082",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "İşitme yetersizliği tanısı bulunan 2. sınıf öğrencisi Emre için BEP geliştirme birimi, öğrencinin eğitim ortamından maksimum düzeyde faydalanabilmesi adına fiziksel düzenlemeler planlamaktadır. Kaynaştırma ilkeleri bağlamında, Emre’nin sınıf içi ortamı için alınabilecek en uygun karar aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Dikkatinin dağılmaması için sınıfın en arka sırasında, duvara dönük bir şekilde oturtulması",
+        "is_correct": false
+      },
+      {
+        "option_text": "İşitme cihazının ses yankısı yapmaması adına cihazının ders esnasında tamamen kapatılması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğretmenin yaka mikrofonu ile Emre'nin cihazı arasında bağlantı kurularak ön sıraya oturtulması",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğretmenin dersi her zaman abartılı ve çok yüksek bir ses tonu bağırarak anlatması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Akranlarıyla iletişim kuramayacağı varsayılarak eğitiminin tamamını okul kütüphanesinde alması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-082"
+  },
+  {
+    "question_id": "Q-BEP-083",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bireyselleştirilmiş Eğitim Programında kısa dönemli amaçlar (KD",
+    "options": [
+      {
+        "option_text": "yazılırken eylemlerin ölçülebilir ve gözlenebilir olması pedagojik bir zorunluluktur. Buna göre, aşağıdaki KDA eylemlerinden hangisi \"ölçülebilirlik ve gözlenebilirlik\" kuralına en uygun şekilde ifade edilmiştir?",
+        "is_correct": false
+      },
+      {
+        "option_text": "Matematik dersindeki eldeli toplama işleminin temel felsefesini içselleştirerek kavrar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sosyal kurallara uymanın toplum hayatındaki önemini zihnen bütünüyle bilir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Önüne konulan dört farklı geometrik şekil arasından kare olanı parmağıyla gösterir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Canlıların yaşam döngüsü konusundaki karmaşık ilişkileri derinden hisseder.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Türkçe dersinde okuduğu metnin ana karakterinin yaşadığı hüznü anlar.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-083"
+  },
+  {
+    "question_id": "Q-BEP-084",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Tam zamanlı kaynaştırma yoluyla eğitimlerine devam eden öğrencilerden kimlerin destek eğitim odasında eğitim alacağını, bu hizmetin hangi dersler için sunulacağını ve haftalık kaç ders saati olacağını belirleme görevi aşağıdaki kurullardan hangisine aittir?",
+    "options": [
+      {
+        "option_text": "Sadece öğrencinin dersine giren sınıf öğretmenine",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bölgedeki Rehberlik ve Araştırma Merkezi (RAM) Müdürlüğüne",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin öğrenim gördüğü okuldaki BEP Geliştirme Birimine",
+        "is_correct": true
+      },
+      {
+        "option_text": "İl veya İlçe Özel Eğitim Hizmetleri Kuruluna",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin tıbbi takibini yapan çocuk psikiyatrisi uzmanına",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-084"
+  },
+  {
+    "question_id": "Q-BEP-085",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Sınıf öğretmeni, okuma yazma güçlüğü çeken bir öğrencisi için Türkçe dersine ait \"Kaba Değerlendirme Formu\" kullanmış; öğrencinin bağımsız olarak yapabildiği becerilere (+), yapamadığı becerilere ise (-) işareti koymuştur. Özel eğitim süreçleri dikkate alındığında, öğretmenin bu değerlendirme verilerini elde ettikten hemen sonra atacağı pedagojik adım aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Öğrencinin ulusal deneme sınavlarındaki başarı yüzdesini hesaplamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenciyi hastaneye yönlendirerek tıbbi teşhis ve ilaç raporu talep etmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Artı (+) alan becerileri performansa yazıp, eksi (-) olanlardan yola çıkarak BEP amaçlarını belirlemek",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğrencinin akademik olarak yetersiz olduğuna hükmedip onu bir alt sınıfa düşürmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Değerlendirme formunu doğrudan ilçe millî eğitim müdürlüğüne şikâyet dilekçesi olarak sunmak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-085"
+  },
+  {
+    "question_id": "Q-BEP-086",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel Eğitim Hizmetleri Yönetmeliği'ne göre, okullarda kurulan Bireyselleştirilmiş Eğitim Programı (BEP) Geliştirme Birimi toplantılarına başkanlık etme yetkisi ve sorumluluğu yasal olarak kime aittir?",
+    "options": [
+      {
+        "option_text": "Öğrencinin eğitim sürecinden sorumlu olan şube rehber öğretmenine",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okul müdürüne veya müdürün görevlendireceği bir müdür yardımcısına",
+        "is_correct": true
+      },
+      {
+        "option_text": "Okulun bağlı bulunduğu rehberlik ve araştırma merkezi müdürüne",
+        "is_correct": false
+      },
+      {
+        "option_text": "Okulda norm kadrosu bulunan rehber öğretmen/psikolojik danışmana",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin özel eğitim ihtiyacını belirleyen özel eğitim değerlendirme kurulu üyesine",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-086"
+  },
+  {
+    "question_id": "Q-BEP-087",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Öğretmen Selma Hanım, öğrencisinin BEP'inde yer alan \"üçerli ritmik sayma\" hedefine, planlanan 3 aylık sürenin aksine sadece 2 hafta içinde ulaşıldığını gözlemlemiştir. BEP'in esneklik ilkesi ve uygulama standartları göz önüne alındığında, Selma Hanım'ın yapması gereken eylem aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Herhangi bir değişiklik yapmadan, yıl sonuna kadar öğrenciye aynı hedefi tekrar tekrar anlattırmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin özel eğitime ihtiyacı kalmadığını iddia ederek okul idaresine kaynaştırma iptal dilekçesi vermek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Birim üyelerini ve aileyi bilgilendirerek öğrencinin güncel hızına uygun yeni amaçlarla BEP'i revize etmek",
+        "is_correct": true
+      },
+      {
+        "option_text": "Planda değişiklik yapmak için zorunlu olarak mayıs ayında yapılacak genel değerlendirme toplantısını beklemek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin ritmik saymayı kendi kendine öğrenebildiğini varsayıp onu matematik derslerinden tamamen muaf tutmak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-087"
+  },
+  {
+    "question_id": "Q-BEP-088",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "BEP dosyasında amaçlar kurgulanırken \"Uzun Dönemli Amaçlar (UD",
+    "options": [
+      {
+        "option_text": "\" ve \"Kısa Dönemli Amaçlar (KD",
+        "is_correct": true
+      },
+      {
+        "option_text": "\" arasında hiyerarşik ve ölçülebilir bir bağ kurulmalıdır. Buna göre, aşağıdaki \"UDA - KDA\" eşleştirmelerinden hangisi bu yapısal kurala en uygun biçimde oluşturulmuştur?",
+        "is_correct": true
+      },
+      {
+        "option_text": "UDA: Toplamları 100’e kadar olan doğal sayılarla eldeli toplama işlemini yapar. KDA: Dört denemenin üçünde 1’den 50’ye kadar olan sayılarla eldeli toplama işlemini yapar.",
+        "is_correct": true
+      },
+      {
+        "option_text": "UDA: Öğrenci, okuldaki tüm kurallara yıl boyunca istisnasız bir şekilde uyum sağlar. KDA: Öğrenci, teneffüslerde arkadaşlarıyla oyun oynarken her zaman adil davranmayı hisseder.",
+        "is_correct": false
+      },
+      {
+        "option_text": "UDA: Okuduğu edebi metinlerin ana fikrini her zaman doğru bir şekilde kavrar ve anlar. KDA: Öğrenci, günlük yaşantısında kitap okuma alışkanlığı kazanarak kelime dağarcığını geliştirir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "UDA: Temel öz bakım becerilerinin önemini kendi kişisel gelişimi için bütünüyle idrak eder. KDA: Ellerini yıkarken sabun kullanmanın mikrobiyolojik faydalarını felsefi olarak bilir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "UDA: Geometrik şekilleri sadece defter üzerinde değil, doğadaki nesnelerle de eşleştirir. KDA: Geometrinin sanatsal yönünü kavrayarak estetik bir bakış açısına sahip olur.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-088"
+  },
+  {
+    "question_id": "Q-BEP-089",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel Eğitim Hizmetleri Yönetmeliği'nde Bireyselleştirilmiş Eğitim Programı (BEP) Geliştirme Biriminin görevleri açıkça sayılmıştır. Aşağıdakilerden hangisi bu birimin yasal görevlerinden biri değildir?",
+    "options": [
+      {
+        "option_text": "Eğitim ortamlarının düzenlenmesi konusunda okul yönetimine ve öğretmenlere önerilerde bulunmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğretim ve değerlendirmede kullanılacak yöntem ve teknikler ile materyalleri belirlemek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Velinin yazılı talebi üzerine, ilkokulda öğrencinin bir defaya mahsus sınıf tekrarı yapmasına karar vermek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin klinik tanısını ve tıbbi tedavisini belirlemek üzere hastane adına resmi sağlık raporu düzenlemek",
+        "is_correct": true
+      },
+      {
+        "option_text": "Destek eğitim odasında eğitim alacak öğrencileri, dersleri ve haftalık ders saati sayısını planlamak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-089"
+  },
+  {
+    "question_id": "Q-BEP-090",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bireyselleştirilmiş Eğitim Programlarının (BEP) zaman çizelgesi ve geçerlilik süresiyle ilgili olarak Millî Eğitim Bakanlığı kılavuzlarında belirtilen standart yaklaşım aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Genellikle bir eğitim-öğretim yılı için hazırlanır ve geçerliliği eğitim-öğretim yılı sonunda biter.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğrenci kayıtlı olduğu kademeden (örneğin ortaokul) mezun olana kadar sadece bir kez hazırlanır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Her akademik ayın ilk haftasında tamamen iptal edilerek yeni baştan sıfırdan oluşturulur.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yalnızca öğrenci sınavlarda üst üste başarısız olduğunda, kısa süreli bir tedbir olarak yazılır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin okul değiştirdiği gün süresiz olarak askıya alınır ve bir daha asla uygulanmaz.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-090"
+  },
+  {
+    "question_id": "Q-BEP-091",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Dikkat Eksikliği ve Hiperaktivite Bozukluğu (DEH",
+    "options": [
+      {
+        "option_text": "ile Özel Öğrenme Güçlüğü tanıları bulunan 2. sınıf öğrencisi Ali'nin, ders sırasında dikkati çok çabuk dağılmakta ve sık sık yerinden kalkmaktadır. BEP Geliştirme Biriminin, Ali'nin dikkatini derse yoğunlaştırabilmesi için alacağı fiziksel ortam düzenleme kararı aşağıdakilerden hangisidir?",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ali'yi sınıfın en arka köşesinde, diğer akranlarından tamamen yalıtılmış tek kişilik bir sıraya oturtmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ali'nin görsel ve işitsel uyaranlardan daha az etkileneceği şekilde öğretmen masasının hemen önündeki sıraya yerleştirmek",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ali'yi sadece bahçede işlenen uygulamalı derslere alıp, akademik derslerde tamamen serbest bırakmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ali'nin dikkati her dağıldığında onu sınıf dışına çıkararak okul koridorunda bekletmek",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ali'nin sırasında sabit durmasını sağlamak amacıyla sırasını sınıfın duvarına fiziksel olarak sabitlemek",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-091"
+  },
+  {
+    "question_id": "Q-BEP-092",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "BEP'te yer alan uzun ve kısa dönemli amaçlara öğrencinin ne düzeyde ulaştığını görmek, hedeflerin etkililiğini ölçmek ve bir sonraki yılın eğitim planlamasına (yeni BEP'e) referans oluşturmak amacıyla yapılan \"Genel BEP Değerlendirmesi\" düzenli olarak ne zaman gerçekleştirilir?",
+    "options": [
+      {
+        "option_text": "Öğrencinin o günkü ruh hâline göre herhangi bir ders saatinin bitiminde anlık olarak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Mevcut planın uygulandığı ilgili eğitim-öğretim yılının sonunda",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğrencinin hastaneden yeni bir tıbbi reçete aldığı haftanın ilk iş gününde",
+        "is_correct": false
+      },
+      {
+        "option_text": "İlçe millî eğitim müdürlüğünün okulda yaptığı rutin genel teftişler sırasında",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin sadece sınıf tekrarı yapmasına karar verildiği olağanüstü durumlarda",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-092"
+  },
+  {
+    "question_id": "Q-BEP-093",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Özel eğitim öğretmeni, öğrencisinin BEP dosyasında \"Önüne konulan şekiller arasından kare olanı gösterir.\" amacının gerçekleşme düzeyini \"%80 (4/5)\" olarak belirlemiştir. Öğretmenin bu ölçütü değerlendirme pratiğine dönüştürürken izlemesi gereken doğru ölçme yöntemi aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Öğrencinin tesadüfen de olsa bir kere doğru şekli göstermesini ölçütü karşılamak için yeterli sayması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yapılan ardışık 5 yapılandırılmış denemenin en az 4'ünde öğrencinin kareyi bağımsız olarak doğru göstermesi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sınıf mevcudunun %80'inin aynı anda kare şeklini doğru olarak işaretlemesini beklemesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrenciye şekli gösterirken %80 oranında güçlü fiziksel ve sözel ipucu sağlayarak ona yardım etmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin kare şeklinin matematiksel alan formülünü %80 doğrulukla tahtaya yazarak çözmesi",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-093"
+  },
+  {
+    "question_id": "Q-BEP-094",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bireyselleştirilmiş Eğitim Programı (BEP) hazırlık sürecinde velinin toplantıya davet edilmesine rağmen mazereti nedeniyle katılım sağlayamadığı bir durumda, BEP Geliştirme Biriminin yasal olarak izlemesi gereken usul aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Aile toplantıya gelene kadar okulda özel eğitim hizmetlerini yasal olarak tamamen durdurmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Alınan tüm eğitsel kararları daha sonra ailenin görüşüne sunarak onlarla paylaşmak ve onaylarını almak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ailenin sürece ilgisiz olduğu gerekçesiyle hazırlanan taslağı yırtarak standart okul programını uygulamak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ailenin imzasını sahte bir tutanakla okul rehber öğretmenine attırarak bürokratik süreci hızlandırmak",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin velayetini geçici olarak okul idaresine alabilmek için doğrudan mahkemeye başvurmak",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-094"
+  },
+  {
+    "question_id": "Q-BEP-095",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Millî Eğitim Bakanlığı kılavuzlarına göre etkili bir BEP'in taşıması gereken temel pedagojik ve yapısal özellikler bulunmaktadır. Aşağıdakilerden hangisi \"etkili bir BEP\"in özelliklerinden biri değildir?",
+    "options": [
+      {
+        "option_text": "Amaçların doğrudan öğrencinin bireysel ihtiyaçlarına ve gelişimsel özelliklerine odaklanması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Aile, öğretmenler ve ilgili uzmanların eş güdümlü iş birliğiyle kurgulanmış olması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Karmaşık tıbbi terimlerden arındırılmış, erişilebilir, açık ve anlaşılır bir dil kullanılması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Aynı tıbbi tanıyı alan tüm öğrenciler için hazırlanmış tek tip, kopyalanmış standart bir şablon olması",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sadece yetersizliklere değil, çocuğun güçlü yönlerini de kapsayan bütüncül bir yaklaşımla yazılması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-095"
+  },
+  {
+    "question_id": "Q-BEP-096",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "BEP geliştirme birimi, otizm spektrum bozukluğu olan bir öğrencinin sınıf içinde sergilediği birden fazla problem davranışı azaltmak için \"Davranış Değiştirme Programı\" hazırlayacaktır. Hedef davranış belirlenirken davranışın \"toplumsal önemini\" ve önceliğini saptamak için aşağıdaki kriterlerden hangisine öncelikle bakılır?",
+    "options": [
+      {
+        "option_text": "Davranışın değiştirilmesinin öğretmen için herhangi bir ekstra çaba gerektirip gerektirmediğine",
+        "is_correct": false
+      },
+      {
+        "option_text": "Belirlenen hedefin öğrencinin başka sosyal ortamlara girmesini kolaylaştırıp kolaylaştırmadığına",
+        "is_correct": true
+      },
+      {
+        "option_text": "Problemin sadece öğrencinin kendi evinde ve kendi odasında ortaya çıkıp çıkmadığına",
+        "is_correct": false
+      },
+      {
+        "option_text": "Davranışa müdahale etmenin okul bütçesine tamamen sıfır maliyetli olup olmadığına",
+        "is_correct": false
+      },
+      {
+        "option_text": "Seçilen hedefin sadece okul müdürünün kişisel disiplin anlayışına uygunluğuna",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-096"
+  },
+  {
+    "question_id": "Q-BEP-097",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Bireyselleştirilmiş Eğitim Programı (BEP) hazırlama süreci, birbirini mantıksal olarak takip eden adımlardan oluşur. BEP'in eğitim planlaması kurgulanırken izlenmesi gereken ilk üç ardışık aşama aşağıdakilerin hangisinde doğru sırayla verilmiştir?",
+    "options": [
+      {
+        "option_text": "Veri toplama → Eğitsel performansın değerlendirilmesi → Öncelikli öğrenme ihtiyaçlarının belirlenmesi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğretim yöntemlerinin seçilmesi → Amaçların yazılması → Öğrenci hakkında bilgi toplanması",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uzun dönemli amaçların yazılması → Eğitsel performansın alınması → Materyal seçimi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Genel BEP değerlendirmesinin yapılması → Veri toplama → Yöntem ve tekniklerin belirlenmesi",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fiziksel ortamın düzenlenmesi → Öğretim materyallerinin satın alınması → Eğitsel performansın saptanması",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-097"
+  },
+  {
+    "question_id": "Q-BEP-098",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "BEP hazırlama sürecinde kritik bir kavram olan \"Eğitsel Performans\"ın özel eğitim literatüründeki ve uygulamadaki karşılığı aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Öğrencinin tıbbi heyet raporunda yer alan ve doktorlar tarafından belirlenen engel oranı yüzdesidir.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Öğrencinin hangi alanlarda güçlü olduğunu ve hangi alanlarda öğretimsel desteğe ihtiyaç duyduğunu özetleyen mevcut durum analizidir.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Öğrencinin okuldaki diğer akranlarına göre zeka bölümünün (IQ) sayısal olarak kesinleşmiş net sonucudur.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Destek eğitim odasında görev yapan öğretmenlere ödenecek olan aylık ek ders ücreti hesaplama tablosudur.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sınıf öğretmeninin yıl sonunda e-Okul sistemine öğrenci için girdiği standart karne notu ortalamasıdır.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-098"
+  },
+  {
+    "question_id": "Q-BEP-099",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "Ortaokulda görevli Beden Eğitimi ve Spor öğretmeni, sınıfındaki kaynaştırma öğrencisi için kendisinden BEP istenildiğinde; \"Benim dersim uygulamalı bir yetenek dersidir, BEP sadece Türkçe ve Matematik gibi temel akademik dersler için hazırlanır, bu yüzden bu kurula katılmam gerekmez.\" şeklinde bir savunma yapmıştır. Eğitsel mevzuat ve takım çalışması prensipleri bağlamında öğretmenin bu yaklaşımıyla ilgili en doğru değerlendirme aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "option_text": "Öğretmen haklıdır; çünkü BEP yalnızca zihinsel becerileri ölçülebilen teorik dersler için zorunludur.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Özel eğitim ihtiyacı olan öğrenciyle derse giren tüm alan öğretmenleri BEP biriminin doğal üyesidir ve plandan sorumludur.",
+        "is_correct": true
+      },
+      {
+        "option_text": "Uygulamalı ders öğretmenleri BEP sürecine doğrudan katılmaz, planı sadece okul müdürü tek başına yazar.",
+        "is_correct": false
+      },
+      {
+        "option_text": "Beden eğitimi öğretmeni, sadece öğrencinin bedensel engeli varsa BEP sürecine dâhil olmak zorundadır.",
+        "is_correct": false
+      },
+      {
+        "option_text": "BEP'i sadece okulun rehber öğretmeni yazar ve diğer öğretmenler sadece dönem sonunda raporu imzalar.",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-099"
+  },
+  {
+    "question_id": "Q-BEP-100",
+    "category": "Alan Bilgisi Testi",
+    "subject": "Özel Eğitim",
+    "topic": "Bireyselleştirilmiş Eğitim Programı (BEP)",
+    "sub_topic": "BEP Hazırlama ve İlkeler",
+    "difficulty": "",
+    "skill_level": "",
+    "question_text": "BEP sürecinde öğrencinin eğitsel performansını belirlemek ve hangi becerilerde desteğe ihtiyacı olduğunu tespit etmek amacıyla öğretmenlerin sınıf içinde doğrudan uyguladıkları \"informal (biçimsel olmayan)\" değerlendirme araçları bulunmaktadır. Aşağıdakilerden hangisi bu amaca hizmet eden informal araçlardan biridir?",
+    "options": [
+      {
+        "option_text": "Uluslararası geçerliliği olan klinik zeka ve psikometrik test bataryaları",
+        "is_correct": false
+      },
+      {
+        "option_text": "Becerilerin analiz edildiği ölçüt bağımlı testler ve kaba değerlendirme formları",
+        "is_correct": true
+      },
+      {
+        "option_text": "Tüm ülke çapında aynı anda uygulanan merkezi liselere geçiş sınavları",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sağlık Bakanlığı onaylı, hastanelerde uygulanan tıbbi teşhis ve tarama araçları",
+        "is_correct": false
+      },
+      {
+        "option_text": "İlçe genelinde standart başarıyı ölçmek için yapılan çoktan seçmeli deneme sınavları",
+        "is_correct": false
+      }
+    ],
+    "solution": {
+      "explanation_text": "",
+      "video_solution_url": null
+    },
+    "metadata": {
+      "source_book": "Özel Eğitim BEP Rehberi",
+      "average_solve_time_seconds": 60,
+      "tags": [
+        "BEP",
+        "Özel Eğitim",
+        "Kaynaştırma"
+      ]
+    },
+    "image_url": null,
+    "related_concept_id": "BEP-KAVRAM-100"
+  }
+]

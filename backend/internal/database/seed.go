@@ -63,6 +63,7 @@ func SeedData() {
 				categoryName = strings.TrimSuffix(categoryName, filepath.Ext(categoryName))
 				categoryName = strings.ReplaceAll(categoryName, " öabt sorular", "")
 				categoryName = strings.ReplaceAll(categoryName, " ÖABT sorular", "")
+				categoryName = strings.ReplaceAll(categoryName, " soruları", "")
 				categoryName = strings.ReplaceAll(categoryName, " sorular", "")
 				categoryName = strings.Title(strings.TrimSpace(categoryName))
 
