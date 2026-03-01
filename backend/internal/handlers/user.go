@@ -33,10 +33,14 @@ func RegisterHandler(w http.ResponseWriter, r *http.Request) {
 	err := database.DB.QueryRow("SELECT id FROM users WHERE nickname=$1", payload.Nickname).Scan(&existingID)
 	if err == nil {
 		token, _ := middleware.GenerateToken(existingID)
-		json.NewEncoder(w).Encode(map[string]string{
-			"id":      existingID,
-			"token":   token,
-			"message": "Login successful",
+		refreshToken, _ := middleware.GenerateRefreshToken(existingID)
+		json.NewEncoder(w).Encode(map[string]interface{}{
+			"id":            existingID,
+			"access_token":  token,
+			"refresh_token": refreshToken,
+			"token_type":    "Bearer",
+			"expires_in":    72 * 3600,
+			"message":       "Login successful",
 		})
 		return
 	}
@@ -51,10 +55,14 @@ func RegisterHandler(w http.ResponseWriter, r *http.Request) {
 	}
 
 	token, _ := middleware.GenerateToken(newID.String())
-	json.NewEncoder(w).Encode(map[string]string{
-		"id":      newID.String(),
-		"token":   token,
-		"message": "Registered successfully",
+	refreshToken, _ := middleware.GenerateRefreshToken(newID.String())
+	json.NewEncoder(w).Encode(map[string]interface{}{
+		"id":            newID.String(),
+		"access_token":  token,
+		"refresh_token": refreshToken,
+		"token_type":    "Bearer",
+		"expires_in":    72 * 3600,
+		"message":       "Registered successfully",
 	})
 }
 
@@ -221,10 +229,14 @@ func SocialLoginHandler(w http.ResponseWriter, r *http.Request) {
 	}
 
 	token, _ := middleware.GenerateToken(userID)
+	refreshToken, _ := middleware.GenerateRefreshToken(userID)
 	json.NewEncoder(w).Encode(map[string]interface{}{
-		"id":          userID,
-		"token":       token,
-		"is_new_user": isNewUser,
-		"message":     "Social login successful",
+		"id":            userID,
+		"access_token":  token,
+		"refresh_token": refreshToken,
+		"token_type":    "Bearer",
+		"expires_in":    72 * 3600,
+		"is_new_user":   isNewUser,
+		"message":       "Social login successful",
 	})
 }

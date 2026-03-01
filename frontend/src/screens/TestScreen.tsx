@@ -5,6 +5,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { API_URL } from '../config';
+import ApiClient from '../utils/apiClient';
 
 // Colors
 const COLORS = {
@@ -209,35 +210,32 @@ export default function TestScreen({ route, navigation }: any) {
 
     const submitExam = async () => {
         try {
-            const token = await AsyncStorage.getItem('AUTH_TOKEN');
-            console.log('Submitting test with token:', token ? 'Token exists' : 'No token'); // Debug
-
-            const res = await fetch(`${API_URL}/submit-test`, {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                    'Authorization': `Bearer ${token}`
-                },
-                body: JSON.stringify({
-                    test_id: testId,
-                    score: score
-                })
+            const res = await ApiClient.post('/submit-test', {
+                test_id: testId,
+                score: score
             });
 
-            console.log('Submit test response status:', res.status); // Debug
             if (res.ok) {
                 const data = await res.json();
-                console.log('Submit test response data:', data); // Debug
                 setSubmitResult(data);
                 if (data.leveled_up) {
                     Alert.alert('TEBRİKLER! 🎉', `Seviye Atladın! Yeni Seviyen: ${data.new_level}`);
                 }
-            } else {
-                const errorText = await res.text();
-                console.error('Submit test error:', res.status, errorText); // Debug
             }
-        } catch (e) {
-            console.error('Error submitting exam:', e);
+        } catch (error: any) {
+            if (error.message === 'AUTHENTICATION_REQUIRED') {
+                Alert.alert('Oturum Süresi Doldu', 'Lütfen tekrar giriş yapın.', [
+                    {
+                        text: 'Tamam',
+                        onPress: () => {
+                            // Navigate to login screen
+                            navigation.navigate('Onboarding');
+                        }
+                    }
+                ]);
+            } else {
+                console.error('Error submitting exam:', error);
+            }
         }
     };
 

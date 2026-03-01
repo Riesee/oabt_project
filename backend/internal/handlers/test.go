@@ -201,7 +201,6 @@ func SubmitTestHandler(w http.ResponseWriter, r *http.Request) {
 	}
 
 	if err := json.NewDecoder(r.Body).Decode(&requestBody); err != nil {
-		log.Printf("SubmitTest: JSON decode error: %v", err)
 		http.Error(w, err.Error(), http.StatusBadRequest)
 		return
 	}

@@ -34,6 +34,7 @@ func RegisterRoutes() *http.ServeMux {
 
 	mux.HandleFunc("/register", wrap(handlers.RegisterHandler))
 	mux.HandleFunc("/auth/social-login", wrap(handlers.SocialLoginHandler))
+	mux.HandleFunc("/auth/refresh", wrap(handlers.RefreshTokenHandler))
 	mux.HandleFunc("/user/", wrap(handlers.GetUserHandler))
 	mux.HandleFunc("/user/update", wrap(middleware.AuthMiddleware(handlers.UpdateUserHandler)))
 	mux.HandleFunc("/user/history/", wrap(handlers.GetHistoryHandler))

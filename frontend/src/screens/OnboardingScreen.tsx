@@ -81,7 +81,8 @@ export default function OnboardingScreen({ navigation, route }: any) {
                         } else {
                             await AsyncStorage.multiSet([
                                 ['USER_ID', data.id],
-                                ['AUTH_TOKEN', data.token || '']
+                                ['AUTH_TOKEN', data.access_token || data.token || ''],
+                                ['REFRESH_TOKEN', data.refresh_token || '']
                             ]);
                             if (route.params?.onLogin) {
                                 route.params.onLogin();
