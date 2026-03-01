@@ -20,8 +20,14 @@ const COLORS = {
 
 import { API_URL } from '../config';
 
+interface CategoryProgress {
+    category: string;
+    total_tests: number;
+    completed_tests: number;
+}
+
 export default function TestListScreen({ navigation }: any) {
-    const [categories, setCategories] = useState<string[]>([]);
+    const [categories, setCategories] = useState<CategoryProgress[]>([]);
     const [tests, setTests] = useState<any[]>([]);
     const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
     const [loading, setLoading] = useState(true);
@@ -31,7 +37,8 @@ export default function TestListScreen({ navigation }: any) {
     const fetchCategories = async () => {
         try {
             setLoading(true);
-            const res = await fetch(`${API_URL}/tests/categories`);
+            const userId = await AsyncStorage.getItem('USER_ID');
+            const res = await fetch(`${API_URL}/tests/categories?userId=${userId || ''}`);
             if (res.ok) {
                 const data = await res.json();
                 setCategories(Array.isArray(data) ? data : []);
@@ -93,29 +100,59 @@ export default function TestListScreen({ navigation }: any) {
         navigation.navigate('TestScreen', { testId: test.id, testTitle: test.title });
     };
 
-    const handleCategoryPress = (category: string) => {
-        setSelectedCategory(category);
+    const handleCategoryPress = (category: CategoryProgress) => {
+        setSelectedCategory(category.category);
     };
 
-    const renderCategoryItem = ({ item, index }: any) => (
-        <TouchableOpacity
-            style={styles.testCard}
-            onPress={() => handleCategoryPress(item)}
-        >
-            <View style={[styles.iconBox, { backgroundColor: index % 2 === 0 ? '#E8F6F3' : '#FFF5F5' }]}>
-                <Ionicons
-                    name="folder-open"
-                    size={24}
-                    color={index % 2 === 0 ? COLORS.secondary : COLORS.primary}
+    const renderCategoryItem = ({ item, index }: { item: CategoryProgress; index: number }) => {
+        const progressPercentage = item.total_tests > 0 ? (item.completed_tests / item.total_tests) * 100 : 0;
+        const isCompleted = item.completed_tests === item.total_tests && item.total_tests > 0;
+        
+        return (
+            <TouchableOpacity
+                style={[styles.testCard, isCompleted && styles.categoryCardCompleted]}
+                onPress={() => handleCategoryPress(item)}
+            >
+                <View style={[
+                    styles.iconBox, 
+                    { backgroundColor: isCompleted ? '#C8E6C9' : (index % 2 === 0 ? '#E8F6F3' : '#FFF5F5') }
+                ]}>
+                    <Ionicons
+                        name={isCompleted ? "checkmark-circle" : "folder-open"}
+                        size={24}
+                        color={isCompleted ? COLORS.success : (index % 2 === 0 ? COLORS.secondary : COLORS.primary)}
+                    />
+                </View>
+                <View style={styles.testInfo}>
+                    <Text style={styles.testTitle}>{item.category}</Text>
+                    <View style={styles.progressContainer}>
+                        <Text style={styles.progressText}>
+                            {item.completed_tests}/{item.total_tests} çözüldü
+                        </Text>
+                        <View style={styles.progressBar}>
+                            <View 
+                                style={[
+                                    styles.progressFill, 
+                                    { 
+                                        width: `${progressPercentage}%`,
+                                        backgroundColor: isCompleted ? COLORS.success : COLORS.primary
+                                    }
+                                ]} 
+                            />
+                        </View>
+                        <Text style={styles.progressPercentage}>
+                            {Math.round(progressPercentage)}%
+                        </Text>
+                    </View>
+                </View>
+                <Ionicons 
+                    name={isCompleted ? "checkmark-done" : "chevron-forward"} 
+                    size={24} 
+                    color={isCompleted ? COLORS.success : "#BDC3C7"} 
                 />
-            </View>
-            <View style={styles.testInfo}>
-                <Text style={styles.testTitle}>{item}</Text>
-                <Text style={styles.testDesc}>Alan Bilgisi Denemeleri</Text>
-            </View>
-            <Ionicons name="chevron-forward" size={24} color="#BDC3C7" />
-        </TouchableOpacity>
-    );
+            </TouchableOpacity>
+        );
+    };
 
     const renderTestItem = ({ item, index }: any) => {
         const isCompleted = item.completed;
@@ -179,7 +216,7 @@ export default function TestListScreen({ navigation }: any) {
                 <FlatList
                     data={selectedCategory ? tests : categories}
                     renderItem={selectedCategory ? renderTestItem : renderCategoryItem}
-                    keyExtractor={(item, index) => selectedCategory ? (item.id || index.toString()) : `cat-${index}`}
+                    keyExtractor={(item, index) => selectedCategory ? ((item as any).id || index.toString()) : `cat-${index.toString()}`}
                     contentContainerStyle={[styles.listContent, !isPremium && { paddingBottom: 80 }]}
                     ListEmptyComponent={
                         <Text style={styles.emptyText}>
@@ -262,6 +299,10 @@ const styles = StyleSheet.create({
         backgroundColor: COLORS.successLight,
         borderColor: '#C8E6C9',
     },
+    categoryCardCompleted: {
+        backgroundColor: COLORS.successLight,
+        borderColor: '#C8E6C9',
+    },
     iconBox: {
         width: 50,
         height: 50,
@@ -278,6 +319,34 @@ const styles = StyleSheet.create({
         fontWeight: 'bold',
         color: COLORS.text,
         marginBottom: 4,
+    },
+    progressContainer: {
+        flexDirection: 'row',
+        alignItems: 'center',
+        gap: 8,
+    },
+    progressText: {
+        fontSize: 12,
+        color: '#7F8C8D',
+        minWidth: 70,
+    },
+    progressBar: {
+        flex: 1,
+        height: 6,
+        backgroundColor: '#E8E8E8',
+        borderRadius: 3,
+        overflow: 'hidden',
+    },
+    progressFill: {
+        height: '100%',
+        borderRadius: 3,
+    },
+    progressPercentage: {
+        fontSize: 12,
+        fontWeight: '600',
+        color: COLORS.text,
+        minWidth: 35,
+        textAlign: 'right',
     },
     descRow: {
         flexDirection: 'row',

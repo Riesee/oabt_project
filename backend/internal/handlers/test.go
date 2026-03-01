@@ -49,18 +49,57 @@ func GetTestsHandler(w http.ResponseWriter, r *http.Request) {
 
 func GetCategoriesHandler(w http.ResponseWriter, r *http.Request) {
 	middleware.EnableCors(&w)
-	rows, err := database.DB.Query("SELECT DISTINCT category FROM tests WHERE category IS NOT NULL AND category != '' ORDER BY category")
+	userID := r.URL.Query().Get("userId")
+
+	if userID == "" {
+		// Eski davranış - sadece kategori listesi
+		rows, err := database.DB.Query("SELECT DISTINCT category FROM tests WHERE category IS NOT NULL AND category != '' ORDER BY category")
+		if err != nil {
+			http.Error(w, err.Error(), http.StatusInternalServerError)
+			return
+		}
+		defer rows.Close()
+
+		categories := []string{}
+		for rows.Next() {
+			var c string
+			rows.Scan(&c)
+			categories = append(categories, c)
+		}
+		json.NewEncoder(w).Encode(categories)
+		return
+	}
+
+	// Yeni davranış - kategori progress bilgisi ile
+	type CategoryProgress struct {
+		Category       string `json:"category"`
+		TotalTests     int    `json:"total_tests"`
+		CompletedTests int    `json:"completed_tests"`
+	}
+
+	rows, err := database.DB.Query(`
+		SELECT 
+			t.category,
+			COUNT(DISTINCT t.id) as total_tests,
+			COUNT(DISTINCT tr.test_id) as completed_tests
+		FROM tests t
+		LEFT JOIN test_results tr ON t.id = tr.test_id AND tr.user_id = $1
+		WHERE t.category IS NOT NULL AND t.category != ''
+		GROUP BY t.category
+		ORDER BY t.category
+	`, userID)
+
 	if err != nil {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
 		return
 	}
 	defer rows.Close()
 
-	categories := []string{}
+	categories := []CategoryProgress{}
 	for rows.Next() {
-		var c string
-		rows.Scan(&c)
-		categories = append(categories, c)
+		var cp CategoryProgress
+		rows.Scan(&cp.Category, &cp.TotalTests, &cp.CompletedTests)
+		categories = append(categories, cp)
 	}
 	json.NewEncoder(w).Encode(categories)
 }

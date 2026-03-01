@@ -63,7 +63,7 @@ export default function TestScreen({ route, navigation }: any) {
 
     // Timer Logic
     useEffect(() => {
-        let interval: NodeJS.Timeout;
+        let interval: any;
 
         const initTimer = async () => {
             try {
@@ -109,12 +109,18 @@ export default function TestScreen({ route, navigation }: any) {
         const baseUrl = API_URL;
         const apiUrl = testId ? `${baseUrl}/test/${testId}` : `${baseUrl}/questions`;
 
-
-
         fetch(apiUrl)
             .then((response) => response.json())
             .then((data) => {
                 if (Array.isArray(data)) {
+                    // Get test info from first question if available
+                    if (data.length > 0) {
+                        setTestInfo({
+                            category: data[0].category,
+                            testId: data[0].test_id
+                        });
+                    }
+                    
                     // Shuffle Options for each question
                     const processedQuestions = data.map((q: any) => ({
                         ...q,
@@ -199,6 +205,7 @@ export default function TestScreen({ route, navigation }: any) {
     };
 
     const [submitResult, setSubmitResult] = useState<any>(null);
+    const [testInfo, setTestInfo] = useState<any>(null);
 
     const submitExam = async () => {
         try {
@@ -307,6 +314,21 @@ export default function TestScreen({ route, navigation }: any) {
                             <Ionicons name="sparkles" size={16} color={COLORS.primary} />
                             <Text style={styles.xpText}>+{submitResult.score_added || 0} XP Kazanıldı</Text>
                         </View>
+                    )}
+
+                    {testInfo?.category && (
+                        <TouchableOpacity 
+                            style={styles.categoryProgressButton}
+                            onPress={() => navigation.navigate('Tests')}
+                        >
+                            <View style={styles.categoryProgressContent}>
+                                <Ionicons name="folder-open" size={20} color={COLORS.secondary} />
+                                <Text style={styles.categoryProgressText}>
+                                    {testInfo.category} kategorisindeki diğer testleri gör
+                                </Text>
+                                <Ionicons name="chevron-forward" size={16} color={COLORS.secondary} />
+                            </View>
+                        </TouchableOpacity>
                     )}
 
                     <View style={styles.resultActions}>
@@ -731,5 +753,23 @@ const styles = StyleSheet.create({
         color: 'white',
         fontSize: 16,
         fontWeight: 'bold',
+    },
+    categoryProgressButton: {
+        backgroundColor: '#E8F6F3',
+        borderRadius: 15,
+        padding: 15,
+        marginVertical: 10,
+        width: '100%',
+    },
+    categoryProgressContent: {
+        flexDirection: 'row',
+        alignItems: 'center',
+        gap: 10,
+    },
+    categoryProgressText: {
+        flex: 1,
+        fontSize: 14,
+        fontWeight: '500',
+        color: COLORS.text,
     },
 });

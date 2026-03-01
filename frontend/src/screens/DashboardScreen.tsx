@@ -26,6 +26,7 @@ export default function DashboardScreen({ navigation, onLogout }: any) {
     const [isLoading, setIsLoading] = useState(true);
     const [isPremium, setIsPremium] = useState(false);
     const [userTokens, setUserTokens] = useState(0);
+    const [categoryProgress, setCategoryProgress] = useState<any[]>([]);
 
     const [isStartingTest, setIsStartingTest] = useState(false);
 
@@ -89,6 +90,13 @@ export default function DashboardScreen({ navigation, onLogout }: any) {
             if (lbRes.ok) {
                 const lbData = await lbRes.json();
                 setLeaderboard(lbData || []);
+            }
+
+            // Fetch Category Progress
+            const cpRes = await fetch(`${baseUrl}/tests/categories?userId=${userId}&t=${timestamp}`);
+            if (cpRes.ok) {
+                const cpData = await cpRes.json();
+                setCategoryProgress(cpData || []);
             }
         } catch (e) {
             console.error('Fetch error:', e);
@@ -178,6 +186,44 @@ export default function DashboardScreen({ navigation, onLogout }: any) {
                         <Ionicons name="arrow-forward-circle" size={30} color={COLORS.white} />
                     )}
                 </TouchableOpacity>
+
+                {/* Category Progress Overview */}
+                {categoryProgress.length > 0 && (
+                    <>
+                        <Text style={styles.sectionTitle}>📚 Konu İlerlemen</Text>
+                        <View style={styles.progressOverview}>
+                            {categoryProgress.slice(0, 3).map((category, index) => {
+                                const progressPercentage = category.total_tests > 0 ? 
+                                    (category.completed_tests / category.total_tests) * 100 : 0;
+                                return (
+                                    <View key={index} style={styles.progressItem}>
+                                        <Text style={styles.progressCategoryName} numberOfLines={1}>
+                                            {category.category}
+                                        </Text>
+                                        <View style={styles.progressBarSmall}>
+                                            <View 
+                                                style={[
+                                                    styles.progressFillSmall, 
+                                                    { width: `${progressPercentage}%` }
+                                                ]} 
+                                            />
+                                        </View>
+                                        <Text style={styles.progressPercentageSmall}>
+                                            {category.completed_tests}/{category.total_tests}
+                                        </Text>
+                                    </View>
+                                );
+                            })}
+                            <TouchableOpacity 
+                                style={styles.viewAllButton}
+                                onPress={() => navigation.navigate('Tests')}
+                            >
+                                <Text style={styles.viewAllText}>Tümünü Gör</Text>
+                                <Ionicons name="chevron-forward" size={16} color={COLORS.primary} />
+                            </TouchableOpacity>
+                        </View>
+                    </>
+                )}
 
                 {/* Leaderboard */}
                 <Text style={styles.sectionTitle}>🏆 Haftanın Liderleri</Text>
@@ -385,5 +431,56 @@ const styles = StyleSheet.create({
         width: '100%',
         backgroundColor: COLORS.white,
         paddingBottom: Platform.OS === 'ios' ? 20 : 0,
+    },
+    progressOverview: {
+        backgroundColor: COLORS.white,
+        borderRadius: 20,
+        padding: 15,
+        marginBottom: 20,
+    },
+    progressItem: {
+        flexDirection: 'row',
+        alignItems: 'center',
+        marginBottom: 12,
+        gap: 10,
+    },
+    progressCategoryName: {
+        fontSize: 14,
+        fontWeight: '500',
+        color: COLORS.text,
+        flex: 1,
+    },
+    progressBarSmall: {
+        flex: 2,
+        height: 6,
+        backgroundColor: '#E8E8E8',
+        borderRadius: 3,
+        overflow: 'hidden',
+    },
+    progressFillSmall: {
+        height: '100%',
+        backgroundColor: COLORS.primary,
+        borderRadius: 3,
+    },
+    progressPercentageSmall: {
+        fontSize: 12,
+        fontWeight: '600',
+        color: COLORS.text,
+        minWidth: 40,
+        textAlign: 'right',
+    },
+    viewAllButton: {
+        flexDirection: 'row',
+        alignItems: 'center',
+        justifyContent: 'center',
+        paddingTop: 10,
+        borderTopWidth: 1,
+        borderTopColor: '#F0F2F5',
+        gap: 5,
+    },
+    viewAllText: {
+        fontSize: 14,
+        fontWeight: '600',
+        color: COLORS.primary,
     },
 });
