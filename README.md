@@ -93,4 +93,7 @@ oabt_project/
 5. Bir Pull Request oluşturun.
 
 ---
+https://sites.google.com/view/oabt-privacy-policy/privacy-policy-gizlilik-politikasi
+https://sites.google.com/view/oabt-privacy-policy/terms-of-use-kullan%C4%B1m-ko%C5%9Fullar%C4%B1
+---
 İyi çalışmalar! 🚀
