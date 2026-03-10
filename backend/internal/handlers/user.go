@@ -240,3 +240,37 @@ func SocialLoginHandler(w http.ResponseWriter, r *http.Request) {
 		"message":       "Social login successful",
 	})
 }
+
+func DeleteUserHandler(w http.ResponseWriter, r *http.Request) {
+	middleware.EnableCors(&w)
+	if r.Method == "OPTIONS" {
+		return
+	}
+	if r.Method != "DELETE" {
+		http.Error(w, "Method not allowed", http.StatusMethodNotAllowed)
+		return
+	}
+
+	userID, _ := r.Context().Value("userID").(string)
+	if userID == "" {
+		http.Error(w, "Unauthorized", http.StatusUnauthorized)
+		return
+	}
+
+	// Delete user's test results first (foreign key constraint)
+	_, err := database.DB.Exec("DELETE FROM test_results WHERE user_id = $1", userID)
+	if err != nil {
+		http.Error(w, "Error deleting user data: "+err.Error(), http.StatusInternalServerError)
+		return
+	}
+
+	// Delete user
+	_, err = database.DB.Exec("DELETE FROM users WHERE id = $1", userID)
+	if err != nil {
+		http.Error(w, "Error deleting user account: "+err.Error(), http.StatusInternalServerError)
+		return
+	}
+
+	w.WriteHeader(http.StatusOK)
+	json.NewEncoder(w).Encode(map[string]interface{}{"success": true, "message": "Account deleted successfully"})
+}

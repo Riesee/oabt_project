@@ -17,7 +17,7 @@ export default function LegalScreen({ navigation, route }: any) {
     const content = type === 'privacy' ? {
         title: 'Gizlilik Politikası',
         text: `
-Son Güncelleme: 16 Şubat 2026
+Son Güncelleme: 10 Mart 2026
 
 ÖABT Özel Eğitim ("biz", "tarafımızca" veya "uygulama"), kullanıcılarımızın gizliliğini korumayı taahhüt eder. Bu hizmet Riese ("Hizmet Sağlayıcı") tarafından sunulmaktadır.
 
@@ -54,7 +54,7 @@ Hizmet Sağlayıcı, verilerinizi aşağıdaki durumlarda üçüncü şahıslarl
 • Bizim adımıza çalışan ve bilgileri bağımsız olarak kullanma hakkı olmayan güvenilir hizmet sağlayıcılarla.
 
 6. Veri Silme ve Saklama (KVKK/GDPR)
-Verileriniz siz uygulamayı kullandığınız sürece ve sonrasında makul bir süre saklanır. Verilerinizin silinmesini isterseniz iletisim@oabtozelegitim.com adresinden bize ulaşabilirsiniz.
+Verileriniz siz uygulamayı kullandığınız sürece ve sonrasında makul bir süre saklanır. Liderlik tablosu puanlarınız ve test geçmişiniz hesabınıza bağlıdır. Kullanıcılar, istedikleri zaman uygulama içerisindeki "Profil" ekranına giderek "Hesabımı Sil" butonuna basabilir ve e-posta adresleri, test sonuçları dahil tüm kişisel verilerini sunucularımızdan kalıcı ve otomatik olarak silebilirler. Ayrıca veri silme talepleriniz için iletisim@oabtozelegitim.com adresinden de bize ulaşabilirsiniz.
 
 7. Çocukların Gizliliği
 Hizmet Sağlayıcı, 13 yaşın altındaki çocuklardan bilerek veri toplamaz. 13 yaşından küçük bir çocuğun veri paylaştığı fark edilirse, bu bilgiler derhal sunucularımızdan silinir.
@@ -68,7 +68,7 @@ Gizlilik politikası hakkında sorularınız için: iletisim@oabtozelegitim.com
     } : {
         title: 'Kullanım Koşulları',
         text: `
-Son Güncelleme: 16 Şubat 2026
+Son Güncelleme: 10 Mart 2026
 
 Bu kullanım koşulları, Riese ("Hizmet Sağlayıcı") tarafından bir "Ücretsiz" hizmet olarak oluşturulan mobil cihazlara yönelik ÖABT Özel Eğitim uygulaması ("Uygulama") için geçerlidir.
 

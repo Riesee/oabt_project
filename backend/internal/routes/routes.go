@@ -47,6 +47,7 @@ func RegisterRoutes() *http.ServeMux {
 	mux.HandleFunc("/questions", wrap(handlers.GetQuestionsHandler))
 	mux.HandleFunc("/api/v1/user/reward", wrap(middleware.AuthMiddleware(handlers.RewardHandler)))
 	mux.HandleFunc("/api/v1/user/spend-tokens", wrap(middleware.AuthMiddleware(handlers.SpendTokensHandler)))
+	mux.HandleFunc("/api/v1/user/delete", wrap(middleware.AuthMiddleware(handlers.DeleteUserHandler)))
 
 	// Admin Routes (Protected)
 	mux.HandleFunc("/api/v1/admin/questions", wrap(middleware.AuthMiddleware(middleware.RequireAdmin(handlers.CreateQuestionHandler))))

@@ -127,6 +127,42 @@ export default function ProfileScreen({ navigation, onLogout }: any) {
         }
     };
 
+    const handleDeleteAccount = () => {
+        Alert.alert(
+            'Hesabımı Sil',
+            'Hesabınızı ve tüm ilerlemenizi kalıcı olarak silmek istediğinize emin misiniz? Bu işlem geri alınamaz.',
+            [
+                { text: 'İptal', style: 'cancel' },
+                {
+                    text: 'Evet, Sil',
+                    style: 'destructive',
+                    onPress: async () => {
+                        try {
+                            const token = await AsyncStorage.getItem('AUTH_TOKEN');
+                            const res = await fetch(`${API_URL}/api/v1/user/delete`, {
+                                method: 'DELETE',
+                                headers: {
+                                    'Authorization': `Bearer ${token}`
+                                }
+                            });
+
+                            if (res.ok) {
+                                Alert.alert('Başarılı', 'Hesabınız başarıyla silindi.');
+                                await AsyncStorage.multiRemove(['USER_ID', 'AUTH_TOKEN']);
+                                if (onLogout) onLogout();
+                            } else {
+                                Alert.alert('Hata', 'Hesap silinirken bir sorun oluştu.');
+                            }
+                        } catch (e) {
+                            console.error(e);
+                            Alert.alert('Hata', 'Bağlantı hatası oluştu.');
+                        }
+                    }
+                }
+            ]
+        );
+    };
+
     const openEditModal = () => {
         setEditNickname(user?.nickname || '');
         setEditEmojiId(user?.emoji || 'brain');
@@ -233,11 +269,20 @@ export default function ProfileScreen({ navigation, onLogout }: any) {
                     </TouchableOpacity>
 
                     <TouchableOpacity
-                        style={[styles.legalButton, { borderBottomWidth: 0 }]}
+                        style={[styles.legalButton, { borderBottomWidth: 1 }]}
                         onPress={onLogout}
                     >
                         <Ionicons name="log-out-outline" size={20} color={COLORS.primary} />
                         <Text style={[styles.legalButtonText, { color: COLORS.primary }]}>Oturumu Kapat</Text>
+                        <Ionicons name="chevron-forward" size={16} color="#999" />
+                    </TouchableOpacity>
+
+                    <TouchableOpacity
+                        style={[styles.legalButton, { borderBottomWidth: 0 }]}
+                        onPress={handleDeleteAccount}
+                    >
+                        <Ionicons name="trash-outline" size={20} color="red" />
+                        <Text style={[styles.legalButtonText, { color: 'red' }]}>Hesabımı Sil</Text>
                         <Ionicons name="chevron-forward" size={16} color="#999" />
                     </TouchableOpacity>
                 </View>
